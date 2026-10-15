@@ -1,0 +1,31 @@
+{
+  "name": "RetroLoes Vinyl",
+  "short_name": "RetroLoes",
+  "description": "RetroLoes vinyl catalog with wishlist",
+  "start_url": "./retroloes-vinyl.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#1a0a2e",
+  "theme_color": "#1a0a2e",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
