@@ -32,7 +32,7 @@ section{padding:90px 5vw}
 .head{display:flex;justify-content:space-between;align-items:baseline;border-bottom:1px solid var(--line);padding-bottom:16px;margin-bottom:34px}
 .head h2{font-size:clamp(30px,6vw,48px)}
 .head span{font-size:11px;letter-spacing:.3em;color:var(--mute);text-transform:uppercase}
-.grid{display:grid;grid-template-columns:repeat(2,1fr);gap:8px;grid-auto-flow:dense}
+.grid{display:grid;grid-template-columns:repeat(2,1fr);gap:8px;}
 @media(min-width:760px){.grid{grid-template-columns:repeat(3,1fr);gap:12px}}
 @media(min-width:1200px){.grid{grid-template-columns:repeat(4,1fr);gap:14px}}
 .ph{position:relative;aspect-ratio:4/5;overflow:hidden;cursor:zoom-in;border:0;padding:0;color:inherit;font:inherit;display:block;width:100%}
@@ -153,7 +153,7 @@ document.getElementById('yr').textContent = new Date().getFullYear();
 
 const tags=['Landscape','Portrait','Coast','Street','Nordic','Light','Detail','Urban','Fjord','Studio'];
 const tones=[[28,12],[210,10],[35,18],[200,14],[0,0],[25,8],[190,16],[40,10],[220,8],[15,10]];
-const layout={3:'tall',6:'wide',11:'tall',14:'wide',18:'wide'};
+const layout={}; // optional: {6:'wide'} spans two columns
 const grid=document.getElementById('grid'), items=[];
 for(let i=1;i<=20;i++){
   const n=String(i).padStart(2,'0'), [h,s]=tones[i%10], a=(i*37)%360;
