@@ -143,15 +143,22 @@ footer{padding:30px 5vw;font-size:11px;letter-spacing:.2em;color:#5d5b58;display
 /* ===== CONFIG — edit these ===== */
 const CONFIG = {
   name: "HATLEM",          // your name / studio name
-  // To use real photos: put files in an "images" folder and list them here, e.g. ["images/01.jpg", ...]
-  images: []               // leave empty to show placeholders
+  // Real photos in images/; leave later slots empty/undefined for placeholders
+  images: [
+    "images/01.jpg", // Pet — tuxedo cat sleeping
+    "images/02.jpg", // Pet — cat face close-up
+    "images/03.jpg", // Interior — cozy room with white flowers
+    "images/04.jpg"  // Pet — tuxedo cat curled asleep
+    // 05–20 stay placeholders until you add more files
+  ]
 };
 /* =============================== */
 document.querySelectorAll('[data-name]').forEach(e=>e.textContent=CONFIG.name);
 document.title = CONFIG.name + ' — Photography';
 document.getElementById('yr').textContent = new Date().getFullYear();
 
-const tags=['Landscape','Portrait','Coast','Street','Nordic','Light','Detail','Urban','Fjord','Studio'];
+const tags=['Lifestyle','Pet','Pet','Interior','Pet','Lifestyle','Portrait','Detail','Light','Street','Nordic'];
+const photoTags={1:'Pet',2:'Pet',3:'Interior',4:'Pet'}; // override for real photos
 const tones=[[28,12],[210,10],[35,18],[200,14],[0,0],[25,8],[190,16],[40,10],[220,8],[15,10]];
 const layout={}; // optional: {6:'wide'} spans two columns
 const grid=document.getElementById('grid'), items=[];
@@ -163,9 +170,10 @@ for(let i=1;i<=20;i++){
   b.className='ph reveal '+(layout[i]||''); b.style.setProperty('--g',g2);
   b.setAttribute('aria-label','Open photo '+n);
   const src=CONFIG.images[i-1];
-  b.innerHTML=src?`<img src="${src}" alt="Photo ${n}" loading="lazy">`:`<div class="fill"></div><span class="tag">${tags[i%10]}</span><span class="num serif">${n}</span>`;
+  const tag=photoTags[i]||tags[i%10];
+  b.innerHTML=src?`<img src="${src}" alt="${tag} ${n}" loading="lazy"><span class="tag">${tag}</span>`:`<div class="fill"></div><span class="tag">${tag}</span><span class="num serif">${n}</span>`;
   b.onclick=()=>open(i-1);
-  grid.appendChild(b); items.push({n,g:g2,tag:tags[i%10],wide:layout[i]==='wide',src});
+  grid.appendChild(b); items.push({n,g:g2,tag:photoTags[i]||tags[i%10],wide:layout[i]==='wide',src});
 }
 const lb=document.getElementById('lb'),stage=document.getElementById('stage'),frame=document.getElementById('frame'),num=document.getElementById('lbnum'),cap=document.getElementById('cap');
 let cur=0,last=null;
