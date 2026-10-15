@@ -1,0 +1,531 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0050aa">
+<title>Lidl Nijkerk — boodschappenlijst</title>
+<style>
+  :root {
+    --bg: #0f1419;
+    --card: #1a2332;
+    --card-checked: #13261c;
+    --text: #f0f4f8;
+    --muted: #8b9bb0;
+    --accent: #0050aa;
+    --accent2: #ffd500;
+    --ok: #2ecc71;
+    --border: #2a3648;
+    --tap: 48px;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.35;
+    -webkit-tap-highlight-color: transparent;
+  }
+  body { padding-bottom: 24px; }
+
+  header.sticky {
+    position: sticky;
+    top: 0;
+    z-index: 50;
+    background: linear-gradient(180deg, #0a3d7a 0%, var(--accent) 100%);
+    color: #fff;
+    padding: 12px 14px 14px;
+    box-shadow: 0 4px 16px rgba(0,0,0,.35);
+  }
+  header h1 {
+    font-size: 1.05rem;
+    font-weight: 700;
+    letter-spacing: .01em;
+  }
+  header .sub {
+    font-size: .78rem;
+    opacity: .85;
+    margin-top: 2px;
+  }
+  .totals {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 8px;
+    margin-top: 12px;
+  }
+  .tot {
+    background: rgba(255,255,255,.12);
+    border-radius: 10px;
+    padding: 8px 6px;
+    text-align: center;
+  }
+  .tot .label {
+    font-size: .65rem;
+    text-transform: uppercase;
+    letter-spacing: .04em;
+    opacity: .8;
+  }
+  .tot .val {
+    font-size: 1.05rem;
+    font-weight: 700;
+    font-variant-numeric: tabular-nums;
+    margin-top: 2px;
+  }
+  .tot.sel .val { color: var(--accent2); }
+  .tot.rest .val { color: #a8e6cf; }
+
+  .toolbar {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    padding: 12px 14px;
+    background: var(--bg);
+    position: sticky;
+    top: 0;
+    z-index: 40;
+  }
+  /* toolbar sticks under header — adjust via JS scroll or keep below sticky header */
+  header.sticky + .toolbar { position: sticky; top: auto; }
+
+  button.btn {
+    appearance: none;
+    border: 1px solid var(--border);
+    background: var(--card);
+    color: var(--text);
+    font-size: .9rem;
+    font-weight: 600;
+    padding: 10px 14px;
+    border-radius: 10px;
+    min-height: var(--tap);
+    cursor: pointer;
+    flex: 0 0 auto;
+  }
+  button.btn:active { transform: scale(.97); background: #243044; }
+  button.btn.primary {
+    background: var(--accent);
+    border-color: #0066cc;
+    color: #fff;
+  }
+
+  .search-wrap {
+    flex: 1 1 100%;
+    position: relative;
+  }
+  .search-wrap input {
+    width: 100%;
+    min-height: var(--tap);
+    border: 1px solid var(--border);
+    background: var(--card);
+    color: var(--text);
+    border-radius: 10px;
+    padding: 10px 14px 10px 40px;
+    font-size: 1rem;
+  }
+  .search-wrap::before {
+    content: "⌕";
+    position: absolute;
+    left: 14px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: var(--muted);
+    font-size: 1.1rem;
+    pointer-events: none;
+  }
+  .search-wrap input::placeholder { color: var(--muted); }
+
+  .cats {
+    display: flex;
+    gap: 6px;
+    overflow-x: auto;
+    padding: 0 14px 8px;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+  }
+  .cats::-webkit-scrollbar { display: none; }
+  .chip {
+    flex: 0 0 auto;
+    border: 1px solid var(--border);
+    background: var(--card);
+    color: var(--muted);
+    font-size: .78rem;
+    font-weight: 600;
+    padding: 8px 12px;
+    border-radius: 999px;
+    min-height: 36px;
+    cursor: pointer;
+  }
+  .chip.active {
+    background: var(--accent2);
+    color: #111;
+    border-color: var(--accent2);
+  }
+
+  .meta {
+    padding: 4px 14px 8px;
+    font-size: .8rem;
+    color: var(--muted);
+  }
+
+  ul#list {
+    list-style: none;
+    padding: 0 10px 40px;
+  }
+  li.row {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 10px 12px;
+    margin-bottom: 8px;
+    min-height: 60px;
+    cursor: pointer;
+    transition: background .15s, opacity .15s;
+    user-select: none;
+  }
+  li.row.checked {
+    background: var(--card-checked);
+    border-color: #1e4a30;
+  }
+  li.row.checked .name { text-decoration: line-through; opacity: .7; }
+  li.row.hidden { display: none; }
+
+  .check {
+    flex: 0 0 var(--tap);
+    width: var(--tap);
+    height: var(--tap);
+    border-radius: 12px;
+    border: 2px solid #4a5a70;
+    background: #0f1419;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.4rem;
+    color: transparent;
+    transition: all .12s;
+  }
+  li.row.checked .check {
+    background: var(--ok);
+    border-color: var(--ok);
+    color: #fff;
+  }
+  .check::after { content: "✓"; }
+
+  .info { flex: 1 1 auto; min-width: 0; }
+  .name {
+    font-weight: 600;
+    font-size: .98rem;
+    word-break: break-word;
+  }
+  .detail {
+    font-size: .78rem;
+    color: var(--muted);
+    margin-top: 2px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+  .tag {
+    display: inline-block;
+    background: rgba(255,213,0,.12);
+    color: #e6c200;
+    border-radius: 4px;
+    padding: 1px 6px;
+    font-size: .7rem;
+    font-weight: 600;
+    text-transform: uppercase;
+  }
+  .price {
+    flex: 0 0 auto;
+    font-weight: 700;
+    font-variant-numeric: tabular-nums;
+    font-size: 1.05rem;
+    color: var(--accent2);
+    white-space: nowrap;
+  }
+  li.row.checked .price { color: var(--ok); }
+
+  .empty {
+    text-align: center;
+    color: var(--muted);
+    padding: 40px 20px;
+    display: none;
+  }
+  .empty.show { display: block; }
+
+  footer {
+    text-align: center;
+    color: var(--muted);
+    font-size: .75rem;
+    padding: 8px 14px 24px;
+  }
+</style>
+</head>
+<body>
+<header class="sticky">
+  <h1>Lidl Nijkerk — boodschappenlijst</h1>
+  <div class="sub">Amperestraat 5 · 96 artikelen · Bon €223,57</div>
+  <div class="totals">
+    <div class="tot sel">
+      <div class="label">Geselecteerd</div>
+      <div class="val" id="selTotal">€0,00</div>
+    </div>
+    <div class="tot rest">
+      <div class="label">Rest</div>
+      <div class="val" id="restTotal">€223,57</div>
+    </div>
+    <div class="tot">
+      <div class="label">Bon</div>
+      <div class="val">€223,57</div>
+    </div>
+  </div>
+</header>
+
+<div class="toolbar">
+  <button type="button" class="btn primary" id="btnAll">Alles aan</button>
+  <button type="button" class="btn" id="btnNone">Alles uit</button>
+  <div class="search-wrap">
+    <input type="search" id="search" placeholder="Zoeken…" autocomplete="off" enterkeyhint="search">
+  </div>
+</div>
+
+<div class="cats" id="cats"></div>
+<div class="meta" id="meta">0 van 68 geselecteerd</div>
+
+<ul id="list"></ul>
+<div class="empty" id="empty">Geen items gevonden</div>
+<footer>Offline · vinkjes worden bewaard op dit apparaat</footer>
+
+<script>
+const BON = 223.57;
+const STORAGE_KEY = "lidl-nijkerk-checklist-v1";
+
+const ITEMS = [
+  {id:1,name:"Roomboter appeltaart",qty:"1",note:"korting 25%",price:2.99,category:"gebak"},
+  {id:2,name:"Cola 0% suiker",qty:"3×",note:"Lidl Plus",price:2.67,category:"drank"},
+  {id:3,name:"Losse fles PET groo",qty:"3×",note:"statiegeld",price:0.75,category:"statiegeld"},
+  {id:4,name:"Pruimen donker",qty:"2×",note:"Lidl Plus",price:2.98,category:"fruit"},
+  {id:5,name:"Kriel rozemar/zeezou",qty:"1",note:"Lidl Plus",price:1.19,category:"groente"},
+  {id:6,name:"Aardappelkroketten",qty:"1",note:"prijsverlaging",price:1.44,category:"diepvries"},
+  {id:7,name:"Beenham herfst",qty:"0,604 kg",note:"",price:7.79,category:"vlees"},
+  {id:8,name:"Beenham herfst",qty:"0,643 kg",note:"",price:8.29,category:"vlees"},
+  {id:9,name:"Beenham herfst",qty:"0,619 kg",note:"",price:7.99,category:"vlees"},
+  {id:10,name:"Gouda plakken jong",qty:"3×",note:"prijsverlaging",price:10.77,category:"kaas"},
+  {id:11,name:"Aardappelgratin kaas",qty:"1",note:"",price:2.49,category:"kant-en-klaar"},
+  {id:12,name:"Roomboter ongezoute",qty:"2×",note:"prijsverlaging",price:2.18,category:"zuivel"},
+  {id:13,name:"Twix ice cream",qty:"1",note:"",price:1.99,category:"ijs"},
+  {id:14,name:"Mars ice cream",qty:"3×",note:"",price:5.97,category:"ijs"},
+  {id:15,name:"Wafelh. aard./choco",qty:"1",note:"",price:2.95,category:"gebak"},
+  {id:16,name:"Serranoham Gran Res",qty:"2×",note:"",price:4.98,category:"vlees"},
+  {id:17,name:"Felix Elke dag feest",qty:"1",note:"",price:8.99,category:"kat"},
+  {id:18,name:"Cherrytomaten",qty:"1",note:"",price:0.95,category:"groente"},
+  {id:19,name:"Citroenen",qty:"2×",note:"",price:2.98,category:"fruit"},
+  {id:20,name:"Griekse kaas",qty:"1",note:"",price:1.49,category:"kaas"},
+  {id:21,name:"Feta kaas",qty:"2×",note:"",price:3.50,category:"kaas"},
+  {id:22,name:"Mars 7-pack",qty:"1",note:"",price:3.43,category:"snoep"},
+  {id:23,name:"Wraps SK3",qty:"2×",note:"",price:5.38,category:"brood"},
+  {id:24,name:"Dip tapenade tomaten",qty:"1",note:"",price:1.57,category:"tapas"},
+  {id:25,name:"Rucola sla",qty:"2×",note:"",price:1.98,category:"groente"},
+  {id:26,name:"Gedroogde tomaten",qty:"2×",note:"",price:3.58,category:"tapas"},
+  {id:27,name:"Katten paté",qty:"2×",note:"",price:0.54,category:"kat"},
+  {id:28,name:"Bresaola",qty:"3×",note:"",price:9.36,category:"vlees"},
+  {id:29,name:"Luxe witte bollen",qty:"1",note:"",price:1.49,category:"brood"},
+  {id:30,name:"Carpaccio",qty:"1",note:"",price:3.79,category:"vlees"},
+  {id:31,name:"Bio trostomaten",qty:"1",note:"",price:2.49,category:"groente"},
+  {id:32,name:"Pringles cheese & o.",qty:"1",note:"",price:1.39,category:"chips"},
+  {id:33,name:"Vega rulgehakt groot",qty:"1",note:"",price:2.69,category:"vega"},
+  {id:34,name:"Carpaccio tapenade",qty:"1",note:"",price:3.49,category:"tapas"},
+  {id:35,name:"Honingdrop",qty:"1",note:"",price:1.66,category:"snoep"},
+  {id:36,name:"Roombotercroissant",qty:"3×",note:"",price:1.44,category:"gebak"},
+  {id:37,name:"Venco drop",qty:"1",note:"",price:2.49,category:"snoep"},
+  {id:38,name:"Muntdrop",qty:"1",note:"",price:1.21,category:"snoep"},
+  {id:39,name:"Italiaanse bollen",qty:"2×",note:"",price:1.94,category:"brood"},
+  {id:40,name:"Lay's Party Mix",qty:"1",note:"",price:4.99,category:"chips"},
+  {id:41,name:"Triangel",qty:"1",note:"",price:1.17,category:"brood"},
+  {id:42,name:"Triangel",qty:"1",note:"",price:1.17,category:"brood"},
+  {id:43,name:"Dropstaven",qty:"1",note:"",price:1.49,category:"snoep"},
+  {id:44,name:"Stoofvlees",qty:"2×",note:"",price:7.98,category:"vlees"},
+  {id:45,name:"Donut vanille",qty:"2×",note:"",price:1.38,category:"gebak"},
+  {id:46,name:"Chocobroodje bake-o",qty:"2×",note:"",price:1.16,category:"gebak"},
+  {id:47,name:"Olijven zonder pit",qty:"1",note:"",price:1.49,category:"tapas"},
+  {id:48,name:"Knorr aromat",qty:"1",note:"",price:1.59,category:"kruiden"},
+  {id:49,name:"Voorgebakken piccolo",qty:"1",note:"",price:0.97,category:"brood"},
+  {id:50,name:"Frans stokbrood",qty:"1",note:"",price:0.99,category:"brood"},
+  {id:51,name:"Sukadelap sous vide",qty:"2×",note:"",price:11.98,category:"vlees"},
+  {id:52,name:"Baguette steenoven",qty:"1",note:"",price:0.99,category:"brood"},
+  {id:53,name:"Hertenstoof rodewijn",qty:"1",note:"",price:7.49,category:"vlees"},
+  {id:54,name:"Zuivelspread naturel",qty:"1",note:"",price:1.79,category:"zuivel"},
+  {id:55,name:"Mini mozzarella",qty:"2×",note:"",price:2.28,category:"kaas"},
+  {id:56,name:"Cervelaat",qty:"2×",note:"prijsverlaging",price:3.18,category:"vlees"},
+  {id:57,name:"Ovenkroketten",qty:"1",note:"",price:3.49,category:"diepvries"},
+  {id:58,name:"Kibbeling MSC",qty:"1",note:"",price:2.53,category:"vis"},
+  {id:59,name:"Kipfilet raclettevu.",qty:"1",note:"",price:5.49,category:"vlees"},
+  {id:60,name:"Smeerkaas natur. 48",qty:"2×",note:"",price:2.64,category:"kaas"},
+  {id:61,name:"Handgemaakte praline",qty:"1",note:"",price:3.49,category:"snoep"},
+  {id:62,name:"Stoofvlees",qty:"2×",note:"",price:7.98,category:"vlees"},
+  {id:63,name:"Warme sauzen",qty:"2×",note:"prijsverlaging",price:2.74,category:"sauzen"},
+  {id:64,name:"Chocolade bonbons",qty:"1",note:"",price:2.59,category:"snoep"},
+  {id:65,name:"Diamond frisdrank",qty:"2×",note:"",price:2.14,category:"drank"},
+  {id:66,name:"Losse fles PET groo",qty:"2×",note:"statiegeld",price:0.50,category:"statiegeld"},
+  {id:67,name:"Diamond frisdrank",qty:"2×",note:"",price:2.14,category:"drank"},
+  {id:68,name:"Losse fles PET groo",qty:"2×",note:"statiegeld",price:0.50,category:"statiegeld"}
+];
+
+function euro(n) {
+  return "€" + n.toFixed(2).replace(".", ",");
+}
+
+function loadChecked() {
+  try {
+    const raw = localStorage.getItem(STORAGE_KEY);
+    if (!raw) return new Set();
+    const arr = JSON.parse(raw);
+    return new Set(Array.isArray(arr) ? arr.map(Number) : []);
+  } catch (e) {
+    return new Set();
+  }
+}
+
+function saveChecked(set) {
+  localStorage.setItem(STORAGE_KEY, JSON.stringify([...set]));
+}
+
+const checked = loadChecked();
+let filterCat = "alles";
+let filterQ = "";
+
+const listEl = document.getElementById("list");
+const selEl = document.getElementById("selTotal");
+const restEl = document.getElementById("restTotal");
+const metaEl = document.getElementById("meta");
+const emptyEl = document.getElementById("empty");
+const catsEl = document.getElementById("cats");
+
+const categories = ["alles", ...[...new Set(ITEMS.map(i => i.category))].sort()];
+
+function renderCats() {
+  catsEl.innerHTML = "";
+  categories.forEach(c => {
+    const b = document.createElement("button");
+    b.type = "button";
+    b.className = "chip" + (c === filterCat ? " active" : "");
+    b.textContent = c;
+    b.addEventListener("click", () => {
+      filterCat = c;
+      renderCats();
+      applyFilter();
+    });
+    catsEl.appendChild(b);
+  });
+}
+
+function renderList() {
+  listEl.innerHTML = "";
+  ITEMS.forEach(item => {
+    const li = document.createElement("li");
+    li.className = "row" + (checked.has(item.id) ? " checked" : "");
+    li.dataset.id = item.id;
+    li.dataset.cat = item.category;
+    li.dataset.name = (item.name + " " + (item.note || "") + " " + item.category).toLowerCase();
+
+    const bits = [];
+    if (item.qty && item.qty !== "1") bits.push(item.qty);
+    if (item.note) bits.push(item.note);
+    bits.push('<span class="tag">' + item.category + "</span>");
+
+    li.innerHTML =
+      '<div class="check" aria-hidden="true"></div>' +
+      '<div class="info"><div class="name">' + escapeHtml(item.name) + "</div>" +
+      '<div class="detail">' + bits.join(" · ") + "</div></div>" +
+      '<div class="price">' + euro(item.price) + "</div>";
+
+    li.addEventListener("click", () => toggle(item.id));
+    listEl.appendChild(li);
+  });
+  applyFilter();
+  updateTotals();
+}
+
+function escapeHtml(s) {
+  return String(s)
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;");
+}
+
+function toggle(id) {
+  if (checked.has(id)) checked.delete(id);
+  else checked.add(id);
+  saveChecked(checked);
+  const li = listEl.querySelector('li[data-id="' + id + '"]');
+  if (li) li.classList.toggle("checked", checked.has(id));
+  updateTotals();
+}
+
+function updateTotals() {
+  let sel = 0;
+  let n = 0;
+  ITEMS.forEach(item => {
+    if (checked.has(item.id)) {
+      sel += item.price;
+      n++;
+    }
+  });
+  // cents-safe
+  sel = Math.round(sel * 100) / 100;
+  const rest = Math.round((BON - sel) * 100) / 100;
+  selEl.textContent = euro(sel);
+  restEl.textContent = euro(rest);
+  metaEl.textContent = n + " van " + ITEMS.length + " geselecteerd · " + euro(sel);
+}
+
+function applyFilter() {
+  const q = filterQ.trim().toLowerCase();
+  let visible = 0;
+  listEl.querySelectorAll("li.row").forEach(li => {
+    const catOk = filterCat === "alles" || li.dataset.cat === filterCat;
+    const qOk = !q || li.dataset.name.includes(q);
+    const show = catOk && qOk;
+    li.classList.toggle("hidden", !show);
+    if (show) visible++;
+  });
+  emptyEl.classList.toggle("show", visible === 0);
+}
+
+document.getElementById("btnAll").addEventListener("click", () => {
+  ITEMS.forEach(i => checked.add(i.id));
+  saveChecked(checked);
+  listEl.querySelectorAll("li.row").forEach(li => li.classList.add("checked"));
+  updateTotals();
+});
+
+document.getElementById("btnNone").addEventListener("click", () => {
+  checked.clear();
+  saveChecked(checked);
+  listEl.querySelectorAll("li.row").forEach(li => li.classList.remove("checked"));
+  updateTotals();
+});
+
+document.getElementById("search").addEventListener("input", e => {
+  filterQ = e.target.value;
+  applyFilter();
+});
+
+// Self-check: sum of all prices must equal BON
+(function selfCheck() {
+  const cents = ITEMS.reduce((a, i) => a + Math.round(i.price * 100), 0);
+  if (cents !== Math.round(BON * 100)) {
+    console.error("SUM MISMATCH", cents / 100, BON);
+  } else {
+    console.log("OK: " + ITEMS.length + " items = €" + BON.toFixed(2));
+  }
+})();
+
+renderCats();
+renderList();
+</script>
+</body>
+</html>
