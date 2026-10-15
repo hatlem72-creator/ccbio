@@ -110,7 +110,8 @@ function drawGhost(g){const[x,y]=pos(g);const cx=Math.round(x),cy=Math.round(y);
  X.fillStyle=g.fr?P.lbl:P.dgy;X.fillRect(cx-1,cy+1,3,2);
  if(g.fr){X.fillStyle=P.wht;X.fillRect(cx-2,cy-2,1,1);X.fillRect(cx+2,cy-2,1,1);X.fillRect(cx-2,cy+3,1,1);X.fillRect(cx,cy+3,1,1);X.fillRect(cx+2,cy+3,1,1);}
  else{const[dx,dy]=DIRS[g.d];X.fillStyle=P.wht;X.fillRect(cx-3,cy-3,2,2);X.fillRect(cx+1,cy-3,2,2);X.fillStyle=P.blk;X.fillRect(cx-3+(dx>0?1:0),cy-3+(dy>0?1:0),1,1);X.fillRect(cx+1+(dx>0?1:0),cy-3+(dy>0?1:0),1,1);}}
-function hud(){txt('SCORE',8,24,P.lgy);txt(score,8,34,P.wht);txt('HI',8,52,P.lgy);txt(hi,8,62,P.yel);txt('LEVEL',8,80,P.lgy);txt(level,8,90,P.lgn);
+const LG=new Image();LG.src='logo-game.png';function lg(x,y,w){if(LG.complete&&LG.naturalWidth)X.drawImage(LG,x,y,w,Math.round(w*LG.naturalHeight/LG.naturalWidth));}
+function hud(){lg(14,118,52);txt('SCORE',8,24,P.lgy);txt(score,8,34,P.wht);txt('HI',8,52,P.lgy);txt(hi,8,62,P.yel);txt('LEVEL',8,80,P.lgy);txt(level,8,90,P.lgn);
  txt('LIVES',248,24,P.lgy);for(let i=0;i<lives;i++)disc(254+i*12,40,4,P.wht);
  txt('CANCER',248,60,P.lgy);txt(pellets,248,70,P.pur);if(frT>0){txt('DRUG',248,88,P.lgn);X.fillStyle=P.lgn;X.fillRect(248,98,Math.ceil(frT*8),3);}
  txt('P=PAUSE',248,170,P.gry);txt(sndOn?'M=SND ON':'M=SND OFF',248,180,P.gry);}
@@ -126,8 +127,8 @@ function drawBoot(){X.fillStyle=P.lbl;X.fillRect(0,0,320,200);
 function draw(){X.imageSmoothingEnabled=false;
  {const L=document.getElementById('ld');if(L){if(state==='boot'){document.getElementById('ldb').style.width=Math.min(100,bootT/2.6*100)+'%';}else{L.id='';L.style.opacity=0;setTimeout(()=>L.remove(),400);}}}
  if(state==='boot'){X.fillStyle='#fff';X.fillRect(0,0,320,200);return;}
- X.fillStyle=P.blk;X.fillRect(0,0,320,200);X.fillStyle=P.dgy;X.fillRect(0,0,320,12);X.fillRect(0,192,320,8);txt('CCBIO',4,3,P.lrd);txt('(C) 2026 IMMUNESOFT',200,3,P.gry);
- if(state==='title'){logo(26,5);ctxt('THE IMMUNE SYSTEM STRIKES BACK',72,P.cyn);
+ X.fillStyle=P.blk;X.fillRect(0,0,320,200);X.fillStyle=P.dgy;X.fillRect(0,0,320,12);X.fillRect(0,192,320,8);lg(3,1,10);txt('CCBIO',16,3,P.lrd);txt('(C) 2026 IMMUNESOFT',200,3,P.gry);
+ if(state==='title'){logo(26,5);lg(30,22,44);lg(246,22,44);ctxt('THE IMMUNE SYSTEM STRIKES BACK',72,P.cyn);
   disc(70,100,5,P.wht,(dx,dy)=>dx>0&&Math.abs(dy)<dx);X.fillStyle=P.pur;for(let i=0;i<5;i++)X.fillRect(84+i*10,99,2,2);
   for(let i=0;i<4;i++){const g={i,x:0,y:0,nx:0,ny:0,t:0,d:1,st:'out',fr:false};X.save();X.translate(150+i*16-OX-4,100-OY-4);drawGhost(g);X.restore();}
   ctxt('T-CELL = YOU',110,P.wht);ctxt('CANCER CELL 10    DRUG 50',119,P.pur);ctxt('TUMOR 200-1600 (WITH DRUG)',128,P.lrd);
