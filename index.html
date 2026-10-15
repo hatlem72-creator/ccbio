@@ -72,7 +72,7 @@ function ghostChoose(g){
  const [tx,ty]=ghostTarget(g);let best=opts[0],bd=1e9;for(const d of opts){const nx=g.x+DIRS[d][0],ny=g.y+DIRS[d][1],dd=(nx-tx)**2+(ny-ty)**2;if(dd<bd){bd=dd;best=d;}}return best;}
 function pos(e){let x=e.x+(e.nx-e.x)*e.t;if(Math.abs(e.nx-e.x)>1)x=e.x+(e.nx>e.x?-1:1)*e.t;return[OX+((x+W)%W)*T+4,OY+(e.y+(e.ny-e.y)*e.t)*T+4];}
 function update(dt){tick++;
- if(state==='boot'){bootT+=dt;if(bootT>7.5){state='title';S.jingle();}return;}
+ if(state==='boot'){bootT+=dt;if(bootT>2.8){state='title';S.jingle();}return;}
  if(state==='ready'){stT+=dt;if(stT>2)state='play';return;}
  if(state==='dying'){stT+=dt;if(stT>2){if(lives<=0){state='over';if(score>hi){hi=score;localStorage.setItem('ccbio_hi',hi);}}else{resetLevel(false);state='ready';stT=0;}}return;}
  if(state==='clear'){stT+=dt;if(stT>3){level++;resetLevel(true);state='ready';stT=0;}return;}
@@ -124,7 +124,8 @@ function drawBoot(){X.fillStyle=P.lbl;X.fillRect(0,0,320,200);
   txt(str,24,y,P.lbl);y+=s.startsWith('    ')?16:(t===0?16:10);if(s==='READY.'||s==='LOADING')y+=0;}
  if(!cur)cur=[24,y];if((tick>>4)&1){X.fillStyle=P.lbl;X.fillRect(cur[0],cur[1]-1,6,8);}}
 function draw(){X.imageSmoothingEnabled=false;
- if(state==='boot'){drawBoot();return;}
+ {const L=document.getElementById('ld');if(L){if(state==='boot'){document.getElementById('ldb').style.width=Math.min(100,bootT/2.6*100)+'%';}else{L.id='';L.style.opacity=0;setTimeout(()=>L.remove(),400);}}}
+ if(state==='boot'){X.fillStyle='#fff';X.fillRect(0,0,320,200);return;}
  X.fillStyle=P.blk;X.fillRect(0,0,320,200);X.fillStyle=P.dgy;X.fillRect(0,0,320,12);X.fillRect(0,192,320,8);txt('CCBIO',4,3,P.lrd);txt('(C) 2026 IMMUNESOFT',200,3,P.gry);
  if(state==='title'){logo(26,5);ctxt('THE IMMUNE SYSTEM STRIKES BACK',72,P.cyn);
   disc(70,100,5,P.wht,(dx,dy)=>dx>0&&Math.abs(dy)<dx);X.fillStyle=P.pur;for(let i=0;i<5;i++)X.fillRect(84+i*10,99,2,2);
@@ -141,7 +142,7 @@ function draw(){X.imageSmoothingEnabled=false;
  if(state==='over')box('GAME OVER',P.lrd,(tick>>5)&1?'TAP OR SPACE TO RETRY':'SCORE '+score);
  if(paused&&state==='play')box('PAUSED',P.yel,'PRESS P TO RESUME');}
 // ---- input ----
-function act(){au();if(state==='boot'){bootT=7.5;}else if(state==='title'||state==='over')newGame();}
+function act(){au();if(state==='boot'){bootT=2.8;}else if(state==='title'||state==='over')newGame();}
 function kdir(e){const k=e.key||'',c=e.code||'',n=e.keyCode||e.which||0;
  if(k==='ArrowUp'||k==='Up'||c==='ArrowUp'||c==='KeyW'||k==='w'||k==='W'||n===38||n===87)return 0;
  if(k==='ArrowLeft'||k==='Left'||c==='ArrowLeft'||c==='KeyA'||k==='a'||k==='A'||n===37||n===65)return 1;
@@ -149,7 +150,7 @@ function kdir(e){const k=e.key||'',c=e.code||'',n=e.keyCode||e.which||0;
  if(k==='ArrowRight'||k==='Right'||c==='ArrowRight'||c==='KeyD'||k==='d'||k==='D'||n===39||n===68)return 3;return -1;}
 let lastKey=0;
 function onKey(e){if(e.__ccb)return;e.__ccb=1;au();lastKey=performance.now();const k=e.key||'',c=e.code||'',n=e.keyCode||e.which||0;const d=kdir(e);
- if(d>=0){e.preventDefault();want=d;if(state==='boot')bootT=7.5;else if(state==='title'||state==='over')newGame();return;}
+ if(d>=0){e.preventDefault();want=d;if(state==='boot')bootT=2.8;else if(state==='title'||state==='over')newGame();return;}
  if(k==='p'||k==='P'||c==='KeyP'||n===80){if(state==='play')paused=!paused;return;}
  if(k==='m'||k==='M'||c==='KeyM'||n===77){setSnd(!sndOn);return;}
  if(k===' '||k==='Spacebar'||k==='Enter'||c==='Space'||c==='Enter'||n===32||n===13){e.preventDefault();if(state==='play')return;act();return;}
@@ -173,7 +174,7 @@ const isTouch=('ontouchstart' in window)||navigator.maxTouchPoints>0||matchMedia
 if(isTouch)document.body.classList.add('touch');fit();setTimeout(fit,100);
 function unlock(){au();try{if(AC&&!AC._u){const b=AC.createBuffer(1,1,22050),src=AC.createBufferSource();src.buffer=b;src.connect(AC.destination);src.start(0);AC._u=1;}}catch(e){}}
 ['touchstart','pointerdown','touchend'].forEach(t=>window.addEventListener(t,unlock,{capture:true,passive:true}));
-function dirPress(d){want=d;if(state==='boot')bootT=7.5;else if(state==='title'||state==='over')newGame();else if(paused)paused=false;}
+function dirPress(d){want=d;if(state==='boot')bootT=2.8;else if(state==='title'||state==='over')newGame();else if(paused)paused=false;}
 function startPress(){unlock();if(state==='play'){paused=!paused;return;}if(state==='boot'||state==='title'||state==='over')newGame();}
 function bind(el,fn){let last=0;const h=e=>{e.preventDefault();e.stopPropagation();const n=performance.now();if(n-last<250)return;last=n;el.classList.add('on');setTimeout(()=>el.classList.remove('on'),120);unlock();fn();};
  el.addEventListener('pointerdown',h,{passive:false});el.addEventListener('touchstart',h,{passive:false});el.addEventListener('mousedown',h,{passive:false});
@@ -193,4 +194,5 @@ let last=performance.now();
 if(location.hash==='#demo'){newGame();state='play';for(let i=0;i<150;i++){if(i%40===0)want=[1,0,3,2][(i/40)%4|0];update(1/60);}}
 function loop(n){const dt=Math.min(.05,(n-last)/1000);last=n;update(dt);draw();requestAnimationFrame(loop);}
 requestAnimationFrame(loop);
-</script></body></html>
+</script><div id="ld" style="position:fixed;inset:0;background:#fff;z-index:9999;display:flex;flex-direction:column;align-items:center;justify-content:center;transition:opacity .4s;cursor:pointer"><img src="logo.jpg" alt="CCBIO" style="max-width:60vmin;max-height:60vmin"><div style="margin-top:4vmin;width:40vmin;height:6px;background:#eee;border-radius:3px;overflow:hidden"><div id="ldb" style="height:100%;width:0;background:#888"></div></div><div style="margin-top:2vmin;font:bold 3vmin sans-serif;letter-spacing:.4em;color:#999">LOADING</div></div>
+<script>document.getElementById('ld').addEventListener('pointerdown',e=>{e.preventDefault();if(typeof act==='function')act();});</script></body></html>
