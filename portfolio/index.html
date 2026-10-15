@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- ===== EDIT YOUR NAME HERE (also in the CONFIG block in the script at the bottom) ===== -->
+<title>HATLEM — Photography</title>
+<meta name="description" content="Photography portfolio">
+<style>
+:root{--bg:#0b0b0c;--fg:#f2f0ec;--mute:#8d8a85;--line:#232325;--accent:#c9b28a}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{background:var(--bg);color:var(--fg);font:300 16px/1.7 "Helvetica Neue",Helvetica,Arial,sans-serif;letter-spacing:.01em;-webkit-font-smoothing:antialiased}
+a{color:inherit;text-decoration:none}
+.serif{font-family:"Cormorant Garamond","Playfair Display",Georgia,"Times New Roman",serif;font-weight:400}
+nav{position:fixed;inset:0 0 auto 0;z-index:20;display:flex;justify-content:space-between;align-items:center;padding:18px 5vw;background:linear-gradient(#0b0b0cee,#0b0b0c00)}
+nav .brand{font-size:13px;letter-spacing:.35em;text-transform:uppercase;font-weight:500}
+nav ul{display:flex;gap:22px;list-style:none;font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--mute)}
+nav ul a:hover{color:var(--fg)}
+@media(max-width:520px){nav ul{gap:14px;font-size:11px}nav ul li:first-child{display:none}}
+.hero{min-height:100svh;display:grid;place-items:center;text-align:center;padding:100px 6vw 60px;position:relative;overflow:hidden;
+ background:radial-gradient(ellipse at 30% 20%,#2a2826 0%,transparent 55%),radial-gradient(ellipse at 75% 80%,#1d2024 0%,transparent 60%),var(--bg)}
+.hero::after{content:"";position:absolute;inset:0;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence baseFrequency='.9' numOctaves='2'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='.06'/%3E%3C/svg%3E");pointer-events:none}
+.hero small{display:block;font-size:11px;letter-spacing:.45em;text-transform:uppercase;color:var(--accent);margin-bottom:22px}
+.hero h1{font-size:clamp(48px,13vw,150px);line-height:.95;letter-spacing:.04em}
+.hero p{margin:26px auto 40px;max-width:460px;color:var(--mute)}
+.btn{display:inline-block;border:1px solid var(--fg);padding:13px 32px;font-size:11px;letter-spacing:.3em;text-transform:uppercase;transition:.3s}
+.btn:hover{background:var(--fg);color:var(--bg)}
+.scroll{position:absolute;bottom:26px;left:50%;width:1px;height:44px;background:linear-gradient(var(--fg),transparent);animation:s 2.2s infinite}
+@keyframes s{0%{transform:scaleY(0);transform-origin:top}50%{transform:scaleY(1);transform-origin:top}51%{transform-origin:bottom}100%{transform:scaleY(0);transform-origin:bottom}}
+section{padding:90px 5vw}
+.head{display:flex;justify-content:space-between;align-items:baseline;border-bottom:1px solid var(--line);padding-bottom:16px;margin-bottom:34px}
+.head h2{font-size:clamp(30px,6vw,48px)}
+.head span{font-size:11px;letter-spacing:.3em;color:var(--mute);text-transform:uppercase}
+.grid{display:grid;grid-template-columns:repeat(2,1fr);gap:8px;grid-auto-flow:dense}
+@media(min-width:760px){.grid{grid-template-columns:repeat(3,1fr);gap:12px}}
+@media(min-width:1200px){.grid{grid-template-columns:repeat(4,1fr);gap:14px}}
+.ph{position:relative;aspect-ratio:4/5;overflow:hidden;cursor:zoom-in;border:0;padding:0;color:inherit;font:inherit;display:block;width:100%}
+.ph.wide{grid-column:span 2;aspect-ratio:8/5}
+.ph.tall{grid-row:span 2;aspect-ratio:auto}
+.ph .fill,.lb-frame{position:absolute;inset:0;background:var(--g);transition:transform .9s cubic-bezier(.2,.7,.2,1)}
+.ph img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.ph:hover .fill,.ph:focus-visible .fill{transform:scale(1.05)}
+.ph .num{position:absolute;left:14px;bottom:10px;font-size:clamp(28px,4vw,46px);color:#fff;opacity:.85;mix-blend-mode:overlay}
+.ph .tag{position:absolute;right:12px;top:12px;font-size:10px;letter-spacing:.3em;color:#ffffffaa;text-transform:uppercase}
+.ph::after{content:"";position:absolute;inset:10px;border:1px solid #ffffff14;pointer-events:none;transition:.4s}
+.ph:hover::after{inset:16px;border-color:#ffffff40}
+.ph:focus-visible{outline:1px solid var(--accent);outline-offset:3px}
+.about{display:grid;gap:40px;align-items:center}
+@media(min-width:860px){.about{grid-template-columns:5fr 7fr;gap:70px}}
+.portrait{aspect-ratio:4/5;background:linear-gradient(160deg,#3a3734,#151515);position:relative;display:grid;place-items:center;color:#ffffff55;font-size:11px;letter-spacing:.35em;text-transform:uppercase}
+.about h3{font-size:clamp(28px,4.5vw,44px);line-height:1.15;margin-bottom:22px}
+.about p{color:#bdb9b2;margin-bottom:16px;max-width:560px}
+.facts{display:flex;gap:36px;margin-top:30px;flex-wrap:wrap}
+.facts b{display:block;font-size:30px;font-weight:400}
+.facts small{font-size:10px;letter-spacing:.3em;color:var(--mute);text-transform:uppercase}
+.contact{text-align:center;border-top:1px solid var(--line)}
+.contact h2{font-size:clamp(36px,9vw,84px);line-height:1;margin:14px 0 26px}
+.contact .mail{font-size:clamp(16px,3vw,22px);border-bottom:1px solid var(--accent);padding-bottom:4px}
+.social{margin-top:40px;display:flex;justify-content:center;gap:28px;font-size:11px;letter-spacing:.3em;text-transform:uppercase;color:var(--mute)}
+.social a:hover{color:var(--fg)}
+footer{padding:30px 5vw;font-size:11px;letter-spacing:.2em;color:#5d5b58;display:flex;justify-content:space-between;text-transform:uppercase;border-top:1px solid var(--line)}
+.lb{position:fixed;inset:0;z-index:50;background:#050505f5;display:none;align-items:center;justify-content:center;opacity:0;transition:opacity .3s}
+.lb.open{display:flex;opacity:1}
+.lb-stage{position:relative;width:min(88vw,calc(78svh*.8));aspect-ratio:4/5}
+.lb-stage.land{width:min(92vw,calc(78svh*1.6));aspect-ratio:8/5}
+.lb-frame{box-shadow:0 30px 80px #000}
+.lb-stage img{position:absolute;inset:0;width:100%;height:100%;object-fit:contain}
+.lb-num{position:absolute;inset:0;display:grid;place-items:center;font-size:clamp(60px,14vw,160px);color:#ffffff55}
+.lb-cap{position:fixed;bottom:22px;left:0;right:0;text-align:center;font-size:11px;letter-spacing:.35em;color:var(--mute);text-transform:uppercase}
+.lb button{position:fixed;background:none;border:0;color:var(--fg);font-size:30px;cursor:pointer;padding:16px;opacity:.7;font-weight:200}
+.lb button:hover{opacity:1}
+.lb .x{top:10px;right:14px}.lb .prev{left:6px;top:50%;transform:translateY(-50%)}.lb .next{right:6px;top:50%;transform:translateY(-50%)}
+.reveal{opacity:0;transform:translateY(24px);transition:opacity .9s,transform .9s}
+.reveal.in{opacity:1;transform:none}
+@media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}.reveal{opacity:1;transform:none}}
+</style>
+</head>
+<body>
+
+<nav>
+  <a href="#top" class="brand" data-name>HATLEM</a>
+  <ul><li><a href="#work">Work</a></li><li><a href="#about">About</a></li><li><a href="#contact">Contact</a></li></ul>
+</nav>
+
+<header class="hero" id="top">
+  <div>
+    <small>Photography · Norway / Netherlands</small>
+    <h1 class="serif" data-name>HATLEM</h1>
+    <p>Light, landscape and quiet moments. A selection of recent work.</p>
+    <a href="#work" class="btn">View the work</a>
+  </div>
+  <span class="scroll" aria-hidden="true"></span>
+</header>
+
+<section id="work">
+  <div class="head reveal"><h2 class="serif">Selected Work</h2><span>01 — 20</span></div>
+  <div class="grid" id="grid"></div>
+</section>
+
+<section id="about">
+  <div class="about">
+    <div class="portrait reveal">Portrait</div>
+    <div class="reveal">
+      <div class="head" style="border:0;margin-bottom:10px;padding:0"><span>About</span></div>
+      <h3 class="serif">Hello — I'm <span data-name>HATLEM</span>, a photographer working between the fjords and the lowlands.</h3>
+      <p>This is a placeholder bio. Replace it with a few sentences about who you are, what you photograph, and what draws you to it — landscapes, portraits, weddings, editorial or street.</p>
+      <p>Available for commissions, collaborations and print sales. Based in Norway and the Netherlands, travelling worldwide.</p>
+      <div class="facts">
+        <div><b class="serif">10+</b><small>Years</small></div>
+        <div><b class="serif">20</b><small>Selected works</small></div>
+        <div><b class="serif">NO / NL</b><small>Based in</small></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="contact" class="contact">
+  <div class="reveal">
+    <span style="font-size:11px;letter-spacing:.4em;color:var(--accent);text-transform:uppercase">Contact</span>
+    <h2 class="serif">Let's work together</h2>
+    <!-- ===== EDIT YOUR EMAIL HERE ===== -->
+    <a class="mail" href="mailto:hello@example.com?subject=Photography%20inquiry">hello@example.com</a>
+    <div class="social">
+      <a href="#" aria-label="Instagram">Instagram</a>
+      <a href="https://github.com/hatlem72-creator">GitHub</a>
+      <a href="mailto:hello@example.com">Email</a>
+    </div>
+  </div>
+</section>
+
+<footer><span>© <span id="yr"></span> <span data-name>HATLEM</span></span><span>All rights reserved</span></footer>
+
+<div class="lb" id="lb" role="dialog" aria-modal="true" aria-label="Image viewer">
+  <button class="x" aria-label="Close">✕</button>
+  <button class="prev" aria-label="Previous">‹</button>
+  <div class="lb-stage" id="stage"><div class="lb-frame" id="frame"></div><div class="lb-num serif" id="lbnum"></div></div>
+  <button class="next" aria-label="Next">›</button>
+  <div class="lb-cap" id="cap"></div>
+</div>
+
+<script>
+/* ===== CONFIG — edit these ===== */
+const CONFIG = {
+  name: "HATLEM",          // your name / studio name
+  // To use real photos: put files in an "images" folder and list them here, e.g. ["images/01.jpg", ...]
+  images: []               // leave empty to show placeholders
+};
+/* =============================== */
+document.querySelectorAll('[data-name]').forEach(e=>e.textContent=CONFIG.name);
+document.title = CONFIG.name + ' — Photography';
+document.getElementById('yr').textContent = new Date().getFullYear();
+
+const tags=['Landscape','Portrait','Coast','Street','Nordic','Light','Detail','Urban','Fjord','Studio'];
+const tones=[[28,12],[210,10],[35,18],[200,14],[0,0],[25,8],[190,16],[40,10],[220,8],[15,10]];
+const layout={3:'tall',6:'wide',11:'tall',14:'wide',18:'wide'};
+const grid=document.getElementById('grid'), items=[];
+for(let i=1;i<=20;i++){
+  const n=String(i).padStart(2,'0'), [h,s]=tones[i%10], a=(i*37)%360;
+  const g=`linear-gradient(${a}deg,hsl(${h} ${s}% 26%),hsl(${h} ${s}% 9%)),radial-gradient(circle at 30% 30%,hsl(${h} ${s}% 40%),transparent 60%)`;
+  const g2=`radial-gradient(ellipse at ${20+(i*13)%60}% ${15+(i*29)%50}%,hsl(${h} ${s+4}% 38% / .9),transparent 60%),linear-gradient(${a}deg,hsl(${h} ${s}% 22%),hsl(${h} ${s}% 7%))`;
+  const b=document.createElement('button');
+  b.className='ph reveal '+(layout[i]||''); b.style.setProperty('--g',g2);
+  b.setAttribute('aria-label','Open photo '+n);
+  const src=CONFIG.images[i-1];
+  b.innerHTML=src?`<img src="${src}" alt="Photo ${n}" loading="lazy">`:`<div class="fill"></div><span class="tag">${tags[i%10]}</span><span class="num serif">${n}</span>`;
+  b.onclick=()=>open(i-1);
+  grid.appendChild(b); items.push({n,g:g2,tag:tags[i%10],wide:layout[i]==='wide',src});
+}
+const lb=document.getElementById('lb'),stage=document.getElementById('stage'),frame=document.getElementById('frame'),num=document.getElementById('lbnum'),cap=document.getElementById('cap');
+let cur=0,last=null;
+function show(){const it=items[cur];stage.classList.toggle('land',it.wide);
+  frame.style.setProperty('--g',it.g);
+  stage.querySelector('img')?.remove();
+  if(it.src){const im=new Image();im.src=it.src;im.alt='Photo '+it.n;stage.appendChild(im);num.textContent='';frame.style.display='none'}
+  else{frame.style.display='';num.textContent=it.n}
+  cap.textContent=`${it.n} / 20 — ${it.tag}`;}
+function open(i){last=document.activeElement;cur=i;show();lb.classList.add('open');document.body.style.overflow='hidden';lb.querySelector('.x').focus()}
+function close(){lb.classList.remove('open');document.body.style.overflow='';last&&last.focus()}
+function step(d){cur=(cur+d+20)%20;show()}
+lb.querySelector('.x').onclick=close;lb.querySelector('.prev').onclick=()=>step(-1);lb.querySelector('.next').onclick=()=>step(1);
+lb.onclick=e=>{if(e.target===lb)close()};
+addEventListener('keydown',e=>{if(!lb.classList.contains('open'))return;if(e.key==='Escape')close();if(e.key==='ArrowLeft')step(-1);if(e.key==='ArrowRight')step(1)});
+let tx=0;lb.addEventListener('touchstart',e=>tx=e.touches[0].clientX,{passive:true});
+lb.addEventListener('touchend',e=>{const d=e.changedTouches[0].clientX-tx;if(Math.abs(d)>50)step(d<0?1:-1)});
+const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target)}}),{threshold:.08});
+document.querySelectorAll('.reveal').forEach(e=>io.observe(e));
+</script>
+</body>
+</html>
