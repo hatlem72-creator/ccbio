@@ -1,10 +1,12 @@
 <!DOCTYPE html>
-<html lang="nl">
+<html lang="nl" translate="no" class="notranslate">
 <head>
 <meta charset="UTF-8">
+<meta name="google" content="notranslate">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="theme-color" content="#0050aa">
 <title>Lidl Nijkerk — boodschappenlijst</title>
+<meta http-equiv="Cache-Control" content="no-cache">
 <style>
   :root {
     --bg: #0f1419;
@@ -315,8 +317,8 @@ const ITEMS = [
   {id:10,name:"Gouda plakken jong",qty:"3×",note:"prijsverlaging",price:10.77,category:"kaas"},
   {id:11,name:"Aardappelgratin kaas",qty:"1",note:"",price:2.49,category:"kant-en-klaar"},
   {id:12,name:"Roomboter ongezoute",qty:"2×",note:"prijsverlaging",price:2.18,category:"zuivel"},
-  {id:13,name:"Twix ice cream",qty:"1",note:"",price:1.99,category:"ijs"},
-  {id:14,name:"Mars ice cream",qty:"3×",note:"",price:5.97,category:"ijs"},
+  {id:13,name:"Twix ijs",qty:"1",note:"",price:1.99,category:"ijs"},
+  {id:14,name:"Mars ijs",qty:"3×",note:"",price:5.97,category:"ijs"},
   {id:15,name:"Wafelh. aard./choco",qty:"1",note:"",price:2.95,category:"gebak"},
   {id:16,name:"Serranoham Gran Res",qty:"2×",note:"",price:4.98,category:"vlees"},
   {id:17,name:"Felix Elke dag feest",qty:"1",note:"",price:8.99,category:"kat"},
@@ -326,17 +328,17 @@ const ITEMS = [
   {id:21,name:"Feta kaas",qty:"2×",note:"",price:3.50,category:"kaas"},
   {id:22,name:"Mars 7-pack",qty:"1",note:"",price:3.43,category:"snoep"},
   {id:23,name:"Wraps SK3",qty:"2×",note:"",price:5.38,category:"brood"},
-  {id:24,name:"Dip tapenade tomaten",qty:"1",note:"",price:1.57,category:"tapas"},
+  {id:24,name:"Dip tapenade tomaten",qty:"1",note:"",price:1.57,category:"borrel"},
   {id:25,name:"Rucola sla",qty:"2×",note:"",price:1.98,category:"groente"},
-  {id:26,name:"Gedroogde tomaten",qty:"2×",note:"",price:3.58,category:"tapas"},
+  {id:26,name:"Gedroogde tomaten",qty:"2×",note:"",price:3.58,category:"borrel"},
   {id:27,name:"Katten paté",qty:"2×",note:"",price:0.54,category:"kat"},
   {id:28,name:"Bresaola",qty:"3×",note:"",price:9.36,category:"vlees"},
   {id:29,name:"Luxe witte bollen",qty:"1",note:"",price:1.49,category:"brood"},
   {id:30,name:"Carpaccio",qty:"1",note:"",price:3.79,category:"vlees"},
   {id:31,name:"Bio trostomaten",qty:"1",note:"",price:2.49,category:"groente"},
-  {id:32,name:"Pringles cheese & o.",qty:"1",note:"",price:1.39,category:"chips"},
-  {id:33,name:"Vega rulgehakt groot",qty:"1",note:"",price:2.69,category:"vega"},
-  {id:34,name:"Carpaccio tapenade",qty:"1",note:"",price:3.49,category:"tapas"},
+  {id:32,name:"Pringles cheese & onion",qty:"1",note:"",price:1.39,category:"chips"},
+  {id:33,name:"Vega rulgehakt groot",qty:"1",note:"",price:2.69,category:"vegetarisch"},
+  {id:34,name:"Carpaccio tapenade",qty:"1",note:"",price:3.49,category:"borrel"},
   {id:35,name:"Honingdrop",qty:"1",note:"",price:1.66,category:"snoep"},
   {id:36,name:"Roombotercroissant",qty:"3×",note:"",price:1.44,category:"gebak"},
   {id:37,name:"Venco drop",qty:"1",note:"",price:2.49,category:"snoep"},
@@ -349,7 +351,7 @@ const ITEMS = [
   {id:44,name:"Stoofvlees",qty:"2×",note:"",price:7.98,category:"vlees"},
   {id:45,name:"Donut vanille",qty:"2×",note:"",price:1.38,category:"gebak"},
   {id:46,name:"Chocobroodje bake-o",qty:"2×",note:"",price:1.16,category:"gebak"},
-  {id:47,name:"Olijven zonder pit",qty:"1",note:"",price:1.49,category:"tapas"},
+  {id:47,name:"Olijven zonder pit",qty:"1",note:"",price:1.49,category:"borrel"},
   {id:48,name:"Knorr aromat",qty:"1",note:"",price:1.59,category:"kruiden"},
   {id:49,name:"Voorgebakken piccolo",qty:"1",note:"",price:0.97,category:"brood"},
   {id:50,name:"Frans stokbrood",qty:"1",note:"",price:0.99,category:"brood"},
