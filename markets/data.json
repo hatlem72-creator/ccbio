@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-16T20:12:36.571307+00:00",
- "usdnok": 9.42615032196045,
+ "updated": "2026-10-16T20:13:01.924561+00:00",
+ "usdnok": 9.425530433654785,
  "btc": {
-  "price": 81513.671875,
+  "price": 81540.078125,
   "prev": 82141.4609375,
-  "chg": -0.7642779363002505,
+  "chg": -0.7321306507533154,
   "currency": "USD",
   "asof": "2026-10-16T00:00:00+00:00"
  },
  "silver": {
-  "price": 57.154998779296875,
+  "price": 57.150001525878906,
   "prev": 56.83700180053711,
-  "chg": 0.559489362010579,
+  "chg": 0.5506971082680057,
   "currency": "USD",
   "asof": "2026-10-16T00:00:00-04:00"
  },
@@ -185,6 +185,12 @@
        "date": "2026-10-16T18:52:00+00:00"
       },
       {
+       "title": "A Tax Dispute Pauses in Mexico: What First Majestic Revealed",
+       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTGhyX0dMTWVUWUVjblIyM2doa1ByYmNlZ2tHcmNObEVQV1JDanM5aGpIU1ZOa1lCSGxVMXluWUxzRWdBSmdDY0RKWC1vUjhwRktMYmp3b2tNbWxaNU5jeGtod21CQjV1ZHAyQU9CcXktTHl2SFJKWWllOUVzVmZyUC1mdXBBUjY1QXozQzB2Y09VTDFJT1Q4ci1lY0EyWE8yS1AzdlVQQ3NTeU9qVVUwbw?oc=5",
+       "source": "Kalkine Media",
+       "date": "2026-10-16T16:58:00+00:00"
+      },
+      {
        "title": "First Majestic Silver Corp. (TSX:AG) Climbs 5.02% as Positive Momentum Lifts Investor Interest",
        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNmNSTThiNC1ydHBoNVd1S2pzaDNFSHF2NWxSY3p5VTRSTmZJUEdJZ2FweGd2M2g2X1lEUzJKcUtGdXdRYjlaRlVfWTNxdWNQY1VyZzV3aTNRdWMzam8zRm04eHRuRENuRlN2eFhzLVhjZ3R1VVFhNURlNVNaUXRfQnVGdEZVQTBQcWJKRjBkbTAxNjY1eUQ3aW55WkNtNUVlWUUyS3draWRpQTZyLS1tOS1GbWpDYlhFSnZr?oc=5",
        "source": "kalkine.ca",
@@ -195,12 +201,6 @@
        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZm5PakN0TzJGOVpRYlBiNjlKbWdqSjczeFlwOTJIcXpJYm5ybXNzTkVwN3pyT3FBWkxraUdET2VKRk81eWJPU2toTU04QXdyWXVkUHZScXhSbDVra0NyU1EybmF5aDFhZ2l1eXdndDBZLVUwMDBIQklPOXlVWS1ld2lXeGdNRjhLeklwMEwwdGhnTWJBQXE4U05pS0FtOW5LZ1RLREJQa01URHZ4NnZYSHlOM2p4WXJzdzJFNlZfYlQyOXhhRlZmdWMtNTJVMmlDU0g1UGlXSzJLSlN3MGxKR9IB4AFBVV95cUxQZm5PakN0TzJGOVpRYlBiNjlKbWdqSjczeFlwOTJIcXpJYm5ybXNzTkVwN3pyT3FBWkxraUdET2VKRk81eWJPU2toTU04QXdyWXVkUHZScXhSbDVra0NyU1EybmF5aDFhZ2l1eXdndDBZLVUwMDBIQklPOXlVWS1ld2lXeGdNRjhLeklwMEwwdGhnTWJBQXE4U05pS0FtOW5LZ1RLREJQa01URHZ4NnZYSHlOM2p4WXJzdzJFNlZfYlQyOXhhRlZmdWMtNTJVMmlDU0g1UGlXSzJLSlN3MGxKRw?oc=5",
        "source": "Simply Wall Street",
        "date": "2026-10-16T12:54:31+00:00"
-      },
-      {
-       "title": "Is First Majestic Silver (TSX:AG) Driving Fresh Mining Interest?",
-       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdWZuYmdFVnN6cGdJQzU4aU5CbnVsd21xNm5QRlV6OGZlcFlZUV9iR1A5QVgxSkdEYzdlbDR5OWdhWG5OZ3h3VS1EQlF1SExkU2FYSGRjOGo5Q21xZHZTRjIwTVdRZEQydl9IMXc0Zkl6VU56Si1jTEpnN3Y2M196QmVvRjhNUUt1Y3ljLUoyZVJrcEh2NDhJNmRmNmdIYjN1a3c?oc=5",
-       "source": "Kalkine Media",
-       "date": "2026-10-15T17:28:00+00:00"
       }
      ]
     },
@@ -510,22 +510,10 @@
      },
      "news": [
       {
-       "title": "ETFs Investing in Globant SA Stocks",
-       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCRmtEREx3dEdzYkZKTklaekJxR0cxdWVZTUJUa3NxOTJ5VG13WXhOYTFEZTIyTXRYbEVBZEtjSHVZamdLMEtyN2V4a0RPb0g1dUhGaWZWNTNHQVZ5VUE?oc=5",
-       "source": "TradingView",
-       "date": "2026-10-13T00:57:01+00:00"
-      },
-      {
        "title": "ETFs Investing in Interroll Holding AG Stocks",
        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1Vb3JFSzZOQ1I2ZEJIRXBPYUl2eVhWQXNYNHZqQWg1QVEyUV9sLXpuRHBoMEJHb0x2bXlKMVEwN0wyM29QTkZJM216T29VWlp2TDlxbDFTUUMxSWNv?oc=5",
        "source": "TradingView",
        "date": "2026-10-10T21:39:37+00:00"
-      },
-      {
-       "title": "EAM SK Fond maximalizovan\u00fdch v\u00fdnosov",
-       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaEFubUFoX25DOVpTUmMyUlFRUWJJT2JLSzRHdm56enBXNTNUdGFURlpfVmJTMkNhaUVCSHdraDNWMjFNbnhkdS15cGRzSXlhaldtb2ZvZ3ZOY3BuTXRhc2xqX3JlWWFibVo4Z2hwNTd0R2FYU25sQi1DaWlUWE4tOFVwaVJITDZ2d0RadGxGY2tJcEhGNUpTYnRtVlBObXRRTkp2T1VBYTMxYXFHWUlBNXhR?oc=5",
-       "source": "oPeniazoch.sk",
-       "date": "2026-10-08T11:50:23+00:00"
       },
       {
        "title": "The Best AI ETFs to Buy in 2026",
