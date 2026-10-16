@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-16T20:51:57.730743+00:00",
- "usdnok": 9.422880172729492,
+ "updated": "2026-10-16T21:25:04.264382+00:00",
+ "usdnok": 9.41349983215332,
  "btc": {
-  "price": 81625.171875,
+  "price": 81661.953125,
   "prev": 82141.4609375,
-  "chg": -0.6285364986298836,
+  "chg": -0.5837585636136233,
   "currency": "USD",
   "asof": "2026-10-16T00:00:00+00:00"
  },
  "silver": {
-  "price": 57.154998779296875,
+  "price": 57.1349983215332,
   "prev": 56.83700180053711,
-  "chg": 0.559489362010579,
+  "chg": 0.5243002121080975,
   "currency": "USD",
   "asof": "2026-10-16T00:00:00-04:00"
  },
@@ -211,10 +211,10 @@
        "date": "2026-10-16T06:34:00+00:00"
       },
       {
-       "title": "HECLA MINING CO (HL.SW) Q1 FY2026 earnings call transcript",
-       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZFVJbE9SVm5yTXBGMDhOZEpTOHFwUGNGWDkteUdRaTN4WjRNNTBaQ1pKNy1NS0FSU2V3b0JwR2xZbGtHbmRvbXRDVFRncjFSMS14RjlXdFRMd3VZUTBzMmxxTksycXk1QlhKNmx2RmgtQXU3WkNXS1k3VGVDZEc5UXFJdDRNdkVrazl4VmFlbHA?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-16T04:33:00+00:00"
+       "title": "RBC keeps USD 20.00 target for Hecla Mining stock",
+       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZTMxbGFMRW42QjVIWEZpSENCc0VHTFV1ck9vQlJHTFNyYnpuUk44SFZJNGxLYzlSbDNKbDF4LTdnRGtXdnpEMy0zUzc2c3FRa0dSY0M1VVhzdGplMXA1TG9Oc1l3Nzh1VXA3UXFMQnY0TWhmRl9tVElfc3hfV2lzamhNc3pxT1pzSkpGTUJ0akxFUThhYWJBdnktcXdtNGdEV0hCUHYybDREbGE1?oc=5",
+       "source": "ad-hoc-news.de",
+       "date": "2026-10-15T20:17:02+00:00"
       }
      ]
     },
@@ -255,16 +255,16 @@
      },
      "news": [
       {
+       "title": "Avino Silver & Gold (ASM) Stock Rises 2.9% After Roth Capital Up",
+       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOU5rVWo1ekExTThxRVVqZ0ZWMHpVOXpqSHRhZlpRcVJoZDM2YVVaUnQwdmhtTERYNDI3T2c1VDhNTTdCRVdsejdURm9lLVNsazFUMUx3S1I4YXlhWllhS3RnTmM0OGQ1YndUeUVmQ3IyRTd2VnlrVTBIeVAxVEc1b3FZUzd0MkhqcHFDUVI4NkxRa01IbW5kSURvNFFWazBmN25jZA?oc=5",
+       "source": "GuruFocus",
+       "date": "2026-10-16T21:14:28+00:00"
+      },
+      {
        "title": "Avino Silver & Gold raised to Buy at Roth on valuation, La Preciosa potential (ASM:NYSE)",
        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQc1V6Q3J3eDhlYW1USzhENmdRSmhJUDd5VV94Q0NPeDBHNTduTUtkZEttLWJEQ1Z2VENsVTlmUWN3SUt1Z2VnT0czcV9BejZlS09vZzJuYUJPaWg2Sk1mQnNyMW1ncjd4eWhVS3hRTUJPbC1SNzZ3dmpCTE91UVFPa2VNdGpzY0hvSExGdkhlQ3pxQ0lvUGlzb2wySWFITzFrM1AyaFNQZXRPZWpSb3lBc3dXc1pDU0E?oc=5",
        "source": "Seeking Alpha",
        "date": "2026-10-16T19:58:23+00:00"
-      },
-      {
-       "title": "Avino Silver & Gold Mines Shares Rise After Roth Capital Upgrade",
-       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMndFY2lnR1dwbVltNXdyM2hQODc4RmZlMV9ZQVowUndVX1htTmczWm15aHRHTTdOZ2tEeTN3ZUNSVEFUc2p0bURsVTF5QWVfNTEzZ0pNNXRCSVNEbnFmaTRqTDRGeURPbzFMUnpsQzN2bkRKSURmQ1lTMEFkUTlOZGZHM2FqVVJMZ01DVE8wZ2REdVIwekVLZnUtblBwcjVHNDVXeUh3WHQyYTJ2cUNYMlktSFhOUQ?oc=5",
-       "source": "marketscreener.com",
-       "date": "2026-10-16T19:03:23+00:00"
       }
      ]
     },
@@ -487,9 +487,9 @@
      "symbol": "GC=F",
      "name": "Gold (USD/oz)",
      "quote": {
-      "price": 4188.7998046875,
+      "price": 4186.7001953125,
       "prev": 4170.10009765625,
-      "chg": 0.4484234573112422,
+      "chg": 0.3980743211794868,
       "currency": "USD",
       "asof": "2026-10-16T00:00:00-04:00"
      },
@@ -511,9 +511,9 @@
      "symbol": "USDNOK=X",
      "name": "USD/NOK",
      "quote": {
-      "price": 9.422880172729492,
+      "price": 9.41349983215332,
       "prev": 9.4931001663208,
-      "chg": -0.7396950665329749,
+      "chg": -0.838507260777499,
       "currency": "NOK",
       "asof": "2026-10-16T00:00:00+01:00"
      },
@@ -593,10 +593,10 @@
        "date": "2026-10-16T19:01:19+00:00"
       },
       {
-       "title": "Dan Ives Says 'Buy the Dip' in Nvidia Stock After Brutal Sell-Off",
-       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQkp0S3lzeERfM1NlNEg2VnFuaUsySEdWM1VTYjIzMDdTcFFWekM0UjZzdjl1ZjFUb0t4YXdkZ1dlZzVuRkMtY1ctcUZGLWJnekd6Nk5SNGlRNWN4UDY2alVXQjdlTXNVTDJXTHkzdVZITGhKa2ViODFkWnUzd3g2YkJCd0pHN0VBUHFXU0tMcw?oc=5",
+       "title": "Jensen Huang's Nvidia Lost $200 Billion in Value After OpenAI's Revenue Run Rate Came Up $18 Billion Below Expectations. Is This AI-Jitters Sell-Off a Buying Opportunity?",
+       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaDdMcVRWa1ljMXpMMzd6V1N6TXNvY1ZjNlh5N19PczRwRHlHMHBlV3pGcnhwUDJ1eDFDak5zdF9RSHBCbWRpdy1mbjNLWjl0TkpBZWdwSmwxZnNZOHFqSG1kT0F3MUREWDQ4QURpLXJXV1BmWnY0V2FYLXFMWEktWWR4eXpxeXNlZGNvTGQxVzN6bVY3cXVTdg?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-10-16T17:54:22+00:00"
+       "date": "2026-10-16T18:51:00+00:00"
       }
      ]
     },
@@ -706,16 +706,22 @@
  "failed": [],
  "general_news": [
   {
-   "title": "Indonesia stock market crash: Why did Jakarta stocks see their biggest fall since 1998 after MSCI warning?",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNeFVKbUNyOEV0bDJiNWtBVjhjTUViSW5MTVIxWVdFelVmTU5XRlJNaFpwQkNudXVOM1VUNTQwUS0xZnBneWN2VzU0cFhUUTdxbE43NWZadUVKa2JZZnhhWUxOejNKVUxRSGE2akJMVHRRblJWTmZjaHNNcC1sN3YyQUU5dDNocEU3STJWRTF5TTJiUEgxQ2w5WGhCWDBBXzlqNWZxS1pNZWNrcWhFTWd0bFlSWFhRb3RpeDZfWWRnZkpqYkNOWUlNckUyalVKMFFyZVVxeUprakllOHpkdEowRndJU2k3cS1rNGdudtIB8gFBVV95cUxONWRkbHJVOGs3YUQwbm1ZUDl4eXJ6NTE4M0NCSnJvLWIxeUhDZWZDaVpoUEpvLTZIY09oRWRSekdzYS1zWmNQWGotVlRZVVNYS1d5b212YnZYTjR3QVd0b0Q0SUdFai03OEVHOWxHNGlWbUk2LXEtWkZld1NjVlZjQVNIR3A1R0dxVDNSWm5kRm9mZVVqNzBRSGd0cGM4eTU4M1lHdkpsX3ljNGN4c0Fvc2VTLTNFbHd4OVhkMDlJbkNuSno3S2xLZWQxQV9QYmtxQ1VvRk95bUhVUGlyWHpiTUJjTVZhaHJPeGZOZTlZdGM5dw?oc=5",
-   "source": "ET Now",
-   "date": "2026-10-16T18:04:42+00:00"
+   "title": "The stock market is pricing in \u2018too many rate hikes\u2019 \u2013 Allianz\u2019s El-Erian",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVkQ3UVpmcmVhR3BHdkVBMlB4X19KZm4tX0dTeFk4WnJDd092YzlCMW1UVjdxTUVFRi1FM2F0S0N5blRQeXFial92WUpoSFZlZFZwODJJUmFZODAtdmM0eVRsdUJqZExGcjB3Tm1QcTVkSnBBV1Z0a1g0TFZfcHVGY3ZOSGNjdl9rQldfdUpFeHNUVnNpd2s5U3p4dkZBY05SRHRPb2R3?oc=5",
+   "source": "Seeking Alpha",
+   "date": "2026-10-16T20:26:51+00:00"
   },
   {
    "title": "The Stock Market Has Seen This Happen Only 2 Other Times in Over 150 Years, and History Has an Ominous Warning for Investors",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSm9pSEp1OEpkSkNSNlBtNWVjVXdJZ2ViTkdNcV81azlHSzkyWjFlaEQxT3dhb3ladmgwY3RiZkRvOWQ1ejF2QXJxbGR2azh5MnJrOWFlTGR3cVJaUHZBTWhQRHhvSXd5UjFJTzNSNWRDZmFzM2xaZlVFQ0UzZ242aU90Q2RCZ1I5bkhaeWZubEp3OUYxb1F3Ug?oc=5",
    "source": "The Motley Fool",
-   "date": "2026-10-16T17:39:46+00:00"
+   "date": "2026-10-16T18:30:00+00:00"
+  },
+  {
+   "title": "Indonesia stock market crash: Why did Jakarta stocks see their biggest fall since 1998 after MSCI warning?",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNeFVKbUNyOEV0bDJiNWtBVjhjTUViSW5MTVIxWVdFelVmTU5XRlJNaFpwQkNudXVOM1VUNTQwUS0xZnBneWN2VzU0cFhUUTdxbE43NWZadUVKa2JZZnhhWUxOejNKVUxRSGE2akJMVHRRblJWTmZjaHNNcC1sN3YyQUU5dDNocEU3STJWRTF5TTJiUEgxQ2w5WGhCWDBBXzlqNWZxS1pNZWNrcWhFTWd0bFlSWFhRb3RpeDZfWWRnZkpqYkNOWUlNckUyalVKMFFyZVVxeUprakllOHpkdEowRndJU2k3cS1rNGdudtIB8gFBVV95cUxONWRkbHJVOGs3YUQwbm1ZUDl4eXJ6NTE4M0NCSnJvLWIxeUhDZWZDaVpoUEpvLTZIY09oRWRSekdzYS1zWmNQWGotVlRZVVNYS1d5b212YnZYTjR3QVd0b0Q0SUdFai03OEVHOWxHNGlWbUk2LXEtWkZld1NjVlZjQVNIR3A1R0dxVDNSWm5kRm9mZVVqNzBRSGd0cGM4eTU4M1lHdkpsX3ljNGN4c0Fvc2VTLTNFbHd4OVhkMDlJbkNuSno3S2xLZWQxQV9QYmtxQ1VvRk95bUhVUGlyWHpiTUJjTVZhaHJPeGZOZTlZdGM5dw?oc=5",
+   "source": "ET Now",
+   "date": "2026-10-16T18:04:42+00:00"
   },
   {
    "title": "Why Kotak AMC's Nilesh Shah says the AI stock market bubble could burst",
@@ -770,12 +776,6 @@
    "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPRUkwb254Z0pwa1dQaWN1YVIyOU5aYTMwZWxaWGZISEN5NE9SSnJIdFdJV1l2cDdQbHhCakU2OGJQTWV5UVF4YnBjaUJhbXp6SHVFcy1DbnJkMlhPbTd4ZFBzRDR4RndtSTVvZlJPYzdXR19tLVRXMVRyVEx4LVZWNzNrMWhmdFBsYWdYMHNsaEV6ZjUwY05yTGJudWtkRWRPQkJjOGZmZ3I2cl9uaUdMbkUxS1BkZnlYQmVGM1g2Y2UzWDQtWGVidDFGdmtwNGF3Q3pGNUVNYjJ0aXFLakNwY1hMN1YzS1lXNXZHQkZ4SU13cXhZNGVpdkVlTldMNFNnTHRBaFBxOGVWT19PeWN3d3U4cXVvZjdSR0RJZUNFY3U?oc=5",
    "source": "Benzinga",
    "date": "2026-10-16T09:25:22+00:00"
-  },
-  {
-   "title": "Dow Jones Analysis: Is the DJIA Making a Comeback?",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObTJ4ZkxBV294VXVzSHRfd3R0cE9TN2FYZW5hQnJGTXg2Q2NiZkJzSW9aODNMUGtSOHBmN0hWcTM3eEVOTmg3UjN4ZndhTzVaM2pPNGsySmQ0eTlqLUxsTGlKcEFIaWpLNWJ2ai1IVXN6V2VZc2JYc0NVaE5mZnFGWDdfTFR4eDZTclVJUy1pS0dKMGc5OVdv?oc=5",
-   "source": "FOREX.com",
-   "date": "2026-10-16T08:33:32+00:00"
   }
  ]
 }
