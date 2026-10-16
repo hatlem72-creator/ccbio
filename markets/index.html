@@ -1,0 +1,54 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>The Markets Ledger</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;700&family=Source+Serif+4:wght@400;600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#fbf8f2;--ink:#14213d;--mute:#6b7280;--line:#e4ddcf;--gold:#b08d57;--up:#0f7b4a;--dn:#b42318}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font-family:'Source Serif 4',Georgia,serif}
+.wrap{max-width:1040px;margin:0 auto;padding:0 20px 60px}
+header{text-align:center;padding:34px 0 14px;border-bottom:3px double var(--ink)}
+h1{font-family:'Playfair Display',serif;font-size:clamp(34px,6vw,56px);margin:0;letter-spacing:.5px}
+.dateline{font-family:Inter,sans-serif;font-size:12px;letter-spacing:2px;text-transform:uppercase;color:var(--mute);margin-top:8px}
+.hero{display:grid;grid-template-columns:1fr 1fr;border-bottom:1px solid var(--line)}
+.card{padding:30px 10px;text-align:center}.card+.card{border-left:1px solid var(--line)}
+.label{font-family:Inter,sans-serif;font-size:11px;letter-spacing:2.5px;text-transform:uppercase;color:var(--gold);font-weight:600}
+.big{font-family:'Playfair Display',serif;font-size:clamp(30px,5vw,46px);margin:10px 0 2px}
+.sub{font-size:20px;color:var(--mute)}.unit{font-size:13px;color:var(--mute);font-family:Inter,sans-serif}
+.chg{font-family:Inter,sans-serif;font-weight:600;font-size:14px;margin-top:8px}.up{color:var(--up)}.dn{color:var(--dn)}
+h2{font-family:'Playfair Display',serif;font-size:26px;margin:44px 0 6px;padding-bottom:8px;border-bottom:1px solid var(--ink)}
+h2 small{font-family:Inter,sans-serif;font-size:11px;letter-spacing:2px;color:var(--gold);text-transform:uppercase;display:block;margin-bottom:4px}
+table{width:100%;border-collapse:collapse;font-family:Inter,sans-serif;font-size:14px}
+th{font-size:11px;letter-spacing:1.5px;text-transform:uppercase;color:var(--mute);font-weight:500;text-align:right;padding:12px 6px;border-bottom:1px solid var(--line)}
+th:first-child,td:first-child{text-align:left}td{padding:13px 6px;border-bottom:1px solid var(--line);text-align:right;font-variant-numeric:tabular-nums}
+td .n{font-family:'Source Serif 4',serif;font-size:16px;font-weight:600}td .s{display:block;font-size:11px;color:var(--mute);letter-spacing:1px}
+.news{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:0 36px}
+.co{padding:20px 0;border-bottom:1px solid var(--line)}.co h3{font-family:Inter,sans-serif;font-size:11px;letter-spacing:2px;text-transform:uppercase;color:var(--gold);margin:0 0 10px}
+.co a{display:block;color:var(--ink);text-decoration:none;font-size:17px;line-height:1.35;margin:0 0 4px}.co a:hover{text-decoration:underline}
+.meta{font-family:Inter,sans-serif;font-size:11px;color:var(--mute);margin-bottom:12px}.empty{color:var(--mute);font-style:italic}
+footer{margin-top:40px;font-family:Inter,sans-serif;font-size:11px;color:var(--mute);text-align:center}
+@media(max-width:640px){.hero{grid-template-columns:1fr}.card+.card{border-left:0;border-top:1px solid var(--line)}.hide{display:none}}
+</style></head><body><div class="wrap">
+<header><h1>The Markets Ledger</h1><div class="dateline" id="dl">Loading…</div></header>
+<section class="hero" id="hero"></section><main id="main"></main>
+<footer>Prices may be delayed ~15 min (Yahoo Finance); funds show latest NAV. News via Google News. Auto-refreshes.</footer></div>
+<script>
+const f=(v,d=2)=>v==null?'–':v.toLocaleString('en-US',{minimumFractionDigits:d,maximumFractionDigits:d});
+const dp=v=>v<1?3:2, cl=c=>c==null?'':c>=0?'up':'dn', pc=c=>c==null?'–':(c>=0?'▲ +':'▼ ')+c.toFixed(2)+'%';
+const osl=(s,o)=>new Date(s).toLocaleString('en-GB',Object.assign({timeZone:'Europe/Oslo'},o));
+const esc=s=>(s||'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+async function load(){
+ const d=await (await fetch('data.json?'+Date.now())).json(),r=d.usdnok;
+ let btc=d.btc,ag=d.silver;
+ try{const c=await (await fetch('https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd,nok&include_24hr_change=true')).json();btc={price:c.bitcoin.usd,nok:c.bitcoin.nok,chg:c.bitcoin.usd_24h_change};}catch(e){}
+ dl.textContent=osl(d.updated,{weekday:'long',day:'numeric',month:'long',year:'numeric'})+' · Updated '+osl(d.updated,{hour:'2-digit',minute:'2-digit'})+' Oslo time';
+ const card=(l,q,nok,u)=>`<div class="card"><div class="label">${l}</div><div class="big">$${f(q.price)}</div><div class="sub">NOK ${f(nok)}</div><div class="unit">${u}</div><div class="chg ${cl(q.chg)}">${pc(q.chg)}</div></div>`;
+ hero.innerHTML=card('Bitcoin',btc,btc.nok||btc.price*r,'per BTC')+card('Silver',ag,ag.price*r,'per troy ounce');
+ let h='';
+ for(const s of d.sections){h+=`<h2>${s.title}</h2><table><tr><th>Company</th><th>Price</th><th class="hide">Ccy</th><th>Day</th></tr>`;
+  for(const i of s.items){const q=i.quote||{};h+=`<tr><td><span class="n">${i.name}</span><span class="s">${i.symbol}</span></td><td>${f(q.price,dp(q.price||9))}</td><td class="hide">${q.currency||''}</td><td class="${cl(q.chg)}">${pc(q.chg)}</td></tr>`}
+  h+='</table>'}
+ h+='<h2><small>Latest</small>Company News</h2><div class="news">';
+ for(const s of d.sections)for(const i of s.items){h+=`<div class="co"><h3>${i.name}</h3>`+(i.news.length?i.news.map(n=>`<a href="${esc(n.link)}" target="_blank" rel="noopener">${esc(n.title)}</a><div class="meta">${esc(n.source)} · ${n.date?osl(n.date,{day:'numeric',month:'short',hour:'2-digit',minute:'2-digit'}):''}</div>`).join(''):'<p class="empty">No recent headlines.</p>')+'</div>'}
+ main.innerHTML=h+'</div>';
+}
+load();setInterval(load,5*60e3);
+</script></body></html>
