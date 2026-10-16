@@ -57,6 +57,7 @@ p:id=>{const p=P[id];if(!p)return"<p>Not found.</p>";const kids=Object.entries(P
  ${p.st=="living"?`<p class="note">Living person. Only the name is shown, to protect their privacy.</p>`:`<div class="facts">${p.b?`<div><small>Born</small>${p.b}</div>`:""}${p.d?`<div><small>Died</small>${p.d}</div>`:""}</div>`}
  ${p.note?`<p class="note">${p.note}</p>`:""}
  ${(p.par||[]).length?`<h2>Parents</h2><div class="gen" style="justify-content:flex-start;flex-wrap:wrap">${p.par.map(card).join("")}</div>`:""}
+ ${(p.sp||[]).length?`<h2>Spouse</h2><div class="gen" style="justify-content:flex-start;flex-wrap:wrap">${p.sp.map(card).join("")}</div>`:""}
  ${kids.length?`<h2>Children in this tree</h2><div class="gen" style="justify-content:flex-start;flex-wrap:wrap">${kids.map(card).join("")}</div>`:""}
  ${(p.ev||[]).length?`<h2>Timeline</h2><div class="timeline">${p.ev.map(e=>`<div class="ev"><span class="y">${e[0]}</span>${e[1]}${e[2]?`<div class="src">${e[2].map(srcl).join(" · ")}</div>`:""}</div>`).join("")}</div>`:""}
  ${used.length?`<h2>Sources</h2><ul class="src">${used.map(k=>`<li>${srcl(k)}</li>`).join("")}</ul>`:""}`},
