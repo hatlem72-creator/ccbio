@@ -145,11 +145,8 @@ const CONFIG = {
   name: "HATLEM",          // your name / studio name
   // Real photos in images/; leave later slots empty/undefined for placeholders
   images: [
-    "images/01.jpg", // Pet — tuxedo cat sleeping
-    "images/02.jpg", // Pet — cat face close-up
-    "images/03.jpg", // Interior — cozy room with white flowers
-    "images/04.jpg"  // Pet — tuxedo cat curled asleep
-    // 05–20 stay placeholders until you add more files
+    "images/03.jpg"  // Interior — cozy room with white flowers
+    // 02–20 stay placeholders until you add more files
   ]
 };
 /* =============================== */
@@ -157,8 +154,8 @@ document.querySelectorAll('[data-name]').forEach(e=>e.textContent=CONFIG.name);
 document.title = CONFIG.name + ' — Photography';
 document.getElementById('yr').textContent = new Date().getFullYear();
 
-const tags=['Lifestyle','Pet','Pet','Interior','Pet','Lifestyle','Portrait','Detail','Light','Street','Nordic'];
-const photoTags={1:'Pet',2:'Pet',3:'Interior',4:'Pet'}; // override for real photos
+const tags=['Lifestyle','Interior','Detail','Interior','Light','Lifestyle','Portrait','Detail','Light','Street','Nordic'];
+const photoTags={1:'Interior'}; // override for real photos
 const tones=[[28,12],[210,10],[35,18],[200,14],[0,0],[25,8],[190,16],[40,10],[220,8],[15,10]];
 const layout={}; // optional: {6:'wide'} spans two columns
 const grid=document.getElementById('grid'), items=[];
