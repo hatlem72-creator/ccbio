@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-16T22:06:55.626969+00:00",
+ "updated": "2026-10-16T22:50:43.449706+00:00",
  "usdnok": 9.41349983215332,
  "btc": {
-  "price": 81646.5234375,
+  "price": 81687.2421875,
   "prev": 82141.4609375,
-  "chg": -0.602542850286758,
+  "chg": -0.5529713555321392,
   "currency": "USD",
   "asof": "2026-10-16T00:00:00+00:00"
  },
@@ -38,12 +38,6 @@
        "date": "2026-10-13T18:08:19+00:00"
       },
       {
-       "title": "Kongsberg signed NOK 10 billion NASAMS deal: what it means for Kongsberg stock",
-       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbWpVUm5IUzROQUNaTE1saG5sWmVaZ3RscFFFT3ZRRzVwTU1GZzlqVjAzcGMxWDc3VlZNdmdzUHNzcHhVYlF1V0I2NGNEN0lGdExxOWpVMEJkZHFoVFMyLTg0TUNKbFQ1NEx0X25CRWREYW1lMkFfR0ZGTENTdlJxS0M3U2s2SVN2VlVVS2Z1RHJIX1Q1d2dTeUtCUFE4cWFKTkdqckNSZ2RxMnZTZEZVSlItZml2MWtVTDJtUDIyWXI2cjlMTnIwUUVSZnp2a3M0a3c?oc=5",
-       "source": "ad-hoc-news.de",
-       "date": "2026-10-13T03:24:02+00:00"
-      },
-      {
        "title": "Should Large Defense Orders Require Action From Kongsberg Shares Investors?",
        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWWdxWXNZUVZxQUpPa1FydmpnY2h0M2dhX3hpR3Fob1lCMElHRUxvWGQzeWlCM21SWXhCQ1lPVEwtR1RFNHZvR3NBcS1NbG53cXpocXUyVFZmMTVHQXljNEI3SGd2RVZuUUEzbjFnOGtyM1JsWUxXcWptdXViM0dHWXBPd0ZpaVptdzJjbzllZEo0WEpRb0xsNzdONm5hWWJPVTM3UG1NMDRfTGNCdW01SmdWWkN0eWJ5aHlXNVY1MU43VGtMMlRpM3JFU3lJWE1jOFpiMkl6NVEwS0XSAeABQVVfeXFMUEpuTEl2N2pPSG5POTlRLXgzVno1cVEtUWMyclJWWThpT29zT1Z5bnFHMFRlWXQ0dktxX1llam1NUWI4TzV1eTRneE12U1JLSnBaN2wtcXByMmNXdVZTSVRFcVlNNUpZcUNRYUh3bjJ1dnlZZktyQ1ZLY1Z6VUctU09OdzZvWHpzX01IdEctTXdQbHlxVzd2WnZMSWJnR2RJMVBjR2dSb0ZRdzBOdUpyNzFnSUxzX0dYR1hNTFlLUnpSX0pBdjZtODNlVmdua2VEMWt1MXRuMmI5RlpMN2pKakc?oc=5",
        "source": "Simply Wall Street",
@@ -54,6 +48,12 @@
        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNmFoSmRwRlVDYWpBMGIwM014WVZ4bFhoNnl2eEp2VEJkZ0w5RVRuMV8tVFlka2F5MExaeG9sLXBGOUpqSmFxTFduVE1OclM4VFhSWjRyNVF4dnpPSkpoR3FuT1pNRjFIUzNpWTJ3eWFHSldpVTQ4NzFYWHpIZjA2OHNkNnNwamZWM2tlUV9Xb2JhazV3cU1vQ1UwU0Fob2NNNExqSzJ4OVB4TThXX3FuMkZzY1dvMFpT?oc=5",
        "source": "www.marketscreener.com",
        "date": "2026-10-08T10:46:20+00:00"
+      },
+      {
+       "title": "Kongsberg signed NOK 10 billion NASAMS deal: Kongsberg stock falls 1.19 percent",
+       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNN1dZUGd5eGtBVXZpU0FNdG9DeG9iY3NraXJQZWoyRlF4SmRITEJQWHBtYTdQTG96RVh3RW1Rc3FLcEZtbzdEbU12Rl9jOXdYendfOEYyUEEzei1fNWFReU1naEZuUmk2SFo3Z21nYnlnMEFIODFYbFNQQkhYQXAtZlZVUkRkelllQl9hR19wcDFnZFY0TjFSTldrQlpkNS1TakRWUTdWd3FoODFYRFZ5MFZ4WTQ1c2hTZzIycXgyazRRLUlDQ1NaUTd6c3FCcE5sT1pR?oc=5",
+       "source": "AD HOC NEWS",
+       "date": "2026-10-08T09:32:43+00:00"
       }
      ]
     },
@@ -130,10 +130,10 @@
        "date": "2026-10-11T23:17:14+00:00"
       },
       {
-       "title": "GLD, GDX, and GDXJ Are 3 Ways to Bet on Gold. The Same Move Can Produce Wildly Different Returns",
-       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9nclhNdGdwRTc3Yzd3cWoyT0dLTDZYOWh3bFFlaGR2dnpsQ3UyU2tQRmdYUG9Jdmt4VnczRnRsNHpYUDBIWkUyZnJlRk4ybnl6UEdzR2N0cmJzMVNWZmNPWXVGYnV5dnBBMk00OVdGVQ?oc=5",
-       "source": "AOL.ca",
-       "date": "2026-10-09T00:33:00+00:00"
+       "title": "Gold & Silver Mining Companies: Two Indices to Analyze for FX_IDC:XAUUSD by Swissquote",
+       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSXExdXFYMXNJSUVMd0k5cElQZ1ZhWXMzOVFwVUxKUlhxQ3owbUhpTWw1Q2xqMWJsN09oUFk4Q3FieDZmSkZLcXJ0NGlOa2QyNDJhYVJxM29ENEdwTG5VZTRHZW9CZ2JWYlhYSlc5NEdQRURHcWUzV0R6bFJMblN2YjFTdmJDdk9hOGZCX1RNUGZ4ZmN4SzBDNWF5ZG85Y0FiT1NMRw?oc=5",
+       "source": "TradingView",
+       "date": "2026-10-09T04:45:03+00:00"
       }
      ]
     },
@@ -206,9 +206,9 @@
      "news": [
       {
        "title": "HECLA MINING CO (HL.SW) Q1 FY2026 earnings call transcript",
-       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZkFJZE5fRzJLdHNpQzhaS0gzaDhvbkZOaWdUQ1E3cEhkOGJCbTZ5MTFhRXRadXFzMXllV0xNXzhFX25neXpuNEoyem02bG9wUDFLWXNFeXRwZldTWndlc0pwdTZVZDQ3Yk82cWNMWjZ1R2lnOW9KM1ZQUnFvV2pMTUV0cTJldnNnZ2w5c1N2QQ?oc=5",
+       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZFVJbE9SVm5yTXBGMDhOZEpTOHFwUGNGWDkteUdRaTN4WjRNNTBaQ1pKNy1NS0FSU2V3b0JwR2xZbGtHbmRvbXRDVFRncjFSMS14RjlXdFRMd3VZUTBzMmxxTksycXk1QlhKNmx2RmgtQXU3WkNXS1k3VGVDZEc5UXFJdDRNdkVrazl4VmFlbHA?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-10-16T03:44:27+00:00"
+       "date": "2026-10-16T04:33:00+00:00"
       },
       {
        "title": "Zacks Industry Outlook Highlights Fresnillo, Pan American Silver and Hecla Mining",
@@ -255,16 +255,16 @@
      },
      "news": [
       {
+       "title": "Avino Silver (ASM) Rises As Market Takes a Dip: Key Facts",
+       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaHJJenJ1dUV3aVA3MlplUlJRR1Y5bTgxN3ZhZTBLc1RBRFZ6QlRVYmdQLWRlNTNGYy1YU3kxLWZKWXBIUGxncmpnMHlGbzk3ZGxOd2RTdW1MX2VGN2FOS3BlZFoyUlBFYmtlc2M5dHBPc0ZTRjVab3o3WnVsNGx6YUlRMFE?oc=5",
+       "source": "Yahoo Finance Singapore",
+       "date": "2026-10-16T21:15:05+00:00"
+      },
+      {
        "title": "Roth/MKM upgrades Avino Silver & Gold stock rating on valuation",
        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOanRWU3ZTbHJoTFRNUmZOY0FfRkdfUkw4QzhOWFI1dEc2cjhOd3VTTXlhbVQtb3RGaGk4V2huSFhWRlFEbTBqUU1VeTFSVVdudGQtaWp3UjBybS15S2s5VE5UMUZ1Q050RXJ3cVRpWnQzbEhteVU1aDdIcElhME83a2tRSjZZN3F5STh1RlJJQUNxSE4zMVZVS2gtVHZzbGlEMVVVc0VlUHpnZVU1b2R5VmdERWtpanRHZDllTV84dw?oc=5",
        "source": "Investing.com Canada",
        "date": "2026-10-16T09:03:28+00:00"
-      },
-      {
-       "title": "Avino Q3 Silver Equivalent Production Rises 2% YoY",
-       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWVpleUJ5ZGhwMUEwZGN6cXZ4LXg3dHhoN0tqZFpaUlB2bHNPaVMzUlF1bHVkVlZya1g0akN2alVwLTlqUXNmRW5aQkV0LVhUUVFZenZIeVcxazlpQm1ySVdYU1hJQVF2NGNkbXE2STRmYXgyWUVyWmtEWlgtNmtFSDBsZVJrMm5VNDVaZ1pYUlNPT2tialNTTG5TeG1GOU12OXdSNEVmSmNtaUE?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-15T12:41:38+00:00"
       }
      ]
     },
@@ -305,16 +305,16 @@
      },
      "news": [
       {
+       "title": "First Majestic Silver Shares Slide 5.76% as Capital Reinvestment Pacing and Mexican Operational Headwinds Weigh on Investor Sentiment",
+       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPRFZpaktZajMwZERDd3ptcHVXVm9DNEMyZUI3WFRSZGNQbUk3LXYtbThHNER6VEJ3cW50dmVnczBPNm1BWkJ0QWNjUEt5NFhGN1VKUUNDdElIWlY0TFJLZ1U5S0FYVHhDRE5VY1hRazNYa1VtbG5jNThSYW5XZzVhY0VQbFJ3LXZFWU04SGZGQnpER3EtU2tQYzF2YzJPdzRGZXhIRUNXVGZzdTg1OXVIYUpDSHk5OGZXdEQ3UExwQ0ZHc3l1alplUzdZRm0wQ19SOXptUS1leHhKREpFQ0JveVo5V2VXbm9nUlUzcm1qUjhnMDVv?oc=5",
+       "source": "kalkine.ca",
+       "date": "2026-10-15T06:53:27+00:00"
+      },
+      {
        "title": "Aura Minerals, Lahontan Gold, First Majestic: Millions in Gold Beneath the Ground | 2026-10-14 | Investing News",
        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUW13cGIzdGkyLUR6d081X1VjdENzM0k5UEhGSE9Uc1Q0OW82bzlrVmRxUy1qc1NJbUh0c09OU19aSTREWHVtZEdJSm43RkgwRXk4N1Q4c05xanVUeTJ0U3lmZm1kVzJqZTZzS3gyM2tTdUtiWkJkMk5rckQxR1FadUhlYmJ4dE0xTExvZ2NrZTh2b3dnYmZ4aGpnSE8tMDNhMWludVNGSmhhcFJJVGFldmxsX1lZbE9pbkd1SHZuNVhBck8y?oc=5",
        "source": "Stockhouse",
        "date": "2026-10-15T03:36:28+00:00"
-      },
-      {
-       "title": "FIRST MAJESTIC SILVER (AG-USD.SW) Income Statement",
-       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LcjAwY0FOUGpmQ0dmemdQaURaMHROUGZVYmpIcXFMS2tsMGtJLWMyQlBSbktEajRqTml1QlJ1YTZXTWNJT0lVYTNjRWd3NndKSklSMlRzYVg5UUctTkw5dnFXNFFKX2M?oc=5",
-       "source": "Yahoo! Finance Canada",
-       "date": "2026-10-14T23:47:05+00:00"
       }
      ]
     },
@@ -342,10 +342,10 @@
      },
      "news": [
       {
-       "title": "Millennium Silver Corp. Announces Stock Option Grant",
-       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUlpIUHlaZS14WENITUdjamR1VWt6SnlyOThRQmNMbjI5SG1PbkZXTXpMNkw1RVJNbzJlSllNUjdtQ0RXUXROVTd4ekpUYUhhSW9GNmtqNEdyX2pqRlNPYjB1S3ZnVUJmV0xyNWJSNERsdVZjQWVYc2lfSnJxaEl0Z0pFbHVudlA0ZlZZd1pGRHRaVTlCTXp5aGRORVNrdFRTUXFNSGJB?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-09-21T07:00:00+00:00"
+       "title": "Gr Silver Mining Ltd (GPE.HA) stock price, news, quote and history",
+       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jekNGTmNwS1JwU3JpM2ZoUDRVdkoyRUIxNXBUMTd5VjF6TXdxRm9oLTBHRWNocnFsUElhQmRBMDMybWkwaHRxVEZPQWRoN25rVlV3LQ?oc=5",
+       "source": "Yahoo Finance UK",
+       "date": "2026-10-16T02:23:36+00:00"
       },
       {
        "title": "GR Silver's 2027 Resource Update Decides What Its Zinc Is Worth",
@@ -398,10 +398,10 @@
        "date": "2026-10-09T12:08:00+00:00"
       },
       {
-       "title": "Maxim Group Keeps Their Buy Rating on Silver X Mining (AGX)",
-       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeGJXVVVJTUhPUEtzeEF2c3BlUTdIUnR1OUJxUHEyalhyU05RVnR0VXFiTi1Hc3JhT3hwcDdFNi1DR3RHdVF0cVg2dUFWaFBESUNHT3JnS0dHWENySC1fanJDM2taLU1VblJ5Vnk3VUhzTWFrT1A5VEFlc2RaTmFsMU85dEs4VmV3OXFRRXRYSGVVT3RWRHlwTkN5bUtldnNacm9WV2hkazVPSy1ZQ0l3YTdzWHRMMGZ4dG9CeGdwMmx2cVpNdzVrdTRkaWhsai1hX1BpdlZjX3BqNGM?oc=5",
-       "source": "The Globe and Mail",
-       "date": "2026-09-27T07:00:00+00:00"
+       "title": "Silver X Mining Corp. (TSXV:AGX) Gains 4.55% as Green Momentum Strengthens the Constructive Outlook",
+       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPenItd0x0Mkc3ZTJaYjBoUEJrUy03RVBvXzVRVlB4WlFZZTFDdmYtZDBZZUtTWDFkTWpjN0E2UXJmRmlrbV9zNjdOR1IwcVlhYWhZQnN3TGdLTWxXa1RhYmdqTFRVZmRsOWdweTJ4alB5S0pKRGEzUHBLQVhUQXdFVjVjZXBpNjhMQTI5aE9lZ0NtSTZhR2h6U1VyOHFabnR4d0RLdVNCcldnZDkxX2QtSXJjY056MFJNLWFKSkltZGRnQQ?oc=5",
+       "source": "kalkine.ca",
+       "date": "2026-10-06T10:13:00+00:00"
       }
      ]
     }
@@ -537,16 +537,16 @@
      },
      "news": [
       {
-       "title": "Apple iPhone Duo Preorders Are Off to a Strong Start. That\u2019s a Win for the Stock.",
-       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBMR3hscndTUVMyOEd1RzBzQklRTG44eDlyTXRTV3g1M01jZ21iMHZ3ZG0xa0N5QUk1N20xbS1FVHhYbENocm1Kdlc5cHRmM2VWX1Rya2E4emxxOTJjbmk1Um5tNWdLVnQtdjB3Rnh3NUE0QQ?oc=5",
-       "source": "Barron's",
-       "date": "2026-10-16T16:26:00+00:00"
-      },
-      {
        "title": "AAPL Stock Gains As Strong Demand Reportedly Pushes iPhone Duo Delivery To December",
        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdlZhYnRXZjRPdmFYME1jcmZwdnR5NDZfN3pKRXBaWlgtX2I1b0ppNDBUQ3BqNXhGMlJ3THVBU2piMlRQTU1tdVRQc1ZNUVZtMEhka0hUbE1LYS1RaFNFVEh4ZExpZ2pHdVA0LXRzYW9Ra1FMY3dxSV9UcGJyUy1rVFRsQjd3X0FQSkhCZTJCelhJOTE2cDA4RHlzTQ?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-10-16T14:04:08+00:00"
+      },
+      {
+       "title": "Apple iPhone Duo Preorders Are Off to a Strong Start. That\u2019s a Win for the Stock.",
+       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBMR3hscndTUVMyOEd1RzBzQklRTG44eDlyTXRTV3g1M01jZ21iMHZ3ZG0xa0N5QUk1N20xbS1FVHhYbENocm1Kdlc5cHRmM2VWX1Rya2E4emxxOTJjbmk1Um5tNWdLVnQtdjB3Rnh3NUE0QQ?oc=5",
+       "source": "Barron's",
+       "date": "2026-10-16T13:26:11+00:00"
       }
      ]
     },
@@ -693,10 +693,10 @@
        "date": "2026-10-16T17:49:19+00:00"
       },
       {
-       "title": "Tesla Stock Could Reach $500, but Not Just with Electric Cars",
-       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYXpZV1NweHhWb0dMY2ozb05OYU1uOU5pVXNMWklkOXdadThENlA3YW5sT0dxaDNldEZ6VklNdHJ3Qnkzc1NTazBwUUhWQ3dWV1RtZ1dFZ3lUSzZyYjk2eEt5bVU5Y0FMR2xwUGtsYk56ZG5ETHNxSGFHcTdSOHVhc3ljTHNwWW00VllpM0Voc2lJSlc2M1JV?oc=5",
+       "title": "Tesla Stock Rises as the Roadster Revives SpaceX Merger Talk",
+       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWHVCQWdyaHpIeGJkU1FrU1gzeWhtRVM0YlpnajBQRmdrMTdZb0VKS1ByQi05SVJDUXZGcklPZEJxWVJQSGlLanlCSWZUUXdIRkdRUWFKd25ESWxzNUhxZmpIV0UyaVl3MjIyaVk5NVI0MGNSSTAzN1dtZG15NXpkOEpFOVBvZElJNzNhb3FCa0NIRVdfMUREclVwaU1XemF1?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-10-16T13:59:15+00:00"
+       "date": "2026-10-16T14:12:45+00:00"
       }
      ]
     }
@@ -742,16 +742,10 @@
    "date": "2026-10-15T12:20:00+00:00"
   },
   {
-   "title": "Elopak ASA: Ex. dividend EUR 0.065 per share today",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdkJKZ0ZwdldPanlxdFRORk1GZEpNZ0NiTjZjZ1l5UjhXdmpJOERJeWtkb2hrWk9UbFV3UnZQOUtfX29WN1YxbEJIekoycTVFdGJKX000MklyX3N0UnBSZmo2MjVBQnlIajktN2l4aFRaaGNkckQtM0QycDRDekcxWFU5VUZQTF8yQzkxeXVLQkFyVHJURDU4UWJOQ1ZDN2ZxTDFwOEhuSEkzWXItRUhqUnk1MHY?oc=5",
-   "source": "TradingView",
-   "date": "2026-10-15T05:00:00+00:00"
-  },
-  {
-   "title": "News - Atlantic Sapphire close to leaving Oslo Stock Exchange",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRmRVNzljeElEdXNZLTJqM0hKSEhVbWtMcTV5UjZHbjJKcmRDanIyRE5LanVWSldnTTdvdURhbVBWbU1LZ2ZYaHp6dUpMcEFMWW12QUJwUVRheHNuZDBXWjFjVTg1Vm53RlZKeUc1NGRMcnhoajJfRE1sN3Npd2lmY0RnY3gtRW16XzYzQ1RjMGduRDZtUkFGdjB3?oc=5",
-   "source": "Fish Farmer",
-   "date": "2026-10-14T11:02:55+00:00"
+   "title": "Fed's Goolsbee: Even without AI, the economy would not be in recession",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOGNUVFpNdUg4RVJZcllLbWVBWUpzZF9vWlFWV1d6bG1scGZaNXlHZmJVcnJjZWp4VE16UFVnbk1DU1h4eFZWdHczek9nUGI1WXVzUV84LW4yZVQ0SEFqZHlpZ1ljZlg2U1pRRHNwU1JuelVpNTk3SVJVT2trWDZyWFNPeDRMLUJ6SE5LV1Q5U01rUlpqZzVQMWdNZ3oxbXhIVGl3SFBkd3FxNVBUQTBNMlVNN1oyQkNGalBHTHBaUFNwQQ?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-10-15T10:30:00+00:00"
   },
   {
    "title": "SoftOx Solutions AS: SoftOx Solutions AS exercises on the financing facility with Long State Investments Limited",
@@ -776,6 +770,12 @@
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQVBpdTNRT2hDdXozZGxhVnBvN2hIbERoWGlxVmQxazlpRElseG5lb0ZOZ2ttRjlGd0FlZUtuN05hR0ZCMkw4VFoxeWlPLWNxWGJxQlc5dHFhQXVaWmdtRUR5REtBanVkbVY0QmFybXNYS0dXMHlGamxySGtXRjAwb2huUlJ5XzA?oc=5",
    "source": "SeafoodSource",
    "date": "2026-10-13T19:02:08+00:00"
+  },
+  {
+   "title": "Otovo ASA: Approval of prospectus and listing of shares",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOajNaT2sxT2V0b3VRTkk1TklPcDI5WDNHcks2amQyTE9hSU1Va19TSm56NnNDbXBRMWtwT0lNNnlZRWE1ajdLWGlCOE1hUktzbU5CaXl3TE12TWY3VXFaa3NRbGJYcTlNWEVwbDdrVmFyS2h2YU9DUmN6WEhoUHppbExyVFNGRlNDdlpRMXJ3aFo2VEgzdk43Mk9wdE92OC00X1FSQXpnWF8xZmZVaTRpUDVNTzd3TnZqa1JuS1dIVTNuaDMwakhnYk5SOHNHaXNQVDFrU3ZBWUZEaHF1?oc=5",
+   "source": "Finansavisen",
+   "date": "2026-10-13T15:47:10+00:00"
   }
  ]
 }
