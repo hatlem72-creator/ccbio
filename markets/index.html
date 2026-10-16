@@ -24,11 +24,16 @@ td .n{font-family:'Source Serif 4',serif;font-size:16px;font-weight:600}td .s{di
 .co{padding:20px 0;border-bottom:1px solid var(--line)}.co h3{font-family:Inter,sans-serif;font-size:11px;letter-spacing:2px;text-transform:uppercase;color:var(--gold);margin:0 0 10px}
 .co a{display:block;color:var(--ink);text-decoration:none;font-size:17px;line-height:1.35;margin:0 0 4px}.co a:hover{text-decoration:underline}
 .meta{font-family:Inter,sans-serif;font-size:11px;color:var(--mute);margin-bottom:12px}.empty{color:var(--mute);font-style:italic}
+.gh{font-family:'Playfair Display',serif;font-size:20px;margin:30px 0 2px}.note{font-family:Inter,sans-serif;font-size:12px;color:var(--mute);margin:0 0 4px}.gnews .co{padding:12px 0}.gnews .co a{margin:0}.gnews .meta{margin:4px 0 0}
+.parthead{font-family:'Playfair Display',serif;font-size:clamp(28px,5vw,38px);text-align:center;margin:34px 0 8px;font-style:italic}
+.parthead small{display:block;font-family:Inter,sans-serif;font-style:normal;font-size:11px;letter-spacing:3px;text-transform:uppercase;color:var(--gold);margin-bottom:6px}
+.divider{margin:64px 0 0;border-top:4px double var(--gold);text-align:center;height:0}.divider span{position:relative;top:-11px;background:var(--bg);padding:0 16px;font-family:Inter,sans-serif;font-size:11px;letter-spacing:3px;color:var(--gold);text-transform:uppercase}
+.part2{background:#14213d;color:#f4efe4;margin:30px -20px 0;padding:10px 20px 30px;border-radius:2px}.part2 h2{border-color:#b08d57}.part2 td,.part2 th,.part2 .co{border-color:#2c3a5c}.part2 .co a{color:#f4efe4}.part2 .up{color:#4ade80}.part2 .dn{color:#f87171}.part2 .parthead{color:#f4efe4}
 footer{margin-top:40px;font-family:Inter,sans-serif;font-size:11px;color:var(--mute);text-align:center}
 @media(max-width:640px){.hero{grid-template-columns:1fr}.card+.card{border-left:0;border-top:1px solid var(--line)}.hide{display:none}}
 </style></head><body><div class="wrap">
 <header><h1>The Markets Ledger</h1><div class="dateline" id="dl">Loading…</div></header>
-<section class="hero" id="hero"></section><main id="main"></main>
+<div class="parthead p1"><small>Part I</small>My Portfolio</div><section class="hero" id="hero"></section><main id="main"></main>
 <footer>Prices may be delayed ~15 min (Yahoo Finance); funds show latest NAV. News via Google News. Auto-refreshes.</footer></div>
 <script>
 const f=(v,d=2)=>v==null?'–':v.toLocaleString('en-US',{minimumFractionDigits:d,maximumFractionDigits:d});
@@ -42,12 +47,16 @@ async function load(){
  dl.textContent=osl(d.updated,{weekday:'long',day:'numeric',month:'long',year:'numeric'})+' · Updated '+osl(d.updated,{hour:'2-digit',minute:'2-digit'})+' Oslo time';
  const card=(l,q,nok,u)=>`<div class="card"><div class="label">${l}</div><div class="big">$${f(q.price)}</div><div class="sub">NOK ${f(nok)}</div><div class="unit">${u}</div><div class="chg ${cl(q.chg)}">${pc(q.chg)}</div></div>`;
  hero.innerHTML=card('Bitcoin',btc,btc.nok||btc.price*r,'per BTC')+card('Silver',ag,ag.price*r,'per troy ounce');
- let h='';
- for(const s of d.sections){h+=`<h2>${s.title}</h2><table><tr><th>Company</th><th>Price</th><th class="hide">Ccy</th><th>Day</th></tr>`;
+ const tm=n=>n.date?osl(n.date,{day:'numeric',month:'short',hour:'2-digit',minute:'2-digit'}):'';
+ const tbl=s=>{let h=`<h2>${s.title}</h2><table><tr><th>${s.part==2&&s.title=='General Markets'?'Index':'Company'}</th><th>Price</th><th class="hide">Ccy</th><th>Day</th></tr>`;
   for(const i of s.items){const q=i.quote||{};h+=`<tr><td><span class="n">${i.name}</span><span class="s">${i.symbol}</span></td><td>${f(q.price,dp(q.price||9))}</td><td class="hide">${q.currency||''}</td><td class="${cl(q.chg)}">${pc(q.chg)}</td></tr>`}
-  h+='</table>'}
- h+='<h2><small>Latest</small>Company News</h2><div class="news">';
- for(const s of d.sections)for(const i of s.items){h+=`<div class="co"><h3>${i.name}</h3>`+(i.news.length?i.news.map(n=>`<a href="${esc(n.link)}" target="_blank" rel="noopener">${esc(n.title)}</a><div class="meta">${esc(n.source)} · ${n.date?osl(n.date,{day:'numeric',month:'short',hour:'2-digit',minute:'2-digit'}):''}</div>`).join(''):'<p class="empty">No recent headlines.</p>')+'</div>'}
+  return h+'</table>'};
+ const nws=(ss,t)=>{let h=`<h2><small>Latest</small>${t}</h2><div class="news">`;for(const s of ss)for(const i of s.items){if(!i.news)continue;h+=`<div class="co"><h3>${i.name}</h3>`+(i.news.length?i.news.map(n=>`<a href="${esc(n.link)}" target="_blank" rel="noopener">${esc(n.title)}</a><div class="meta">${esc(n.source)} · ${tm(n)}</div>`).join(''):'<p class="empty">No recent headlines.</p>')+'</div>'}return h+'</div>'};
+ const p1=d.sections.filter(s=>s.part!=2),p2=d.sections.filter(s=>s.part==2);
+ let h=p1.map(tbl).join('')+nws(p1,'Portfolio News');
+ h+='<div class="divider"><span>Part II</span></div><div class="part2"><div class="parthead"><small>Beyond the portfolio</small>Markets &amp; Watchlist</div>';
+ for(const s of p2){h+=tbl(s);if(s.title=='General Markets'&&d.general_news)h+='<h3 class="gh">Market Outlook — News Headlines</h3><p class="note">Headlines from a range of sources, including warnings and upbeat views. News, not financial advice.</p><div class="news gnews">'+d.general_news.map(n=>`<div class="co"><a href="${esc(n.link)}" target="_blank" rel="noopener">${esc(n.title)}</a><div class="meta">${esc(n.source)} · ${tm(n)}</div></div>`).join('')+'</div>'}
+ h+=nws(p2.filter(s=>s.title=='Tech Stocks'),'Tech News')+'</div>';
  main.innerHTML=h+'</div>';
 }
 load();setInterval(load,5*60e3);
