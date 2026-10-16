@@ -42,7 +42,7 @@ const BL={fam:["Confirmed by family","b-fam"],doc:["Documented","b-doc"],prob:["
 const badge=s=>`<span class="badge ${BL[s][1]}">${BL[s][0]}</span>`;
 const yrs=p=>p.st=="living"?"":[(p.b||"").match(/\d{4}/),(p.d||"").match(/\d{4}/)].map(x=>x?x[0]:"").join("–").replace(/^–$/,"").replace(/–$/,p.b?"":"");
 const card=id=>{const p=P[id];return `<a class="pc l-${p.line}" href="#/p/${id}"><b>${p.n}</b><span>${p.role||""}${yrs(p)?" · "+yrs(p):""}</span></a>`};
-const srcl=k=>`<a href="${S[k][1]}" target="_blank" rel="noopener">${S[k][0]}</a>`;
+const srcl=k=>S[k][1]?`<a href="${S[k][1]}" target="_blank" rel="noopener">${S[k][0]}</a>`:`<span>${S[k][0]}</span>`;
 const V={
 home:()=>`<section class="hero"><div class="eyebrow">A family history</div><h1>Hatlem Olsen</h1><p>Lofoten fishermen and shop clerks, Ålesund bakers and steamship stokers, farmers on the fjords of Sogn and the hills of Fana. All of these roads lead to Bergen. This site follows them back, one record at a time, through the censuses and church books of the National Archives of Norway.</p></section>
 <div class="grid">${Object.entries(LINES).map(([k,l])=>`<a class="panel" href="#/line/${k}"><div class="band ${k}"></div><div class="sub">${l.sub}</div><h3>${l.t}</h3><p>${l.txt.slice(0,170)}…</p></a>`).join("")}</div>
