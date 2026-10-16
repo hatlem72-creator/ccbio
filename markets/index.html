@@ -48,7 +48,7 @@ async function load(){
  const card=(l,q,nok,u)=>`<div class="card"><div class="label">${l}</div><div class="big">$${f(q.price)}</div><div class="sub">NOK ${f(nok)}</div><div class="unit">${u}</div><div class="chg ${cl(q.chg)}">${pc(q.chg)}</div></div>`;
  hero.innerHTML=card('Bitcoin',btc,btc.nok||btc.price*r,'per BTC')+card('Silver',ag,ag.price*r,'per troy ounce');
  const tm=n=>n.date?osl(n.date,{day:'numeric',month:'short',hour:'2-digit',minute:'2-digit'}):'';
- const tbl=s=>{let h=`<h2>${s.title}</h2><table><tr><th>${s.part==2&&s.title=='General Markets'?'Index':'Company'}</th><th>Price</th><th class="hide">Ccy</th><th>Day</th></tr>`;
+ const tbl=s=>{let h=`<h2>${s.title}</h2><table><tr><th>${s.title=='General Markets'?'Index':'Company'}</th><th>Price</th><th class="hide">Ccy</th><th>Day</th></tr>`;
   for(const i of s.items){const q=i.quote||{};h+=`<tr><td><span class="n">${i.name}</span><span class="s">${i.symbol}</span></td><td>${f(q.price,dp(q.price||9))}</td><td class="hide">${q.currency||''}</td><td class="${cl(q.chg)}">${pc(q.chg)}</td></tr>`}
   return h+'</table>'};
  const nws=(ss,t)=>{let h=`<h2><small>Latest</small>${t}</h2><div class="news">`;for(const s of ss)for(const i of s.items){if(!i.news)continue;h+=`<div class="co"><h3>${i.name}</h3>`+(i.news.length?i.news.map(n=>`<a href="${esc(n.link)}" target="_blank" rel="noopener">${esc(n.title)}</a><div class="meta">${esc(n.source)} · ${tm(n)}</div>`).join(''):'<p class="empty">No recent headlines.</p>')+'</div>'}return h+'</div>'};

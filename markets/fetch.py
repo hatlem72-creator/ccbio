@@ -56,7 +56,7 @@ def news(q, n=4):
         if exact and q.lower() not in title.lower() and "defiance silver" not in title.lower(): continue
         out.append({"title": html.unescape(title), "link": it.findtext("link"), "source": src, "date": d})
     out.sort(key=lambda x: x["date"] or "", reverse=True)
-    return out[:n]
+    return out[:n+8]
 
 fx = {k: quote(v) for k, v in {"USDNOK": "USDNOK=X"}.items()}
 usdnok = fx["USDNOK"]["price"]
@@ -69,15 +69,45 @@ for title, items in SECTIONS:
         try: qu = quote(sym)
         except Exception: qu = None
         if not qu: data["failed"].append(sym)
-        sec["items"].append({"symbol": sym, "name": name, "quote": qu, "news": news(q, 2 if title in ("Silver Mining","Tech Stocks") else 4) if q else None})
+        sec["items"].append({"symbol": sym, "name": name, "quote": qu, "want": 2 if title in ("Silver Mining","Tech Stocks") else 4, "news": news(q) if q else None})
     data["sections"].append(sec)
 gn = []
 for q in ["stock market outlook", "stock market crash warning OR bubble", "recession risk economy", "Oslo Børs"]:
     gn += news("RAW:" + q, 5)
-seen = set(); data["general_news"] = []
-for n in sorted(gn, key=lambda x: x["date"] or "", reverse=True):
-    if not re.search(r"stock|market|recession|bubble|crash|econom|fed|rate|index|børs|s&p|dow|nasdaq", n["title"], re.I) or "Market Size" in n["title"]: continue
-    if n["title"] not in seen: seen.add(n["title"]); data["general_news"].append(n)
-data["general_news"] = data["general_news"][:12]
+data["general_news"] = gn
+import difflib
+REP = ["reuters","bloomberg","financial times","wall street journal","cnbc","associated press","barron","marketwatch","e24","dn.no","yahoo finance","the globe and mail","kitco","investing.com","seeking alpha","motley fool"]
+def rep(n):
+    src = (n.get("source") or "").lower()
+    return next((i for i, r in enumerate(REP) if r in src), len(REP))
+def norm(t, src=""):
+    t = t.lower()
+    if src and t.endswith(" - " + src.lower()): t = t[:-len(src)-3]
+    t = re.sub(r"\s[-|–—]\s[^-|–—]{2,40}$", "", t)
+    return " ".join(re.sub(r"[^\w\s]", " ", t).split())
+kept = []  # (url, normtitle, tokens)
+def dup(n):
+    nt = norm(n["title"], n.get("source", "")); tk = set(nt.split())
+    for u, t, k in kept:
+        if n.get("link") == u or nt == t: return True
+        if difflib.SequenceMatcher(None, nt, t).ratio() > 0.85: return True
+        if tk and k and len(tk & k) / min(len(tk), len(k)) > 0.85: return True
+    return False
+def pick(cands, want):
+    # group near-duplicates within the candidate list: keep most reputable, then earliest
+    cands = sorted(cands, key=lambda x: (rep(x), x["date"] or ""))
+    out = []
+    for n in cands:
+        if len(out) >= want: break
+        if dup(n): continue
+        out.append(n); nt = norm(n["title"], n.get("source", ""))
+        kept.append((n.get("link"), nt, set(nt.split())))
+    return sorted(out, key=lambda x: x["date"] or "", reverse=True)
+# most specific first: holdings (portfolio, then tech), general market feed last
+for sec in sorted(data["sections"], key=lambda x: x["part"]):
+    for it in sec["items"]:
+        if it["news"] is not None: it["news"] = pick(it["news"], it.pop("want"))
+        else: it.pop("want", None)
+data["general_news"] = pick(data["general_news"], 12)
 json.dump(data, open("markets/data.json", "w"), indent=1)
 print("failed:", data["failed"])
