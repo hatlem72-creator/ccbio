@@ -137,7 +137,7 @@ const S={
  m1929s:["Johannes church book, Bergen: marriage of Rasmus Haugland (b. 1908) and Solveig Hansen (b. 1907, Bergen, living at Nesttun), 18 Dec 1929; bride's father Mads Hansen",DA+"view/327/pv00000007989746"],
  dsol03:["Deaths 1951–2017: Solveig Haugland, b. 24 Sep 1908, d. 15 Feb 2003, Bergen",DA+"view/387/pc00000003231959"],
  drha78:["Deaths 1951–2017: Rasmus Haugland, b. 24 May 1908, d. 18 Aug 1978, Bergen",DA+"view/387/pc00000002267283"],
- obit99:["Obituary of Tena Hatten (née Smilden), Grand Forks Herald, Feb 1999, transcribed on GenLookups North Dakota Obituary Archive, page 211","https://www.genlookups.com/nd/webbbs_config.pl/noframes/read/211"],
+ obit99:["Obituary of Tena Hatten (née Smilden), Feb 1999, as transcribed on GenLookups North Dakota Obituary Archive, page 211","https://www.genlookups.com/nd/webbbs_config.pl/noframes/read/211"],
  m1894tj:["Øn church book, Hyllestad (1413P), marriage of Gabriel Bertelsen Skor (b. 1867) and Thorine Jensine Hansdtr Smilden (b. 1871 at Smilden), 8 Jun 1894; bride's father Hans Jensen Smilden",DA+"view/327/pv00000008182061"],
  gal1890:["New York passenger lists 1820–1897 (NARA M237, roll 550), SS Gallia, 1890: manifest line 'Hans H. Hatlem', 21, Norway (FamilySearch record and image, screenshots supplied and identity confirmed by Gaute)",""],
  di1928:["US Declaration of Intention no. 63348, Northern District of Illinois, Chicago, 12 May 1928 (FamilySearch, found by Gaute)","img/harald-declaration-1928.jpg"],
