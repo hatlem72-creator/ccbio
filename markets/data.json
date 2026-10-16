@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-16T21:54:57.018858+00:00",
+ "updated": "2026-10-16T21:55:45.026853+00:00",
  "usdnok": 9.41349983215332,
  "btc": {
-  "price": 81563.890625,
+  "price": 81563.8984375,
   "prev": 82141.4609375,
-  "chg": -0.7031410275737171,
+  "chg": -0.7031315165424878,
   "currency": "USD",
   "asof": "2026-10-16T00:00:00+00:00"
  },
@@ -69,12 +69,6 @@
      },
      "news": [
       {
-       "title": "Cochin Shipyard Is Building 4 Fully Electric Svitzer Tugs With AYK Batteries And Kongsberg Systems",
-       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNV1NvTEp0QXlIRlVqenpWRURBa1FwUUtvVDkzRi1sbGIzdEQ5Q0hUMUNydFVoX3NJSm9zZThlcjFManpXTXJCS0M3cURXWjBkel9FNUhxc3hLdE1WbVVDRlJHUWZhX05ZU0dSNF9uTkRJSHhiZHg0TUN3YnBORnFWZ3VlUlFNeWF2RDlLN2xPUURSOWZjYjJIZUMydVRlRXJUNVRTbEs0THdzaHozSlBGQk1xOUZJUDkyZnpQbXhQWmxLc3ZKVmNXeg?oc=5",
-       "source": "Marine Insight",
-       "date": "2026-10-09T10:51:30+00:00"
-      },
-      {
        "title": "AYK Energy to supply batteries for four electric Svitzer tugs",
        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMWRuX0ZlYjRFOGhMaGl4SDZMNFJjUDBMd0N3NmN3Y21kWmZtZURIZm44SS1rWS1CbDJRRGl3N2p6MnptOVJGcWM1b0thUlFUbXgxQmU2TWFzSlRrakpaM2VQdjRmX3VWZFJaNTloTERWekhqMlVMbko5ZUJQSUFmdkIwOFJjeWEzTGkwR3VhbUpCYllXdmswcm8yMzJfWWFfTmt3SWNsbHFJNkdEc2FQbldkX1J3ZnBQRW91cDRn?oc=5",
        "source": "Maritime Journal",
@@ -85,6 +79,12 @@
        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeWFRczlOdDNxT3JRMUxZSFpvTlJaZlpDa3h2aExmTl9nU3JQc1lTaG5TM0FkNDJVNmMycVIyaEhZNjBmT0twN1U3cnB4NktaOUI4alNrQU1sY1NiV0tPc0Zad3Z2cGdvT0Z4am4zWTlVQkpBUjVfc3FLajRPOV96R0FLQUZ6Nmw0ZWF2MzJnTXRfQQ?oc=5",
        "source": "Maritimt Magasin",
        "date": "2026-10-07T07:00:00+00:00"
+      },
+      {
+       "title": "AYK Energy lands Kongsberg Maritime electric tug deal",
+       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOVM4V2plM3NnQlNWRlpFQ1NlenlMcTB4QXRZZ1owRUt1T2UwRGk3VjRlQ3B4T0dxTm5tcXdia2ktWWVZQTVJenRVRm92X0NUejl2b0RPM3d6LWtqNDI5T0psOHcxMHhDcVQ2ZGlHS3ZfWlRhV05ENFkxSDFIeHN5WWU2NzhfLUNOVGtqeWd3?oc=5",
+       "source": "Marine Log",
+       "date": "2026-10-06T13:44:45+00:00"
       },
       {
        "title": "AUV safety, operability and mission efficiency solutions",
@@ -305,16 +305,16 @@
      },
      "news": [
       {
-       "title": "First Majestic Silver Shares Slide 5.76% as Capital Reinvestment Pacing and Mexican Operational Headwinds Weigh on Investor Sentiment",
-       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPRFZpaktZajMwZERDd3ptcHVXVm9DNEMyZUI3WFRSZGNQbUk3LXYtbThHNER6VEJ3cW50dmVnczBPNm1BWkJ0QWNjUEt5NFhGN1VKUUNDdElIWlY0TFJLZ1U5S0FYVHhDRE5VY1hRazNYa1VtbG5jNThSYW5XZzVhY0VQbFJ3LXZFWU04SGZGQnpER3EtU2tQYzF2YzJPdzRGZXhIRUNXVGZzdTg1OXVIYUpDSHk5OGZXdEQ3UExwQ0ZHc3l1alplUzdZRm0wQ19SOXptUS1leHhKREpFQ0JveVo5V2VXbm9nUlUzcm1qUjhnMDVv?oc=5",
-       "source": "kalkine.ca",
-       "date": "2026-10-15T06:53:27+00:00"
-      },
-      {
        "title": "Aura Minerals, Lahontan Gold, First Majestic: Millions in Gold Beneath the Ground | 2026-10-14 | Investing News",
        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUW13cGIzdGkyLUR6d081X1VjdENzM0k5UEhGSE9Uc1Q0OW82bzlrVmRxUy1qc1NJbUh0c09OU19aSTREWHVtZEdJSm43RkgwRXk4N1Q4c05xanVUeTJ0U3lmZm1kVzJqZTZzS3gyM2tTdUtiWkJkMk5rckQxR1FadUhlYmJ4dE0xTExvZ2NrZTh2b3dnYmZ4aGpnSE8tMDNhMWludVNGSmhhcFJJVGFldmxsX1lZbE9pbkd1SHZuNVhBck8y?oc=5",
        "source": "Stockhouse",
        "date": "2026-10-15T03:36:28+00:00"
+      },
+      {
+       "title": "FIRST MAJESTIC SILVER (AG-USD.SW) Income Statement",
+       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LcjAwY0FOUGpmQ0dmemdQaURaMHROUGZVYmpIcXFMS2tsMGtJLWMyQlBSbktEajRqTml1QlJ1YTZXTWNJT0lVYTNjRWd3NndKSklSMlRzYVg5UUctTkw5dnFXNFFKX2M?oc=5",
+       "source": "Yahoo! Finance Canada",
+       "date": "2026-10-14T23:47:05+00:00"
       }
      ]
     },
@@ -543,10 +543,10 @@
        "date": "2026-10-16T16:26:00+00:00"
       },
       {
-       "title": "Apple\u2019s first foldable iPhone sells out within minutes as preorders begin",
-       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMlVGNnl4Qi1ENS0yY1VhM0VfN3RnRVBYVVBhQU1IYUVMN0gxQTFKaWFxaE4wQldkUWlNdTFxMk4xTHdHeHBtdENTV2YxRjBqMmFxN1NXZ1l3LVpXU3F3T1BIV3ZucGsyNERGTFJLcTRremgyaDk0ajdJRzR0Q3pkd1dOWVBwVm1zX1U3LWM3c3g0eXpBZS1USFZSU3FabEk?oc=5",
+       "title": "AAPL Stock Gains As Strong Demand Reportedly Pushes iPhone Duo Delivery To December",
+       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdlZhYnRXZjRPdmFYME1jcmZwdnR5NDZfN3pKRXBaWlgtX2I1b0ppNDBUQ3BqNXhGMlJ3THVBU2piMlRQTU1tdVRQc1ZNUVZtMEhka0hUbE1LYS1RaFNFVEh4ZExpZ2pHdVA0LXRzYW9Ra1FMY3dxSV9UcGJyUy1rVFRsQjd3X0FQSkhCZTJCelhJOTE2cDA4RHlzTQ?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-10-16T13:17:28+00:00"
+       "date": "2026-10-16T14:04:08+00:00"
       }
      ]
     },
@@ -618,10 +618,10 @@
        "date": "2026-10-15T17:48:00+00:00"
       },
       {
-       "title": "Prediction: Alphabet Will Soar After Oct. 28",
-       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSHQwbFNrX3BjdE1BMkpONWVYUXFsSjJleFNEVnhGTEZMbVF3UnJfdFctSmk0VURnVExEZGtnUDU5dkpjaUd6LV91d1hxOTBxZDBTTEt0MHJLRHlsa0RSR2JYM1pIdTk2ZF9ieDUtNWJhT2lqczU2WmpQenZCV0NGNVNPaXM5YlM1WlphOVVIZWNvQWVLRTA0VHVaZWI?oc=5",
+       "title": "Prediction: Alphabet Stock Is Going to Soar After Oct. 28",
+       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTU0yaG1QcUQ1S1JmVHJjbzByU3l2X2NMeHB3ZTFBRU1kYmYzT0JTLS1QQk1VLWxnQUlkZmIwYng3YVI5dkwwTnQxU2ZQOHB4QVZCSTBleFR1cW84R1ZvcHZYcWtkT2NXRUtJY3l0eVcwUmk2SDJXSFhvQXFBUXcwRTNQN3ExTEZZX0FIUlZIUWd6di1RelgyWnVzR25FQ21FZlZF?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-10-14T23:20:00+00:00"
+       "date": "2026-10-14T11:29:00+00:00"
       }
      ]
     },
@@ -730,6 +730,12 @@
    "date": "2026-10-16T08:55:00+00:00"
   },
   {
+   "title": "Turn People data and technology into insights that support Nammo\u2019s growth.",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UWUR5alZJX2pILTVVZ2x2U294S0pydW1LZVFrT1hzejF0UGxYUDlyMnN3dUY0WThhTV9Mc3pQamFGOXdCeFljR0VWcGdKZ1hxdFZRd1Ficko5Zw?oc=5",
+   "source": "E24",
+   "date": "2026-10-16T07:18:51+00:00"
+  },
+  {
    "title": "Indonesia suffers a series of market sentiment setbacks in 2026",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMmllVUp5TW0zMzYyNGpXQUNKS0JlOXlXSHFoaXVKMmtoNmlNLXhrSVZoRjVKRm54VHR4LUM1eTdybFpoZnFVdFE5VERLYWNNOE1TTy16SWlJUWFZUzJoSXhCUW5NemxMYTFBeWVpUHowZUpyZWY3cmx4eE5JVnBZM3JxTmNJOW8yNEdZcWNUUlFBNm1aRkthQUduV0dMUU1JS0pTQnNxd19nTEdZbUpz?oc=5",
    "source": "Reuters",
@@ -748,34 +754,28 @@
    "date": "2026-10-15T12:20:00+00:00"
   },
   {
-   "title": "R\u00f8kke-konkurrent stuper: \u2013\u2060 Frykt for utsatt IPO og lavere prising",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOXdjRHpiRGJvQ3lUUHlIdTRnTnQ3ZnpWYnJ4N0RHNlRJOWNyVjRpWU1ZY2dGQUhLTGFhbUk4TDJNaW1KYUg2ZW03dE9TZmVkbmdSZ09SeFpjWU9fd2JUNy1xblo3b1JOek5fNVMxU0NBNUZFQXFxMVltNDUyY0txRFZHeTQ2U0xsRzQ1RXgwemYycGtYS2lSNGpRZnBIcTAxczVjM1F3?oc=5",
+   "title": "If a Stock Market Crash Is Coming, Here's What Warren Buffett Would Do to Stay Ahead",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUGstZG5JZkdicVV1QWpaSlVfcGlDczZRNXBnTjFqckhET0tFcDVBd2VlNm9iX3RxTW1kekp0b2tlSl9MQk1NOS03YnkyQlhWT2UxSWJHVmgtejl5aHdHcG5yenU4WnQ3OVZ0SkpOaGJRdVRKSmVXNkk2UDA1VHFYT2ZYMVNKTW1UYzl1UHgtY0JUWm1RMjNfRVJWdk0?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-10-14T17:37:00+00:00"
+  },
+  {
+   "title": "\u00abBull p\u00e5 gull\u00bb: Ser vendepunkt etter prisfall",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTjllS3RMaXVIaHA4eWhPTjF5RG0zMi1fclZLZi1kWVBxa2NSUlFKMTY2M3QtblhxUkRLU01qblZtMzRDa3l5QlBfeWlIRE1tQ3lzX1pBWVd0R25DUHFIeDVwY3hLY1pXelUzMHU1SURPaWdjODFzYld3dUdBWWx0SGMzRHh2WHJENEdN?oc=5",
    "source": "E24",
-   "date": "2026-10-14T16:18:46+00:00"
-  },
-  {
-   "title": "SoftOx Solutions AS: SoftOx Solutions AS exercises on the financing facility with Long State Investments Limited",
-   "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOQlY4bE1kX3FTMDlETzNOVlB6SmZjQXVCaUJrbjM0V25YX3p1ajZxOW4tTkd6STZmSUgwXzNRanZob3RsMW5XaG1kbzF1TXdFSUV4aHc1NUpNNzdtOTZsUlB3UXJrMHRFSzMyQXBJcnFaTENMSjFGc3NNX1VYSUo0S09aSm91YmE1bWJ3UHUydEhuYlJJUEZDZ0t6S08wWm0xSFoyNkcyZG1RQ1hsOUpfdGdfM0psRWFra3I0M3RHVjRYcV9BZHlsN3hKMGhHcmRMZWJwcnZ0ZzRmN0ZpcFZqT1diYVZrRS1xbFdFYTV6eTV0Z0F5LU55T3FmZGdDbFQ4ZG1FaTFEQThmNENzRFVaN3RvTVBvbnowSW1MbmF2UWwtdUdOU0ozSw?oc=5",
-   "source": "Finansavisen",
-   "date": "2026-10-14T07:00:00+00:00"
-  },
-  {
-   "title": "Borr Drilling Limited - Notification of PDMR Transaction",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbWFURE5EaVhwNmd6b1lFUGF6bHI4NnRYRnFTY2lqRURiaGRacWl3cTkxU20yQTRiY2k4bERnaE0wT092X0pLLUdNbVRHdFlBaTJqMVFhdzlKa2ZtV19iaGd0bi1TTG5PMHRvUV8wbDAxNGZ1SjFuZnpLeEEtSFAwSDlySHlOaHg2VmE0SWVZLUJWdkdYbUFjRjNVVTlPZ2RTQnJtaXR5RXl1Mkhta3BqTzFhZThJZV9Wd2dxZk9LUmtUY2l5VjZnUWJKZlFPMjZBTUpsR0F4dUZraVpV?oc=5",
-   "source": "Finansavisen",
-   "date": "2026-10-14T05:05:00+00:00"
-  },
-  {
-   "title": "PPI Public Property Invest AB: Transactions carried out under the share buy-back program",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPU0N1ZEZnOEM5WnB6YWhHVTA5V0lyem93WDdqYmt5Smhsak9jemhvRXpyRndfWGNwWURpSmljaWF2emo5TnA1TTE4dmp0Mng4U3BtVks2d3YzaVRvR1ZnTTgwcWZDRDRyLU1OSDFETlFZeGZzZUg3ck1XUWNnQzdWdlJxTmdYY1pqanplZ3JDODE2NjNaeWlUQVU1ZVZyS252akJkMlJ3ZnJMVjlraGhpcGE5d2FTcGU4Yi01UkZ5bnN0NEtqSjNwaWFPbzdnSG5oN3pRRlBHd2JnWTJMOUlyMGJOWFNHdDdy?oc=5",
-   "source": "TradingView",
-   "date": "2026-10-14T05:00:00+00:00"
+   "date": "2026-10-14T04:05:21+00:00"
   },
   {
    "title": "Atlantic Sapphire files to delist from Oslo B\u00f8rs",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQVBpdTNRT2hDdXozZGxhVnBvN2hIbERoWGlxVmQxazlpRElseG5lb0ZOZ2ttRjlGd0FlZUtuN05hR0ZCMkw4VFoxeWlPLWNxWGJxQlc5dHFhQXVaWmdtRUR5REtBanVkbVY0QmFybXNYS0dXMHlGamxySGtXRjAwb2huUlJ5XzA?oc=5",
    "source": "SeafoodSource",
    "date": "2026-10-13T19:02:08+00:00"
+  },
+  {
+   "title": "Atlantic Sapphire Applies for Delisting from Euronext Oslo B\u00f8rs",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQU5EYWZtVUw5dVZCQ2Q4aUhDOUE2bldKSU1kREdaUnY3bTFVSGJMdHJiVno2MzJSc1lnelR3M1pEZUdsNXVrVm1nV2JIS1dEVlNtb3YwUF85U0xGbkRVNkV6NkMzZXRZb1ltVUZYZGxLLUM3MS1FVk9VSVllalRGZkFqdUkyelBlRV9iZFVHbHl3S1pxNlhtWWJKN0JTNTdQR3Ayc0FneE1xMHh2YVM4Y1FFVEtxbms?oc=5",
+   "source": "www.marketscreener.com",
+   "date": "2026-10-13T08:19:21+00:00"
   }
  ]
 }
