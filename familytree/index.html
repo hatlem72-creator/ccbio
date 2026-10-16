@@ -1,0 +1,52 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Hatlem Olsen — Family Tree</title><meta name="robots" content="noindex">
+<style>
+:root{--bg:#0b0b0c;--fg:#f2f0ec;--mute:#8d8a85;--line:#232325;--accent:#c9b28a}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font-family:-apple-system,Segoe UI,Roboto,sans-serif}
+h1,h2,.name{font-family:"Cormorant Garamond","Playfair Display",Georgia,serif;font-weight:500}
+header{text-align:center;padding:48px 20px 16px}h1{font-size:clamp(32px,7vw,56px);margin:0;letter-spacing:.04em}
+header p{color:var(--mute);margin:8px 0 0}
+.tree{display:flex;flex-direction:column;align-items:center;gap:0;padding:24px 12px}
+.gen{display:flex;gap:14px;justify-content:center;flex-wrap:wrap}
+.gen .lbl{width:100%;text-align:center;color:var(--accent);font-size:11px;letter-spacing:.25em;text-transform:uppercase;margin-bottom:8px}
+.conn{width:1px;height:34px;background:var(--accent);opacity:.6}
+.card{border:1px solid var(--line);background:#121214;border-radius:12px;padding:14px 16px;min-width:150px;max-width:220px;text-align:center}
+.card .name{font-size:22px}.card .meta{color:var(--mute);font-size:13px;margin-top:4px}
+.badge{display:inline-block;margin-top:8px;font-size:10px;letter-spacing:.15em;text-transform:uppercase;padding:3px 8px;border-radius:20px;border:1px solid var(--accent);color:var(--accent)}
+.card.unknown{border-style:dashed;opacity:.55}.card.unknown .badge{border-color:var(--mute);color:var(--mute)}
+.card.possible{border-style:dashed;border-color:#7a6a4a}.card.possible .badge{color:#b99;border-color:#b99}
+.card.me{border-color:var(--accent)}
+section{max-width:760px;margin:0 auto;padding:16px 20px 60px}h2{font-size:28px;border-bottom:1px solid var(--line);padding-bottom:6px}
+section p,section li{color:#cfcac2;line-height:1.6;font-size:15px}a{color:var(--accent)}
+.legend{display:flex;gap:10px;justify-content:center;flex-wrap:wrap;font-size:12px;color:var(--mute)}
+footer{text-align:center;color:var(--mute);font-size:12px;padding:30px}
+</style></head><body>
+<header><h1>Hatlem · Olsen</h1><p>Family tree — a work in progress</p></header>
+<div class="legend"><span class="badge">Confirmed</span><span class="badge" style="color:#b99;border-color:#b99">Possible</span><span class="badge" style="color:var(--mute);border-color:var(--mute)">Unknown</span></div>
+<div class="tree">
+ <div class="gen"><div class="lbl">Grandparents</div>
+  <div class="card unknown"><div class="name">?</div><div class="meta">Father's father</div><span class="badge">Unknown</span></div>
+  <div class="card unknown"><div class="name">?</div><div class="meta">Father's mother</div><span class="badge">Unknown</span></div>
+  <div class="card unknown"><div class="name">? Hatlem</div><div class="meta">Mother's father</div><span class="badge">Unknown</span></div>
+  <div class="card unknown"><div class="name">?</div><div class="meta">Mother's mother</div><span class="badge">Unknown</span></div>
+ </div>
+ <div class="conn"></div>
+ <div class="gen"><div class="lbl">Parents</div>
+  <div class="card"><div class="name">Arne Robert Olsen</div><div class="meta">Father</div><span class="badge">Confirmed</span></div>
+  <div class="card"><div class="name">Martha Ingeborg Hatlem</div><div class="meta">Mother</div><span class="badge">Confirmed</span></div>
+ </div>
+ <div class="conn"></div>
+ <div class="gen"><div class="card me"><div class="name">Gaute Hatlem Olsen</div><span class="badge">Confirmed</span></div></div>
+</div>
+<section>
+<h2>Research notes</h2>
+<p>Public records searched so far have not linked older generations with confidence. These are <em>leads only</em>, not part of the tree:</p>
+<ul>
+<li>An Arne Robert Olsen, b. 1899 in Kabelvåg (Lofoten), lived in Bergen in 1920 and 1934 — same name, connection unknown. <a href="https://www.digitalarkivet.no/census/apartment/lf01074034058163">1920 census</a>, <a href="https://www.digitalarkivet.no/view/108/pc00000000467453">1934 register</a></li>
+<li>A Hatlem family lived in Bergen in 1917 (Bernt Andersen Hatlem, b. 1856). Connection unknown. <a href="https://www.digitalarkivet.no/census/person/pf01130584016504">1917 census</a></li>
+<li>The Hatlem name comes from farms in Hyllestad, Sogn (e.g. Indre Hatlem). <a href="https://family.brudvik.org/genealogy/familygroup.php?familyID=F5089&tree=brudvik">Brudvik genealogy</a></li>
+</ul>
+<p>More names, birth years and places for the grandparents will let the tree go back further.</p>
+</section>
+<footer>Sources: Digitalarkivet (Arkivverket) · Private details of living people are not shown.</footer>
+</body></html>
