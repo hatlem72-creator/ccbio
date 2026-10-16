@@ -79,6 +79,8 @@ const S={
 // status: fam = confirmed by family, doc = documented in records, prob = probable, living
 const P={
  gaute:{n:"Gaute Hatlem Olsen",st:"living",line:"",par:["arne46","martha"],note:"The person this family history is made for."},
+ olaf:{n:"Olaf Olsen",st:"living",line:"olsen",par:["arne99","ingeborgO"],role:"Uncle (father's brother)"},
+ else_:{n:"Else Olsen",st:"living",line:"olsen",par:["arne99","ingeborgO"],role:"Aunt (father's sister)"},
  dag:{n:"Dag Hatlem",st:"living",line:"hatlem",par:["harald","klara"],role:"Uncle (mother's brother)"},
  liv:{n:"Liv Cecilie Hatlem",st:"living",line:"hatlem",par:["harald","klara"],role:"Aunt (mother's sister)"},
  hedda:{n:"Hedda Øvreboten Hatlem",st:"living",line:"",par:["anne"],role:"Niece (Anne Cecilie's daughter)"},
