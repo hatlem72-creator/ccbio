@@ -50,6 +50,8 @@ const P={
  gaute:{n:"Gaute Hatlem Olsen",st:"living",line:"",par:["arne46","martha"],note:"The person this family history is made for."},
  dag:{n:"Dag Hatlem",st:"living",line:"hatlem",par:["harald","klara"],role:"Uncle (mother's brother)"},
  liv:{n:"Liv Cecilie Hatlem",st:"living",line:"hatlem",par:["harald","klara"],role:"Aunt (mother's sister)"},
+ christoffer:{n:"Christoffer Robin Hatlem",st:"living",line:"",par:["claus"],role:"Nephew (Claus's son)"},
+ leander:{n:"Leander Hatlem",st:"living",line:"",par:["claus"],role:"Nephew (Claus's son)"},
  anne:{n:"Anne Cecilie Hatlem Olsen",st:"living",line:"",par:["arne46","martha"],role:"Sister"},
  claus:{n:"Claus Hatlem",st:"living",line:"",par:["arne46","martha"],role:"Brother"},
  arne46:{n:"Arne Robert Olsen",st:"fam",line:"olsen",par:["arne99","ingeborgO"],sp:["martha"],role:"Father",b:"1944",d:"September 2026",ev:[["1944","Born, son of Arne Robert Olsen (1899–1944) and Ingeborg Olsen (née Pedersen)"],["2026","Died in September"]]},
