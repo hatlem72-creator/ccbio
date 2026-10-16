@@ -3,18 +3,18 @@ import xml.etree.ElementTree as ET
 import yfinance as yf
 
 SECTIONS = [
- ("Silver & Precious-Metal Miners", [
+ ("Stocks", [
+  ("KOG.OL","Kongsberg Gruppen","Kongsberg Gruppen"),("KMAR.OL","Kongsberg Maritime","Kongsberg Maritime")]),
+ ("ETFs & Index Funds", [
+  ("G2X.DE","VanEck Gold Miners UCITS ETF","VanEck Gold Miners"),
+  ("2B76.DE","iShares Automation & Robotics UCITS ETF","iShares Automation & Robotics"),
+  ("0P0001IMY8.F","AuAg Silver Bullet B","AuAg Silver Bullet")]),
+ ("Silver Mining", [
   ("HL","Hecla Mining","Hecla Mining"),("HYMC","Hycroft Mining","Hycroft Mining"),
   ("ASM","Avino Silver & Gold","Avino Silver"),("CDE","Coeur Mining","Coeur Mining"),
-  ("AG.TO","First Majestic Silver","First Majestic Silver"),("DEF.V","Defiance Silver","Defiance Silver"),
+  ("AG.TO","First Majestic Silver","First Majestic Silver"),("DEF.V","Defiance Silver","Defiance Silver Corp"),
   ("GRSL.V","GR Silver Mining","GR Silver Mining"),("GSVR.V","Guanajuato Silver","Guanajuato Silver"),
   ("AGX.V","Silver X Mining","Silver X Mining")]),
- ("Funds & ETFs", [
-  ("G2X.DE","VanEck Gold Miners UCITS ETF","VanEck Gold Miners"),
-  ("0P0001IMY8.F","AuAg Silver Bullet B","AuAg Silver Bullet")]),
- ("Technology & Defence", [
-  ("KOG.OL","Kongsberg Gruppen","Kongsberg Gruppen"),("KMAR.OL","Kongsberg Maritime","Kongsberg Maritime"),
-  ("2B76.DE","iShares Automation & Robotics UCITS ETF","iShares Automation & Robotics")]),
 ]
 
 def quote(sym):
@@ -28,7 +28,8 @@ def quote(sym):
             "currency": cur, "asof": h.index[-1].isoformat()}
 
 def news(q, n=4):
-    url = "https://news.google.com/rss/search?" + urllib.parse.urlencode({"q": f'"{q}" when:30d', "hl": "en-US", "gl": "US", "ceid": "US:en"})
+    exact = q.endswith(" Corp")
+    url = "https://news.google.com/rss/search?" + urllib.parse.urlencode({"q": f'"{q.replace(" Corp","")}" when:' + ("365d" if exact else "30d"), "hl": "en-US", "gl": "US", "ceid": "US:en"})
     try:
         root = ET.fromstring(urllib.request.urlopen(urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"}), timeout=20).read())
     except Exception: return []
@@ -38,6 +39,7 @@ def news(q, n=4):
         if src and title.endswith(" - " + src): title = title[:-len(src)-3]
         try: d = email.utils.parsedate_to_datetime(it.findtext("pubDate")).isoformat()
         except Exception: d = None
+        if exact and q.lower() not in title.lower() and "defiance silver" not in title.lower(): continue
         out.append({"title": html.unescape(title), "link": it.findtext("link"), "source": src, "date": d})
     out.sort(key=lambda x: x["date"] or "", reverse=True)
     return out[:n]
@@ -53,7 +55,7 @@ for title, items in SECTIONS:
         try: qu = quote(sym)
         except Exception: qu = None
         if not qu: data["failed"].append(sym)
-        sec["items"].append({"symbol": sym, "name": name, "quote": qu, "news": news(q)})
+        sec["items"].append({"symbol": sym, "name": name, "quote": qu, "news": news(q, 2 if title=="Silver Mining" else 4)})
     data["sections"].append(sec)
 json.dump(data, open("markets/data.json", "w"), indent=1)
 print("failed:", data["failed"])

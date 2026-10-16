@@ -1,428 +1,23 @@
 {
- "updated": "2026-10-16T20:13:01.924561+00:00",
- "usdnok": 9.425530433654785,
+ "updated": "2026-10-16T20:23:15.402845+00:00",
+ "usdnok": 9.424949645996094,
  "btc": {
-  "price": 81540.078125,
+  "price": 81545.0078125,
   "prev": 82141.4609375,
-  "chg": -0.7321306507533154,
+  "chg": -0.7261291900491407,
   "currency": "USD",
   "asof": "2026-10-16T00:00:00+00:00"
  },
  "silver": {
-  "price": 57.150001525878906,
+  "price": 57.125,
   "prev": 56.83700180053711,
-  "chg": 0.5506971082680057,
+  "chg": 0.5067089929788882,
   "currency": "USD",
   "asof": "2026-10-16T00:00:00-04:00"
  },
  "sections": [
   {
-   "title": "Silver & Precious-Metal Miners",
-   "items": [
-    {
-     "symbol": "HL",
-     "name": "Hecla Mining",
-     "quote": {
-      "price": 15.289999961853027,
-      "prev": 15.5600004196167,
-      "chg": -1.7352214041284952,
-      "currency": "USD",
-      "asof": "2026-10-16T00:00:00-04:00"
-     },
-     "news": [
-      {
-       "title": "Lobbying Update: $40,000 of HECLA MINING COMPANY lobbying was just disclosed",
-       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTWNWVkp2Ym9tUFhRSzk2ZDQwQUttUXU1VWNCSHpTUUNoYlpiMnRnYjJtekY5WjluYWhWc2pfemZIUFhhbnhzTlJoNkFqTGgybmtpakxkYVhydnVlbHBLSVpnRHE1RjdpQ3pDNndMVG9ndmhUb2JhSG5CaTQ4X1NxVmFGV3N0OFpuNTVRN2VxV3BqaUlmdjktTWc3dlRKdEUzaHh6Sjg1UzMzcUdnNFhLS1ZHY1YwZw?oc=5",
-       "source": "Quiver Quantitative",
-       "date": "2026-10-16T06:34:00+00:00"
-      },
-      {
-       "title": "HECLA MINING CO (HL.SW) Q1 FY2026 earnings call transcript",
-       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZFVJbE9SVm5yTXBGMDhOZEpTOHFwUGNGWDkteUdRaTN4WjRNNTBaQ1pKNy1NS0FSU2V3b0JwR2xZbGtHbmRvbXRDVFRncjFSMS14RjlXdFRMd3VZUTBzMmxxTksycXk1QlhKNmx2RmgtQXU3WkNXS1k3VGVDZEc5UXFJdDRNdkVrazl4VmFlbHA?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-16T04:33:00+00:00"
-      },
-      {
-       "title": "RBC keeps USD 20.00 target for Hecla Mining stock",
-       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZTMxbGFMRW42QjVIWEZpSENCc0VHTFV1ck9vQlJHTFNyYnpuUk44SFZJNGxLYzlSbDNKbDF4LTdnRGtXdnpEMy0zUzc2c3FRa0dSY0M1VVhzdGplMXA1TG9Oc1l3Nzh1VXA3UXFMQnY0TWhmRl9tVElfc3hfV2lzamhNc3pxT1pzSkpGTUJ0akxFUThhYWJBdnktcXdtNGdEV0hCUHYybDREbGE1?oc=5",
-       "source": "ad-hoc-news.de",
-       "date": "2026-10-15T20:17:02+00:00"
-      },
-      {
-       "title": "Record Silver Output Could Reshape The Case For Hecla Mining Stock",
-       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaDNKZ3N4aHd2dDRpSUVPRlhhZGZpTjlnU25kU3dXaU1hVmlDN0h0dDJVZ3Jyb21CekxneE5vbzRTMkZDak1iSmdRRWFvMF9FWk5NRkN1REZWdm5NQXp5SmxEcHl5QUs2MHZ3M29Bb25mODdKRV9yRDZXMHJjMERVRTFKODRYQnN4cDVZVVN6VjF2THhQem1rcllEV3FXbXp3WTN3czJXRTFsSF8tdlBSdk5ZVER1QlVCdkNZdUFKbUxLX1ZiYXNN0gHMAUFVX3lxTFBwc0lWV1ZHd3B0RjRFbE16S3l4N0NnZGRrc1QyT00tRkhoQXZVQjlEMzhmaUZLSTFSblRQNl9nVElha0doaGRHM053RklKUklCekxHNTlZV256MzBMSHM5X255NnpPcGlVZkRfSFFwdzVabGozdlJSeElUSE9HeUQ0bmU5a2UyT3pDODlSdG9fNWs0RTBQNm5kRE81Y0w3aUw2ZlVtMjVxWEd2bGw2UlBoU2s1X3ZnWFA0YUNvN1hraDFzeUxONlE0RzRyZQ?oc=5",
-       "source": "Simply Wall Street",
-       "date": "2026-10-14T20:56:48+00:00"
-      }
-     ]
-    },
-    {
-     "symbol": "HYMC",
-     "name": "Hycroft Mining",
-     "quote": {
-      "price": 17.170000076293945,
-      "prev": 17.420000076293945,
-      "chg": -1.4351320258615408,
-      "currency": "USD",
-      "asof": "2026-10-16T00:00:00-04:00"
-     },
-     "news": [
-      {
-       "title": "How InvestingPro spotted Hycroft Mining\u2019s 48% decline in advance By Investing.com",
-       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOM3g3Z09MR1dCUTZES3gyX0ZmYlZHYnFNMllWSVY0WDJPZEY1LXhwb20zWDBYUW10WndRbWJ5VnFZM3o1NnRfUFgzOVkwUlNEZDYzMG9lQ3UzaUNidWFEcTdOTGN0YV9lc2dGWC1PQmtCTVZMQ2ROU0NxMllYc2FERWo2RXl4cDlRR1VwR1R1NGRXRTI3S3dTaEhfUUVnbXI0c2hDWDlYNWdreWVfVUVJNm9HQWpmT2ZIdU1nY3JnUmo?oc=5",
-       "source": "Investing.com",
-       "date": "2026-10-16T11:17:35+00:00"
-      },
-      {
-       "title": "Why Did Hycroft Mining Holding (HYMC) Move Today?",
-       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUVlwcWxpQmlBSGJQUW5rVkstNzhBd2M1TUpFMTdWUEttYTUwTFRmNURtbVlhbURPZC1MODdQU1RfdWhEbzBGZ0tCOW1zUVpIT2lxWVdlU1BFX1FkaC10dkhLbWNLdERQNEF5Ymk3MEhSWDlqNW5FdDYyMFd4NS1OYUJmWWtsaGpVRWxWSVgtMXBSb3gyQmpubWljQ3dfY3dFUHNZaUpIYmpyRE9QRVZNMjhkOU1kTUEyLUVMOXQyZ3IycVdCUFhr0gHMAUFVX3lxTFA5bERkUmhZMFpEZTl5YmRDUnJ1NmFVUXB5NGpoaWVlWnBiZmFWOWlmZlYtY1FubVBKRjZTWFRNQzZJUzUyaVRmODlzTnhFLWY0RGV0OUZCUExHNnpiMmtDWFBobS1sd3hFc0JBT3AyV2dHaTJ0T2VhUlZzOXBUY294aWZiWTNnWXNYNTF2bVBKMng3ZXlUUkRtaU11clVzVFJ1MmtUdnlVUmVNVWFuRnhpd0dsZkFFQmxmVWlBd0RMeGlScXZxYnpmRzVFVg?oc=5",
-       "source": "Simply Wall Street",
-       "date": "2026-10-15T23:12:20+00:00"
-      },
-      {
-       "title": "Hycroft bonanza grades at Vortex: underground start-up lens for mine planners",
-       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNTFrOElxaFViZUJYNk5PaHZ5Q2dGVGZzeGN2RTJwV0daaDlqNlRXYVNIN0t1bTktYmR0Q0lvYndtQ1BweWNGOVpUeGZBUVNVYTkxR0JqNldqMXFuZXdyWGNLR3dYdUJMWWJjZjNCYmZNUnctSVBQRkxqWXViSTNRTi04bUZVeUY2aDBfakFhLUFfNjQ3X0pfNWliX0FWekFtNXJQZGlONGJiVzh6dnZTd1V4NF9wd0hm?oc=5",
-       "source": "Geomechanics.io",
-       "date": "2026-10-15T00:01:56+00:00"
-      },
-      {
-       "title": "Hycroft Hits Record Gold Grades at Nevada Mine, Extends Vortex Zone - News and Statistics",
-       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbWZwbVJBc3kzdHhRelhUZkhTQmxTVUVzSV9md2pfRFRjakUzdDFab0drNFBQdFVVbVFNZ2RXRmcyOHZpSTJ4RHdENDg4UkdxMHV6Y1p0RXdnZGw3Z3lCZlc0UkVQckIzWjF3TWNjQnVxYllpUmx4ZzFleVZHMnMzSHdCSjlKS0FUWFoyZ3BtOG1fQ0Q3U3lIQzgxeTFGYk83WmN2NGREM1oyVk1fdjBN?oc=5",
-       "source": "IndexBox",
-       "date": "2026-10-14T21:41:33+00:00"
-      }
-     ]
-    },
-    {
-     "symbol": "ASM",
-     "name": "Avino Silver & Gold",
-     "quote": {
-      "price": 5.349999904632568,
-      "prev": 5.190000057220459,
-      "chg": 3.082848663739668,
-      "currency": "USD",
-      "asof": "2026-10-16T00:00:00-04:00"
-     },
-     "news": [
-      {
-       "title": "Avino Silver & Gold raised to Buy at Roth on valuation, La Preciosa potential (ASM:NYSE)",
-       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQc1V6Q3J3eDhlYW1USzhENmdRSmhJUDd5VV94Q0NPeDBHNTduTUtkZEttLWJEQ1Z2VENsVTlmUWN3SUt1Z2VnT0czcV9BejZlS09vZzJuYUJPaWg2Sk1mQnNyMW1ncjd4eWhVS3hRTUJPbC1SNzZ3dmpCTE91UVFPa2VNdGpzY0hvSExGdkhlQ3pxQ0lvUGlzb2wySWFITzFrM1AyaFNQZXRPZWpSb3lBc3dXc1pDU0E?oc=5",
-       "source": "Seeking Alpha",
-       "date": "2026-10-16T19:58:23+00:00"
-      },
-      {
-       "title": "Avino Silver & Gold Mines Shares Rise After Roth Capital Upgrade",
-       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMndFY2lnR1dwbVltNXdyM2hQODc4RmZlMV9ZQVowUndVX1htTmczWm15aHRHTTdOZ2tEeTN3ZUNSVEFUc2p0bURsVTF5QWVfNTEzZ0pNNXRCSVNEbnFmaTRqTDRGeURPbzFMUnpsQzN2bkRKSURmQ1lTMEFkUTlOZGZHM2FqVVJMZ01DVE8wZ2REdVIwekVLZnUtblBwcjVHNDVXeUh3WHQyYTJ2cUNYMlktSFhOUQ?oc=5",
-       "source": "marketscreener.com",
-       "date": "2026-10-16T19:03:23+00:00"
-      },
-      {
-       "title": "Avino Silver & Gold Mines (TSX:ASM): Silver Output and Metal Prices in Focus",
-       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNndzWVFkMGxXWGtlMU1zWUQtWVR2SmV2SVJaY2N5RVc3WXV4VHlob1dkdXducjJLYkc2Sy13anYzSmdHMEZEOUpMX3JVdkZfQTVOMjh0YUFMUE9LV2dCUmx3a2ppM2RTSXJKV21BWG45MTRXY1lwb20yUkVMdFlIZjBWX0pHT2lRLVpJcndEVlh3ZG43VWFfQndUanhnRlF3SWxv?oc=5",
-       "source": "kalkine.ca",
-       "date": "2026-10-16T18:49:00+00:00"
-      },
-      {
-       "title": "Avino\u2019s Silver Production Jumps 15%: Investors Look for Cash-Flow Follow-Through (TSX:ASM)",
-       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaTB4Q2MxQzVWNFMwQnp0UzVVNHUycFlrc0F4YUFueU1ZUnZaSlVPb1ZuQWx3bENMSllocDlsWUF3cGE3SzFTYnFNTjdRbXZKTlFuMkswZXh6RXNsRlZpRXdWbFVXejM4WFVlTC11QTZ2ajNzLWEyX1RzRjUwRk9WaFg2TGVIRGJKdV9vYWV2ZjUxX3VRY2d3dTByelZBaXdrMVBTeHdiU05Vc3d6VktPSWF0MGc1UQ?oc=5",
-       "source": "kalkine.ca",
-       "date": "2026-10-16T18:41:00+00:00"
-      }
-     ]
-    },
-    {
-     "symbol": "CDE",
-     "name": "Coeur Mining",
-     "quote": {
-      "price": 15.449999809265137,
-      "prev": 15.40999984741211,
-      "chg": 0.2595714617073419,
-      "currency": "USD",
-      "asof": "2026-10-16T00:00:00-04:00"
-     },
-     "news": [
-      {
-       "title": "Coeur Mining, Inc. (CDE) Stock Forecasts",
-       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQT1lGWDRfU0ZXLWY2MmVhanRfbmhjSGRHdG9Kenh2b3J1bm1XUDdjdmlIN2FpSXNaRmlPeHZlVk1YaU5nb2RfMTAyNE1pME9sWGxsSlN5ODA2OFo5M1VwNkROTkRPeGNqSUxiN2haUkJLb0NURTlPeExaejhoUEJBM2ViellCV1pMSWRGeU5LVQ?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-15T01:52:22+00:00"
-      },
-      {
-       "title": "Coeur Mining Inc (CDE) Stock Down 7.9% but Still Overvalued -- G",
-       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNakJmRTFvUmJMMUdZSlBXZGJXS2F0a2dFVVhLT3lCT3hIblBmeXRfMmtfdVI3UUstZmlGcDk3Sm5rUU1TMFA4bXVpWUFHSG1pVGhtUXNtSGRYd2pMY25Nakk3a09PU1NCWHItVnVYOGRkcVZ6bV9DdDFSbkctX0otSVRJTk9iNHppclYyZEdwdkktUUZyZl9NUk83RXYxLTlTSE9odGZqeUFMQUJfalE?oc=5",
-       "source": "GuruFocus",
-       "date": "2026-10-14T22:33:56+00:00"
-      },
-      {
-       "title": "CDE Stock Trades At Discount As Silver Volatility Builds",
-       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1DbjgtNmJyUWNVQUQxVzVDejV4cGFFUUMyWGlqYWkwaHRzV2JNVVkzZ2VSNVRtNjdhLTBxVmZzQXREeDRVMXk2bTBJU1NrQ08yZ1lleTFDTldIc0lWdHpmS2otSFZYRXgydHdkSm9UY3hFUEhpNzNn?oc=5",
-       "source": "StocksToTrade",
-       "date": "2026-10-14T20:47:00+00:00"
-      },
-      {
-       "title": "Coeur Announces Third Quarter 2026 Earnings Call",
-       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLXI4LUNCanRPUGd4a3o3S2kySkRCSXFlelhrTzdzT1dTbXNwcnhSYzRYbVVZOHVCTE1ZTEljQnh5MW12OThCWWhlS3pjLVF5WEZJVFRiaTJ6U2owaEFuNkx5QWdFY0N0VExxX09SMVhvdUNnUmVHQW40SnZVZzlyandWZUhZd0c1cUtqcjFVVGdvb2dGQ0RPT09JR0RsU0ZLeS1velBOTmQ?oc=5",
-       "source": "Business Wire",
-       "date": "2026-10-14T20:30:00+00:00"
-      }
-     ]
-    },
-    {
-     "symbol": "AG.TO",
-     "name": "First Majestic Silver",
-     "quote": {
-      "price": 22.610000610351562,
-      "prev": 22.790000915527344,
-      "chg": -0.7898214038821849,
-      "currency": "CAD",
-      "asof": "2026-10-16T00:00:00-04:00"
-     },
-     "news": [
-      {
-       "title": "First Majestic Silver Corp. (TSX:AG): S&P/TSX Silver Watch Turns to Production and Mexico Settlement",
-       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMXAzX3hlREVqVWpwVGVCT0FHZncwaHhVTmdHN2lKLWJHLXdlUUtSeklwenBNVm9nbENVQnZfMWVfdTBmUHNnUGFTVmw4clo1cTJtMnZHcFdhWHRuUkk4eUVKTno2Q2lhWk5xT0NYSXc3UUZpZVVOcFdPTVNpX0pWOWJJN2dpNzVyTzBLUzI1Zm5MZG5FMUl3YnhfcUxjZFB0Rk9pRUQzN2ktSE5JWVB4TzBpNktCSjNNdU03UDFCX0pVdw?oc=5",
-       "source": "kalkine.ca",
-       "date": "2026-10-16T18:52:00+00:00"
-      },
-      {
-       "title": "A Tax Dispute Pauses in Mexico: What First Majestic Revealed",
-       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTGhyX0dMTWVUWUVjblIyM2doa1ByYmNlZ2tHcmNObEVQV1JDanM5aGpIU1ZOa1lCSGxVMXluWUxzRWdBSmdDY0RKWC1vUjhwRktMYmp3b2tNbWxaNU5jeGtod21CQjV1ZHAyQU9CcXktTHl2SFJKWWllOUVzVmZyUC1mdXBBUjY1QXozQzB2Y09VTDFJT1Q4ci1lY0EyWE8yS1AzdlVQQ3NTeU9qVVUwbw?oc=5",
-       "source": "Kalkine Media",
-       "date": "2026-10-16T16:58:00+00:00"
-      },
-      {
-       "title": "First Majestic Silver Corp. (TSX:AG) Climbs 5.02% as Positive Momentum Lifts Investor Interest",
-       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNmNSTThiNC1ydHBoNVd1S2pzaDNFSHF2NWxSY3p5VTRSTmZJUEdJZ2FweGd2M2g2X1lEUzJKcUtGdXdRYjlaRlVfWTNxdWNQY1VyZzV3aTNRdWMzam8zRm04eHRuRENuRlN2eFhzLVhjZ3R1VVFhNURlNVNaUXRfQnVGdEZVQTBQcWJKRjBkbTAxNjY1eUQ3aW55WkNtNUVlWUUyS3draWRpQTZyLS1tOS1GbWpDYlhFSnZr?oc=5",
-       "source": "kalkine.ca",
-       "date": "2026-10-16T14:17:00+00:00"
-      },
-      {
-       "title": "First Majestic Silver (TSX:AG) After Production Disruption, Does The Undervalued Story Still Hold",
-       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZm5PakN0TzJGOVpRYlBiNjlKbWdqSjczeFlwOTJIcXpJYm5ybXNzTkVwN3pyT3FBWkxraUdET2VKRk81eWJPU2toTU04QXdyWXVkUHZScXhSbDVra0NyU1EybmF5aDFhZ2l1eXdndDBZLVUwMDBIQklPOXlVWS1ld2lXeGdNRjhLeklwMEwwdGhnTWJBQXE4U05pS0FtOW5LZ1RLREJQa01URHZ4NnZYSHlOM2p4WXJzdzJFNlZfYlQyOXhhRlZmdWMtNTJVMmlDU0g1UGlXSzJLSlN3MGxKR9IB4AFBVV95cUxQZm5PakN0TzJGOVpRYlBiNjlKbWdqSjczeFlwOTJIcXpJYm5ybXNzTkVwN3pyT3FBWkxraUdET2VKRk81eWJPU2toTU04QXdyWXVkUHZScXhSbDVra0NyU1EybmF5aDFhZ2l1eXdndDBZLVUwMDBIQklPOXlVWS1ld2lXeGdNRjhLeklwMEwwdGhnTWJBQXE4U05pS0FtOW5LZ1RLREJQa01URHZ4NnZYSHlOM2p4WXJzdzJFNlZfYlQyOXhhRlZmdWMtNTJVMmlDU0g1UGlXSzJLSlN3MGxKRw?oc=5",
-       "source": "Simply Wall Street",
-       "date": "2026-10-16T12:54:31+00:00"
-      }
-     ]
-    },
-    {
-     "symbol": "DEF.V",
-     "name": "Defiance Silver",
-     "quote": {
-      "price": 0.12999999523162842,
-      "prev": 0.12999999523162842,
-      "chg": 0.0,
-      "currency": "CAD",
-      "asof": "2026-10-16T00:00:00-04:00"
-     },
-     "news": [
-      {
-       "title": "GoGold Resources Inc. (GGD.TO) Stock Price, News, Quote & History",
-       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5aZTBQX1ZPRHE4Q2lwRFd0RWEwWGNYekYzM3RDUGdtV1I2V253dURDbHZIOFN0MkZOVkItbFg4VDNaRm96bmNrbXEzZ1NqRDAwMUNVTg?oc=5",
-       "source": "Yahoo! Finance Canada",
-       "date": "2026-10-16T03:54:29+00:00"
-      },
-      {
-       "title": "Southern Silver Exploration Corp. (SSVFF) Analyst Insights, Price Targets & Recommendations",
-       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QN09fZEJicURWdVVHdmhNU1k4YTVpdjNvajlfUHcxbVYzYkItSVpCdUhRdENiTHFpVDNtVHBTSUtjQ194TFhROVJkODI4RDZBUklva21LYnhGUWg4SlB4U1EtRTZjUmppRXc?oc=5",
-       "source": "Yahoo! Finance Canada",
-       "date": "2026-10-15T19:53:42+00:00"
-      },
-      {
-       "title": "Blackrock Silver Corp. (BRC.V) Stock Price, News, Quote & History",
-       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5lQlYzcDJQbERMMjlFNHozRDVXVk04LUZvelZiSUw2aXFDMFRfN0dCZERTWUR3WjYyd2pOVk00Q0o2ZmhweVlDUnhacGNJdm1IU2Ew?oc=5",
-       "source": "Yahoo! Finance Canada",
-       "date": "2026-10-14T16:19:34+00:00"
-      },
-      {
-       "title": "StrikePoint Gold Inc. (STKXF) Stock Price, News, Quote & History",
-       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZaU1MUWw3eDhCdTdvSXlCWU5ad2puYU9rbjJVWGtsU0RpbmMtRzc3LXl6MGJoT2tfVDJZaHE2OElZWk85WVgzYnhfX1VnUjBNN3Bj?oc=5",
-       "source": "Yahoo! Finance Canada",
-       "date": "2026-10-13T18:49:07+00:00"
-      }
-     ]
-    },
-    {
-     "symbol": "GRSL.V",
-     "name": "GR Silver Mining",
-     "quote": {
-      "price": 0.2750000059604645,
-      "prev": 0.2775000035762787,
-      "chg": -0.9009000301245074,
-      "currency": "CAD",
-      "asof": "2026-10-16T00:00:00-04:00"
-     },
-     "news": [
-      {
-       "title": "Gr Silver Mining Ltd (GPE.HA) stock price, news, quote and history",
-       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jekNGTmNwS1JwU3JpM2ZoUDRVdkoyRUIxNXBUMTd5VjF6TXdxRm9oLTBHRWNocnFsUElhQmRBMDMybWkwaHRxVEZPQWRoN25rVlV3LQ?oc=5",
-       "source": "Yahoo Finance UK",
-       "date": "2026-10-16T02:23:36+00:00"
-      },
-      {
-       "title": "Silver X Mining Corp (AGX.MU) Analyst Insights, Price Targets & Recommendations",
-       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE55dVo5dHBrd0RHNTZVdkdhVWRYcmtCZi1YaUFkd0FmazNIN0RtN1Iwc2Y1MHg4cWNsSUlqTmMzQVFuX01MWExnMEZJc29KZk5leHktZUxETTlnSUJPMl9OWjVyT2JlVV81ZmtB?oc=5",
-       "source": "Yahoo! Finance Canada",
-       "date": "2026-10-10T03:40:10+00:00"
-      },
-      {
-       "title": "GR Silver's 2027 Resource Update Leans on 10,000 m of Step-Out Drilling",
-       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY2E5UU1HYWd5eXlKVThIYUU4ZWQ5bVJnbG9ua256ei1ZWGRBbEowZkpZM3FIRGZjX241SE0wUHlRN3V5d2NLTjJvWERzcE1MQzUtVHhXd3QyNUwwV0VReUZSTHBHZE8weDI1WVVBVzV1NE05ZzhQS3F3NmJmY1ZNYjNGYVNYbGdnYkdPWloyS1c1Z1pSZl9SZ2JVZDhfc054RVJnU2ZXWEw?oc=5",
-       "source": "Crux Investor",
-       "date": "2026-10-09T09:21:57+00:00"
-      },
-      {
-       "title": "GR Silver Mining Ltd. (TSXV:GRSL) Rises 3.51% on 8 October 2026: Why Investors Are Watching the Stock",
-       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaFB3NGhiYkg5bkZtYmJRZDludjA5TGVlZXE4bHl0ZWtjUFdPY0sxT1B1X2EyR0hSc2NPb1BGbDBZT2FZT1NFVXFCUkVQZGRGVU82YTVfT1NieWx3UzM2UjhFR2ZZanl0bVdJVFhGZ1lwYTAxTm9kZnp4ZDhkS21ScmtVazV1UEhpQXlDRV9RdEx5YnJ2OVpodEQ2dVM3QVVKWUFmMEg5dXJCakZPRkRweVF4STBmWExreTBhUXNkUm9TRms?oc=5",
-       "source": "kalkine.ca",
-       "date": "2026-10-08T16:25:00+00:00"
-      }
-     ]
-    },
-    {
-     "symbol": "GSVR.V",
-     "name": "Guanajuato Silver",
-     "quote": {
-      "price": 0.3499999940395355,
-      "prev": 0.3400000035762787,
-      "chg": 2.9411736347271455,
-      "currency": "CAD",
-      "asof": "2026-10-16T00:00:00-04:00"
-     },
-     "news": [
-      {
-       "title": "Guanajuato Silver Surges on Powerful Production Surprise",
-       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLUhQUW5Ndk5IeUJ3NDBYcTdJQXFOWHdyMFQ3R2F3SVo5c01LM19HdlhPS2dRZktWMkFoY1RQRW9zSWZYckotU0FzZFphRFhmNUJ5WnBwN2RXNGtkbEthQmdmcHFFNG9acU5pV1JBRVhoUGItWDltVVQ0SmxLWVAxLXVpN2JVaklhVHprMDcxcDV4MXp5c2MtNkFPZw?oc=5",
-       "source": "TipRanks",
-       "date": "2026-10-16T16:22:27+00:00"
-      },
-      {
-       "title": "Guanajuato Silver Company Q3 Silver Equivalent Production Jumps 49% Year over Year",
-       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNkMxM3QyVFAtbk9fY1NXbS1zX1p4MTJDczR6NlhKUXFBY0EyVDVXLUNjcDFkRHowVXEwNzhLS1hKSHp6d2l0VC1fQnVLTFRKaHVQaDg3T3libm9acFRjRzctaG1HZk1pVWtHMmVpelNKQkNmZTljalYwMzVuWHREWktCSC1xcThKUlB5dGUtS0Q1UDJ2SEhsV1paMHhhRDZfQUpXcGRSSG90Vk1YdXp5SUFWeEFSbGdFcmJjZG1IUi15V2NHZmtDdTJlVjl0aGs?oc=5",
-       "source": "www.marketscreener.com",
-       "date": "2026-10-16T15:42:17+00:00"
-      },
-      {
-       "title": "Guanajuato Silver notches 13.7% AgEq production increase in Q3",
-       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOW11RzVDYi1MUE95ZlR1NHdTOFNoa0VZaFNvY3pUT3lZbGRTRTN5RUhXcmQ5NTZKNWVvX2ZjekoyRHFlV05SVC1YUU5ya1RtcXVVR2swMUMzcnl0aXdsaUpYcWZHUGJybEtneWxiMUh1aXpKNHVMNGZ6VXZSOXRub240RkppNVVRaVpUaGk0VF91UQ?oc=5",
-       "source": "Resource World Magazine",
-       "date": "2026-10-16T14:32:53+00:00"
-      },
-      {
-       "title": "Guanajuato Silver Q3FY26 Results: AgEq production up 13.7% QoQ to 683,675 oz",
-       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMzhIUk5sUjFSZnIwWUNrbzMwREhQYW9Tb1pwUlhVOHpyNnpEaWNMYkp0eTZ0RkUzT1BkNFltQVlEQWNxT0huREJDZkRucWh5RDVWVHRoY1JtWkRXZ21CRTZVeTFsR1Rfb1UyNXI3ck96NWFjZ3MtdjY5M2w4REV6d1B2X0hVYUR4T014NzlCbTNDbWo1YXdNdW1pUDlpQWczUVptSnlTVkI2RE9LbWZ6RHpyenhBY2gzNE4tMUs2M05HQ2M?oc=5",
-       "source": "scanx.trade",
-       "date": "2026-10-16T12:18:49+00:00"
-      }
-     ]
-    },
-    {
-     "symbol": "AGX.V",
-     "name": "Silver X Mining",
-     "quote": {
-      "price": 0.7699999809265137,
-      "prev": 0.7799999713897705,
-      "chg": -1.2820501064172207,
-      "currency": "CAD",
-      "asof": "2026-10-16T00:00:00-04:00"
-     },
-     "news": [
-      {
-       "title": "Silver X Mining Corp: Downside Pressure Mounts as Sentiment Deteriorates and Valuation Concerns Intensify",
-       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeVRIQkEtcURFdGVhQ0FuT1M4TFV5XzR4YWhRV1c0ZkdXaG91UXh6RDZSSEJCUkY1LW1XUmRPSFhPX2haUy1vY3RlcmxOX0lYR1lTWjdKRnNCWVNRNV9ucTNIS0F2aFgxaFVadkpUbFJ1NUE2ZGFWeU1uUzBvVk9NMEhZb3NtZllGdnZsZ0N3N244cUJwSU9ZY3JHNkd4ZDBPQlRlNnc1bktzc29jZFVhN29YTzVNR0tJVWM3ZEhIamp6Q1BXV2N4OEJRRDlmWWJa?oc=5",
-       "source": "kalkine.ca",
-       "date": "2026-10-14T09:03:00+00:00"
-      },
-      {
-       "title": "Silver X Mining Corp (AGX.MU) Analyst Insights, Price Targets & Recommendations",
-       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE55dVo5dHBrd0RHNTZVdkdhVWRYcmtCZi1YaUFkd0FmazNIN0RtN1Iwc2Y1MHg4cWNsSUlqTmMzQVFuX01MWExnMEZJc29KZk5leHktZUxETTlnSUJPMl9OWjVyT2JlVV81ZmtB?oc=5",
-       "source": "Yahoo! Finance Canada",
-       "date": "2026-10-10T03:40:10+00:00"
-      },
-      {
-       "title": "Silver X grows processed ounces at Nueva Recuperada",
-       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzT3NMWFlCRXd2MnZpUGt5VHJ6QWgtd05FS0IxV2c2M1JmbUgtVEl6ODNydU1zUmZ4QklDbUxyaS02WjBYdjdmVGF3dDJOMnM1bFAyZjhSUks2T2hnQTBGOVpKZk5XWHBvc1o2V2lZUUhtb3E2bjFES0E0TlI1cjQ?oc=5",
-       "source": "Mining.com.au",
-       "date": "2026-10-09T23:38:56+00:00"
-      },
-      {
-       "title": "Silver X Mining Corp. (TSXV:AGX) Advances 3.49% as Investor Optimism and Upside Momentum Improve",
-       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLUxsTHJEU0tuaEZvMW9kYVZOZ1dyQi1xby13RE8yUU5FTk9xazAxTHExdXFER2Z6d3RUNG56TVdwZ005UW1xT1BGNjU5Vl9CSF80SFNKc1p4TzN3a252M2c4UDRGc3dfZ05ld3NyT0xBYTJDUjdmUTNKc0lTWnlOTkphQzFMblU1bHBYZUZwR0tYd0k4OG1HYUxrQVduSk9WaXVVTThlWU82Umg4dXlOSVJEeFdfX2dzOUFYcEFB?oc=5",
-       "source": "kalkine.ca",
-       "date": "2026-10-09T17:45:00+00:00"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "title": "Funds & ETFs",
-   "items": [
-    {
-     "symbol": "G2X.DE",
-     "name": "VanEck Gold Miners UCITS ETF",
-     "quote": {
-      "price": 88.5,
-      "prev": 85.12000274658203,
-      "chg": 3.970861306808038,
-      "currency": "EUR",
-      "asof": "2026-10-16T00:00:00+02:00"
-     },
-     "news": [
-      {
-       "title": "Is the Gold Miners ETF (ASX:GDX) Due for a Recovery?",
-       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcFMwSzJCOUxfYTViU3Vjak9RMjhtMEJCeHlkUHZ6S3RQMnRxeEp4NG9uMzNkSENYcURUbXNjaGZralFYcVlVM3hQa1p6Wm1vcjVsNXd0QUtTMnhXOWVRY0pNUnR1Zk51QUlZZFlGeGxNMk1vWTFpRTMxQVJqQ2RTYWZ3dW1hMjdmdG5mNDBiRmk?oc=5",
-       "source": "Kalkine Media",
-       "date": "2026-10-16T07:34:00+00:00"
-      },
-      {
-       "title": "VanEck U.S. Equity Buffer ETF - July (JULV) Performance History",
-       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBfLUxaNnoxYjcyV3d3OWZ6Q09KLWs1NnJ6cTRTWlVzTFJhVFRYR1pHaGJCUGo1WWlUczhmRVI3Z0NSZWtLc1RGdldkNHg4VFVGR0lTMzlfbmF1aGdGSHNNWk9B?oc=5",
-       "source": "Yahoo! Finance Canada",
-       "date": "2026-10-16T04:36:30+00:00"
-      },
-      {
-       "title": "Gold Slump Is Masking a $20 Billion Miner Cash Pile",
-       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcVRXYmhxN0d3WW9MYTNLR2k5WVhuandiU3dfWC1UY05UeGZmbHJQVXpiYjhtenc2VWxQWE0yLWdEcGJzMGFZaVkwTHo2TTduTkREU2dyMnVULXJqdmo5RHBGN1VXUHdrX29lejRUNE0wWERUTkNaZzJwdDBIQk9DdzBWTGd4U0NlYjFUYXRJNjlaTFRaRmdEV3NJMXpKSU9XbXBtVHZweUtJbDZpQXc?oc=5",
-       "source": "TradingView",
-       "date": "2026-10-15T10:00:26+00:00"
-      },
-      {
-       "title": "VanEck U.S. Equity Buffer ETF - July (JULV) Holdings",
-       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9FU2RZdjNhSFlYMTdrR3NTSTA4RWMySmVKWWxEbVlOcUhKTUVMaWY3LUQ3QkxYV1lYbi1zNFhUbWlOR1ZlWnZPSDJsTVFxdGNCbTNBbmF2VXVPMG9TWmc?oc=5",
-       "source": "Yahoo! Finance Canada",
-       "date": "2026-10-14T19:39:10+00:00"
-      }
-     ]
-    },
-    {
-     "symbol": "0P0001IMY8.F",
-     "name": "AuAg Silver Bullet B",
-     "quote": {
-      "price": 38.2400016784668,
-      "prev": 40.41999816894531,
-      "chg": -5.393361180687551,
-      "currency": "EUR",
-      "asof": "2026-10-14T00:00:00+02:00"
-     },
-     "news": [
-      {
-       "title": "Monthly letter October 2026",
-       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQb2VuZ21na2FjQUMyVVNjNHBqMnlmU0dwMlpaTXhfcUdKMkk0OUpxX0ltZUQzZFZVeFBnS0hoZVIwX3Zab3kwMm5jS1hHYnotZ3NBVWI2TjVhaHhDWWtLNU1LSEpaOUZJdnlQWDI3YklRZEF0WEQ1M1ZvVHpvN29INkhiLTVTTDBSX3kxbzBDQnlOUUJuM2VLSw?oc=5",
-       "source": "TradingView",
-       "date": "2026-10-08T12:00:00+00:00"
-      },
-      {
-       "title": "Swedish gold manager's flagship fund gains 32% as investors return after summer outflows",
-       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xU0F4Q0RZYlRJSndkbHVvTWI5OEFVbEEzVG90YmFzb0RveWNwNXVDVWlIYUlFNXRmd0VLc1pQcFJYSlVzbjI0cktCMEtFQ1BGYWdWMVphZ1lSVmE4aWxLNldVamFqTjZvMVhlaWgwWQ?oc=5",
-       "source": "AMWatch",
-       "date": "2026-09-21T07:00:00+00:00"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "title": "Technology & Defence",
+   "title": "Stocks",
    "items": [
     {
      "symbol": "KOG.OL",
@@ -497,6 +92,48 @@
        "date": "2026-10-13T13:40:05+00:00"
       }
      ]
+    }
+   ]
+  },
+  {
+   "title": "ETFs & Index Funds",
+   "items": [
+    {
+     "symbol": "G2X.DE",
+     "name": "VanEck Gold Miners UCITS ETF",
+     "quote": {
+      "price": 88.5,
+      "prev": 85.12000274658203,
+      "chg": 3.970861306808038,
+      "currency": "EUR",
+      "asof": "2026-10-16T00:00:00+02:00"
+     },
+     "news": [
+      {
+       "title": "Is the Gold Miners ETF (ASX:GDX) Due for a Recovery?",
+       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcFMwSzJCOUxfYTViU3Vjak9RMjhtMEJCeHlkUHZ6S3RQMnRxeEp4NG9uMzNkSENYcURUbXNjaGZralFYcVlVM3hQa1p6Wm1vcjVsNXd0QUtTMnhXOWVRY0pNUnR1Zk51QUlZZFlGeGxNMk1vWTFpRTMxQVJqQ2RTYWZ3dW1hMjdmdG5mNDBiRmk?oc=5",
+       "source": "Kalkine Media",
+       "date": "2026-10-16T07:34:00+00:00"
+      },
+      {
+       "title": "VanEck U.S. Equity Buffer ETF - July (JULV) Performance History",
+       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBfLUxaNnoxYjcyV3d3OWZ6Q09KLWs1NnJ6cTRTWlVzTFJhVFRYR1pHaGJCUGo1WWlUczhmRVI3Z0NSZWtLc1RGdldkNHg4VFVGR0lTMzlfbmF1aGdGSHNNWk9B?oc=5",
+       "source": "Yahoo! Finance Canada",
+       "date": "2026-10-16T04:36:30+00:00"
+      },
+      {
+       "title": "Gold Slump Is Masking a $20 Billion Miner Cash Pile",
+       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcVRXYmhxN0d3WW9MYTNLR2k5WVhuandiU3dfWC1UY05UeGZmbHJQVXpiYjhtenc2VWxQWE0yLWdEcGJzMGFZaVkwTHo2TTduTkREU2dyMnVULXJqdmo5RHBGN1VXUHdrX29lejRUNE0wWERUTkNaZzJwdDBIQk9DdzBWTGd4U0NlYjFUYXRJNjlaTFRaRmdEV3NJMXpKSU9XbXBtVHZweUtJbDZpQXc?oc=5",
+       "source": "TradingView",
+       "date": "2026-10-15T10:00:26+00:00"
+      },
+      {
+       "title": "VanEck U.S. Equity Buffer ETF - July (JULV) Holdings",
+       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9FU2RZdjNhSFlYMTdrR3NTSTA4RWMySmVKWWxEbVlOcUhKTUVMaWY3LUQ3QkxYV1lYbi1zNFhUbWlOR1ZlWnZPSDJsTVFxdGNCbTNBbmF2VXVPMG9TWmc?oc=5",
+       "source": "Yahoo! Finance Canada",
+       "date": "2026-10-14T19:39:10+00:00"
+      }
+     ]
     },
     {
      "symbol": "2B76.DE",
@@ -520,6 +157,248 @@
        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lUkkzNXg4cjVYR3lSLXVMZ2pyVTh1aXFJNHA3ZVpZTk5nZzUwZllhZnFZaEJoTVR1cF9EWFF4VnhFbjVsMEFzSUkzRUNPeGNuMWRjcTBZd1JuS19sUUpPXzlPSjRqbVRCRy1LUg?oc=5",
        "source": "MoneyMagpie",
        "date": "2026-10-05T07:00:00+00:00"
+      }
+     ]
+    },
+    {
+     "symbol": "0P0001IMY8.F",
+     "name": "AuAg Silver Bullet B",
+     "quote": {
+      "price": 38.2400016784668,
+      "prev": 40.41999816894531,
+      "chg": -5.393361180687551,
+      "currency": "EUR",
+      "asof": "2026-10-14T00:00:00+02:00"
+     },
+     "news": [
+      {
+       "title": "Monthly letter October 2026",
+       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQb2VuZ21na2FjQUMyVVNjNHBqMnlmU0dwMlpaTXhfcUdKMkk0OUpxX0ltZUQzZFZVeFBnS0hoZVIwX3Zab3kwMm5jS1hHYnotZ3NBVWI2TjVhaHhDWWtLNU1LSEpaOUZJdnlQWDI3YklRZEF0WEQ1M1ZvVHpvN29INkhiLTVTTDBSX3kxbzBDQnlOUUJuM2VLSw?oc=5",
+       "source": "TradingView",
+       "date": "2026-10-08T12:00:00+00:00"
+      },
+      {
+       "title": "Swedish gold manager's flagship fund gains 32% as investors return after summer outflows",
+       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xU0F4Q0RZYlRJSndkbHVvTWI5OEFVbEEzVG90YmFzb0RveWNwNXVDVWlIYUlFNXRmd0VLc1pQcFJYSlVzbjI0cktCMEtFQ1BGYWdWMVphZ1lSVmE4aWxLNldVamFqTjZvMVhlaWgwWQ?oc=5",
+       "source": "AMWatch",
+       "date": "2026-09-21T07:00:00+00:00"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Silver Mining",
+   "items": [
+    {
+     "symbol": "HL",
+     "name": "Hecla Mining",
+     "quote": {
+      "price": 15.300000190734863,
+      "prev": 15.5600004196167,
+      "chg": -1.6709525827136251,
+      "currency": "USD",
+      "asof": "2026-10-16T00:00:00-04:00"
+     },
+     "news": [
+      {
+       "title": "Lobbying Update: $40,000 of HECLA MINING COMPANY lobbying was just disclosed",
+       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTWNWVkp2Ym9tUFhRSzk2ZDQwQUttUXU1VWNCSHpTUUNoYlpiMnRnYjJtekY5WjluYWhWc2pfemZIUFhhbnhzTlJoNkFqTGgybmtpakxkYVhydnVlbHBLSVpnRHE1RjdpQ3pDNndMVG9ndmhUb2JhSG5CaTQ4X1NxVmFGV3N0OFpuNTVRN2VxV3BqaUlmdjktTWc3dlRKdEUzaHh6Sjg1UzMzcUdnNFhLS1ZHY1YwZw?oc=5",
+       "source": "Quiver Quantitative",
+       "date": "2026-10-16T06:34:00+00:00"
+      },
+      {
+       "title": "RBC keeps USD 20.00 target for Hecla Mining stock",
+       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZTMxbGFMRW42QjVIWEZpSENCc0VHTFV1ck9vQlJHTFNyYnpuUk44SFZJNGxLYzlSbDNKbDF4LTdnRGtXdnpEMy0zUzc2c3FRa0dSY0M1VVhzdGplMXA1TG9Oc1l3Nzh1VXA3UXFMQnY0TWhmRl9tVElfc3hfV2lzamhNc3pxT1pzSkpGTUJ0akxFUThhYWJBdnktcXdtNGdEV0hCUHYybDREbGE1?oc=5",
+       "source": "ad-hoc-news.de",
+       "date": "2026-10-15T20:17:02+00:00"
+      }
+     ]
+    },
+    {
+     "symbol": "HYMC",
+     "name": "Hycroft Mining",
+     "quote": {
+      "price": 17.170000076293945,
+      "prev": 17.420000076293945,
+      "chg": -1.4351320258615408,
+      "currency": "USD",
+      "asof": "2026-10-16T00:00:00-04:00"
+     },
+     "news": [
+      {
+       "title": "How InvestingPro spotted Hycroft Mining\u2019s 48% decline in advance By Investing.com",
+       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOM3g3Z09MR1dCUTZES3gyX0ZmYlZHYnFNMllWSVY0WDJPZEY1LXhwb20zWDBYUW10WndRbWJ5VnFZM3o1NnRfUFgzOVkwUlNEZDYzMG9lQ3UzaUNidWFEcTdOTGN0YV9lc2dGWC1PQmtCTVZMQ2ROU0NxMllYc2FERWo2RXl4cDlRR1VwR1R1NGRXRTI3S3dTaEhfUUVnbXI0c2hDWDlYNWdreWVfVUVJNm9HQWpmT2ZIdU1nY3JnUmo?oc=5",
+       "source": "Investing.com",
+       "date": "2026-10-16T11:17:35+00:00"
+      },
+      {
+       "title": "Why Did Hycroft Mining Holding (HYMC) Move Today?",
+       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUVlwcWxpQmlBSGJQUW5rVkstNzhBd2M1TUpFMTdWUEttYTUwTFRmNURtbVlhbURPZC1MODdQU1RfdWhEbzBGZ0tCOW1zUVpIT2lxWVdlU1BFX1FkaC10dkhLbWNLdERQNEF5Ymk3MEhSWDlqNW5FdDYyMFd4NS1OYUJmWWtsaGpVRWxWSVgtMXBSb3gyQmpubWljQ3dfY3dFUHNZaUpIYmpyRE9QRVZNMjhkOU1kTUEyLUVMOXQyZ3IycVdCUFhr0gHMAUFVX3lxTFA5bERkUmhZMFpEZTl5YmRDUnJ1NmFVUXB5NGpoaWVlWnBiZmFWOWlmZlYtY1FubVBKRjZTWFRNQzZJUzUyaVRmODlzTnhFLWY0RGV0OUZCUExHNnpiMmtDWFBobS1sd3hFc0JBT3AyV2dHaTJ0T2VhUlZzOXBUY294aWZiWTNnWXNYNTF2bVBKMng3ZXlUUkRtaU11clVzVFJ1MmtUdnlVUmVNVWFuRnhpd0dsZkFFQmxmVWlBd0RMeGlScXZxYnpmRzVFVg?oc=5",
+       "source": "Simply Wall Street",
+       "date": "2026-10-15T23:12:20+00:00"
+      }
+     ]
+    },
+    {
+     "symbol": "ASM",
+     "name": "Avino Silver & Gold",
+     "quote": {
+      "price": 5.329999923706055,
+      "prev": 5.190000057220459,
+      "chg": 2.6974925807722094,
+      "currency": "USD",
+      "asof": "2026-10-16T00:00:00-04:00"
+     },
+     "news": [
+      {
+       "title": "Avino Silver & Gold raised to Buy at Roth on valuation, La Preciosa potential (ASM:NYSE)",
+       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQc1V6Q3J3eDhlYW1USzhENmdRSmhJUDd5VV94Q0NPeDBHNTduTUtkZEttLWJEQ1Z2VENsVTlmUWN3SUt1Z2VnT0czcV9BejZlS09vZzJuYUJPaWg2Sk1mQnNyMW1ncjd4eWhVS3hRTUJPbC1SNzZ3dmpCTE91UVFPa2VNdGpzY0hvSExGdkhlQ3pxQ0lvUGlzb2wySWFITzFrM1AyaFNQZXRPZWpSb3lBc3dXc1pDU0E?oc=5",
+       "source": "Seeking Alpha",
+       "date": "2026-10-16T19:58:23+00:00"
+      },
+      {
+       "title": "Avino Silver & Gold Mines Shares Rise After Roth Capital Upgrade",
+       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMndFY2lnR1dwbVltNXdyM2hQODc4RmZlMV9ZQVowUndVX1htTmczWm15aHRHTTdOZ2tEeTN3ZUNSVEFUc2p0bURsVTF5QWVfNTEzZ0pNNXRCSVNEbnFmaTRqTDRGeURPbzFMUnpsQzN2bkRKSURmQ1lTMEFkUTlOZGZHM2FqVVJMZ01DVE8wZ2REdVIwekVLZnUtblBwcjVHNDVXeUh3WHQyYTJ2cUNYMlktSFhOUQ?oc=5",
+       "source": "marketscreener.com",
+       "date": "2026-10-16T19:03:23+00:00"
+      }
+     ]
+    },
+    {
+     "symbol": "CDE",
+     "name": "Coeur Mining",
+     "quote": {
+      "price": 15.470000267028809,
+      "prev": 15.40999984741211,
+      "chg": 0.3893602868969337,
+      "currency": "USD",
+      "asof": "2026-10-16T00:00:00-04:00"
+     },
+     "news": [
+      {
+       "title": "Coeur Mining, Inc. (CDE) Stock Forecasts",
+       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQT1lGWDRfU0ZXLWY2MmVhanRfbmhjSGRHdG9Kenh2b3J1bm1XUDdjdmlIN2FpSXNaRmlPeHZlVk1YaU5nb2RfMTAyNE1pME9sWGxsSlN5ODA2OFo5M1VwNkROTkRPeGNqSUxiN2haUkJLb0NURTlPeExaejhoUEJBM2ViellCV1pMSWRGeU5LVQ?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-15T01:52:22+00:00"
+      },
+      {
+       "title": "Coeur Mining Inc (CDE) Stock Down 7.9% but Still Overvalued -- G",
+       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNakJmRTFvUmJMMUdZSlBXZGJXS2F0a2dFVVhLT3lCT3hIblBmeXRfMmtfdVI3UUstZmlGcDk3Sm5rUU1TMFA4bXVpWUFHSG1pVGhtUXNtSGRYd2pMY25Nakk3a09PU1NCWHItVnVYOGRkcVZ6bV9DdDFSbkctX0otSVRJTk9iNHppclYyZEdwdkktUUZyZl9NUk83RXYxLTlTSE9odGZqeUFMQUJfalE?oc=5",
+       "source": "GuruFocus",
+       "date": "2026-10-14T22:33:56+00:00"
+      }
+     ]
+    },
+    {
+     "symbol": "AG.TO",
+     "name": "First Majestic Silver",
+     "quote": {
+      "price": 22.610000610351562,
+      "prev": 22.790000915527344,
+      "chg": -0.7898214038821849,
+      "currency": "CAD",
+      "asof": "2026-10-16T00:00:00-04:00"
+     },
+     "news": [
+      {
+       "title": "First Majestic Silver Corp. (TSX:AG): S&P/TSX Silver Watch Turns to Production and Mexico Settlement",
+       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMXAzX3hlREVqVWpwVGVCT0FHZncwaHhVTmdHN2lKLWJHLXdlUUtSeklwenBNVm9nbENVQnZfMWVfdTBmUHNnUGFTVmw4clo1cTJtMnZHcFdhWHRuUkk4eUVKTno2Q2lhWk5xT0NYSXc3UUZpZVVOcFdPTVNpX0pWOWJJN2dpNzVyTzBLUzI1Zm5MZG5FMUl3YnhfcUxjZFB0Rk9pRUQzN2ktSE5JWVB4TzBpNktCSjNNdU03UDFCX0pVdw?oc=5",
+       "source": "kalkine.ca",
+       "date": "2026-10-16T18:52:00+00:00"
+      },
+      {
+       "title": "First Majestic Silver Corp. (TSX:AG) Climbs 5.02% as Positive Momentum Lifts Investor Interest",
+       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNmNSTThiNC1ydHBoNVd1S2pzaDNFSHF2NWxSY3p5VTRSTmZJUEdJZ2FweGd2M2g2X1lEUzJKcUtGdXdRYjlaRlVfWTNxdWNQY1VyZzV3aTNRdWMzam8zRm04eHRuRENuRlN2eFhzLVhjZ3R1VVFhNURlNVNaUXRfQnVGdEZVQTBQcWJKRjBkbTAxNjY1eUQ3aW55WkNtNUVlWUUyS3draWRpQTZyLS1tOS1GbWpDYlhFSnZr?oc=5",
+       "source": "kalkine.ca",
+       "date": "2026-10-16T14:17:00+00:00"
+      }
+     ]
+    },
+    {
+     "symbol": "DEF.V",
+     "name": "Defiance Silver",
+     "quote": {
+      "price": 0.12999999523162842,
+      "prev": 0.12999999523162842,
+      "chg": 0.0,
+      "currency": "CAD",
+      "asof": "2026-10-16T00:00:00-04:00"
+     },
+     "news": []
+    },
+    {
+     "symbol": "GRSL.V",
+     "name": "GR Silver Mining",
+     "quote": {
+      "price": 0.2750000059604645,
+      "prev": 0.2775000035762787,
+      "chg": -0.9009000301245074,
+      "currency": "CAD",
+      "asof": "2026-10-16T00:00:00-04:00"
+     },
+     "news": [
+      {
+       "title": "Gr Silver Mining Ltd (GPE.HA) stock price, news, quote and history",
+       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jekNGTmNwS1JwU3JpM2ZoUDRVdkoyRUIxNXBUMTd5VjF6TXdxRm9oLTBHRWNocnFsUElhQmRBMDMybWkwaHRxVEZPQWRoN25rVlV3LQ?oc=5",
+       "source": "Yahoo Finance UK",
+       "date": "2026-10-16T02:23:36+00:00"
+      },
+      {
+       "title": "Silver X Mining Corp (AGX.MU) Analyst Insights, Price Targets & Recommendations",
+       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE55dVo5dHBrd0RHNTZVdkdhVWRYcmtCZi1YaUFkd0FmazNIN0RtN1Iwc2Y1MHg4cWNsSUlqTmMzQVFuX01MWExnMEZJc29KZk5leHktZUxETTlnSUJPMl9OWjVyT2JlVV81ZmtB?oc=5",
+       "source": "Yahoo! Finance Canada",
+       "date": "2026-10-10T03:40:10+00:00"
+      }
+     ]
+    },
+    {
+     "symbol": "GSVR.V",
+     "name": "Guanajuato Silver",
+     "quote": {
+      "price": 0.3499999940395355,
+      "prev": 0.3400000035762787,
+      "chg": 2.9411736347271455,
+      "currency": "CAD",
+      "asof": "2026-10-16T00:00:00-04:00"
+     },
+     "news": [
+      {
+       "title": "Guanajuato Silver Surges on Powerful Production Surprise",
+       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLUhQUW5Ndk5IeUJ3NDBYcTdJQXFOWHdyMFQ3R2F3SVo5c01LM19HdlhPS2dRZktWMkFoY1RQRW9zSWZYckotU0FzZFphRFhmNUJ5WnBwN2RXNGtkbEthQmdmcHFFNG9acU5pV1JBRVhoUGItWDltVVQ0SmxLWVAxLXVpN2JVaklhVHprMDcxcDV4MXp5c2MtNkFPZw?oc=5",
+       "source": "TipRanks",
+       "date": "2026-10-16T16:22:27+00:00"
+      },
+      {
+       "title": "Guanajuato Silver Company Q3 Silver Equivalent Production Jumps 49% Year over Year",
+       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNkMxM3QyVFAtbk9fY1NXbS1zX1p4MTJDczR6NlhKUXFBY0EyVDVXLUNjcDFkRHowVXEwNzhLS1hKSHp6d2l0VC1fQnVLTFRKaHVQaDg3T3libm9acFRjRzctaG1HZk1pVWtHMmVpelNKQkNmZTljalYwMzVuWHREWktCSC1xcThKUlB5dGUtS0Q1UDJ2SEhsV1paMHhhRDZfQUpXcGRSSG90Vk1YdXp5SUFWeEFSbGdFcmJjZG1IUi15V2NHZmtDdTJlVjl0aGs?oc=5",
+       "source": "www.marketscreener.com",
+       "date": "2026-10-16T15:42:17+00:00"
+      }
+     ]
+    },
+    {
+     "symbol": "AGX.V",
+     "name": "Silver X Mining",
+     "quote": {
+      "price": 0.7699999809265137,
+      "prev": 0.7799999713897705,
+      "chg": -1.2820501064172207,
+      "currency": "CAD",
+      "asof": "2026-10-16T00:00:00-04:00"
+     },
+     "news": [
+      {
+       "title": "Silver X Mining Corp: Downside Pressure Mounts as Sentiment Deteriorates and Valuation Concerns Intensify",
+       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeVRIQkEtcURFdGVhQ0FuT1M4TFV5XzR4YWhRV1c0ZkdXaG91UXh6RDZSSEJCUkY1LW1XUmRPSFhPX2haUy1vY3RlcmxOX0lYR1lTWjdKRnNCWVNRNV9ucTNIS0F2aFgxaFVadkpUbFJ1NUE2ZGFWeU1uUzBvVk9NMEhZb3NtZllGdnZsZ0N3N244cUJwSU9ZY3JHNkd4ZDBPQlRlNnc1bktzc29jZFVhN29YTzVNR0tJVWM3ZEhIamp6Q1BXV2N4OEJRRDlmWWJa?oc=5",
+       "source": "kalkine.ca",
+       "date": "2026-10-14T09:03:00+00:00"
+      },
+      {
+       "title": "Silver X Mining Corp (AGX.MU) Analyst Insights, Price Targets & Recommendations",
+       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE55dVo5dHBrd0RHNTZVdkdhVWRYcmtCZi1YaUFkd0FmazNIN0RtN1Iwc2Y1MHg4cWNsSUlqTmMzQVFuX01MWExnMEZJc29KZk5leHktZUxETTlnSUJPMl9OWjVyT2JlVV81ZmtB?oc=5",
+       "source": "Yahoo! Finance Canada",
+       "date": "2026-10-10T03:40:10+00:00"
       }
      ]
     }
