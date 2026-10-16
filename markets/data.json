@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-16T20:24:58.533334+00:00",
- "usdnok": 9.425060272216797,
+ "updated": "2026-10-16T20:26:06.995088+00:00",
+ "usdnok": 9.425600051879883,
  "btc": {
-  "price": 81507.1484375,
+  "price": 81499.4765625,
   "prev": 82141.4609375,
-  "chg": -0.7722196473747167,
+  "chg": -0.7815594800395287,
   "currency": "USD",
   "asof": "2026-10-16T00:00:00+00:00"
  },
  "silver": {
-  "price": 57.14500045776367,
+  "price": 57.13999938964844,
   "prev": 56.83700180053711,
-  "chg": 0.5418981428813696,
+  "chg": 0.5330991774947336,
   "currency": "USD",
   "asof": "2026-10-16T00:00:00-04:00"
  },
@@ -112,16 +112,16 @@
      },
      "news": [
       {
-       "title": "VanEck Emerging Markets High Yield Bond UCITS ETF A USD (HYEM.MI) options chain",
-       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaTlEtZmxFeXRlODFTcVpWNHRXem5RV2ctNl9rZ0NpQnRrMWZZWkJYVkFsRElDOUYtWnpPNWFjMUQ0LTZVdThWRk84b2pwMTduMkRxREdEUThMYmJ2RzYzMg?oc=5",
-       "source": "Yahoo Finance Australia",
-       "date": "2026-10-16T12:37:50+00:00"
-      },
-      {
        "title": "Is the Gold Miners ETF (ASX:GDX) Due for a Recovery?",
        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcFMwSzJCOUxfYTViU3Vjak9RMjhtMEJCeHlkUHZ6S3RQMnRxeEp4NG9uMzNkSENYcURUbXNjaGZralFYcVlVM3hQa1p6Wm1vcjVsNXd0QUtTMnhXOWVRY0pNUnR1Zk51QUlZZFlGeGxNMk1vWTFpRTMxQVJqQ2RTYWZ3dW1hMjdmdG5mNDBiRmk?oc=5",
        "source": "Kalkine Media",
        "date": "2026-10-16T07:34:00+00:00"
+      },
+      {
+       "title": "VanEck U.S. Equity Buffer ETF - July (JULV) Performance History",
+       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBfLUxaNnoxYjcyV3d3OWZ6Q09KLWs1NnJ6cTRTWlVzTFJhVFRYR1pHaGJCUGo1WWlUczhmRVI3Z0NSZWtLc1RGdldkNHg4VFVGR0lTMzlfbmF1aGdGSHNNWk9B?oc=5",
+       "source": "Yahoo! Finance Canada",
+       "date": "2026-10-16T04:36:30+00:00"
       },
       {
        "title": "Gold Slump Is Masking a $20 Billion Miner Cash Pile",
@@ -211,10 +211,10 @@
        "date": "2026-10-16T06:34:00+00:00"
       },
       {
-       "title": "HECLA MINING CO (HL.SW) Q1 FY2026 earnings call transcript",
-       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZkFJZE5fRzJLdHNpQzhaS0gzaDhvbkZOaWdUQ1E3cEhkOGJCbTZ5MTFhRXRadXFzMXllV0xNXzhFX25neXpuNEoyem02bG9wUDFLWXNFeXRwZldTWndlc0pwdTZVZDQ3Yk82cWNMWjZ1R2lnOW9KM1ZQUnFvV2pMTUV0cTJldnNnZ2w5c1N2QQ?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-16T03:44:27+00:00"
+       "title": "RBC keeps USD 20.00 target for Hecla Mining stock",
+       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZTMxbGFMRW42QjVIWEZpSENCc0VHTFV1ck9vQlJHTFNyYnpuUk44SFZJNGxLYzlSbDNKbDF4LTdnRGtXdnpEMy0zUzc2c3FRa0dSY0M1VVhzdGplMXA1TG9Oc1l3Nzh1VXA3UXFMQnY0TWhmRl9tVElfc3hfV2lzamhNc3pxT1pzSkpGTUJ0akxFUThhYWJBdnktcXdtNGdEV0hCUHYybDREbGE1?oc=5",
+       "source": "ad-hoc-news.de",
+       "date": "2026-10-15T20:17:02+00:00"
       }
      ]
     },
@@ -311,10 +311,10 @@
        "date": "2026-10-16T18:52:00+00:00"
       },
       {
-       "title": "First Majestic Silver Corp. (TSX:AG) Climbs 5.02% as Positive Momentum Lifts Investor Interest",
-       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNmNSTThiNC1ydHBoNVd1S2pzaDNFSHF2NWxSY3p5VTRSTmZJUEdJZ2FweGd2M2g2X1lEUzJKcUtGdXdRYjlaRlVfWTNxdWNQY1VyZzV3aTNRdWMzam8zRm04eHRuRENuRlN2eFhzLVhjZ3R1VVFhNURlNVNaUXRfQnVGdEZVQTBQcWJKRjBkbTAxNjY1eUQ3aW55WkNtNUVlWUUyS3draWRpQTZyLS1tOS1GbWpDYlhFSnZr?oc=5",
-       "source": "kalkine.ca",
-       "date": "2026-10-16T14:17:00+00:00"
+       "title": "A Tax Dispute Pauses in Mexico: What First Majestic Revealed",
+       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTGhyX0dMTWVUWUVjblIyM2doa1ByYmNlZ2tHcmNObEVQV1JDanM5aGpIU1ZOa1lCSGxVMXluWUxzRWdBSmdDY0RKWC1vUjhwRktMYmp3b2tNbWxaNU5jeGtod21CQjV1ZHAyQU9CcXktTHl2SFJKWWllOUVzVmZyUC1mdXBBUjY1QXozQzB2Y09VTDFJT1Q4ci1lY0EyWE8yS1AzdlVQQ3NTeU9qVVUwbw?oc=5",
+       "source": "Kalkine Media",
+       "date": "2026-10-16T16:58:00+00:00"
       }
      ]
     },
@@ -487,9 +487,9 @@
      "symbol": "GC=F",
      "name": "Gold (USD/oz)",
      "quote": {
-      "price": 4188.2001953125,
+      "price": 4188.39990234375,
       "prev": 4170.10009765625,
-      "chg": 0.43404468076013725,
+      "chg": 0.4388337032433576,
       "currency": "USD",
       "asof": "2026-10-16T00:00:00-04:00"
      },
@@ -511,9 +511,9 @@
      "symbol": "USDNOK=X",
      "name": "USD/NOK",
      "quote": {
-      "price": 9.425060272216797,
+      "price": 9.425600051879883,
       "prev": 9.4931001663208,
-      "chg": -0.7167299713679687,
+      "chg": -0.7110439504303567,
       "currency": "NOK",
       "asof": "2026-10-16T00:00:00+01:00"
      },
@@ -593,10 +593,10 @@
        "date": "2026-10-16T19:01:19+00:00"
       },
       {
-       "title": "Dan Ives Says 'Buy the Dip' in Nvidia Stock After Brutal Sell-Off",
-       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQkp0S3lzeERfM1NlNEg2VnFuaUsySEdWM1VTYjIzMDdTcFFWekM0UjZzdjl1ZjFUb0t4YXdkZ1dlZzVuRkMtY1ctcUZGLWJnekd6Nk5SNGlRNWN4UDY2alVXQjdlTXNVTDJXTHkzdVZITGhKa2ViODFkWnUzd3g2YkJCd0pHN0VBUHFXU0tMcw?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-16T17:54:22+00:00"
+       "title": "Why Nvidia Stock Can Defy the Broader Chip Sector Slump",
+       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PVVcyTUpzN3dWbVBTZ3ZmX19KNHc1UFoyUm9JeGFfa01DWXA3Mkh3VXNtMFJ1ZTZNU1BFN3EzbTk5SnR1VXU0NERRRHlwaW5hSmMxdnhJN0t4cTNNVlNXdG1Wbjd6TG1KMVRONkYtRmY?oc=5",
+       "source": "Barron's",
+       "date": "2026-10-16T16:23:00+00:00"
       }
      ]
     },
@@ -754,6 +754,12 @@
    "date": "2026-10-16T13:06:30+00:00"
   },
   {
+   "title": "Weird Bond Market Price Action Signals Recession Ahead (SPX)",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU0V5blVtMWNkNndCMzl4YUx1QTZDcmlmZFBzbnZQZXpmYjRSdk5RSVZWckZTLUVrTVYtV1ZtMkJ5UVFNOHJHU0RRbHhFQ1hxMFlxTTBKMVdCMk9YaHAwZ056S3RFMXIwcDlWYWRaRmRkSzdkQlJKT1hDbU1kdlhobWRwSGxyRTV6TVcxVDduRXY3dTF5c1djLXRKdw?oc=5",
+   "source": "Seeking Alpha",
+   "date": "2026-10-16T11:50:38+00:00"
+  },
+  {
    "title": "'We will be in a recession': BlackRock CEO Larry Fink warns a data center moratorium risks an economic crash",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdGkwbGZpaXhHY0dIdjZzN0xtNjZoNmNHRWdZaTB1ekFDT3lxb0ZCVnZiSE93SE5VX3oxa3ZSSkpobklxcXNWcXNEemZFZkdDd1l5cDQ1S1RSZ2l4ZjRqTXNBSzUzdWtrTEVIY185SlVmTXhkSnNRam1CMzU4WHUyOFk0R21tVTliVkRpWEdYeFRZbnV3ajRpVUNYMGI?oc=5",
    "source": "MoneyWise.com",
@@ -770,12 +776,6 @@
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObTJ4ZkxBV294VXVzSHRfd3R0cE9TN2FYZW5hQnJGTXg2Q2NiZkJzSW9aODNMUGtSOHBmN0hWcTM3eEVOTmg3UjN4ZndhTzVaM2pPNGsySmQ0eTlqLUxsTGlKcEFIaWpLNWJ2ai1IVXN6V2VZc2JYc0NVaE5mZnFGWDdfTFR4eDZTclVJUy1pS0dKMGc5OVdv?oc=5",
    "source": "FOREX.com",
    "date": "2026-10-16T08:33:32+00:00"
-  },
-  {
-   "title": "Bitwise: \"Whether AI Rallies or Crashes, Bitcoin Goes Up\"",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VQ3BhLTZWajlSVXdRaThvT2FsSmtpbWlhMGd5LUZMR3U5bjRaaEVHb2dlZW5acWhrWWNaWlVONWNrWnhEQUFiRG9mcjNlRFFlTWR6VDF6a3lCR0wzUDVFQjNJM19vZmZsbzFnT1U2OWg2YUlJSVE?oc=5",
-   "source": "BigGo Finance",
-   "date": "2026-10-15T23:25:00+00:00"
   }
  ]
 }
