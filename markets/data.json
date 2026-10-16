@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-16T20:26:06.995088+00:00",
- "usdnok": 9.425600051879883,
+ "updated": "2026-10-16T20:51:57.730743+00:00",
+ "usdnok": 9.422880172729492,
  "btc": {
-  "price": 81499.4765625,
+  "price": 81625.171875,
   "prev": 82141.4609375,
-  "chg": -0.7815594800395287,
+  "chg": -0.6285364986298836,
   "currency": "USD",
   "asof": "2026-10-16T00:00:00+00:00"
  },
  "silver": {
-  "price": 57.13999938964844,
+  "price": 57.154998779296875,
   "prev": 56.83700180053711,
-  "chg": 0.5330991774947336,
+  "chg": 0.559489362010579,
   "currency": "USD",
   "asof": "2026-10-16T00:00:00-04:00"
  },
@@ -211,10 +211,10 @@
        "date": "2026-10-16T06:34:00+00:00"
       },
       {
-       "title": "RBC keeps USD 20.00 target for Hecla Mining stock",
-       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZTMxbGFMRW42QjVIWEZpSENCc0VHTFV1ck9vQlJHTFNyYnpuUk44SFZJNGxLYzlSbDNKbDF4LTdnRGtXdnpEMy0zUzc2c3FRa0dSY0M1VVhzdGplMXA1TG9Oc1l3Nzh1VXA3UXFMQnY0TWhmRl9tVElfc3hfV2lzamhNc3pxT1pzSkpGTUJ0akxFUThhYWJBdnktcXdtNGdEV0hCUHYybDREbGE1?oc=5",
-       "source": "ad-hoc-news.de",
-       "date": "2026-10-15T20:17:02+00:00"
+       "title": "HECLA MINING CO (HL.SW) Q1 FY2026 earnings call transcript",
+       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZFVJbE9SVm5yTXBGMDhOZEpTOHFwUGNGWDkteUdRaTN4WjRNNTBaQ1pKNy1NS0FSU2V3b0JwR2xZbGtHbmRvbXRDVFRncjFSMS14RjlXdFRMd3VZUTBzMmxxTksycXk1QlhKNmx2RmgtQXU3WkNXS1k3VGVDZEc5UXFJdDRNdkVrazl4VmFlbHA?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-16T04:33:00+00:00"
       }
      ]
     },
@@ -475,9 +475,9 @@
      "symbol": "^VIX",
      "name": "VIX volatility",
      "quote": {
-      "price": 20.030000686645508,
+      "price": 19.989999771118164,
       "prev": 16.459999084472656,
-      "chg": 21.688953831963275,
+      "chg": 21.44593489057658,
       "currency": "USD",
       "asof": "2026-10-16T00:00:00-05:00"
      },
@@ -487,9 +487,9 @@
      "symbol": "GC=F",
      "name": "Gold (USD/oz)",
      "quote": {
-      "price": 4188.39990234375,
+      "price": 4188.7998046875,
       "prev": 4170.10009765625,
-      "chg": 0.4388337032433576,
+      "chg": 0.4484234573112422,
       "currency": "USD",
       "asof": "2026-10-16T00:00:00-04:00"
      },
@@ -511,9 +511,9 @@
      "symbol": "USDNOK=X",
      "name": "USD/NOK",
      "quote": {
-      "price": 9.425600051879883,
+      "price": 9.422880172729492,
       "prev": 9.4931001663208,
-      "chg": -0.7110439504303567,
+      "chg": -0.7396950665329749,
       "currency": "NOK",
       "asof": "2026-10-16T00:00:00+01:00"
      },
@@ -537,16 +537,16 @@
      },
      "news": [
       {
-       "title": "Apple is Now the Top-Performing Magnificent 7 Stock in 2026. Here\u2019s why it\u2019s Beating NVIDIA, Tesla, and Amazon",
-       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLUNnNklzNWFtUFRWQWpOTlFmZGpIdEZ5YVJMRkNrSUpfQUhaeEZVMWpLVzE2OXhONTctZEdvWlUzUUM3bkllWXpSQ3k5TGczeHNNZjNtSlV4VGRBcnRsQkwxWEFhOGhTX0t6Sjl3Q1BnNnE1WkQ1NU1SSWFGaW9XY3N0VG9ZY00wRnJJ?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-16T19:34:26+00:00"
+       "title": "Apple Stock Climbs as Its New Foldable iPhone Faces a Three-Month Wait",
+       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZkpOLTU5aXp5eTY4eFgwOVhoNl93MGtpckw2dlB4ZHpPa2txNVR0cTVkeEoxRFBHeVI4RXZEOWw0em5NdUo0Z2VoaDJJOXp5N0xQZnlpNkhOWjRLWnQ0OEdYbnRKWm5KbmlTZGJXV19pVmFrU3BBZjNPaFQ3MWNacjg1bFlDTUxDbi03bUEwMHhfem9hbnltci1lTDc0bzlEdVZjUW1iX2h1REtWZnZjRFh6WTgzc1pCemNlemhXcUVSbVRGemxZMVN3?oc=5",
+       "source": "TradingView",
+       "date": "2026-10-16T20:25:45+00:00"
       },
       {
-       "title": "9 Dow Jones Stocks Make Bullish Moves In A Defensive Market Rotation",
-       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYVE4eUl5d21KZWQ5cFpBQXo2VmxkQVR0d0Q1a3dBZmZzZUV4TEV0VDV5R0R5TW92MDlpUmZmMElDUjZZdWhDZkxyYVlhczVHU0xwd2k4YURLcldOWVNiUkpVeVR4Y0NpSmpCQmZLNUctVHdVUm13WVhxaFpfbzh3N3I4OHZ4aC1hZE5GYTZTakpyZzZhV3lPZ2NnVVlTZGNvdnJ2cHpESHI?oc=5",
+       "title": "Apple Called Top Defensive Play With AI Stocks Under Pressure",
+       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTzBDbVowejJWYU9KQmgtZzAxWEFBOFBnN201cmxrdXhYa2hLVHo5WHBaWTdsWDhjY3ZIbU44RE9iN0NXRUVjOFFDSV9tMERxUnlKSjNOR3RMSVV4Z1BWWVNBM2pGNU91TmY5WmxiaU5GUmlGSVRFRWd5MFRENUh6TG5tMTh1VXE2TDVVWTlhY29pdWw3?oc=5",
        "source": "Investor's Business Daily",
-       "date": "2026-10-16T19:00:00+00:00"
+       "date": "2026-10-16T20:06:00+00:00"
       }
      ]
     },
@@ -593,10 +593,10 @@
        "date": "2026-10-16T19:01:19+00:00"
       },
       {
-       "title": "Why Nvidia Stock Can Defy the Broader Chip Sector Slump",
-       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PVVcyTUpzN3dWbVBTZ3ZmX19KNHc1UFoyUm9JeGFfa01DWXA3Mkh3VXNtMFJ1ZTZNU1BFN3EzbTk5SnR1VXU0NERRRHlwaW5hSmMxdnhJN0t4cTNNVlNXdG1Wbjd6TG1KMVRONkYtRmY?oc=5",
-       "source": "Barron's",
-       "date": "2026-10-16T16:23:00+00:00"
+       "title": "Dan Ives Says 'Buy the Dip' in Nvidia Stock After Brutal Sell-Off",
+       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQkp0S3lzeERfM1NlNEg2VnFuaUsySEdWM1VTYjIzMDdTcFFWekM0UjZzdjl1ZjFUb0t4YXdkZ1dlZzVuRkMtY1ctcUZGLWJnekd6Nk5SNGlRNWN4UDY2alVXQjdlTXNVTDJXTHkzdVZITGhKa2ViODFkWnUzd3g2YkJCd0pHN0VBUHFXU0tMcw?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-16T17:54:22+00:00"
       }
      ]
     },
@@ -706,6 +706,12 @@
  "failed": [],
  "general_news": [
   {
+   "title": "Indonesia stock market crash: Why did Jakarta stocks see their biggest fall since 1998 after MSCI warning?",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNeFVKbUNyOEV0bDJiNWtBVjhjTUViSW5MTVIxWVdFelVmTU5XRlJNaFpwQkNudXVOM1VUNTQwUS0xZnBneWN2VzU0cFhUUTdxbE43NWZadUVKa2JZZnhhWUxOejNKVUxRSGE2akJMVHRRblJWTmZjaHNNcC1sN3YyQUU5dDNocEU3STJWRTF5TTJiUEgxQ2w5WGhCWDBBXzlqNWZxS1pNZWNrcWhFTWd0bFlSWFhRb3RpeDZfWWRnZkpqYkNOWUlNckUyalVKMFFyZVVxeUprakllOHpkdEowRndJU2k3cS1rNGdudtIB8gFBVV95cUxONWRkbHJVOGs3YUQwbm1ZUDl4eXJ6NTE4M0NCSnJvLWIxeUhDZWZDaVpoUEpvLTZIY09oRWRSekdzYS1zWmNQWGotVlRZVVNYS1d5b212YnZYTjR3QVd0b0Q0SUdFai03OEVHOWxHNGlWbUk2LXEtWkZld1NjVlZjQVNIR3A1R0dxVDNSWm5kRm9mZVVqNzBRSGd0cGM4eTU4M1lHdkpsX3ljNGN4c0Fvc2VTLTNFbHd4OVhkMDlJbkNuSno3S2xLZWQxQV9QYmtxQ1VvRk95bUhVUGlyWHpiTUJjTVZhaHJPeGZOZTlZdGM5dw?oc=5",
+   "source": "ET Now",
+   "date": "2026-10-16T18:04:42+00:00"
+  },
+  {
    "title": "The Stock Market Has Seen This Happen Only 2 Other Times in Over 150 Years, and History Has an Ominous Warning for Investors",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSm9pSEp1OEpkSkNSNlBtNWVjVXdJZ2ViTkdNcV81azlHSzkyWjFlaEQxT3dhb3ladmgwY3RiZkRvOWQ1ejF2QXJxbGR2azh5MnJrOWFlTGR3cVJaUHZBTWhQRHhvSXd5UjFJTzNSNWRDZmFzM2xaZlVFQ0UzZ242aU90Q2RCZ1I5bkhaeWZubEp3OUYxb1F3Ug?oc=5",
    "source": "The Motley Fool",
@@ -736,12 +742,6 @@
    "date": "2026-10-16T14:11:09+00:00"
   },
   {
-   "title": "Circular Financing Arrangements, Mounting Risky Debt, and Increased Stock Market Exposure: The AI Bubble is Primed to Pop",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObkFpZElkVFl6RzlxLWd6QkFzekE3Q2hFS3E0eGhFNGJfbVd4azJfV2RnWThZUlNTR3lnU0hZMERqVzFJU1JSWmRxWm5NR3hLanBySDBnTzdOTEFEQW95VU5vb0VQdEJBMGM5aGpVRHQ1ZTNJVVljOXByU2Q3NW1oTlNicXJ3V2h1?oc=5",
-   "source": "Open Markets Institute",
-   "date": "2026-10-16T13:37:50+00:00"
-  },
-  {
    "title": "Staying defensive and diversified \u2013 Market Outlook",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00Y1NxdHdCR2VYcnEtbzI3Z1ZUa0dha1NPbmNIb2hfSGxKQjBvdzRaeGZyX0gyVklGclJxanFUME1pbzFZcjBSVXh5LW1xM3E2SHVmeG9hWEtUYm5HVlptQlhwYWVfWDFZcUpWaFBaTW5WWDBGM0U2SXpxTTAtME0?oc=5",
    "source": "www.sc.com",
@@ -754,10 +754,10 @@
    "date": "2026-10-16T13:06:30+00:00"
   },
   {
-   "title": "Weird Bond Market Price Action Signals Recession Ahead (SPX)",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU0V5blVtMWNkNndCMzl4YUx1QTZDcmlmZFBzbnZQZXpmYjRSdk5RSVZWckZTLUVrTVYtV1ZtMkJ5UVFNOHJHU0RRbHhFQ1hxMFlxTTBKMVdCMk9YaHAwZ056S3RFMXIwcDlWYWRaRmRkSzdkQlJKT1hDbU1kdlhobWRwSGxyRTV6TVcxVDduRXY3dTF5c1djLXRKdw?oc=5",
-   "source": "Seeking Alpha",
-   "date": "2026-10-16T11:50:38+00:00"
+   "title": "BlackRock's Larry Fink says a data center moratorium would trigger a U.S. recession as public opposition grows",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPXzZKMEFJbDZuSEUtcDNaeE9KUVI2dnVIUkd2MzgxVFF2ZWhuUmhueGZEZkkxSElFelYxNkpHZXYyekdfOUM5QTcxRmZwNjFLTlQ1WXlJV3YyeE9kMW1ucEJSYXhfUEY0VFFmY1BqTE9faENmam1sX2MzMmpCOE40NTI0WUY2X3FmVWRxRG0wVlRsSEE?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-10-16T11:00:00+00:00"
   },
   {
    "title": "'We will be in a recession': BlackRock CEO Larry Fink warns a data center moratorium risks an economic crash",
