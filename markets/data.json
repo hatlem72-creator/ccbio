@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-16T20:23:15.402845+00:00",
- "usdnok": 9.424949645996094,
+ "updated": "2026-10-16T20:23:49.586409+00:00",
+ "usdnok": 9.42477035522461,
  "btc": {
-  "price": 81545.0078125,
+  "price": 81507.6484375,
   "prev": 82141.4609375,
-  "chg": -0.7261291900491407,
+  "chg": -0.7716109413761885,
   "currency": "USD",
   "asof": "2026-10-16T00:00:00+00:00"
  },
  "silver": {
-  "price": 57.125,
+  "price": 57.130001068115234,
   "prev": 56.83700180053711,
-  "chg": 0.5067089929788882,
+  "chg": 0.5155079583655242,
   "currency": "USD",
   "asof": "2026-10-16T00:00:00-04:00"
  },
@@ -208,10 +208,10 @@
        "date": "2026-10-16T06:34:00+00:00"
       },
       {
-       "title": "RBC keeps USD 20.00 target for Hecla Mining stock",
-       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZTMxbGFMRW42QjVIWEZpSENCc0VHTFV1ck9vQlJHTFNyYnpuUk44SFZJNGxLYzlSbDNKbDF4LTdnRGtXdnpEMy0zUzc2c3FRa0dSY0M1VVhzdGplMXA1TG9Oc1l3Nzh1VXA3UXFMQnY0TWhmRl9tVElfc3hfV2lzamhNc3pxT1pzSkpGTUJ0akxFUThhYWJBdnktcXdtNGdEV0hCUHYybDREbGE1?oc=5",
-       "source": "ad-hoc-news.de",
-       "date": "2026-10-15T20:17:02+00:00"
+       "title": "HECLA MINING CO (HL.SW) Q1 FY2026 earnings call transcript",
+       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZFVJbE9SVm5yTXBGMDhOZEpTOHFwUGNGWDkteUdRaTN4WjRNNTBaQ1pKNy1NS0FSU2V3b0JwR2xZbGtHbmRvbXRDVFRncjFSMS14RjlXdFRMd3VZUTBzMmxxTksycXk1QlhKNmx2RmgtQXU3WkNXS1k3VGVDZEc5UXFJdDRNdkVrazl4VmFlbHA?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-16T04:33:00+00:00"
       }
      ]
     },
