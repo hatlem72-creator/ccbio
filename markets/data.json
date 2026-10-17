@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-17T19:43:21.804422+00:00",
+ "updated": "2026-10-17T20:22:06.657563+00:00",
  "usdnok": 9.41349983215332,
  "btc": {
-  "price": 81520.9765625,
+  "price": 81500.9609375,
   "prev": 81500.8046875,
-  "chg": 0.024750522497707372,
+  "chg": 0.00019171589851207926,
   "currency": "USD",
   "asof": "2026-10-17T00:00:00+00:00"
  },
@@ -69,10 +69,10 @@
      },
      "news": [
       {
-       "title": "Kongsberg Maritime secures Extended Thruster Coverage agreement",
-       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeWFRczlOdDNxT3JRMUxZSFpvTlJaZlpDa3h2aExmTl9nU3JQc1lTaG5TM0FkNDJVNmMycVIyaEhZNjBmT0twN1U3cnB4NktaOUI4alNrQU1sY1NiV0tPc0Zad3Z2cGdvT0Z4am4zWTlVQkpBUjVfc3FLajRPOV96R0FLQUZ6Nmw0ZWF2MzJnTXRfQQ?oc=5",
-       "source": "Maritimt Magasin",
-       "date": "2026-10-07T07:00:00+00:00"
+       "title": "What Is Drawing Fresh Attention To Kongsberg Gruppen (OB:KOG)?",
+       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQLXJob2ZYeV81SEdoakZ5RVRGNFhSVklJY3ROZGZaNGtFVHFfTU5ldFZiZm5qMllyZktaMXZ0TWx1elA3VmZGcWUxNERKZDYzU1o1SU5OdFk0QUxtQklSOG5IY1Nnc1ZNVnJObldBNHQ3R3FZZktEa3cxUi1CWmJFaHUxSExwMkRLVTJ0b1lNVkh5UDN2dlZicUhySXZpN1RnOF9ZN1JlV3FQUVYwX2RocUR1SDNtcE9HN081OGVhRERXTlpTTEhRMVVuQldraFktYjVrNTZCZXfSAd4BQVVfeXFMTVpLc0QtajNILU92WG9TMmJCOHVzNnhVd3IxZTY0ZmVpaGhkVUFqc2FfOV9WdnByWnFJTWljNjdjVktRV3hRN2hESENXYjh4cnZ3aXVIX0c5WXBpVHQ5amZTeFBFVHBIaUl4WUFPV0JpTHRTcHNpRDRFdXdEcHQ1NUZNYUN1N3U5Z0NFNVpIVVBNVVhUb014YlkyZHR3azNRZm1mU3o5OE04MG9XMzlZWFUwV0l0UnliU2F2RlZOaGhYX3FtdjdRaGdwRkFBblZXdmlYeFVwajItT21GbUpB?oc=5",
+       "source": "Simply Wall Street",
+       "date": "2026-10-06T14:41:27+00:00"
       },
       {
        "title": "AUV safety, operability and mission efficiency solutions",
@@ -87,10 +87,10 @@
        "date": "2026-10-04T07:00:00+00:00"
       },
       {
-       "title": "Kongsberg Maritime completes acquisition of Berg Propulsion",
-       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQk9IUHIzRWdyd3FTSlpneEJVblNBTGRnOVJNbW5UT3lnUEhVaEpWbG9scE5PTTJtUnVKQWt3cmt1UGd6c252YWNlZnZjTDQ5MzN4bTJGRjc4R2l3TlZjLWc3RDhKSlhhNVJpOUlocDZlTUhNM2JMcDRlMTJDRy1rQ1NTTG5ha1RzbU1Hdm5yc0RBQ0ZUN1F0RjhTMG8xMjBhTkF6ZjVWX3BKNmY3Q0E1TExR?oc=5",
-       "source": "www.marketscreener.com",
-       "date": "2026-10-01T07:00:00+00:00"
+       "title": "KMAR: Kongsberg Maritime completes acquisition of Berg Propulsion",
+       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVko0OTJ2SXRWSXl0V3ZwMkozVUI2NkVKRUZnb3hNUkUyLTRrMHl1M19pV1dKcmNqakVQczNFRE1KODFJUUxHV1hoajBhc2RfOHVKd1k1WjNIdTJ0MC1DQ0VQUnlaM1lnSy1XQlV6Z3RieHlqQ2djSS1BdjBCWkh2WHFfY3l3UWxiZG9nek82d1RtM3M2cDZGU2ZPYjFUbHBFU0JfT2swUjFKSlJXNEJJR3phUHNyS25vWTl3M2EwY3RqMTlYbk5fclk0RnBTRmhFY1duYVh4ZmNQdnJLLVU1WjBURE0wUU9kSGc?oc=5",
+       "source": "Finansavisen",
+       "date": "2026-10-01T14:00:03+00:00"
       }
      ]
     }
@@ -148,6 +148,12 @@
       "asof": "2026-10-16T00:00:00+02:00"
      },
      "news": [
+      {
+       "title": "AEHR Stock Price and Chart \u2014 NASDAQ:AEHR",
+       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAtR3FhNUVGRno5OURQSVF3eW5XUWFWNUVHTjJNbTZGT2Jic3NBTmtzWXI4UDg0T21PTjVNQWV4cWUtNm1FWjNQcGo4QUphQ241YnlxQ2hVVjl1ZTEw?oc=5",
+       "source": "TradingView",
+       "date": "2026-10-12T16:38:38+00:00"
+      },
       {
        "title": "ETFs Investing in Interroll Holding AG Stocks",
        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1Vb3JFSzZOQ1I2ZEJIRXBPYUl2eVhWQXNYNHZqQWg1QVEyUV9sLXpuRHBoMEJHb0x2bXlKMVEwN0wyM29QTkZJM216T29VWlp2TDlxbDFTUUMxSWNv?oc=5",
@@ -305,16 +311,16 @@
      },
      "news": [
       {
-       "title": "First Majestic Silver Corp. (TSX:AG): Can It Restart Jerritt Canyon on Schedule?",
-       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVFNkZnJYUnRzZ0t4Qy1oSHNySDlRc3l1cU5zckotalNtMFFsRS1zdkdMdlg5ZjBfT1hTWjgwSEVmbDM4Z1hJODF6SGVJMmQxNW5xSW54TnJzSHE1eUZ3UjFwNm9fdmNUQWVUQnNraGU0bkdLcnpzU2JBc0UwZkdSYXlfdUxNTzR4U2VfR1lXb21nQTd5cWVJanU0Zm9EOUdQZ1pqVnFwZGxGbjc2QmFMeEJoa1pDUmc?oc=5",
+       "title": "Is First Majestic Silver (TSX:AG) Driving Fresh Mining Interest?",
+       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdWZuYmdFVnN6cGdJQzU4aU5CbnVsd21xNm5QRlV6OGZlcFlZUV9iR1A5QVgxSkdEYzdlbDR5OWdhWG5OZ3h3VS1EQlF1SExkU2FYSGRjOGo5Q21xZHZTRjIwTVdRZEQydl9IMXc0Zkl6VU56Si1jTEpnN3Y2M196QmVvRjhNUUt1Y3ljLUoyZVJrcEh2NDhJNmRmNmdIYjN1a3c?oc=5",
        "source": "Kalkine Media",
-       "date": "2026-10-15T17:20:00+00:00"
+       "date": "2026-10-15T17:28:00+00:00"
       },
       {
-       "title": "First Majestic Silver Shares Slide 5.76% as Capital Reinvestment Pacing and Mexican Operational Headwinds Weigh on Investor Sentiment",
-       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPRFZpaktZajMwZERDd3ptcHVXVm9DNEMyZUI3WFRSZGNQbUk3LXYtbThHNER6VEJ3cW50dmVnczBPNm1BWkJ0QWNjUEt5NFhGN1VKUUNDdElIWlY0TFJLZ1U5S0FYVHhDRE5VY1hRazNYa1VtbG5jNThSYW5XZzVhY0VQbFJ3LXZFWU04SGZGQnpER3EtU2tQYzF2YzJPdzRGZXhIRUNXVGZzdTg1OXVIYUpDSHk5OGZXdEQ3UExwQ0ZHc3l1alplUzdZRm0wQ19SOXptUS1leHhKREpFQ0JveVo5V2VXbm9nUlUzcm1qUjhnMDVv?oc=5",
-       "source": "kalkine.ca",
-       "date": "2026-10-15T06:53:27+00:00"
+       "title": "Is I-80 Gold (TSX:IAU) Becoming A Gold Stocks Watchlist Name?",
+       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ25VMFZRUDBDWVR6UFhZOGN4MHotVUQ3RERsaEx6dWxVaE1lX1ZGYmhwQUlyMkM3S1hGM0FoZ2tBX0ExWlpZNjc3bUd4TjVwUy1ZaFRteEVadHEzejBnb0hPN1kyOGlwS25COTNGWDNPOUNBZ2VHOVFUNmRxVjcwMFU4alBsaURUNDBzZEZCcGxxSzZjM3dmamw1TVR2UQ?oc=5",
+       "source": "Kalkine Media",
+       "date": "2026-10-15T17:28:00+00:00"
       }
      ]
     },
@@ -537,16 +543,16 @@
      },
      "news": [
       {
+       "title": "Stock Market Today, Oct. 16: Apple Edges Higher on iPhone Duo Preorder Surge",
+       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNzZHajh5RVlUeDFUY1Q5OUdyaV9HYmxHcDVGSW5HSjYyTDdLaVpQd3FVXzh0XzNnZXVsWkV2T005cTBHSDR2ZVROb2dHUnpmQk1RYlVxVzBKWVNxS1VKV0xQZzM0aHFQZmpRZy1hS0xyWm1qTjU3OS1SMTB5bVdwYjNxaXlQWEpEZDU3VE9zaGVYd1gw?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-16T21:49:34+00:00"
+      },
+      {
        "title": "Apple Stock Climbs as Its New Foldable iPhone Faces a Three-Month Wait",
        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT2d5Vm52SVVMRVkzZ2Z5SUtHbkdUWGE1X1dMSmFic1JPbDVwYnpBXzJ3MTJDbW9mdUhlcVhIOUhaRUo3Zk90VUNGajJyZ2FwZWMtZGxDODRmVTg0X3V2MUR3WGdFcG5nTkNGUE1tV09yZGdvamhiOVRSWGYtU3l3OXI1T0s0Z2VKRFdsOERnLWNtMDVlQnRXM3lLYXI0Tzcz?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-10-16T20:25:45+00:00"
-      },
-      {
-       "title": "Apple is Now the Top-Performing Magnificent 7 Stock in 2026. Here\u2019s why it\u2019s Beating NVIDIA, Tesla, and Amazon",
-       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLUNnNklzNWFtUFRWQWpOTlFmZGpIdEZ5YVJMRkNrSUpfQUhaeEZVMWpLVzE2OXhONTctZEdvWlUzUUM3bkllWXpSQ3k5TGczeHNNZjNtSlV4VGRBcnRsQkwxWEFhOGhTX0t6Sjl3Q1BnNnE1WkQ1NU1SSWFGaW9XY3N0VG9ZY00wRnJJ?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-16T19:34:26+00:00"
       }
      ]
     },
@@ -637,10 +643,10 @@
      },
      "news": [
       {
-       "title": "Amazon Is 11% Below Its High Heading Into Earnings on Oct. 29. Here's the 1 Number That Will Decide What Happens Next.",
-       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSHFSSEl6Z1NIcE5NbnlWZHpBU1kwUzJtS09ERl9WZVBkU2p2S2xsdkYzRGVOZC1jQ24zeEp1d2U2RjBRNlE3dTE2R2gtaEZ2YmE0U0ZQdTlaV3hNWUdlclYwa1I3TnZZUGVOREJ4enJyTjEtVlhlcVI5VDhKQ2hVQ2xvLXhGR1VSQ1hNZkJlYmFaZThpSlNXcQ?oc=5",
+       "title": "Wall Street Agrees on Amazon and Can\u2019t Agree on Tesla. The Targets Show Why",
+       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ2tySzBQeWxvR3RMY1Y4V01nMERkcTNfbzZ1dGxSeWFua0RzNmNPQzgxb3E2MTR0MWUzV080UXl0ZklhS1drU254MXFfcjlxNEw4blduWm5rZHJYUm5QNllSTV9uY0ZvSmhEMkZ4UkZPVkgzVFEwV1Z2ckR1dzNqc0ZhSUU4RjlIQ2RpTHZ5NG5Yd2ZKbDRJ?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-10-16T17:30:00+00:00"
+       "date": "2026-10-16T12:45:36+00:00"
       },
       {
        "title": "How to Play AMZN Stock Amid the Latest Round of Amazon Layoffs",
@@ -742,16 +748,16 @@
    "date": "2026-10-16T11:00:00+00:00"
   },
   {
+   "title": "SoftOx Solutions AS: SoftOx Solutions AS exercises on the financing facility with Long State Investments Limited",
+   "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOQlY4bE1kX3FTMDlETzNOVlB6SmZjQXVCaUJrbjM0V25YX3p1ajZxOW4tTkd6STZmSUgwXzNRanZob3RsMW5XaG1kbzF1TXdFSUV4aHc1NUpNNzdtOTZsUlB3UXJrMHRFSzMyQXBJcnFaTENMSjFGc3NNX1VYSUo0S09aSm91YmE1bWJ3UHUydEhuYlJJUEZDZ0t6S08wWm0xSFoyNkcyZG1RQ1hsOUpfdGdfM0psRWFra3I0M3RHVjRYcV9BZHlsN3hKMGhHcmRMZWJwcnZ0ZzRmN0ZpcFZqT1diYVZrRS1xbFdFYTV6eTV0Z0F5LU55T3FmZGdDbFQ4ZG1FaTFEQThmNENzRFVaN3RvTVBvbnowSW1MbmF2UWwtdUdOU0ozSw?oc=5",
+   "source": "Finansavisen",
+   "date": "2026-10-14T07:00:00+00:00"
+  },
+  {
    "title": "PPI Public Property Invest AB: Transactions carried out under the share buy-back program",
    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPU0N1ZEZnOEM5WnB6YWhHVTA5V0lyem93WDdqYmt5Smhsak9jemhvRXpyRndfWGNwWURpSmljaWF2emo5TnA1TTE4dmp0Mng4U3BtVks2d3YzaVRvR1ZnTTgwcWZDRDRyLU1OSDFETlFZeGZzZUg3ck1XUWNnQzdWdlJxTmdYY1pqanplZ3JDODE2NjNaeWlUQVU1ZVZyS252akJkMlJ3ZnJMVjlraGhpcGE5d2FTcGU4Yi01UkZ5bnN0NEtqSjNwaWFPbzdnSG5oN3pRRlBHd2JnWTJMOUlyMGJOWFNHdDdy?oc=5",
    "source": "TradingView",
    "date": "2026-10-14T05:00:00+00:00"
-  },
-  {
-   "title": "Atlantic Sapphire files to delist from Oslo B\u00f8rs",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQVBpdTNRT2hDdXozZGxhVnBvN2hIbERoWGlxVmQxazlpRElseG5lb0ZOZ2ttRjlGd0FlZUtuN05hR0ZCMkw4VFoxeWlPLWNxWGJxQlc5dHFhQXVaWmdtRUR5REtBanVkbVY0QmFybXNYS0dXMHlGamxySGtXRjAwb2huUlJ5XzA?oc=5",
-   "source": "SeafoodSource",
-   "date": "2026-10-13T19:02:08+00:00"
   },
   {
    "title": "Otovo ASA: Approval of prospectus and listing of shares",
