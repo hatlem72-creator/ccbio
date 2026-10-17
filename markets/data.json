@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-17T22:58:50.635169+00:00",
+ "updated": "2026-10-17T23:24:37.663649+00:00",
  "usdnok": 9.41349983215332,
  "btc": {
-  "price": 81273.21875,
+  "price": 81170.203125,
   "prev": 81500.8046875,
-  "chg": -0.2792437919755919,
+  "chg": -0.4056420838636221,
   "currency": "USD",
   "asof": "2026-10-17T00:00:00+00:00"
  },
@@ -81,10 +81,10 @@
        "date": "2026-10-04T07:00:00+00:00"
       },
       {
-       "title": "Kongsberg Maritime completes acquisition of Berg Propulsion",
-       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQk9IUHIzRWdyd3FTSlpneEJVblNBTGRnOVJNbW5UT3lnUEhVaEpWbG9scE5PTTJtUnVKQWt3cmt1UGd6c252YWNlZnZjTDQ5MzN4bTJGRjc4R2l3TlZjLWc3RDhKSlhhNVJpOUlocDZlTUhNM2JMcDRlMTJDRy1rQ1NTTG5ha1RzbU1Hdm5yc0RBQ0ZUN1F0RjhTMG8xMjBhTkF6ZjVWX3BKNmY3Q0E1TExR?oc=5",
-       "source": "www.marketscreener.com",
-       "date": "2026-10-01T07:00:00+00:00"
+       "title": "KMAR: Kongsberg Maritime completes acquisition of Berg Propulsion",
+       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVko0OTJ2SXRWSXl0V3ZwMkozVUI2NkVKRUZnb3hNUkUyLTRrMHl1M19pV1dKcmNqakVQczNFRE1KODFJUUxHV1hoajBhc2RfOHVKd1k1WjNIdTJ0MC1DQ0VQUnlaM1lnSy1XQlV6Z3RieHlqQ2djSS1BdjBCWkh2WHFfY3l3UWxiZG9nek82d1RtM3M2cDZGU2ZPYjFUbHBFU0JfT2swUjFKSlJXNEJJR3phUHNyS25vWTl3M2EwY3RqMTlYbk5fclk0RnBTRmhFY1duYVh4ZmNQdnJLLVU1WjBURE0wUU9kSGc?oc=5",
+       "source": "Finansavisen",
+       "date": "2026-10-01T14:00:03+00:00"
       },
       {
        "title": "Tekna appoints Egil Haugsdal as Chair of the Board",
@@ -354,10 +354,10 @@
        "date": "2026-10-16T02:23:36+00:00"
       },
       {
-       "title": "Millennium Silver Corp. Announces Stock Option Grant",
-       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUlpIUHlaZS14WENITUdjamR1VWt6SnlyOThRQmNMbjI5SG1PbkZXTXpMNkw1RVJNbzJlSllNUjdtQ0RXUXROVTd4ekpUYUhhSW9GNmtqNEdyX2pqRlNPYjB1S3ZnVUJmV0xyNWJSNERsdVZjQWVYc2lfSnJxaEl0Z0pFbHVudlA0ZlZZd1pGRHRaVTlCTXp5aGRORVNrdFRTUXFNSGJB?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-09-21T07:00:00+00:00"
+       "title": "GR Silver's 2027 Resource Update Decides What Its Zinc Is Worth",
+       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPS1VDNGUyS3Nnc25PbG10LUUtZmlBdHlZdjZRM0lTQ1laYUNmXzZwdXo2ajN2ZUpQZGdjWXZHMXpTTC1Oai00aXVITi1JUkR3VkgxamVEYXRmOXhjR3I0cDlVMlRENlhjZng3RnBZVl9fZTJ6azZBQmRrUHg4ck1SOWFHZXZ3MlhDZkxTdmdIX0V0OW92enA0S012SW1xdw?oc=5",
+       "source": "Crux Investor",
+       "date": "2026-09-18T07:00:00+00:00"
       }
      ]
     },
@@ -568,16 +568,16 @@
      },
      "news": [
       {
-       "title": "How Earnings Beat Will Impact Microsoft (MSFT) Stock",
-       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSmRPNkRTT0Z2SUczb0Z4YjdZWVB2Z2x6TXBSSi1lMlN6VGtINVdUWjV2dU5xY0IzbzZOMHQwcV9nSXczRmlOREN6Zi1aUlg1LU9ETk9Bb3JZV1JQaDN1bmxHdm5JWFcxblNuQ2ZmWE5PUF9LZDJ6bE9YaWtzN1R1UWtNWlU2U0l4TnVFMHptNnFuVExtRUQwLVdoU0NxTGNtY2c?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-16T04:29:00+00:00"
-      },
-      {
        "title": "MSFT Stock Gets Slew Of Price Target Hikes Ahead Of Earnings \u2013 TD Cowen Sees \u2018Higher Than Normal\u2019 Azure Beat Potential",
        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcjNWTjRwWjZ4WWZ3ckI0WlpwbEhxLWt0bmZ0eXZzNV9zeXJqZUlxZzR3SzhTeDRFTlBwNmIwVm9lY3ZMZDdVek1mYndlQW1aTTBuNklydXdxTnl3MVhSZEhiNk10RF92dnpNdjFQUExzVkdBOVFYVjMzOFg4Tm5PTERwMWk3bFVvbjdHQnJVVVZBTUtKVkE?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-10-15T15:13:32+00:00"
+      },
+      {
+       "title": "Why Wall Street Is Comfortable With Microsoft Stock Even as AI Trade Pressured",
+       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5LdkFzVE45UksyZldSUko4N3N1SzhweTkxbkJQR3o3TlM2STdac2dmU3JYTE9pSFc1NVAxaElXeFFzWmIxcjFDY0Q3enZfcW5YYXZGVm5NdE5oWGlUVldQaGFNUjZTOXREN1JxZ0ZtelV4aTl4ODhTVnR5cEpBUQ?oc=5",
+       "source": "Barron's",
+       "date": "2026-10-15T15:03:00+00:00"
       }
      ]
     },
