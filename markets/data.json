@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-17T02:25:40.586912+00:00",
+ "updated": "2026-10-17T03:06:16.029848+00:00",
  "usdnok": 9.41349983215332,
  "btc": {
-  "price": 81380.5,
+  "price": 81318.2734375,
   "prev": 82141.4609375,
-  "chg": -0.9264029745940427,
+  "chg": -1.0021583383163168,
   "currency": "USD",
   "asof": "2026-10-17T00:00:00+00:00"
  },
@@ -112,6 +112,12 @@
      },
      "news": [
       {
+       "title": "VanEck Emerging Markets High Yield Bond UCITS ETF A USD (HYEM.MI) options chain",
+       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaTlEtZmxFeXRlODFTcVpWNHRXem5RV2ctNl9rZ0NpQnRrMWZZWkJYVkFsRElDOUYtWnpPNWFjMUQ0LTZVdThWRk84b2pwMTduMkRxREdEUThMYmJ2RzYzMg?oc=5",
+       "source": "Yahoo Finance Australia",
+       "date": "2026-10-16T12:37:50+00:00"
+      },
+      {
        "title": "iShares SLVP vs VanEck GDX: Which Miners ETF Wins",
        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLWZRWVFRZjRhMnNyN25Hd1lQXzFyNUdTb05KbC1fNl95eDMzdmhYZkpweEl0ZDM0UVBDVW82a1BrVXFzWUNlOU1ZYndaZ0VXQkd2QTliX1NqeTFQZWtBRUxHRE1RRGxUMjBGR0VSOUhsRU1XaTd1SHRqTFREU0VxdGlVbUtqMU96T0wzVmNzYk9QMTkzamlKcGU0NC1xUDlpZkFuQ056SndkMWVIY1lyaWQwbGw4SlhYcnNVMmdpMUN2LVRxZllvSGlCd1Q?oc=5",
        "source": "The Globe and Mail",
@@ -128,12 +134,6 @@
        "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPdHRER253bHBSM3VUT0VRSGFXNEdMZUZESmNxVDNfLXJmRmJWYXhSRkJGUDhqZ210NmVqYU1UdVpBajVDWTk0a2RTT3Q5MmFlTGp1OUZzX0dwWWluTUtCSm8tT1RUeGJvYnRfV09ZaWpKV3AwU2h2aHVWdG5GZnZwTjdqR0xtWlJaOUlJS1B3c1J5OGpZQXR2QXNaVkdPcmZjNExBWWV6MHdwMnBxRTNCVXBEYllPV2h6Sm9nU1p2Nk9pdEFpS3VWTkU2cmlJRno2ZmxZbDBCVzBxQmJCWXlpVjUwYXliOGlXUmhpSnpVbW5kSzY1dDhtS3V4NlZpMHZTaDBrTzB3?oc=5",
        "source": "The Globe and Mail",
        "date": "2026-10-11T23:17:14+00:00"
-      },
-      {
-       "title": "Gold & Silver Mining Companies: Two Indices to Analyze for FX_IDC:XAUUSD by Swissquote",
-       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSXExdXFYMXNJSUVMd0k5cElQZ1ZhWXMzOVFwVUxKUlhxQ3owbUhpTWw1Q2xqMWJsN09oUFk4Q3FieDZmSkZLcXJ0NGlOa2QyNDJhYVJxM29ENEdwTG5VZTRHZW9CZ2JWYlhYSlc5NEdQRURHcWUzV0R6bFJMblN2YjFTdmJDdk9hOGZCX1RNUGZ4ZmN4SzBDNWF5ZG85Y0FiT1NMRw?oc=5",
-       "source": "TradingView",
-       "date": "2026-10-09T04:45:03+00:00"
       }
      ]
     },
@@ -718,6 +718,12 @@
    "date": "2026-10-16T14:11:09+00:00"
   },
   {
+   "title": "BlackRock's Larry Fink says a data center moratorium would trigger a U.S. recession as public opposition grows",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPXzZKMEFJbDZuSEUtcDNaeE9KUVI2dnVIUkd2MzgxVFF2ZWhuUmhueGZEZkkxSElFelYxNkpHZXYyekdfOUM5QTcxRmZwNjFLTlQ1WXlJV3YyeE9kMW1ucEJSYXhfUEY0VFFmY1BqTE9faENmam1sX2MzMmpCOE40NTI0WUY2X3FmVWRxRG0wVlRsSEE?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-10-16T11:00:00+00:00"
+  },
+  {
    "title": "Global Ceramic Facades Market Size and Forecast 2026-2035 by Product, Installation, Application, and Region | Revenue to Hit $16.58 Billion as Green Building Demand Rises",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMVppYkEzeVcwTTVGbUhpYlo0WkZCYzZucjJuaENuSmpYZnc4REcyN1R5LXBpaGZ6ZV9XTGNzX09YRFFrVGJDV1JIdzhSQUxVTm5pdDZxaUs5NG1lU1ViQkFFclpkaTZCUTlWVmExUlFuQXhGcnRucUlSdnNtbGVXYXFvc2NtXzdxSEpiQzY0b1RVX1p0Sngwek1rUF8?oc=5",
    "source": "Yahoo Finance",
@@ -730,10 +736,16 @@
    "date": "2026-10-15T12:20:00+00:00"
   },
   {
-   "title": "SA analyst says a stagflationary recession risk is growing",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZXgtbHAzUVFvME1jTEtWdW1nZ1RPWjRZWUp2MTUyMkxkY1ZTWW5tLU1WSm83bkI4MWQ5OXUtRTdtcE9vNi1QOER0UmNEejNhV1pCV25GZHpNQTRWVXE2WmlzWDltdk9feVJ0VEp4VlIzejE0cmt2bmdHUVhudDI3QjNZV3JOYnc4ZjhfakJ5dHpqMVRmMEVXZmZteko?oc=5",
-   "source": "Seeking Alpha",
-   "date": "2026-10-14T20:03:55+00:00"
+   "title": "Fed's Goolsbee: Even without AI, the economy would not be in recession",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOGNUVFpNdUg4RVJZcllLbWVBWUpzZF9vWlFWV1d6bG1scGZaNXlHZmJVcnJjZWp4VE16UFVnbk1DU1h4eFZWdHczek9nUGI1WXVzUV84LW4yZVQ0SEFqZHlpZ1ljZlg2U1pRRHNwU1JuelVpNTk3SVJVT2trWDZyWFNPeDRMLUJ6SE5LV1Q5U01rUlpqZzVQMWdNZ3oxbXhIVGl3SFBkd3FxNVBUQTBNMlVNN1oyQkNGalBHTHBaUFNwQQ?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-10-15T10:30:00+00:00"
+  },
+  {
+   "title": "Elopak ASA: Ex. dividend EUR 0.065 per share today",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdkJKZ0ZwdldPanlxdFRORk1GZEpNZ0NiTjZjZ1l5UjhXdmpJOERJeWtkb2hrWk9UbFV3UnZQOUtfX29WN1YxbEJIekoycTVFdGJKX000MklyX3N0UnBSZmo2MjVBQnlIajktN2l4aFRaaGNkckQtM0QycDRDekcxWFU5VUZQTF8yQzkxeXVLQkFyVHJURDU4UWJOQ1ZDN2ZxTDFwOEhuSEkzWXItRUhqUnk1MHY?oc=5",
+   "source": "TradingView",
+   "date": "2026-10-15T05:00:00+00:00"
   },
   {
    "title": "SoftOx Solutions AS: SoftOx Solutions AS exercises on the financing facility with Long State Investments Limited",
@@ -758,18 +770,6 @@
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQVBpdTNRT2hDdXozZGxhVnBvN2hIbERoWGlxVmQxazlpRElseG5lb0ZOZ2ttRjlGd0FlZUtuN05hR0ZCMkw4VFoxeWlPLWNxWGJxQlc5dHFhQXVaWmdtRUR5REtBanVkbVY0QmFybXNYS0dXMHlGamxySGtXRjAwb2huUlJ5XzA?oc=5",
    "source": "SeafoodSource",
    "date": "2026-10-13T19:02:08+00:00"
-  },
-  {
-   "title": "Will the Stock Market Crash in 2026? 5 Risks to Consider | Investing",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWk5OQUItYlZ0a3dDV0lIWVJZcVNhSm5sQXpKY052RGJNd1lwX25IZ2JJVW50WG44WGRLYXR3cG12bUF5NThuZlFMTkdGbHBONkdJYXpMSjVXeEJsMks1RnZXa3U2SC1PdmtYZ0ZJVEdaTDVXRFVCcWY1cDd0OUNRN0ZfYlI4NkRDRlpiZQ?oc=5",
-   "source": "U.S. News - Money",
-   "date": "2026-10-13T17:59:00+00:00"
-  },
-  {
-   "title": "IMF flags risks to global economy from AI market correction, war and debt",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTXc4YzNuVFU1U2dtSjE1SG9xRUIxZTRtMU1xdXNodDkxMTRGaE9yQTJIVVVoeVJjdnFsbi0yeUJ6a09ZbGJ0Z3N5V1NiV1RGZlVDekptcUVqcTVtNGRsdDNpZkd1akEyN2hybUx5aFlXM05pZENOVFdfTXI3XzBxaGRMZ0NVcFFRVXZRbHlZYUNleHhiTTJ1UTN0dXJ6U0h2V3ZoWGdqOWp5SmdCMjFab1doZw?oc=5",
-   "source": "Reuters",
-   "date": "2026-10-13T16:15:03+00:00"
   },
   {
    "title": "Otovo ASA: Approval of prospectus and listing of shares",
