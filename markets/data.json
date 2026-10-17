@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-17T07:49:09.641760+00:00",
+ "updated": "2026-10-17T08:23:59.895306+00:00",
  "usdnok": 9.41349983215332,
  "btc": {
-  "price": 81569.0078125,
+  "price": 81602.9375,
   "prev": 81500.8046875,
-  "chg": 0.08368398969986757,
+  "chg": 0.12531509706144028,
   "currency": "USD",
   "asof": "2026-10-17T00:00:00+00:00"
  },
@@ -69,12 +69,6 @@
      },
      "news": [
       {
-       "title": "Marine Battery Maker AYK Energy Lands Kongsberg Maritime Electric Tug Deal",
-       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUDBBMW0wMWRDYl9HZ21IVjliT2RmOTNLMFY5RnU5U2s4SW1hdzI1U24wZ0doMkJoQjdDT2R6YVFnSS1neEpxc0hoN05MZkYtcEp6UVpLM3lyUHNvWi1PaUJkdURaLW9fMjlyWFJTXzhmNnVSU3h6bXBOc2lFcVFzZ1RMUU5RS0pZVDFfbXZEYWtuSHYwcWJwOWJ4a3EtU2FCUFNyVE90SmRQNGJIeVRNSWlkQjgtUQ?oc=5",
-       "source": "The Maritime Executive",
-       "date": "2026-10-09T20:55:00+00:00"
-      },
-      {
        "title": "AYK Energy to supply batteries for four electric Svitzer tugs",
        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMWRuX0ZlYjRFOGhMaGl4SDZMNFJjUDBMd0N3NmN3Y21kWmZtZURIZm44SS1rWS1CbDJRRGl3N2p6MnptOVJGcWM1b0thUlFUbXgxQmU2TWFzSlRrakpaM2VQdjRmX3VWZFJaNTloTERWekhqMlVMbko5ZUJQSUFmdkIwOFJjeWEzTGkwR3VhbUpCYllXdmswcm8yMzJfWWFfTmt3SWNsbHFJNkdEc2FQbldkX1J3ZnBQRW91cDRn?oc=5",
        "source": "Maritime Journal",
@@ -91,6 +85,12 @@
        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaUxqTEhwS0hVSmpURkh3VF90VDM2bi0zZmdtLUpWTTN4cFpWRzNKWXd0SDFyd1hwMmxZZUM2MnZ5Q016VDk2UVVUeDctS2ZHTGFJRkl1VW51aklZenhUaG5sdVZqcFVLcEhVajlKVkJtUU5lMG5iWU51YXN5eE9UdXpxbDU4Slk?oc=5",
        "source": "Seawork",
        "date": "2026-10-06T07:00:00+00:00"
+      },
+      {
+       "title": "Kongsberg Signs Waterjet contract for Indian Navy\u2019s Next Generation Missile Vessel",
+       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNc3p3Vkg4M3BvUkZJTG1ObWRSQTM4czJZbFBYMFBqNTBhd2dsVHZXR19JUDhKWU9CSnVxQVhlVWVfZ05yXzJiYnBEUXRweTJtX0MtdExYMzIwVVNTeGFIQVJrRFY1cHA5U1h6b0lYME1TRXp5d1hXZnctRG4yVkpnLXlCTmhNMno1eVFvNmRPWjIwNmFsWEtlRU83UnlFT0d6ano3dEw1aXNMc0dXTkJsUERPQnV0M2ZKVVdDYzFDajhPS2hTTFE?oc=5",
+       "source": "Naval News",
+       "date": "2026-10-04T07:00:00+00:00"
       }
      ]
     }
@@ -118,10 +118,10 @@
        "date": "2026-10-14T10:25:03+00:00"
       },
       {
-       "title": "VanEck UCITS ETFs Plc - Net Asset Value(s)",
-       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwblRPTmNTSHBPc3pSRnI3MXJON1c5aUxXVGZQU19ZVHowZXU0V3lSSUJSOG9ZRkV1aE1HSTBzRVpFdnlNQXlkWkphV0xSc0ZLVEhqTUVEZGhEVkE4amp0MWllVkdjNTJFaWU5UGRWczBxekozOUhXaWdjSUYyUzg?oc=5",
-       "source": "Yahoo Finance UK",
-       "date": "2026-10-12T06:00:00+00:00"
+       "title": "VanEck Gold Miners ETF remains a buy with stron...",
+       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNemhIOXhSaXlhamV6Mm5zRVNKblM1bHhPQmgxTzZRMGVHSG9PTXhHbnJaYkNqeERlOU1rdDBLNjhlWEU3eUlpNEdsTU0wdy1jbWZfakd4UzFrMHJJeFlFZzliWlJEUDRRYUQ2R3RLbzRmSGZKLS1sVjMyd1ctaHU5U1JULXMxemRxUEE?oc=5",
+       "source": "Pluang",
+       "date": "2026-10-12T04:13:40+00:00"
       },
       {
        "title": "GDX Vs. SGDM Is A Draw, Gold Miners Are A Buy (NYSEARCA:GDX)",
@@ -348,10 +348,10 @@
        "date": "2026-10-16T02:23:36+00:00"
       },
       {
-       "title": "GR Silver's 2027 Resource Update Decides What Its Zinc Is Worth",
-       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPS1VDNGUyS3Nnc25PbG10LUUtZmlBdHlZdjZRM0lTQ1laYUNmXzZwdXo2ajN2ZUpQZGdjWXZHMXpTTC1Oai00aXVITi1JUkR3VkgxamVEYXRmOXhjR3I0cDlVMlRENlhjZng3RnBZVl9fZTJ6azZBQmRrUHg4ck1SOWFHZXZ3MlhDZkxTdmdIX0V0OW92enA0S012SW1xdw?oc=5",
-       "source": "Crux Investor",
-       "date": "2026-09-18T07:00:00+00:00"
+       "title": "Millennium Silver Corp. Announces Stock Option Grant",
+       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUlpIUHlaZS14WENITUdjamR1VWt6SnlyOThRQmNMbjI5SG1PbkZXTXpMNkw1RVJNbzJlSllNUjdtQ0RXUXROVTd4ekpUYUhhSW9GNmtqNEdyX2pqRlNPYjB1S3ZnVUJmV0xyNWJSNERsdVZjQWVYc2lfSnJxaEl0Z0pFbHVudlA0ZlZZd1pGRHRaVTlCTXp5aGRORVNrdFRTUXFNSGJB?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-09-21T07:00:00+00:00"
       }
      ]
     },
@@ -367,10 +367,10 @@
      },
      "news": [
       {
-       "title": "Guanajuato Silver completes tunnel linking San Ignacio and Bolanitos mines",
-       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTGo3S0R1UVMyOGNoa0R0VEtGcVlOM0hjZEhTRTNnV2lyRGU4QmJydTNfU3hBRzN5VHRldzR4OVExNDc2WFJMU2swU0FJaVI3anFBMU5KbW14MGRlVHZndk9GVF8xQm93TDBOMGprYlJoSGJrM09yM1o5SmIzZkRmc05tM2twWnJBR0lTWVRtQ2pPQQ?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-09T14:57:56+00:00"
+       "title": "Guanajuato completes San Ignacio-Bolanitos ramp",
+       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1CRDZGSnNSMW4zcWdybXhJdEs1Yl9rSFFWbEJyai1seVBDUXp0SlpfOEVPVk15ZnFQenR2bnNpbm1fN2liQUpRUVRGVWhDbC1YeWdjNEtkZlltSVRTSXk1VERqaV9kemFrUndPYnhOTEpGUF9fbGZrd0JR?oc=5",
+       "source": "Mining.com.au",
+       "date": "2026-10-09T05:48:43+00:00"
       },
       {
        "title": "Torex Gold Reaches 329,000oz AuEq Year-to-Date Output",
@@ -662,16 +662,16 @@
      },
      "news": [
       {
-       "title": "What Wall Street may be forgetting about Meta's AI business",
-       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbkVjRkdRdVp2TUFaMmczY2dJaC00d1lUcnpZQ1RFN29hS0V5NHhmaGRGOGhZeDhocjFNM0FjeXMzb0JVV01HcGM1QUt3RDV1NGdpZGRSNllVWENhdUE4NG14UUV2NEdVa0tjWV9YeDFBR1JCUlJlbktFbzVUSHpPSkFpYkkyVWo2WUxJdnJicWRuMHBZTGdVQzFjVElVZGpNbk1GRkg2SGVETXBhUVJrLWs1aUJKTkVjdWJmdVpEWQ?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-15T12:34:22+00:00"
-      },
-      {
        "title": "Meta has an AI advantage OpenAI and Anthropic can't replicate",
        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQkh1U3hwN0V0OWc2SWp1S1Zpa204RldpMm1qUUJ6cGRMT3BuOHhWbGtNbGJla3B6RXZFb3dSZkN4NTE0NTJOYmNoLTVLVnV4RS14Zkx2ZTFUbXR1ckpfQUNDM1gyVmJESTc3ZHd4YnVoNjNpYmtrUWNBYTZEU3JwV0JfQWc1SkM4M1ZMbzBlUDVyQU5PbjVSTndGdHlzOEFTNkctekxTSXlSSG5qNlc4WDR1UmFZNjdCMUg3Zg?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-10-15T10:00:00+00:00"
+      },
+      {
+       "title": "Meta Reports on Oct. 21. I'd Consider Buying the Stock Before It Does.",
+       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQamtOeGNGblVhbllmQlV1a3VQak04LTdzR29QUXB5bFRtXzNpYTBScHoteXA1ZFlnRW9qcWxfSHEwV1k3QnEtWDUzd0d1M2F1dGpqZGhObk1ZZE1KWjJYQVJRY05qbVF4YkxYeWdZUjRUcFY3cERIdlNwbGdIeVIyb0l6bnd5Zi1Vc050Y1hjdHo?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-15T04:07:00+00:00"
       }
      ]
     },
@@ -706,28 +706,16 @@
  "failed": [],
  "general_news": [
   {
-   "title": "Major earnings reports are due next week, but strong results may not be enough to quell market fears",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMDB5eUJodTlUZTZQNzNYdFhCVWFOWUdRZk5ENkFRNll3OEE0RjJkb0tMUzZRMkJYNktERG5pN1ZmR1JTUW1FczQ0UmQwSGRza2xUeUsyTndRajd0aVU3dXRTaE1nVkFKalpJZm9yMVVNWUJpYi1vUGp2VEJwQl85dmNzY0ExV015MGc?oc=5",
-   "source": "CNBC",
-   "date": "2026-10-16T19:39:38+00:00"
+   "title": "The stock market is pricing in \u2018too many rate hikes\u2019 \u2013 Allianz\u2019s El-Erian",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVkQ3UVpmcmVhR3BHdkVBMlB4X19KZm4tX0dTeFk4WnJDd092YzlCMW1UVjdxTUVFRi1FM2F0S0N5blRQeXFial92WUpoSFZlZFZwODJJUmFZODAtdmM0eVRsdUJqZExGcjB3Tm1QcTVkSnBBV1Z0a1g0TFZfcHVGY3ZOSGNjdl9rQldfdUpFeHNUVnNpd2s5U3p4dkZBY05SRHRPb2R3?oc=5",
+   "source": "Seeking Alpha",
+   "date": "2026-10-16T20:26:51+00:00"
   },
   {
    "title": "The Stock Market Has Seen This Happen Only 2 Other Times in Over 150 Years, and History Has an Ominous Warning for Investors",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSm9pSEp1OEpkSkNSNlBtNWVjVXdJZ2ViTkdNcV81azlHSzkyWjFlaEQxT3dhb3ladmgwY3RiZkRvOWQ1ejF2QXJxbGR2azh5MnJrOWFlTGR3cVJaUHZBTWhQRHhvSXd5UjFJTzNSNWRDZmFzM2xaZlVFQ0UzZ242aU90Q2RCZ1I5bkhaeWZubEp3OUYxb1F3Ug?oc=5",
    "source": "The Motley Fool",
    "date": "2026-10-16T18:30:00+00:00"
-  },
-  {
-   "title": "Richard Orrell\u2019s Top Picks for Oct. 16, 2026",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUkctdHVyOXRjVFl1R1ZtUjgwMVU0a3hKNGp0NVpaMGN6NGticl9rdjBRSTduOE5FWDhITmdkc3lXMnBzLWlFakFBbUtkcnZtZldLakt3QzQwNWUwWmw4Yy1hVEpUTVlIRmktLVFFMll3c0NsUl9tZF93aGdGd1gzY3ZRUkpQeXkybUxWVWRhUGFCR2c?oc=5",
-   "source": "BNN Bloomberg",
-   "date": "2026-10-16T17:21:17+00:00"
-  },
-  {
-   "title": "Indonesia suffers a series of market sentiment setbacks in 2026",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMmllVUp5TW0zMzYyNGpXQUNKS0JlOXlXSHFoaXVKMmtoNmlNLXhrSVZoRjVKRm54VHR4LUM1eTdybFpoZnFVdFE5VERLYWNNOE1TTy16SWlJUWFZUzJoSXhCUW5NemxMYTFBeWVpUHowZUpyZWY3cmx4eE5JVnBZM3JxTmNJOW8yNEdZcWNUUlFBNm1aRkthQUduV0dMUU1JS0pTQnNxd19nTEdZbUpz?oc=5",
-   "source": "Reuters",
-   "date": "2026-10-16T17:04:58+00:00"
   },
   {
    "title": "Regime Change: Bonds Pricing AI Bubble Burst And A Recession",
@@ -742,10 +730,16 @@
    "date": "2026-10-16T11:00:00+00:00"
   },
   {
-   "title": "Global Ceramic Facades Market Size and Forecast 2026-2035 by Product, Installation, Application, and Region | Revenue to Hit $16.58 Billion as Green Building Demand Rises",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMVppYkEzeVcwTTVGbUhpYlo0WkZCYzZucjJuaENuSmpYZnc4REcyN1R5LXBpaGZ6ZV9XTGNzX09YRFFrVGJDV1JIdzhSQUxVTm5pdDZxaUs5NG1lU1ViQkFFclpkaTZCUTlWVmExUlFuQXhGcnRucUlSdnNtbGVXYXFvc2NtXzdxSEpiQzY0b1RVX1p0Sngwek1rUF8?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-10-16T08:55:00+00:00"
+   "title": "Indonesia suffers a series of market sentiment setbacks in 2026",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMmllVUp5TW0zMzYyNGpXQUNKS0JlOXlXSHFoaXVKMmtoNmlNLXhrSVZoRjVKRm54VHR4LUM1eTdybFpoZnFVdFE5VERLYWNNOE1TTy16SWlJUWFZUzJoSXhCUW5NemxMYTFBeWVpUHowZUpyZWY3cmx4eE5JVnBZM3JxTmNJOW8yNEdZcWNUUlFBNm1aRkthQUduV0dMUU1JS0pTQnNxd19nTEdZbUpz?oc=5",
+   "source": "Reuters",
+   "date": "2026-10-16T03:46:50+00:00"
+  },
+  {
+   "title": "C&F Financial's 2026 Outlook: Aggressive Market Expansion Drives New Retail Growth",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNT185RUJIRGdoc2VYQWs5elVqYzMyS2FJaHAxdUZ4SGJxQkVSeThlWFAtN1dOTFRERE11ZG1NQlZiX0U3c3dwb1IxWFZ1LURuV2MtaVhLNEVVTFkxZlNPbmJ2dTh0ZW8xTG1tdHR1TW9XeWlMTV91c3pxdnIwd3ZYQUVjZllpNGJOanltdnFXT2E3d19PckZtaVV3Ulp2U01ueGZiMEg0c2ZmemgwLVlQeVNLdzF3SnlXRXdmWFFqMTZhdzdNYV9CVzhNMA?oc=5",
+   "source": "The Motley Fool",
+   "date": "2026-10-15T21:37:00+00:00"
   },
   {
    "title": "The Stock Market Is Facing 3 Huge Problems Right Now, and History Is Clear About What's Coming",
@@ -758,6 +752,12 @@
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOGNUVFpNdUg4RVJZcllLbWVBWUpzZF9vWlFWV1d6bG1scGZaNXlHZmJVcnJjZWp4VE16UFVnbk1DU1h4eFZWdHczek9nUGI1WXVzUV84LW4yZVQ0SEFqZHlpZ1ljZlg2U1pRRHNwU1JuelVpNTk3SVJVT2trWDZyWFNPeDRMLUJ6SE5LV1Q5U01rUlpqZzVQMWdNZ3oxbXhIVGl3SFBkd3FxNVBUQTBNMlVNN1oyQkNGalBHTHBaUFNwQQ?oc=5",
    "source": "Yahoo Finance",
    "date": "2026-10-15T10:30:00+00:00"
+  },
+  {
+   "title": "SoftOx Solutions AS: SoftOx Solutions AS exercises on the financing facility with Long State Investments Limited",
+   "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOQlY4bE1kX3FTMDlETzNOVlB6SmZjQXVCaUJrbjM0V25YX3p1ajZxOW4tTkd6STZmSUgwXzNRanZob3RsMW5XaG1kbzF1TXdFSUV4aHc1NUpNNzdtOTZsUlB3UXJrMHRFSzMyQXBJcnFaTENMSjFGc3NNX1VYSUo0S09aSm91YmE1bWJ3UHUydEhuYlJJUEZDZ0t6S08wWm0xSFoyNkcyZG1RQ1hsOUpfdGdfM0psRWFra3I0M3RHVjRYcV9BZHlsN3hKMGhHcmRMZWJwcnZ0ZzRmN0ZpcFZqT1diYVZrRS1xbFdFYTV6eTV0Z0F5LU55T3FmZGdDbFQ4ZG1FaTFEQThmNENzRFVaN3RvTVBvbnowSW1MbmF2UWwtdUdOU0ozSw?oc=5",
+   "source": "Finansavisen",
+   "date": "2026-10-14T07:00:00+00:00"
   },
   {
    "title": "PPI Public Property Invest AB: Transactions carried out under the share buy-back program",
