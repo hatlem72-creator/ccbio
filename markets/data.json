@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-17T21:45:29.662530+00:00",
+ "updated": "2026-10-17T22:21:00.829352+00:00",
  "usdnok": 9.41349983215332,
  "btc": {
-  "price": 81057.453125,
+  "price": 81165.25,
   "prev": 81500.8046875,
-  "chg": -0.5439842762288705,
+  "chg": -0.41171947784641727,
   "currency": "USD",
   "asof": "2026-10-17T00:00:00+00:00"
  },
@@ -69,28 +69,28 @@
      },
      "news": [
       {
-       "title": "Kongsberg Maritime secures Extended Thruster Coverage agreement",
-       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeWFRczlOdDNxT3JRMUxZSFpvTlJaZlpDa3h2aExmTl9nU3JQc1lTaG5TM0FkNDJVNmMycVIyaEhZNjBmT0twN1U3cnB4NktaOUI4alNrQU1sY1NiV0tPc0Zad3Z2cGdvT0Z4am4zWTlVQkpBUjVfc3FLajRPOV96R0FLQUZ6Nmw0ZWF2MzJnTXRfQQ?oc=5",
-       "source": "Maritimt Magasin",
-       "date": "2026-10-07T07:00:00+00:00"
-      },
-      {
        "title": "Kongsberg Signs Waterjet contract for Indian Navy\u2019s Next Generation Missile Vessel",
        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNc3p3Vkg4M3BvUkZJTG1ObWRSQTM4czJZbFBYMFBqNTBhd2dsVHZXR19JUDhKWU9CSnVxQVhlVWVfZ05yXzJiYnBEUXRweTJtX0MtdExYMzIwVVNTeGFIQVJrRFY1cHA5U1h6b0lYME1TRXp5d1hXZnctRG4yVkpnLXlCTmhNMno1eVFvNmRPWjIwNmFsWEtlRU83UnlFT0d6ano3dEw1aXNMc0dXTkJsUERPQnV0M2ZKVVdDYzFDajhPS2hTTFE?oc=5",
        "source": "Naval News",
        "date": "2026-10-04T07:00:00+00:00"
       },
       {
-       "title": "Kongsberg Maritime completes acquisition of Berg Propulsion",
-       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQk9IUHIzRWdyd3FTSlpneEJVblNBTGRnOVJNbW5UT3lnUEhVaEpWbG9scE5PTTJtUnVKQWt3cmt1UGd6c252YWNlZnZjTDQ5MzN4bTJGRjc4R2l3TlZjLWc3RDhKSlhhNVJpOUlocDZlTUhNM2JMcDRlMTJDRy1rQ1NTTG5ha1RzbU1Hdm5yc0RBQ0ZUN1F0RjhTMG8xMjBhTkF6ZjVWX3BKNmY3Q0E1TExR?oc=5",
-       "source": "www.marketscreener.com",
-       "date": "2026-10-01T07:00:00+00:00"
+       "title": "KMAR: Kongsberg Maritime completes acquisition of Berg Propulsion",
+       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVko0OTJ2SXRWSXl0V3ZwMkozVUI2NkVKRUZnb3hNUkUyLTRrMHl1M19pV1dKcmNqakVQczNFRE1KODFJUUxHV1hoajBhc2RfOHVKd1k1WjNIdTJ0MC1DQ0VQUnlaM1lnSy1XQlV6Z3RieHlqQ2djSS1BdjBCWkh2WHFfY3l3UWxiZG9nek82d1RtM3M2cDZGU2ZPYjFUbHBFU0JfT2swUjFKSlJXNEJJR3phUHNyS25vWTl3M2EwY3RqMTlYbk5fclk0RnBTRmhFY1duYVh4ZmNQdnJLLVU1WjBURE0wUU9kSGc?oc=5",
+       "source": "Finansavisen",
+       "date": "2026-10-01T14:00:03+00:00"
       },
       {
-       "title": "Tekna appoints Egil Haugsdal as Chair of the Board",
-       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZ0FyVGs3djMxR0NfNFRDQjFiX2ttWmxPNTI3TDhKRDNZZjk2akNvLUVSSGM3SEpLbzV0U0x6UFJPdklFQ3ZHNzJWbFZmUzVMeWUxUjRhOHhvRVBjV0ZVdGwyNGhtejdGMnRfWEFaWXRZSzVfem1pckV5aXlDVFRscGdB?oc=5",
-       "source": "Metal Additive Manufacturing magazine",
-       "date": "2026-10-01T07:00:00+00:00"
+       "title": "Kongsberg Maritime Wins AUV Hangar and Subsea Docking Contract for Inkfish Research Vessel",
+       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUFVCVzE4cHhnZEEwdktoWDRXaHRLZDlPWFZIeXd6TlJmbFFybVhWN3FEY2VYRmhxWlkwSVR6QlFRajZ5YVV6THhuTzZYOW9PMFJnMi1oWk5LaURPdEFBNWpYdHQxa2J0QXNrcDJfTkxEZy1La05QUFRJLUtlOWRjYTJYb0ZPSzJYdFZuVHZLcXFPRzFjS282RGNvQm5aQk5RNGozMFMtTmlBSkhEaExzS1c3XzlZVVI3NUpmSWZwdzcyeHczWFpwVTBwZEVFWlVPM21v?oc=5",
+       "source": "Ocean News & Technology",
+       "date": "2026-09-30T13:57:29+00:00"
+      },
+      {
+       "title": "Kongsberg Maritime to Deliver AUV Hangar, Docking System for Inkfish Research Vessel",
+       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaWZMWFlSSE5Ja01DdkpXZzAxNWNUVHJrek02Z3FONlIyaVZoZ1E3b1MtTlhvVlMtMDdBYU0zLUJza2Q5TUpYdG1MSmJvNG15SFoyZTdYR1FiMUw2eEJ1YzR6YVZzeUxhQzZtMllZUnluRThjcnpiNE9USEI0T0V2dkY2UmlGY0JNNXc?oc=5",
+       "source": "Marine Technology News",
+       "date": "2026-09-30T13:11:50+00:00"
       }
      ]
     }
@@ -124,16 +124,16 @@
        "date": "2026-10-14T10:25:03+00:00"
       },
       {
-       "title": "VanEck UCITS ETFs Plc - Net Asset Value(s)",
-       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwblRPTmNTSHBPc3pSRnI3MXJON1c5aUxXVGZQU19ZVHowZXU0V3lSSUJSOG9ZRkV1aE1HSTBzRVpFdnlNQXlkWkphV0xSc0ZLVEhqTUVEZGhEVkE4amp0MWllVkdjNTJFaWU5UGRWczBxekozOUhXaWdjSUYyUzg?oc=5",
-       "source": "Yahoo Finance UK",
-       "date": "2026-10-12T06:00:00+00:00"
-      },
-      {
        "title": "VanEck Gold Miners ETF remains a buy with stron...",
        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNemhIOXhSaXlhamV6Mm5zRVNKblM1bHhPQmgxTzZRMGVHSG9PTXhHbnJaYkNqeERlOU1rdDBLNjhlWEU3eUlpNEdsTU0wdy1jbWZfakd4UzFrMHJJeFlFZzliWlJEUDRRYUQ2R3RLbzRmSGZKLS1sVjMyd1ctaHU5U1JULXMxemRxUEE?oc=5",
        "source": "Pluang",
        "date": "2026-10-12T04:13:40+00:00"
+      },
+      {
+       "title": "GDX Vs. SGDM Is A Draw, Gold Miners Are A Buy (NYSEARCA:GDX)",
+       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd0pJYktfcjZ0Z3gwNjBJeV9aTE5ESjczNXU5S1Ftanltdm9RY2dVbkdHbEtvSWpEdEVNWXFtaXlaU0V4UVNneEt4UGYxYmQxa1IxMmwxcndGM19zOXh6NTFqQ1ZoTzdEMHBUOS1FTUJCMmdUQ1ZYQlJwTlRkWGJtN3VBN0xtc2ZTZjJZVw?oc=5",
+       "source": "Seeking Alpha",
+       "date": "2026-10-12T03:57:34+00:00"
       }
      ]
     },
@@ -311,16 +311,16 @@
      },
      "news": [
       {
-       "title": "Is First Majestic Silver (TSX:AG) Driving Fresh Mining Interest?",
-       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdWZuYmdFVnN6cGdJQzU4aU5CbnVsd21xNm5QRlV6OGZlcFlZUV9iR1A5QVgxSkdEYzdlbDR5OWdhWG5OZ3h3VS1EQlF1SExkU2FYSGRjOGo5Q21xZHZTRjIwTVdRZEQydl9IMXc0Zkl6VU56Si1jTEpnN3Y2M196QmVvRjhNUUt1Y3ljLUoyZVJrcEh2NDhJNmRmNmdIYjN1a3c?oc=5",
-       "source": "Kalkine Media",
-       "date": "2026-10-15T17:28:00+00:00"
-      },
-      {
        "title": "First Majestic Silver Corp. (TSX:AG): Can It Restart Jerritt Canyon on Schedule?",
        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVFNkZnJYUnRzZ0t4Qy1oSHNySDlRc3l1cU5zckotalNtMFFsRS1zdkdMdlg5ZjBfT1hTWjgwSEVmbDM4Z1hJODF6SGVJMmQxNW5xSW54TnJzSHE1eUZ3UjFwNm9fdmNUQWVUQnNraGU0bkdLcnpzU2JBc0UwZkdSYXlfdUxNTzR4U2VfR1lXb21nQTd5cWVJanU0Zm9EOUdQZ1pqVnFwZGxGbjc2QmFMeEJoa1pDUmc?oc=5",
        "source": "Kalkine Media",
        "date": "2026-10-15T17:20:00+00:00"
+      },
+      {
+       "title": "First Majestic Silver Shares Slide 5.76% as Capital Reinvestment Pacing and Mexican Operational Headwinds Weigh on Investor Sentiment",
+       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPRFZpaktZajMwZERDd3ptcHVXVm9DNEMyZUI3WFRSZGNQbUk3LXYtbThHNER6VEJ3cW50dmVnczBPNm1BWkJ0QWNjUEt5NFhGN1VKUUNDdElIWlY0TFJLZ1U5S0FYVHhDRE5VY1hRazNYa1VtbG5jNThSYW5XZzVhY0VQbFJ3LXZFWU04SGZGQnpER3EtU2tQYzF2YzJPdzRGZXhIRUNXVGZzdTg1OXVIYUpDSHk5OGZXdEQ3UExwQ0ZHc3l1alplUzdZRm0wQ19SOXptUS1leHhKREpFQ0JveVo5V2VXbm9nUlUzcm1qUjhnMDVv?oc=5",
+       "source": "kalkine.ca",
+       "date": "2026-10-15T06:53:27+00:00"
       }
      ]
     },
@@ -354,10 +354,10 @@
        "date": "2026-10-16T02:23:36+00:00"
       },
       {
-       "title": "Millennium Silver Corp. Announces Stock Option Grant",
-       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUlpIUHlaZS14WENITUdjamR1VWt6SnlyOThRQmNMbjI5SG1PbkZXTXpMNkw1RVJNbzJlSllNUjdtQ0RXUXROVTd4ekpUYUhhSW9GNmtqNEdyX2pqRlNPYjB1S3ZnVUJmV0xyNWJSNERsdVZjQWVYc2lfSnJxaEl0Z0pFbHVudlA0ZlZZd1pGRHRaVTlCTXp5aGRORVNrdFRTUXFNSGJB?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-09-21T07:00:00+00:00"
+       "title": "GR Silver's 2027 Resource Update Decides What Its Zinc Is Worth",
+       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPS1VDNGUyS3Nnc25PbG10LUUtZmlBdHlZdjZRM0lTQ1laYUNmXzZwdXo2ajN2ZUpQZGdjWXZHMXpTTC1Oai00aXVITi1JUkR3VkgxamVEYXRmOXhjR3I0cDlVMlRENlhjZng3RnBZVl9fZTJ6azZBQmRrUHg4ck1SOWFHZXZ3MlhDZkxTdmdIX0V0OW92enA0S012SW1xdw?oc=5",
+       "source": "Crux Investor",
+       "date": "2026-09-18T07:00:00+00:00"
       }
      ]
     },
@@ -712,6 +712,12 @@
  "failed": [],
  "general_news": [
   {
+   "title": "Citi says interest rates may matter more for economy than stock valuations",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMmhMeHNEaEM4VUJhOHpnMjktS1V1cW5TQmFqazNKWmcxRzNMRUY1UFlVX0pRdzV0aGt1ZEdzOWlTMlducmQtOVltN3h3MkNqUUhQSDNYMUtrNGthMnRxeWQ0N2tnRGg1YVQ0cmZHYm9qeDlPSmQ0NV9XVUhuZXN5cmVETQ?oc=5",
+   "source": "Yahoo Finance Australia",
+   "date": "2026-10-17T20:26:11+00:00"
+  },
+  {
    "title": "S&P500: Yields And Stocks Are Dropping Together, It Has A Dangerous Precedent (SP500)",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZ1FobmpqcGtEdFp0MnBxOGpMVTJ5SEszTHdCSXFxQWcwTHAwMmNuLXBvdW5XWWdXNzAzXzNPanlSMFlxaGY3SnNKLVBDc29zckZZajdVV2M4aDU3QlJoeGtEekZMM0E4ci1fX1NseDJhdXpQeWpPZDVEdVd0eXc5ZDdxbk9RRmREbTNIbmFEZEx4MXlsR0ZIMTlDdUxoWHFZdkpocUZWNUZCNlBjOWd4bVctcFJyQnpfMlJKMA?oc=5",
    "source": "Seeking Alpha",
@@ -736,6 +742,12 @@
    "date": "2026-10-16T18:30:00+00:00"
   },
   {
+   "title": "Tesla analysis: stock falls after Roadster reveal fails to hold gains",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd1FsOU9SckktaTZPOFFjeGtzTEU4SmpOVksxTl9HWjhMRXR5bHlqRUhxSjZ0dVJTN1RwdGVETG1zWTR5dG5XSGdPcWRoZmUtZFY3SEtnS0tSUE5nM3B2alA1T0JRUDY2MVJna1hacnVBU3pTZkVrYlJMbVpSMWtTbnJBZ0stTWR6Qzg0TFlHWm91YU1DcE1vMS12U0Q1NUdEM2d4WURfRkdFaUxxLW53ejJ0Mzg3QUdtc3lLekEzNkoyS284Ymk3NWhR?oc=5",
+   "source": "Investing.com",
+   "date": "2026-10-16T17:44:34+00:00"
+  },
+  {
    "title": "Regime Change: Bonds Pricing AI Bubble Burst And A Recession",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRFRYSmZTX1IxSTBwU2p1U0hVc2Z5Q1NLR3RTb2VCNFEzWUFMdGJDSzJfQkdJQXp4V3JBbG4wV2hDVTJaZlNQSmswcFZwRzlUaEJMME1zTlFqVVlGbEtEUUdfNDBneWJMSVBlZ0d1Yi1BNG9HeEV1V0lHTlNzNERlVTVlaC1scWdCRnhqRWhTYTBNZGxRd3J5VWg3S2dadVF1V0E?oc=5",
    "source": "Seeking Alpha",
@@ -746,18 +758,6 @@
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPXzZKMEFJbDZuSEUtcDNaeE9KUVI2dnVIUkd2MzgxVFF2ZWhuUmhueGZEZkkxSElFelYxNkpHZXYyekdfOUM5QTcxRmZwNjFLTlQ1WXlJV3YyeE9kMW1ucEJSYXhfUEY0VFFmY1BqTE9faENmam1sX2MzMmpCOE40NTI0WUY2X3FmVWRxRG0wVlRsSEE?oc=5",
    "source": "Yahoo Finance",
    "date": "2026-10-16T11:00:00+00:00"
-  },
-  {
-   "title": "SoftOx Solutions AS: SoftOx Solutions AS exercises on the financing facility with Long State Investments Limited",
-   "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOQlY4bE1kX3FTMDlETzNOVlB6SmZjQXVCaUJrbjM0V25YX3p1ajZxOW4tTkd6STZmSUgwXzNRanZob3RsMW5XaG1kbzF1TXdFSUV4aHc1NUpNNzdtOTZsUlB3UXJrMHRFSzMyQXBJcnFaTENMSjFGc3NNX1VYSUo0S09aSm91YmE1bWJ3UHUydEhuYlJJUEZDZ0t6S08wWm0xSFoyNkcyZG1RQ1hsOUpfdGdfM0psRWFra3I0M3RHVjRYcV9BZHlsN3hKMGhHcmRMZWJwcnZ0ZzRmN0ZpcFZqT1diYVZrRS1xbFdFYTV6eTV0Z0F5LU55T3FmZGdDbFQ4ZG1FaTFEQThmNENzRFVaN3RvTVBvbnowSW1MbmF2UWwtdUdOU0ozSw?oc=5",
-   "source": "Finansavisen",
-   "date": "2026-10-14T07:00:00+00:00"
-  },
-  {
-   "title": "PPI Public Property Invest AB: Transactions carried out under the share buy-back program",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPU0N1ZEZnOEM5WnB6YWhHVTA5V0lyem93WDdqYmt5Smhsak9jemhvRXpyRndfWGNwWURpSmljaWF2emo5TnA1TTE4dmp0Mng4U3BtVks2d3YzaVRvR1ZnTTgwcWZDRDRyLU1OSDFETlFZeGZzZUg3ck1XUWNnQzdWdlJxTmdYY1pqanplZ3JDODE2NjNaeWlUQVU1ZVZyS252akJkMlJ3ZnJMVjlraGhpcGE5d2FTcGU4Yi01UkZ5bnN0NEtqSjNwaWFPbzdnSG5oN3pRRlBHd2JnWTJMOUlyMGJOWFNHdDdy?oc=5",
-   "source": "TradingView",
-   "date": "2026-10-14T05:00:00+00:00"
   },
   {
    "title": "Otovo ASA: Approval of prospectus and listing of shares",
