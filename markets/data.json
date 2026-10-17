@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-17T11:45:33.514615+00:00",
+ "updated": "2026-10-17T12:27:07.465938+00:00",
  "usdnok": 9.41349983215332,
  "btc": {
-  "price": 81471.6875,
+  "price": 81469.6015625,
   "prev": 81500.8046875,
-  "chg": -0.035726257687451746,
+  "chg": -0.03828566493256913,
   "currency": "USD",
   "asof": "2026-10-17T00:00:00+00:00"
  },
@@ -87,10 +87,10 @@
        "date": "2026-10-04T07:00:00+00:00"
       },
       {
-       "title": "Kongsberg Maritime completes acquisition of Berg Propulsion",
-       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQXBjLXN5TkFLa285cjlPanlPV1ZtTTBuUkRJb01CTHlNcnlwWDh0R3RYclZkWTdVMXdacTdCU0xPenl4SGN0R0pLdW9lVXE4TTZGNE1IcFd4bmM2MUV4a2U5YVZfbXp1d2pOX1hOTWJhOGg2cjBwQmdaRzZna0ROSmNwMDdCUWt3dkoyMlg1ZXluLThIVWI1UE5JeW5pQkJ4eGoybW1aOV9fQnZyc2ZmcDZn?oc=5",
-       "source": "www.marketscreener.com",
-       "date": "2026-10-01T14:19:21+00:00"
+       "title": "KMAR: Kongsberg Maritime completes acquisition of Berg Propulsion",
+       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVko0OTJ2SXRWSXl0V3ZwMkozVUI2NkVKRUZnb3hNUkUyLTRrMHl1M19pV1dKcmNqakVQczNFRE1KODFJUUxHV1hoajBhc2RfOHVKd1k1WjNIdTJ0MC1DQ0VQUnlaM1lnSy1XQlV6Z3RieHlqQ2djSS1BdjBCWkh2WHFfY3l3UWxiZG9nek82d1RtM3M2cDZGU2ZPYjFUbHBFU0JfT2swUjFKSlJXNEJJR3phUHNyS25vWTl3M2EwY3RqMTlYbk5fclk0RnBTRmhFY1duYVh4ZmNQdnJLLVU1WjBURE0wUU9kSGc?oc=5",
+       "source": "Finansavisen",
+       "date": "2026-10-01T14:00:03+00:00"
       }
      ]
     }
@@ -662,16 +662,16 @@
      },
      "news": [
       {
-       "title": "Cathie Wood's ARK Scoops Up Over 32,000 Meta Shares In 2 Days \u2014 Wall Street\u2019s Split Over AI Spending",
-       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPalU2VldJaXBSeVVPMDZtRC1ScUtUM2hCZWNheG0tcnQ0Wk5lMjI2MkFWcF9ncHRrbkliZ0dTSUVBUmxoaE8wR2ppUkRpUTN6cTdFd25kOWpFV0NfN3ZCaWdxWDBJeURjeWRFelhHcmczZGhqQlNLWi1lczJmejVRQXo2T0piX25kOGtNeVNlaU1sVXJQRVRVVQ?oc=5",
+       "title": "Meta has an AI advantage OpenAI and Anthropic can't replicate",
+       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQkh1U3hwN0V0OWc2SWp1S1Zpa204RldpMm1qUUJ6cGRMT3BuOHhWbGtNbGJla3B6RXZFb3dSZkN4NTE0NTJOYmNoLTVLVnV4RS14Zkx2ZTFUbXR1ckpfQUNDM1gyVmJESTc3ZHd4YnVoNjNpYmtrUWNBYTZEU3JwV0JfQWc1SkM4M1ZMbzBlUDVyQU5PbjVSTndGdHlzOEFTNkctekxTSXlSSG5qNlc4WDR1UmFZNjdCMUg3Zg?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-10-15T13:16:13+00:00"
+       "date": "2026-10-15T10:00:00+00:00"
       },
       {
-       "title": "What Wall Street may be forgetting about Meta's AI business",
-       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbkVjRkdRdVp2TUFaMmczY2dJaC00d1lUcnpZQ1RFN29hS0V5NHhmaGRGOGhZeDhocjFNM0FjeXMzb0JVV01HcGM1QUt3RDV1NGdpZGRSNllVWENhdUE4NG14UUV2NEdVa0tjWV9YeDFBR1JCUlJlbktFbzVUSHpPSkFpYkkyVWo2WUxJdnJicWRuMHBZTGdVQzFjVElVZGpNbk1GRkg2SGVETXBhUVJrLWs1aUJKTkVjdWJmdVpEWQ?oc=5",
+       "title": "Meta Reports on Oct. 21. I'd Consider Buying the Stock Before It Does.",
+       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQamtOeGNGblVhbllmQlV1a3VQak04LTdzR29QUXB5bFRtXzNpYTBScHoteXA1ZFlnRW9qcWxfSHEwV1k3QnEtWDUzd0d1M2F1dGpqZGhObk1ZZE1KWjJYQVJRY05qbVF4YkxYeWdZUjRUcFY3cERIdlNwbGdIeVIyb0l6bnd5Zi1Vc050Y1hjdHo?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-10-15T12:34:22+00:00"
+       "date": "2026-10-15T04:07:00+00:00"
       }
      ]
     },
@@ -706,6 +706,18 @@
  "failed": [],
  "general_news": [
   {
+   "title": "JPMorgan Sees Wider Corporate Earnings Growth Supporting Q3 Equity Market Outlook",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTnJFMVA3MVFBOGhpMU5YazZiWDVtNGFtNlEtOGVMY2U0a2k3ODhNNmttQ3dvRWNlTFVCbU1UXzV3YTFHeFNoY3MzYVlVbXdfM180d09ITUdZZjBoTmctcjZNeE1iLUtxZThxZnVtYV9OblVWMEYxeTA2UV90WmVFd1d2MHdDMXRndzlOeEV4aUE?oc=5",
+   "source": "Yahoo Finance UK",
+   "date": "2026-10-17T11:43:00+00:00"
+  },
+  {
+   "title": "Major earnings reports are due next week, but strong results may not be enough to quell market fears",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMDB5eUJodTlUZTZQNzNYdFhCVWFOWUdRZk5ENkFRNll3OEE0RjJkb0tMUzZRMkJYNktERG5pN1ZmR1JTUW1FczQ0UmQwSGRza2xUeUsyTndRajd0aVU3dXRTaE1nVkFKalpJZm9yMVVNWUJpYi1vUGp2VEJwQl85dmNzY0ExV015MGc?oc=5",
+   "source": "CNBC",
+   "date": "2026-10-16T19:39:38+00:00"
+  },
+  {
    "title": "The Stock Market Has Seen This Happen Only 2 Other Times in Over 150 Years, and History Has an Ominous Warning for Investors",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSm9pSEp1OEpkSkNSNlBtNWVjVXdJZ2ViTkdNcV81azlHSzkyWjFlaEQxT3dhb3ladmgwY3RiZkRvOWQ1ejF2QXJxbGR2azh5MnJrOWFlTGR3cVJaUHZBTWhQRHhvSXd5UjFJTzNSNWRDZmFzM2xaZlVFQ0UzZ242aU90Q2RCZ1I5bkhaeWZubEp3OUYxb1F3Ug?oc=5",
    "source": "The Motley Fool",
@@ -724,22 +736,10 @@
    "date": "2026-10-16T11:00:00+00:00"
   },
   {
-   "title": "C&F Financial's 2026 Outlook: Aggressive Market Expansion Drives New Retail Growth",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNT185RUJIRGdoc2VYQWs5elVqYzMyS2FJaHAxdUZ4SGJxQkVSeThlWFAtN1dOTFRERE11ZG1NQlZiX0U3c3dwb1IxWFZ1LURuV2MtaVhLNEVVTFkxZlNPbmJ2dTh0ZW8xTG1tdHR1TW9XeWlMTV91c3pxdnIwd3ZYQUVjZllpNGJOanltdnFXT2E3d19PckZtaVV3Ulp2U01ueGZiMEg0c2ZmemgwLVlQeVNLdzF3SnlXRXdmWFFqMTZhdzdNYV9CVzhNMA?oc=5",
-   "source": "The Motley Fool",
-   "date": "2026-10-15T21:37:00+00:00"
-  },
-  {
-   "title": "Mowi reports accidental sale of 6,002 shares of Mowi stock",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa1FYUHZJY091QTh1UmUtTXlpekZQRmwyaTN4UWJwNnFYS09IS2Jsdl9HNDZnakdaVkVGcFpPd0d1UzhIQWJVTnl4LUk3d2xETzIxNTFzSEJERlJIZmV2QWlRUlczWDZWQ3pqMmZRRV9xWHduQ1BqeHU0UjZwWklYaVFNWEFqcWM5QTY5eWtMZm5ydEtTM2FDVEdZYzUwRGE0cjNzS1dFcUMwblJPRlRwb3AwSnFzaEFp?oc=5",
-   "source": "ad-hoc-news.de",
-   "date": "2026-10-15T11:15:31+00:00"
-  },
-  {
-   "title": "CMB.TECH detaches distribution of $0.64, including $0.43 in capital repayment",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYXZkZVVJdDRKbVByUkZySnZaeTFVU2JGSlNoaGlra0hZOXFTUzd6MU1GV0xsb09MZVpaY1dhcF9mSDV6dndlSzJ0TGJhV2FQbnRac3I0eFlOb0lsOEN1WUJEUW4wMGl3enJKa2lqaHRBYWgzd3RJb1Q0ZE4yd2dLT1J6RzRUZ2VBcXQ1ZHNab3pHWnFrSWM2NGtNSDN1R0JBVlhQREhnZkgzajc0ZGJtZk5sY054UVY1bG5xbGVDbTBDeHRYYldXZ1dGR3Nfdw?oc=5",
-   "source": "Id\u00e9al Investisseur",
-   "date": "2026-10-15T06:49:00+00:00"
+   "title": "The Stock Market Is Facing 3 Huge Problems Right Now, and History Is Clear About What's Coming",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeTVqcUVjam5TdGZWSG5uNTRyUzVCQVNmWExBRG5MZGJ0YkVUVFhBek9UYzExTUFHSlM0a2RzVnNXd3JUSXZzcnJBMTU0ZEM3b2UwMmlGejYtMmxqbFY1T3VhZ0xfU2FISEZlakVhMWdKREV3ZHlyNnB6UG10c2JPZWFaVGtjMkVYOVNTc0Y2S191SVlmNkE?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-10-15T12:20:00+00:00"
   },
   {
    "title": "Borr Drilling Limited - Notification of PDMR Transaction",
