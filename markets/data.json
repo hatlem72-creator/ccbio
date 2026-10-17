@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-17T07:09:03.782816+00:00",
+ "updated": "2026-10-17T07:07:27.060887+00:00",
  "usdnok": 9.41349983215332,
  "btc": {
-  "price": 81532.7109375,
+  "price": 81530.390625,
   "prev": 82141.4609375,
-  "chg": -0.7410995532002862,
+  "chg": -0.7439243294746767,
   "currency": "USD",
   "asof": "2026-10-17T00:00:00+00:00"
  },
@@ -24,9 +24,9 @@
      "symbol": "KOG.OL",
      "name": "Kongsberg Gruppen",
      "quote": {
-      "price": NaN,
-      "prev": 302.29998779296875,
-      "chg": NaN,
+      "price": 315.3,
+      "prev": 302.20001220703125,
+      "chg": 4.334873350036217,
       "currency": "NOK",
       "asof": "2026-10-16T00:00:00+02:00"
      },
@@ -61,9 +61,9 @@
      "symbol": "KMAR.OL",
      "name": "Kongsberg Maritime",
      "quote": {
-      "price": NaN,
-      "prev": 61.400001525878906,
-      "chg": NaN,
+      "price": 61.06,
+      "prev": 61.31999969482422,
+      "chg": -0.4240047229585375,
       "currency": "NOK",
       "asof": "2026-10-16T00:00:00+02:00"
      },
@@ -104,9 +104,9 @@
      "symbol": "G2X.DE",
      "name": "VanEck Gold Miners UCITS ETF",
      "quote": {
-      "price": NaN,
-      "prev": 86.94999694824219,
-      "chg": NaN,
+      "price": 88.5,
+      "prev": 86.95,
+      "chg": 1.7826336975273138,
       "currency": "EUR",
       "asof": "2026-10-16T00:00:00+02:00"
      },
@@ -124,16 +124,16 @@
        "date": "2026-10-14T10:25:03+00:00"
       },
       {
-       "title": "VanEck UCITS ETFs Plc - Net Asset Value(s)",
-       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwblRPTmNTSHBPc3pSRnI3MXJON1c5aUxXVGZQU19ZVHowZXU0V3lSSUJSOG9ZRkV1aE1HSTBzRVpFdnlNQXlkWkphV0xSc0ZLVEhqTUVEZGhEVkE4amp0MWllVkdjNTJFaWU5UGRWczBxekozOUhXaWdjSUYyUzg?oc=5",
-       "source": "Yahoo Finance UK",
-       "date": "2026-10-12T06:00:00+00:00"
-      },
-      {
        "title": "GDX Vs. SGDM Is A Draw, Gold Miners Are A Buy (NYSEARCA:GDX)",
        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd0pJYktfcjZ0Z3gwNjBJeV9aTE5ESjczNXU5S1Ftanltdm9RY2dVbkdHbEtvSWpEdEVNWXFtaXlaU0V4UVNneEt4UGYxYmQxa1IxMmwxcndGM19zOXh6NTFqQ1ZoTzdEMHBUOS1FTUJCMmdUQ1ZYQlJwTlRkWGJtN3VBN0xtc2ZTZjJZVw?oc=5",
        "source": "Seeking Alpha",
        "date": "2026-10-12T03:57:34+00:00"
+      },
+      {
+       "title": "Which Precious Metals ETF Is the Better Buy: abrdn\u2019s Silver SIVR or VanEck\u2019s Gold Miners GDX?",
+       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNEFjU3hkT3hGM2hNcWtZaXNhV3g4N3B3QzY4WjVuMHVnckZGcHZqa0h1dzJjbVpta1AzWGp0Mmdva2ozWTdjV2xjX0w3X0pGd3FNajhiMklyUWEwbXl4cHAtUDBaNUlncFVvaElrN21QS0ZhMDF4d2VWek1LVGFFRWFBQ1h5MVE1SlUxV3ZlVlY0bWc1ck1DaTYtTlBlbHpEb09hcm5oa3ZMYm12Q1dsem4tV1RzTjFwX2xEdU5mYUxDNGFfS0dQWWNGNUNVN3hSSERUSw?oc=5",
+       "source": "The Motley Fool",
+       "date": "2026-10-11T23:44:00+00:00"
       }
      ]
     },
@@ -141,9 +141,9 @@
      "symbol": "2B76.DE",
      "name": "iShares Automation & Robotics UCITS ETF",
      "quote": {
-      "price": NaN,
-      "prev": 19.101999282836914,
-      "chg": NaN,
+      "price": 18.83,
+      "prev": 19.102,
+      "chg": -1.4239346665270713,
       "currency": "EUR",
       "asof": "2026-10-16T00:00:00+02:00"
      },
@@ -334,9 +334,9 @@
      "symbol": "GRSL.V",
      "name": "GR Silver Mining",
      "quote": {
-      "price": NaN,
+      "price": 0.275,
       "prev": 0.2775000035762787,
-      "chg": NaN,
+      "chg": -0.9009021780395976,
       "currency": "CAD",
       "asof": "2026-10-16T00:00:00-04:00"
      },
@@ -562,16 +562,16 @@
      },
      "news": [
       {
-       "title": "Microsoft Stock Had a Monstrous Rally After Its Last Earnings. Don\u2019t Expect It to Repeat This Time.",
-       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV1dCUFFpdGRJQUQ3VDUzai1iS01XWF9GeGdfYVFGNWpHcGxCUThqRmtuZTRjSXpTcWZFcF93elZkd05PUzhsbFM2Ymc0N052U3h5NUdEeW5DLUJOeFV0Q2RRQkNDMXdpNkk5YVh5eWpFWkk2elM5N1g1Q0VJQUN3ZnA1c1oxanhCUkxBUnNKRWdzVTcwR2p2YThhaEt0QjI4Y3c?oc=5",
+       "title": "MSFT Stock Gets Slew Of Price Target Hikes Ahead Of Earnings \u2013 TD Cowen Sees \u2018Higher Than Normal\u2019 Azure Beat Potential",
+       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcjNWTjRwWjZ4WWZ3ckI0WlpwbEhxLWt0bmZ0eXZzNV9zeXJqZUlxZzR3SzhTeDRFTlBwNmIwVm9lY3ZMZDdVek1mYndlQW1aTTBuNklydXdxTnl3MVhSZEhiNk10RF92dnpNdjFQUExzVkdBOVFYVjMzOFg4Tm5PTERwMWk3bFVvbjdHQnJVVVZBTUtKVkE?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-10-16T13:44:40+00:00"
+       "date": "2026-10-15T15:13:32+00:00"
       },
       {
-       "title": "How Earnings Beat Will Impact Microsoft (MSFT) Stock",
-       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSmRPNkRTT0Z2SUczb0Z4YjdZWVB2Z2x6TXBSSi1lMlN6VGtINVdUWjV2dU5xY0IzbzZOMHQwcV9nSXczRmlOREN6Zi1aUlg1LU9ETk9Bb3JZV1JQaDN1bmxHdm5JWFcxblNuQ2ZmWE5PUF9LZDJ6bE9YaWtzN1R1UWtNWlU2U0l4TnVFMHptNnFuVExtRUQwLVdoU0NxTGNtY2c?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-16T04:29:00+00:00"
+       "title": "Why Wall Street Is Comfortable With Microsoft Stock Even as AI Trade Pressured",
+       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5LdkFzVE45UksyZldSUko4N3N1SzhweTkxbkJQR3o3TlM2STdac2dmU3JYTE9pSFc1NVAxaElXeFFzWmIxcjFDY0Q3enZfcW5YYXZGVm5NdE5oWGlUVldQaGFNUjZTOXREN1JxZ0ZtelV4aTl4ODhTVnR5cEpBUQ?oc=5",
+       "source": "Barron's",
+       "date": "2026-10-15T15:03:00+00:00"
       }
      ]
     },
@@ -706,6 +706,12 @@
  "failed": [],
  "general_news": [
   {
+   "title": "The stock market is pricing in \u2018too many rate hikes\u2019 \u2013 Allianz\u2019s El-Erian",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVkQ3UVpmcmVhR3BHdkVBMlB4X19KZm4tX0dTeFk4WnJDd092YzlCMW1UVjdxTUVFRi1FM2F0S0N5blRQeXFial92WUpoSFZlZFZwODJJUmFZODAtdmM0eVRsdUJqZExGcjB3Tm1QcTVkSnBBV1Z0a1g0TFZfcHVGY3ZOSGNjdl9rQldfdUpFeHNUVnNpd2s5U3p4dkZBY05SRHRPb2R3?oc=5",
+   "source": "Seeking Alpha",
+   "date": "2026-10-16T20:26:51+00:00"
+  },
+  {
    "title": "The Stock Market Has Seen This Happen Only 2 Other Times in Over 150 Years, and History Has an Ominous Warning for Investors",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSm9pSEp1OEpkSkNSNlBtNWVjVXdJZ2ViTkdNcV81azlHSzkyWjFlaEQxT3dhb3ladmgwY3RiZkRvOWQ1ejF2QXJxbGR2azh5MnJrOWFlTGR3cVJaUHZBTWhQRHhvSXd5UjFJTzNSNWRDZmFzM2xaZlVFQ0UzZ242aU90Q2RCZ1I5bkhaeWZubEp3OUYxb1F3Ug?oc=5",
    "source": "The Motley Fool",
@@ -746,12 +752,6 @@
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOGNUVFpNdUg4RVJZcllLbWVBWUpzZF9vWlFWV1d6bG1scGZaNXlHZmJVcnJjZWp4VE16UFVnbk1DU1h4eFZWdHczek9nUGI1WXVzUV84LW4yZVQ0SEFqZHlpZ1ljZlg2U1pRRHNwU1JuelVpNTk3SVJVT2trWDZyWFNPeDRMLUJ6SE5LV1Q5U01rUlpqZzVQMWdNZ3oxbXhIVGl3SFBkd3FxNVBUQTBNMlVNN1oyQkNGalBHTHBaUFNwQQ?oc=5",
    "source": "Yahoo Finance",
    "date": "2026-10-15T10:30:00+00:00"
-  },
-  {
-   "title": "Elopak ASA: Ex. dividend EUR 0.065 per share today",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdkJKZ0ZwdldPanlxdFRORk1GZEpNZ0NiTjZjZ1l5UjhXdmpJOERJeWtkb2hrWk9UbFV3UnZQOUtfX29WN1YxbEJIekoycTVFdGJKX000MklyX3N0UnBSZmo2MjVBQnlIajktN2l4aFRaaGNkckQtM0QycDRDekcxWFU5VUZQTF8yQzkxeXVLQkFyVHJURDU4UWJOQ1ZDN2ZxTDFwOEhuSEkzWXItRUhqUnk1MHY?oc=5",
-   "source": "TradingView",
-   "date": "2026-10-15T05:00:00+00:00"
   },
   {
    "title": "SoftOx Solutions AS: SoftOx Solutions AS exercises on the financing facility with Long State Investments Limited",

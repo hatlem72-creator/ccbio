@@ -28,15 +28,42 @@ SECTIONS = [
 ORDER=["Stocks","ETFs & Index Funds","Silver Mining","General Markets","Tech Stocks"]
 SECTIONS.sort(key=lambda x: ORDER.index(x[0]))
 
-def quote(sym):
+import math, os
+def ok(v): return isinstance(v, (int, float)) and math.isfinite(v)
+try:  # last good data, used when a source fails or returns gaps
+    _OLD = json.load(open("markets/data.json"))
+    PREV = {i["symbol"]: i["quote"] for sec in _OLD.get("sections", []) for i in sec["items"] if i.get("quote")}
+    PREV.update({"BTC-USD": _OLD.get("btc"), "SI=F": _OLD.get("silver")})
+except Exception:
+    _OLD, PREV = {}, {}
+
+def _quote(sym):
     t = yf.Ticker(sym)
-    h = t.history(period="7d")
+    h = t.history(period="10d")
     if h.empty: return None
-    last = float(h.Close.iloc[-1]); prev = float(h.Close.iloc[-2]) if len(h) > 1 else None
-    try: cur = t.fast_info.get("currency")
-    except Exception: cur = None
-    return {"price": last, "prev": prev, "chg": (last/prev-1)*100 if prev else None,
-            "currency": cur, "asof": h.index[-1].isoformat()}
+    raw = h["Close"]; c = raw.dropna(); c = c[c > 0]
+    if len(c) == 0: return None
+    last = float(c.iloc[-1]); prev = float(c.iloc[-2]) if len(c) > 1 else None; asof = c.index[-1]
+    try: fi = t.fast_info; cur = fi.get("currency")
+    except Exception: fi, cur = None, None
+    # Yahoo sometimes leaves the latest daily bar empty (NaN); fill it from the live quote
+    if raw.index[-1] > asof and fi is not None:
+        try:
+            lp, pc = fi.get("lastPrice"), fi.get("previousClose")
+            if ok(lp) and lp > 0:
+                last, asof = float(lp), raw.index[-1]
+                prev = float(pc) if ok(pc) and pc > 0 else float(c.iloc[-1])
+        except Exception: pass
+    q = {"price": last, "prev": prev, "chg": (last/prev-1)*100 if ok(prev) and prev else None,
+         "currency": cur, "asof": asof.isoformat()}
+    return {k: (v if not isinstance(v, float) or ok(v) else None) for k, v in q.items()}
+
+def quote(sym):
+    try: q = _quote(sym)
+    except Exception: q = None
+    if (not q or not ok(q.get("price"))) and PREV.get(sym) and ok(PREV[sym].get("price")):
+        q = dict(PREV[sym]); q["fallback"] = True   # last good value
+    return q if q and ok(q.get("price")) else None
 
 def news(q, n=4):
     exact = q.endswith(" Corp")
@@ -59,17 +86,16 @@ def news(q, n=4):
     return out[:n+8]
 
 fx = {k: quote(v) for k, v in {"USDNOK": "USDNOK=X"}.items()}
-usdnok = fx["USDNOK"]["price"]
+usdnok = (fx["USDNOK"] or {}).get("price") or _OLD.get("usdnok")
 btc = quote("BTC-USD"); ag = quote("SI=F")
 data = {"updated": datetime.datetime.now(datetime.timezone.utc).isoformat(), "usdnok": usdnok,
         "btc": btc, "silver": ag, "sections": [], "failed": []}
 for title, items in SECTIONS:
     sec = {"title": title, "part": 2 if title in ("General Markets","Tech Stocks") else 1, "items": []}
     for sym, name, q in items:
-        try: qu = quote(sym)
-        except Exception: qu = None
+        qu = quote(sym)
         if not qu: data["failed"].append(sym)
-        sec["items"].append({"symbol": sym, "name": name, "quote": qu, "want": 2 if title in ("Silver Mining","Tech Stocks") else 4, "news": news(q) if q else None})
+        sec["items"].append({"symbol": sym, "name": name, "quote": qu, "want": 2 if title in ("Silver Mining","Tech Stocks") else 4, "news": (news(q) or [i2 for sec2 in _OLD.get("sections", []) for i2 in sec2["items"] if i2["symbol"] == sym for i2 in [i2] if i2.get("news")][:1] and next(i2["news"] for sec2 in _OLD.get("sections", []) for i2 in sec2["items"] if i2["symbol"] == sym) or []) if q else None})
     data["sections"].append(sec)
 gn = []
 for q in ["stock market outlook", "stock market crash warning OR bubble", "recession risk economy", "Oslo Børs"]:
@@ -109,5 +135,8 @@ for sec in sorted(data["sections"], key=lambda x: x["part"]):
         if it["news"] is not None: it["news"] = pick(it["news"], it.pop("want"))
         else: it.pop("want", None)
 data["general_news"] = pick(data["general_news"], 12)
-json.dump(data, open("markets/data.json", "w"), indent=1)
+if not data["general_news"]: data["general_news"] = _OLD.get("general_news", [])
+tmp = "markets/data.json.tmp"
+json.dump(data, open(tmp, "w"), indent=1, allow_nan=False)  # never write NaN (breaks JSON in browsers)
+os.replace(tmp, "markets/data.json")
 print("failed:", data["failed"])

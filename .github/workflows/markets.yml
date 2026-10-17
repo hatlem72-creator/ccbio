@@ -7,13 +7,23 @@ concurrency: {group: markets, cancel-in-progress: false}
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: {python-version: "3.12"}
       - run: pip install yfinance
       - run: python markets/fetch.py
-      - run: |
+      - name: Validate JSON (strict, no NaN)
+        run: python -c "import json;json.load(open('markets/data.json'),parse_constant=lambda c:(_ for _ in ()).throw(ValueError('bad constant '+c)))"
+      - name: Commit (rebase on other pushes, retry)
+        run: |
           git config user.name "markets-bot"; git config user.email "actions@users.noreply.github.com"
           git add markets/data.json
-          git diff --cached --quiet || (git commit -m "Update markets data" && git pull --rebase && git push)
+          git diff --cached --quiet && exit 0
+          git commit -m "Update markets data"
+          for i in 1 2 3 4 5; do
+            git pull --rebase -X theirs origin main && git push origin HEAD:main && exit 0
+            sleep $((i*5))
+          done
+          exit 1

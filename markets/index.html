@@ -29,27 +29,38 @@ td .n{font-family:'Source Serif 4',serif;font-size:16px;font-weight:600}td .s{di
 .parthead small{display:block;font-family:Inter,sans-serif;font-style:normal;font-size:11px;letter-spacing:3px;text-transform:uppercase;color:var(--gold);margin-bottom:6px}
 .divider{margin:64px 0 0;border-top:4px double var(--gold);text-align:center;height:0}.divider span{position:relative;top:-11px;background:var(--bg);padding:0 16px;font-family:Inter,sans-serif;font-size:11px;letter-spacing:3px;color:var(--gold);text-transform:uppercase}
 .part2{background:#14213d;color:#f4efe4;margin:30px -20px 0;padding:10px 20px 30px;border-radius:2px}.part2 h2{border-color:#b08d57}.part2 td,.part2 th,.part2 .co{border-color:#2c3a5c}.part2 .co a{color:#f4efe4}.part2 .up{color:#4ade80}.part2 .dn{color:#f87171}.part2 .parthead{color:#f4efe4}
+#notice{display:none;font-family:Inter,sans-serif;font-size:13px;color:#5b4a2a;background:#f3ead8;border-left:3px solid var(--gold);padding:10px 14px;margin:6px 0 0}
 footer{margin-top:40px;font-family:Inter,sans-serif;font-size:11px;color:var(--mute);text-align:center}
 @media(max-width:640px){.hero{grid-template-columns:1fr}.card+.card{border-left:0;border-top:1px solid var(--line)}.hide{display:none}}
 </style></head><body><div class="wrap">
 <header><h1>The Markets Ledger</h1><div class="dateline" id="dl">Loading…</div></header>
-<div class="parthead p1"><small>Part I</small>My Portfolio</div><section class="hero" id="hero"></section><main id="main"></main>
+<div class="parthead p1"><small>Part I</small>My Portfolio</div><div id="notice"></div><section class="hero" id="hero"></section><main id="main"></main>
 <footer>Prices may be delayed ~15 min (Yahoo Finance); funds show latest NAV. News via Google News. Auto-refreshes.</footer></div>
 <script>
 const f=(v,d=2)=>v==null?'–':v.toLocaleString('en-US',{minimumFractionDigits:d,maximumFractionDigits:d});
 const dp=v=>v<1?3:2, cl=c=>c==null?'':c>=0?'up':'dn', pc=c=>c==null?'–':(c>=0?'▲ +':'▼ ')+c.toFixed(2)+'%';
 const osl=(s,o)=>new Date(s).toLocaleString('en-GB',Object.assign({timeZone:'Europe/Oslo'},o));
 const esc=s=>(s||'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-async function load(){
- const d=await (await fetch('data.json?'+Date.now())).json(),r=d.usdnok;
- let btc=d.btc,ag=d.silver;
- try{const c=await (await fetch('https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd,nok&include_24hr_change=true')).json();btc={price:c.bitcoin.usd,nok:c.bitcoin.nok,chg:c.bitcoin.usd_24h_change};}catch(e){}
+async function getData(){
+ // tolerant: NaN/Infinity -> null, so one bad number can never blank the page; keep last good copy on the device
+ try{const r=await fetch('data.json?'+Date.now(),{cache:'no-store'});if(!r.ok)throw new Error('HTTP '+r.status);
+  const d=JSON.parse((await r.text()).replace(/\bNaN\b|-?\bInfinity\b/g,'null'));try{localStorage.setItem('mkt',JSON.stringify(d))}catch(e){}return [d,false]}
+ catch(e){console.warn('data.json failed',e);try{const d=JSON.parse(localStorage.getItem('mkt'));if(d)return [d,true]}catch(e2){}throw e}}
+async function load(){try{await render()}catch(e){console.error(e);if(!main.innerHTML)dl.textContent='Could not load market data right now. Retrying in a minute…';setTimeout(load,60e3)}}
+async function render(){
+ const [d,offline]=await getData(),r=d.usdnok||0;
+ let btc=d.btc||{},ag=d.silver||{};
+ try{const c=await (await fetch('https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd,nok&include_24hr_change=true')).json();if(c.bitcoin&&c.bitcoin.usd)btc={price:c.bitcoin.usd,nok:c.bitcoin.nok,chg:c.bitcoin.usd_24h_change,live:1};}catch(e){}
+ const now=new Date(),wd=osl(now,{weekday:'short'}),wk=wd=='Sat'||wd=='Sun',age=(now-new Date(d.updated))/36e5;
+ const today=osl(now,{year:'numeric',month:'2-digit',day:'2-digit'}),asof=q=>q&&q.asof?osl(q.asof.slice(0,10)+'T12:00:00Z',{year:'numeric',month:'2-digit',day:'2-digit'}):'';
+ const stale=q=>q&&q.asof&&asof(q)!=today?`<span class="s">${q.fallback?'last known · ':''}close ${osl(q.asof.slice(0,10)+'T12:00:00Z',{day:'numeric',month:'short'})}</span>`:'';
+ notice.innerHTML=(wk?'Markets are closed for the weekend — stock, fund and index prices are Friday’s closing levels. Bitcoin trades around the clock.':'')+(age>2?` <b>Data last refreshed ${Math.round(age)} h ago.</b>`:'')+(offline?' <b>Offline copy shown.</b>':'');notice.style.display=notice.innerHTML?'block':'none';
  dl.textContent=osl(d.updated,{weekday:'long',day:'numeric',month:'long',year:'numeric'})+' · Updated '+osl(d.updated,{hour:'2-digit',minute:'2-digit'})+' Oslo time';
- const card=(l,q,nok,u)=>`<div class="card"><div class="label">${l}</div><div class="big">$${f(q.price)}</div><div class="sub">NOK ${f(nok)}</div><div class="unit">${u}</div><div class="chg ${cl(q.chg)}">${pc(q.chg)}</div></div>`;
+ const card=(l,q,nok,u)=>`<div class="card"><div class="label">${l}</div><div class="big">$${f(q.price)}</div><div class="sub">NOK ${f(nok||null)}</div><div class="unit">${u}</div><div class="chg ${cl(q.chg)}">${pc(q.chg)}</div></div>`;
  hero.innerHTML=card('Bitcoin',btc,btc.nok||btc.price*r,'per BTC')+card('Silver',ag,ag.price*r,'per troy ounce');
  const tm=n=>n.date?osl(n.date,{day:'numeric',month:'short',hour:'2-digit',minute:'2-digit'}):'';
  const tbl=s=>{let h=`<h2>${s.title}</h2><table><tr><th>${s.title=='General Markets'?'Index':'Company'}</th><th>Price</th><th class="hide">Ccy</th><th>Day</th></tr>`;
-  for(const i of s.items){const q=i.quote||{};h+=`<tr><td><span class="n">${i.name}</span><span class="s">${i.symbol}</span></td><td>${f(q.price,dp(q.price||9))}</td><td class="hide">${q.currency||''}</td><td class="${cl(q.chg)}">${pc(q.chg)}</td></tr>`}
+  for(const i of s.items){const q=i.quote||{};h+=`<tr><td><span class="n">${i.name}</span><span class="s">${i.symbol}</span></td><td>${f(q.price,dp(q.price||9))}${stale(i.quote)}</td><td class="hide">${q.currency||''}</td><td class="${cl(q.chg)}">${pc(q.chg)}</td></tr>`}
   return h+'</table>'};
  const nws=(ss,t)=>{let h=`<h2><small>Latest</small>${t}</h2><div class="news">`;for(const s of ss)for(const i of s.items){if(!i.news)continue;h+=`<div class="co"><h3>${i.name}</h3>`+(i.news.length?i.news.map(n=>`<a href="${esc(n.link)}" target="_blank" rel="noopener">${esc(n.title)}</a><div class="meta">${esc(n.source)} · ${tm(n)}</div>`).join(''):'<p class="empty">No recent headlines.</p>')+'</div>'}return h+'</div>'};
  const p1=d.sections.filter(s=>s.part!=2),p2=d.sections.filter(s=>s.part==2);
@@ -59,5 +70,5 @@ async function load(){
  h+=nws(p2.filter(s=>s.title=='Tech Stocks'),'Tech News')+'</div>';
  main.innerHTML=h+'</div>';
 }
-load();setInterval(load,5*60e3);
+load();setInterval(load,5*60e3);document.addEventListener('visibilitychange',()=>{if(!document.hidden)load()});
 </script></body></html>
