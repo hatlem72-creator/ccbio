@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-17T01:17:51.744987+00:00",
+ "updated": "2026-10-17T01:51:05.500506+00:00",
  "usdnok": 9.41349983215332,
  "btc": {
-  "price": 81437.71875,
+  "price": 81419.828125,
   "prev": 82141.4609375,
-  "chg": -0.8567441818882027,
+  "chg": -0.8785244433978101,
   "currency": "USD",
   "asof": "2026-10-17T00:00:00+00:00"
  },
@@ -112,6 +112,12 @@
      },
      "news": [
       {
+       "title": "VanEck Emerging Markets High Yield Bond UCITS ETF A USD (HYEM.MI) options chain",
+       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaTlEtZmxFeXRlODFTcVpWNHRXem5RV2ctNl9rZ0NpQnRrMWZZWkJYVkFsRElDOUYtWnpPNWFjMUQ0LTZVdThWRk84b2pwMTduMkRxREdEUThMYmJ2RzYzMg?oc=5",
+       "source": "Yahoo Finance Australia",
+       "date": "2026-10-16T12:37:50+00:00"
+      },
+      {
        "title": "iShares SLVP vs VanEck GDX: Which Miners ETF Wins",
        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLWZRWVFRZjRhMnNyN25Hd1lQXzFyNUdTb05KbC1fNl95eDMzdmhYZkpweEl0ZDM0UVBDVW82a1BrVXFzWUNlOU1ZYndaZ0VXQkd2QTliX1NqeTFQZWtBRUxHRE1RRGxUMjBGR0VSOUhsRU1XaTd1SHRqTFREU0VxdGlVbUtqMU96T0wzVmNzYk9QMTkzamlKcGU0NC1xUDlpZkFuQ056SndkMWVIY1lyaWQwbGw4SlhYcnNVMmdpMUN2LVRxZllvSGlCd1Q?oc=5",
        "source": "The Globe and Mail",
@@ -128,12 +134,6 @@
        "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPdHRER253bHBSM3VUT0VRSGFXNEdMZUZESmNxVDNfLXJmRmJWYXhSRkJGUDhqZ210NmVqYU1UdVpBajVDWTk0a2RTT3Q5MmFlTGp1OUZzX0dwWWluTUtCSm8tT1RUeGJvYnRfV09ZaWpKV3AwU2h2aHVWdG5GZnZwTjdqR0xtWlJaOUlJS1B3c1J5OGpZQXR2QXNaVkdPcmZjNExBWWV6MHdwMnBxRTNCVXBEYllPV2h6Sm9nU1p2Nk9pdEFpS3VWTkU2cmlJRno2ZmxZbDBCVzBxQmJCWXlpVjUwYXliOGlXUmhpSnpVbW5kSzY1dDhtS3V4NlZpMHZTaDBrTzB3?oc=5",
        "source": "The Globe and Mail",
        "date": "2026-10-11T23:17:14+00:00"
-      },
-      {
-       "title": "Gold & Silver Mining Companies: Two Indices to Analyze for FX_IDC:XAUUSD by Swissquote",
-       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSXExdXFYMXNJSUVMd0k5cElQZ1ZhWXMzOVFwVUxKUlhxQ3owbUhpTWw1Q2xqMWJsN09oUFk4Q3FieDZmSkZLcXJ0NGlOa2QyNDJhYVJxM29ENEdwTG5VZTRHZW9CZ2JWYlhYSlc5NEdQRURHcWUzV0R6bFJMblN2YjFTdmJDdk9hOGZCX1RNUGZ4ZmN4SzBDNWF5ZG85Y0FiT1NMRw?oc=5",
-       "source": "TradingView",
-       "date": "2026-10-09T04:45:03+00:00"
       }
      ]
     },
@@ -197,24 +197,24 @@
      "symbol": "HL",
      "name": "Hecla Mining",
      "quote": {
-      "price": NaN,
+      "price": 15.300000190734863,
       "prev": 15.5600004196167,
-      "chg": NaN,
+      "chg": -1.6709525827136251,
       "currency": "USD",
       "asof": "2026-10-16T00:00:00-04:00"
      },
      "news": [
       {
+       "title": "HECLA MINING CO (HL.SW) Q1 FY2026 earnings call transcript",
+       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZFVJbE9SVm5yTXBGMDhOZEpTOHFwUGNGWDkteUdRaTN4WjRNNTBaQ1pKNy1NS0FSU2V3b0JwR2xZbGtHbmRvbXRDVFRncjFSMS14RjlXdFRMd3VZUTBzMmxxTksycXk1QlhKNmx2RmgtQXU3WkNXS1k3VGVDZEc5UXFJdDRNdkVrazl4VmFlbHA?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-16T04:33:00+00:00"
+      },
+      {
        "title": "Zacks Industry Outlook Highlights Fresnillo, Pan American Silver and Hecla Mining",
        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN2hlU3liWnRTYnpBVzN3cFBoa1N6TFFSRUY5Qjg5LTk1cXVScVVHdXlZNU5KeFV1UGY0NkFoNkhDVHlnNVJPVFNxNzRGdmNXV1R2Tl9pYXZuODJDN3VEZ0x3aThuYjQ5dmlFUnZ5YmF3Z3UtaDh1R3ljcHVjOHkxWGZIMl9BS1AwdWdwV05YcUVfOWFMTjhVbDc5UFREaFcwNGU3Yk1VMkNWYUlTUmk1RGNaUQ?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-10-14T11:10:00+00:00"
-      },
-      {
-       "title": "How Record Lucky Friday Output and Debt-Free Balance Sheet Will Impact Hecla Mining (HL) Investors",
-       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeWY1RWVpbGxTbHBwTzB1Yy1uQm0tS2k4cHBNRDd2SzVKZGJJNDFTcHViMjlsa1RmLXprUWptRWVYalVHVjFubFhCVFI0V1d4aU9wVHVjVGQ4anhyUWxDbnhoVFMzTEtPRG0xY0tpX0Zvd1VxQUpWejJEbjhlWXZuWlZPeWtJVElzY25XNzdMWDVyXzkzMnZpOVpFeHc?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-13T18:16:14+00:00"
       }
      ]
     },
@@ -222,9 +222,9 @@
      "symbol": "HYMC",
      "name": "Hycroft Mining",
      "quote": {
-      "price": NaN,
+      "price": 17.170000076293945,
       "prev": 17.420000076293945,
-      "chg": NaN,
+      "chg": -1.4351320258615408,
       "currency": "USD",
       "asof": "2026-10-16T00:00:00-04:00"
      },
@@ -247,9 +247,9 @@
      "symbol": "ASM",
      "name": "Avino Silver & Gold",
      "quote": {
-      "price": NaN,
+      "price": 5.329999923706055,
       "prev": 5.190000057220459,
-      "chg": NaN,
+      "chg": 2.6974925807722094,
       "currency": "USD",
       "asof": "2026-10-16T00:00:00-04:00"
      },
@@ -272,9 +272,9 @@
      "symbol": "CDE",
      "name": "Coeur Mining",
      "quote": {
-      "price": NaN,
+      "price": 15.470000267028809,
       "prev": 15.40999984741211,
-      "chg": NaN,
+      "chg": 0.3893602868969337,
       "currency": "USD",
       "asof": "2026-10-16T00:00:00-04:00"
      },
@@ -451,9 +451,9 @@
      "symbol": "OSEBX.OL",
      "name": "Oslo B\u00f8rs (OSEBX)",
      "quote": {
-      "price": NaN,
+      "price": 2101.64990234375,
       "prev": 2081.530029296875,
-      "chg": NaN,
+      "chg": 0.9665905734577152,
       "currency": "NOK",
       "asof": "2026-10-16T00:00:00+02:00"
      },
@@ -463,11 +463,11 @@
      "symbol": "^GDAXI",
      "name": "DAX",
      "quote": {
-      "price": 25382.619140625,
-      "prev": 25298.609375,
-      "chg": 0.33207266209667186,
+      "price": 25622.609375,
+      "prev": 25382.619140625,
+      "chg": 0.9454904280972842,
       "currency": "EUR",
-      "asof": "2026-10-15T00:00:00+02:00"
+      "asof": "2026-10-16T00:00:00+02:00"
      },
      "news": null
     },
@@ -529,9 +529,9 @@
      "symbol": "AAPL",
      "name": "Apple",
      "quote": {
-      "price": NaN,
+      "price": 343.4599914550781,
       "prev": 342.0,
-      "chg": NaN,
+      "chg": 0.4268980862801586,
       "currency": "USD",
       "asof": "2026-10-16T00:00:00-04:00"
      },
@@ -540,7 +540,7 @@
        "title": "Apple iPhone Duo Preorders Are Off to a Strong Start. That\u2019s a Win for the Stock.",
        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBMR3hscndTUVMyOEd1RzBzQklRTG44eDlyTXRTV3g1M01jZ21iMHZ3ZG0xa0N5QUk1N20xbS1FVHhYbENocm1Kdlc5cHRmM2VWX1Rya2E4emxxOTJjbmk1Um5tNWdLVnQtdjB3Rnh3NUE0QQ?oc=5",
        "source": "Barron's",
-       "date": "2026-10-16T14:56:11+00:00"
+       "date": "2026-10-16T16:26:00+00:00"
       },
       {
        "title": "AAPL Stock Gains As Strong Demand Reportedly Pushes iPhone Duo Delivery To December",
@@ -554,9 +554,9 @@
      "symbol": "MSFT",
      "name": "Microsoft",
      "quote": {
-      "price": NaN,
+      "price": 529.0499877929688,
       "prev": 539.4400024414062,
-      "chg": NaN,
+      "chg": -1.9260741883090238,
       "currency": "USD",
       "asof": "2026-10-16T00:00:00-04:00"
      },
@@ -579,9 +579,9 @@
      "symbol": "NVDA",
      "name": "Nvidia",
      "quote": {
-      "price": NaN,
+      "price": 214.1300048828125,
       "prev": 217.22999572753906,
-      "chg": NaN,
+      "chg": -1.427054691201457,
       "currency": "USD",
       "asof": "2026-10-16T00:00:00-04:00"
      },
@@ -604,9 +604,9 @@
      "symbol": "GOOGL",
      "name": "Alphabet",
      "quote": {
-      "price": NaN,
+      "price": 340.5899963378906,
       "prev": 349.2200012207031,
-      "chg": NaN,
+      "chg": -2.4712229690871723,
       "currency": "USD",
       "asof": "2026-10-16T00:00:00-04:00"
      },
@@ -629,9 +629,9 @@
      "symbol": "AMZN",
      "name": "Amazon",
      "quote": {
-      "price": NaN,
+      "price": 250.0,
       "prev": 254.75999450683594,
-      "chg": NaN,
+      "chg": -1.868423068563152,
       "currency": "USD",
       "asof": "2026-10-16T00:00:00-04:00"
      },
@@ -654,9 +654,9 @@
      "symbol": "META",
      "name": "Meta Platforms",
      "quote": {
-      "price": NaN,
+      "price": 709.3300170898438,
       "prev": 736.719970703125,
-      "chg": NaN,
+      "chg": -3.717824234782219,
       "currency": "USD",
       "asof": "2026-10-16T00:00:00-04:00"
      },
@@ -679,9 +679,9 @@
      "symbol": "TSLA",
      "name": "Tesla",
      "quote": {
-      "price": NaN,
+      "price": 354.7200012207031,
       "prev": 362.44000244140625,
-      "chg": NaN,
+      "chg": -2.1300080478702577,
       "currency": "USD",
       "asof": "2026-10-16T00:00:00-04:00"
      },
@@ -718,12 +718,6 @@
    "date": "2026-10-16T14:11:09+00:00"
   },
   {
-   "title": "How And Why I Became A Bond Manager. Hint: The S&P 500 Made Me Do It (NASDAQ:QQQ)",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObzdjUFloLTdWLWpQRjNGR2dyOGx1S2NnNlJEM2UyLUxFa25hY0NheUFVMm1hZ3I3dTR4WUNBOW14eXJNaDdRUHVjZG42VkdicWRnVzNUOVpBMDRGSFM3RXhoUzU1TW5Id2FXS0x1XzExZzROMlpZRzdTRWExS01pX19jdUxYTERWYUY5a1k5VXFFMVR0VjVJYk5hWHBOQ2FtcW1VLVo3SXNyR2tCWXhnMg?oc=5",
-   "source": "Seeking Alpha",
-   "date": "2026-10-16T13:16:57+00:00"
-  },
-  {
    "title": "BlackRock's Larry Fink says a data center moratorium would trigger a U.S. recession as public opposition grows",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPXzZKMEFJbDZuSEUtcDNaeE9KUVI2dnVIUkd2MzgxVFF2ZWhuUmhueGZEZkkxSElFelYxNkpHZXYyekdfOUM5QTcxRmZwNjFLTlQ1WXlJV3YyeE9kMW1ucEJSYXhfUEY0VFFmY1BqTE9faENmam1sX2MzMmpCOE40NTI0WUY2X3FmVWRxRG0wVlRsSEE?oc=5",
    "source": "Yahoo Finance",
@@ -746,6 +740,12 @@
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOGNUVFpNdUg4RVJZcllLbWVBWUpzZF9vWlFWV1d6bG1scGZaNXlHZmJVcnJjZWp4VE16UFVnbk1DU1h4eFZWdHczek9nUGI1WXVzUV84LW4yZVQ0SEFqZHlpZ1ljZlg2U1pRRHNwU1JuelVpNTk3SVJVT2trWDZyWFNPeDRMLUJ6SE5LV1Q5U01rUlpqZzVQMWdNZ3oxbXhIVGl3SFBkd3FxNVBUQTBNMlVNN1oyQkNGalBHTHBaUFNwQQ?oc=5",
    "source": "Yahoo Finance",
    "date": "2026-10-15T10:30:00+00:00"
+  },
+  {
+   "title": "Elopak ASA: Ex. dividend EUR 0.065 per share today",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdkJKZ0ZwdldPanlxdFRORk1GZEpNZ0NiTjZjZ1l5UjhXdmpJOERJeWtkb2hrWk9UbFV3UnZQOUtfX29WN1YxbEJIekoycTVFdGJKX000MklyX3N0UnBSZmo2MjVBQnlIajktN2l4aFRaaGNkckQtM0QycDRDekcxWFU5VUZQTF8yQzkxeXVLQkFyVHJURDU4UWJOQ1ZDN2ZxTDFwOEhuSEkzWXItRUhqUnk1MHY?oc=5",
+   "source": "TradingView",
+   "date": "2026-10-15T05:00:00+00:00"
   },
   {
    "title": "SoftOx Solutions AS: SoftOx Solutions AS exercises on the financing facility with Long State Investments Limited",
