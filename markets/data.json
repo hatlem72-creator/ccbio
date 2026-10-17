@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-17T09:04:20.880622+00:00",
+ "updated": "2026-10-17T09:48:27.794125+00:00",
  "usdnok": 9.41349983215332,
  "btc": {
-  "price": 81603.34375,
+  "price": 81538.71875,
   "prev": 81500.8046875,
-  "chg": 0.12581355839758057,
+  "chg": 0.04651986277359743,
   "currency": "USD",
   "asof": "2026-10-17T00:00:00+00:00"
  },
@@ -38,6 +38,12 @@
        "date": "2026-10-13T18:08:19+00:00"
       },
       {
+       "title": "Kongsberg Gruppen : to build manufacturing plant in Poland",
+       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb091SDd0b2JFNzRvZ0RnM0owWXpFVnVINFR2d1JaQnRsR1JfbXc4eGNmZHN4TUFVVmw5ZkQ5QjZhcHN2Sm85cHlKQldkUDBUV1NPN3hFdUlTMGNuQ1NISlBlRGZZQTlvS3RvMzZMZW04bXVrZEJldG1FbGlyRDgzWmZxdHJhYUR6a1FHME1LUTVDUDhSTDd4LW1TYXg0bUVKS2Y0ckw2Y0tIeTJPTUE?oc=5",
+       "source": "www.marketscreener.com",
+       "date": "2026-10-13T06:38:11+00:00"
+      },
+      {
        "title": "Kongsberg signed NOK 10 billion NASAMS deal: what it means for Kongsberg stock",
        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbWpVUm5IUzROQUNaTE1saG5sWmVaZ3RscFFFT3ZRRzVwTU1GZzlqVjAzcGMxWDc3VlZNdmdzUHNzcHhVYlF1V0I2NGNEN0lGdExxOWpVMEJkZHFoVFMyLTg0TUNKbFQ1NEx0X25CRWREYW1lMkFfR0ZGTENTdlJxS0M3U2s2SVN2VlVVS2Z1RHJIX1Q1d2dTeUtCUFE4cWFKTkdqckNSZ2RxMnZTZEZVSlItZml2MWtVTDJtUDIyWXI2cjlMTnIwUUVSZnp2a3M0a3c?oc=5",
        "source": "ad-hoc-news.de",
@@ -48,12 +54,6 @@
        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWWdxWXNZUVZxQUpPa1FydmpnY2h0M2dhX3hpR3Fob1lCMElHRUxvWGQzeWlCM21SWXhCQ1lPVEwtR1RFNHZvR3NBcS1NbG53cXpocXUyVFZmMTVHQXljNEI3SGd2RVZuUUEzbjFnOGtyM1JsWUxXcWptdXViM0dHWXBPd0ZpaVptdzJjbzllZEo0WEpRb0xsNzdONm5hWWJPVTM3UG1NMDRfTGNCdW01SmdWWkN0eWJ5aHlXNVY1MU43VGtMMlRpM3JFU3lJWE1jOFpiMkl6NVEwS0XSAeABQVVfeXFMUEpuTEl2N2pPSG5POTlRLXgzVno1cVEtUWMyclJWWThpT29zT1Z5bnFHMFRlWXQ0dktxX1llam1NUWI4TzV1eTRneE12U1JLSnBaN2wtcXByMmNXdVZTSVRFcVlNNUpZcUNRYUh3bjJ1dnlZZktyQ1ZLY1Z6VUctU09OdzZvWHpzX01IdEctTXdQbHlxVzd2WnZMSWJnR2RJMVBjR2dSb0ZRdzBOdUpyNzFnSUxzX0dYR1hNTFlLUnpSX0pBdjZtODNlVmdua2VEMWt1MXRuMmI5RlpMN2pKakc?oc=5",
        "source": "Simply Wall Street",
        "date": "2026-10-10T07:03:30+00:00"
-      },
-      {
-       "title": "Pareto sees Norway's new defense budget as neutral for Kongsberg",
-       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNmFoSmRwRlVDYWpBMGIwM014WVZ4bFhoNnl2eEp2VEJkZ0w5RVRuMV8tVFlka2F5MExaeG9sLXBGOUpqSmFxTFduVE1OclM4VFhSWjRyNVF4dnpPSkpoR3FuT1pNRjFIUzNpWTJ3eWFHSldpVTQ4NzFYWHpIZjA2OHNkNnNwamZWM2tlUV9Xb2JhazV3cU1vQ1UwU0Fob2NNNExqSzJ4OVB4TThXX3FuMkZzY1dvMFpT?oc=5",
-       "source": "www.marketscreener.com",
-       "date": "2026-10-08T10:46:20+00:00"
       }
      ]
     },
@@ -124,16 +124,16 @@
        "date": "2026-10-14T10:25:03+00:00"
       },
       {
-       "title": "Gold\u2019s lost some glitter, and this might be the best way to play it",
-       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLTNUYVRtenEwMzhLQWdYTHB6U3k5b3IxY2F1VTB6UVhPZnFzYUhLQjZLR0NMZmttNXI4ZWFkZ0ZNcW1LWGstMC1aQXczNmtZeUU2YnFReS0tendEbGRaWkh4VVptcDhXWlc1TmRxZmM3WC1ZVTM5MkR4S2lQcndFeXRLYTZuaWI5VnhRY0Q3YVlYY2c0aGhn?oc=5",
-       "source": "Finimize",
-       "date": "2026-10-12T17:45:22+00:00"
-      },
-      {
        "title": "VanEck Gold Miners ETF remains a buy with stron...",
        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNemhIOXhSaXlhamV6Mm5zRVNKblM1bHhPQmgxTzZRMGVHSG9PTXhHbnJaYkNqeERlOU1rdDBLNjhlWEU3eUlpNEdsTU0wdy1jbWZfakd4UzFrMHJJeFlFZzliWlJEUDRRYUQ2R3RLbzRmSGZKLS1sVjMyd1ctaHU5U1JULXMxemRxUEE?oc=5",
        "source": "Pluang",
        "date": "2026-10-12T04:13:40+00:00"
+      },
+      {
+       "title": "GDX Vs. SGDM Is A Draw, Gold Miners Are A Buy (NYSEARCA:GDX)",
+       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd0pJYktfcjZ0Z3gwNjBJeV9aTE5ESjczNXU5S1Ftanltdm9RY2dVbkdHbEtvSWpEdEVNWXFtaXlaU0V4UVNneEt4UGYxYmQxa1IxMmwxcndGM19zOXh6NTFqQ1ZoTzdEMHBUOS1FTUJCMmdUQ1ZYQlJwTlRkWGJtN3VBN0xtc2ZTZjJZVw?oc=5",
+       "source": "Seeking Alpha",
+       "date": "2026-10-12T03:57:34+00:00"
       }
      ]
     },
@@ -280,16 +280,16 @@
      },
      "news": [
       {
-       "title": "Should You Buy Coeur Mining Stock For Its Cash?",
-       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSmhFQTdYdTRhalJjazF2ZHR6ZGdodVdFVE5lSXpBYXdVV3R4TG5VR0FkX3JGMmt5TzVZTFpFd1NfR2dtR0ozNDlPWFlJYnJQX3pZRUlTS0owYnpSdGd1UmFVMS1wX09rdjZidlJ3a3ZSWmFtQXhjQXVPamxWbk1rU2ROZmtXTFM3elBja0ZPdTc0STJlN21J?oc=5",
+       "title": "Coeur Mining, Inc. (CDE) Stock Forecasts",
+       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQT1lGWDRfU0ZXLWY2MmVhanRfbmhjSGRHdG9Kenh2b3J1bm1XUDdjdmlIN2FpSXNaRmlPeHZlVk1YaU5nb2RfMTAyNE1pME9sWGxsSlN5ODA2OFo5M1VwNkROTkRPeGNqSUxiN2haUkJLb0NURTlPeExaejhoUEJBM2ViellCV1pMSWRGeU5LVQ?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-10-10T00:28:00+00:00"
+       "date": "2026-10-15T01:52:22+00:00"
       },
       {
-       "title": "The Bull Case For Coeur Mining (CDE) Could Change Following Record 2026 Exploration Spend At New Afton",
-       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUDZNaHBkeWhBMVFBSEdfTnlPa1FySjdsTDJKOUllZzBFVm9oTGJaUjVsYzRnczNka01FTDZYM2swYmZCX1dxVlRkZFFIMnhmV1ZPdVUxWEYwY0pfXzhkZ09mX25fa3lXMEFHVk1HT1hTM1BueDlPMkg1LTlSQXJsZGdYeWtyeG1Cbkd5YllnQ1EyR3FPQkE?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-04T07:00:00+00:00"
+       "title": "Can Coeur Mining (NYSE:CDE) Hold Up at 15.41 Times Earnings as Gold Struggles Under Rising Yields?",
+       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMnhLcEJ2LV96TE9jWTN2aDdEMG5RY3BLUkRqb1IxWVlHYmNvYlhGb0xLV0FqWklGYlI5ak1kSFZIN0o2eUZ6QWZ4aXVnVWFLOTJhZ3J1X1VDQUc4MnJIQ2luQXRVSmRQUzlVQm92c2paSXNUNnNkY3J2SDZfeV9RZXd2Y0hNMm9yT2c0djhPWE12YVN2T1JMb1Y1dW9GQmpkcnVrOU9PTWRmWkd4YUVaVjRRNWJQMjJ4c09oWnc4ZTBnT2J1WV9KeXFJNXhKQVpfenMw?oc=5",
+       "source": "kalkine.ca",
+       "date": "2026-10-12T17:52:00+00:00"
       }
      ]
     },
@@ -305,16 +305,16 @@
      },
      "news": [
       {
+       "title": "First Majestic Silver Shares Slide 5.76% as Capital Reinvestment Pacing and Mexican Operational Headwinds Weigh on Investor Sentiment",
+       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPRFZpaktZajMwZERDd3ptcHVXVm9DNEMyZUI3WFRSZGNQbUk3LXYtbThHNER6VEJ3cW50dmVnczBPNm1BWkJ0QWNjUEt5NFhGN1VKUUNDdElIWlY0TFJLZ1U5S0FYVHhDRE5VY1hRazNYa1VtbG5jNThSYW5XZzVhY0VQbFJ3LXZFWU04SGZGQnpER3EtU2tQYzF2YzJPdzRGZXhIRUNXVGZzdTg1OXVIYUpDSHk5OGZXdEQ3UExwQ0ZHc3l1alplUzdZRm0wQ19SOXptUS1leHhKREpFQ0JveVo5V2VXbm9nUlUzcm1qUjhnMDVv?oc=5",
+       "source": "kalkine.ca",
+       "date": "2026-10-15T06:53:27+00:00"
+      },
+      {
        "title": "Aura Minerals, Lahontan Gold, First Majestic: Millions in Gold Beneath the Ground | 2026-10-14 | Investing News",
        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUW13cGIzdGkyLUR6d081X1VjdENzM0k5UEhGSE9Uc1Q0OW82bzlrVmRxUy1qc1NJbUh0c09OU19aSTREWHVtZEdJSm43RkgwRXk4N1Q4c05xanVUeTJ0U3lmZm1kVzJqZTZzS3gyM2tTdUtiWkJkMk5rckQxR1FadUhlYmJ4dE0xTExvZ2NrZTh2b3dnYmZ4aGpnSE8tMDNhMWludVNGSmhhcFJJVGFldmxsX1lZbE9pbkd1SHZuNVhBck8y?oc=5",
        "source": "Stockhouse",
        "date": "2026-10-15T03:36:28+00:00"
-      },
-      {
-       "title": "FIRST MAJESTIC SILVER (AG-USD.SW) Income Statement",
-       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LcjAwY0FOUGpmQ0dmemdQaURaMHROUGZVYmpIcXFMS2tsMGtJLWMyQlBSbktEajRqTml1QlJ1YTZXTWNJT0lVYTNjRWd3NndKSklSMlRzYVg5UUctTkw5dnFXNFFKX2M?oc=5",
-       "source": "Yahoo! Finance Canada",
-       "date": "2026-10-14T23:47:05+00:00"
       }
      ]
     },
@@ -562,16 +562,16 @@
      },
      "news": [
       {
+       "title": "MSFT Stock Gets Slew Of Price Target Hikes Ahead Of Earnings \u2013 TD Cowen Sees \u2018Higher Than Normal\u2019 Azure Beat Potential",
+       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcjNWTjRwWjZ4WWZ3ckI0WlpwbEhxLWt0bmZ0eXZzNV9zeXJqZUlxZzR3SzhTeDRFTlBwNmIwVm9lY3ZMZDdVek1mYndlQW1aTTBuNklydXdxTnl3MVhSZEhiNk10RF92dnpNdjFQUExzVkdBOVFYVjMzOFg4Tm5PTERwMWk3bFVvbjdHQnJVVVZBTUtKVkE?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-15T15:13:32+00:00"
+      },
+      {
        "title": "Why Wall Street Is Comfortable With Microsoft Stock Even as AI Trade Pressured",
        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5LdkFzVE45UksyZldSUko4N3N1SzhweTkxbkJQR3o3TlM2STdac2dmU3JYTE9pSFc1NVAxaElXeFFzWmIxcjFDY0Q3enZfcW5YYXZGVm5NdE5oWGlUVldQaGFNUjZTOXREN1JxZ0ZtelV4aTl4ODhTVnR5cEpBUQ?oc=5",
        "source": "Barron's",
        "date": "2026-10-15T15:03:00+00:00"
-      },
-      {
-       "title": "Can Gaming Pipeline and Activision Add Momentum to Microsoft Stock?",
-       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbnBzeEdpZ3dJd0VtRVBrbFUzRUhjaF9PWTNtVjNyTXNueGdGWkJBdDdzVHY3aW8zal9Del9ONlNyeVl6ZlpzZXJJUUZBTU1hcGYwOF92Sms4eXpvYV95TU1YeERoNmxyQ212cWpjUWxHVERYNnpQdlFiOFpVSnYtZm9VM3pIaDliYjBBTTBJcS10Zw?oc=5",
-       "source": "Yahoo Finance UK",
-       "date": "2026-10-15T13:25:00+00:00"
       }
      ]
     },
@@ -612,16 +612,16 @@
      },
      "news": [
       {
+       "title": "Apple and Alphabet Are Especially Scared of a Blue Wave",
+       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbVFlaGRpYjZRc0hJWHJXbWk0TEhLUUpBUkVVY05HRXZPNXhSS0tXaFZDd05DRVRVbElKRVVLeFh4ekFxSllvXzZkM0JoanhYSlBUWXM4cXNpVTdXWncyMlJVUWpka1NzNE1VdVhVRTBOS0Itd1lqVjhfeEpTNzh2Z19HaDJDUjVrMlA5Xy1OOHhmblQyS1AyejhERU5laEVpd05Meg?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-16T16:45:27+00:00"
+      },
+      {
        "title": "Alphabet Stock Can Soar 22%, J.P. Morgan Says. Why Google Can Defy AI Fears.",
        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE91SExKR1JKUTMxSEpGTGxMYkRCX1ZIQ0wwd25pcEJVZ29pc2ZRdlZqN2N6ZHZYdWpVRV9TQkRKUGFwZk4tZFlPMmNQVHFUc25XRTd5YU9QUHVGTm5TQmpRczBYN3ROVjNnUGVQblg2akJKYVJTcG9RQnNLaUY?oc=5",
        "source": "Barron's",
        "date": "2026-10-15T17:48:00+00:00"
-      },
-      {
-       "title": "Prediction: Alphabet Will Soar After Oct. 28",
-       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSHQwbFNrX3BjdE1BMkpONWVYUXFsSjJleFNEVnhGTEZMbVF3UnJfdFctSmk0VURnVExEZGtnUDU5dkpjaUd6LV91d1hxOTBxZDBTTEt0MHJLRHlsa0RSR2JYM1pIdTk2ZF9ieDUtNWJhT2lqczU2WmpQenZCV0NGNVNPaXM5YlM1WlphOVVIZWNvQWVLRTA0VHVaZWI?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-14T23:20:00+00:00"
       }
      ]
     },
@@ -662,16 +662,16 @@
      },
      "news": [
       {
-       "title": "Meta has an AI advantage OpenAI and Anthropic can't replicate",
-       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQkh1U3hwN0V0OWc2SWp1S1Zpa204RldpMm1qUUJ6cGRMT3BuOHhWbGtNbGJla3B6RXZFb3dSZkN4NTE0NTJOYmNoLTVLVnV4RS14Zkx2ZTFUbXR1ckpfQUNDM1gyVmJESTc3ZHd4YnVoNjNpYmtrUWNBYTZEU3JwV0JfQWc1SkM4M1ZMbzBlUDVyQU5PbjVSTndGdHlzOEFTNkctekxTSXlSSG5qNlc4WDR1UmFZNjdCMUg3Zg?oc=5",
+       "title": "Cathie Wood's ARK Scoops Up Over 32,000 Meta Shares In 2 Days \u2014 Wall Street\u2019s Split Over AI Spending",
+       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPalU2VldJaXBSeVVPMDZtRC1ScUtUM2hCZWNheG0tcnQ0Wk5lMjI2MkFWcF9ncHRrbkliZ0dTSUVBUmxoaE8wR2ppUkRpUTN6cTdFd25kOWpFV0NfN3ZCaWdxWDBJeURjeWRFelhHcmczZGhqQlNLWi1lczJmejVRQXo2T0piX25kOGtNeVNlaU1sVXJQRVRVVQ?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-10-15T10:00:00+00:00"
+       "date": "2026-10-15T13:16:13+00:00"
       },
       {
-       "title": "Meta Reports on Oct. 21. I'd Consider Buying the Stock Before It Does.",
-       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQamtOeGNGblVhbllmQlV1a3VQak04LTdzR29QUXB5bFRtXzNpYTBScHoteXA1ZFlnRW9qcWxfSHEwV1k3QnEtWDUzd0d1M2F1dGpqZGhObk1ZZE1KWjJYQVJRY05qbVF4YkxYeWdZUjRUcFY3cERIdlNwbGdIeVIyb0l6bnd5Zi1Vc050Y1hjdHo?oc=5",
+       "title": "What Wall Street may be forgetting about Meta's AI business",
+       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbkVjRkdRdVp2TUFaMmczY2dJaC00d1lUcnpZQ1RFN29hS0V5NHhmaGRGOGhZeDhocjFNM0FjeXMzb0JVV01HcGM1QUt3RDV1NGdpZGRSNllVWENhdUE4NG14UUV2NEdVa0tjWV9YeDFBR1JCUlJlbktFbzVUSHpPSkFpYkkyVWo2WUxJdnJicWRuMHBZTGdVQzFjVElVZGpNbk1GRkg2SGVETXBhUVJrLWs1aUJKTkVjdWJmdVpEWQ?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-10-15T04:07:00+00:00"
+       "date": "2026-10-15T12:34:22+00:00"
       }
      ]
     },
@@ -724,16 +724,16 @@
    "date": "2026-10-16T11:00:00+00:00"
   },
   {
-   "title": "Indonesia suffers a series of market sentiment setbacks in 2026",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMmllVUp5TW0zMzYyNGpXQUNKS0JlOXlXSHFoaXVKMmtoNmlNLXhrSVZoRjVKRm54VHR4LUM1eTdybFpoZnFVdFE5VERLYWNNOE1TTy16SWlJUWFZUzJoSXhCUW5NemxMYTFBeWVpUHowZUpyZWY3cmx4eE5JVnBZM3JxTmNJOW8yNEdZcWNUUlFBNm1aRkthQUduV0dMUU1JS0pTQnNxd19nTEdZbUpz?oc=5",
-   "source": "Reuters",
-   "date": "2026-10-16T03:46:50+00:00"
+   "title": "C&F Financial's 2026 Outlook: Aggressive Market Expansion Drives New Retail Growth",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNT185RUJIRGdoc2VYQWs5elVqYzMyS2FJaHAxdUZ4SGJxQkVSeThlWFAtN1dOTFRERE11ZG1NQlZiX0U3c3dwb1IxWFZ1LURuV2MtaVhLNEVVTFkxZlNPbmJ2dTh0ZW8xTG1tdHR1TW9XeWlMTV91c3pxdnIwd3ZYQUVjZllpNGJOanltdnFXT2E3d19PckZtaVV3Ulp2U01ueGZiMEg0c2ZmemgwLVlQeVNLdzF3SnlXRXdmWFFqMTZhdzdNYV9CVzhNMA?oc=5",
+   "source": "The Motley Fool",
+   "date": "2026-10-15T21:37:00+00:00"
   },
   {
-   "title": "The Stock Market Is Facing 3 Huge Problems Right Now, and History Is Clear About What's Coming",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeTVqcUVjam5TdGZWSG5uNTRyUzVCQVNmWExBRG5MZGJ0YkVUVFhBek9UYzExTUFHSlM0a2RzVnNXd3JUSXZzcnJBMTU0ZEM3b2UwMmlGejYtMmxqbFY1T3VhZ0xfU2FISEZlakVhMWdKREV3ZHlyNnB6UG10c2JPZWFaVGtjMkVYOVNTc0Y2S191SVlmNkE?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-10-15T12:20:00+00:00"
+   "title": "Top Economist Warns Recession Odds Are \u2018Over 50-50\u2019 as AI Bubble and Tightening Financial Conditions Rais",
+   "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPVmhKTHhNTXBudXlqbzZteDdjZlpEVGZ6eHBZZVVoQzRfZjRWSmd3ZklublQyOFVEd2U1RFpxaVFGTUhOemN5LUNHNnRqQk5XV2NIdlVaUTNwZGw5azQwTGw0OUM3bnpQdkE2Z0VFMnl5ZFBhMUZkTm16UzY2X0pVZGFTOGZSSWdMX2E0ZFU5UjJGR01YWVhUdlo3UlhCRnI4Zm9aTnhmV0JOdW9OLVY3MVVBdnVyQXVHWXhWTU44WGE5clJ4b0FQeFJIcEZPTjdBSHVZTFdab1AyeWZRQkV0dWJqNGE0WjZLa19zZmpYYUZhU0ZEVGh1WV9KZ3ZfVmlURkxfZUVOUmR1aWF6RkNRZTEwcXdQancyYmxDS04xR0lqSXZKX3VFemdSSGVYMHgzNzlFOE45UnVSaDNOb3c?oc=5",
+   "source": "Benzinga",
+   "date": "2026-10-15T10:25:52+00:00"
   },
   {
    "title": "CMB.TECH detaches distribution of $0.64, including $0.43 in capital repayment",
