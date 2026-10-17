@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-17T12:27:07.465938+00:00",
+ "updated": "2026-10-17T13:11:57.413976+00:00",
  "usdnok": 9.41349983215332,
  "btc": {
-  "price": 81469.6015625,
+  "price": 81384.09375,
   "prev": 81500.8046875,
-  "chg": -0.03828566493256913,
+  "chg": -0.1432021903924885,
   "currency": "USD",
   "asof": "2026-10-17T00:00:00+00:00"
  },
@@ -87,10 +87,10 @@
        "date": "2026-10-04T07:00:00+00:00"
       },
       {
-       "title": "KMAR: Kongsberg Maritime completes acquisition of Berg Propulsion",
-       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVko0OTJ2SXRWSXl0V3ZwMkozVUI2NkVKRUZnb3hNUkUyLTRrMHl1M19pV1dKcmNqakVQczNFRE1KODFJUUxHV1hoajBhc2RfOHVKd1k1WjNIdTJ0MC1DQ0VQUnlaM1lnSy1XQlV6Z3RieHlqQ2djSS1BdjBCWkh2WHFfY3l3UWxiZG9nek82d1RtM3M2cDZGU2ZPYjFUbHBFU0JfT2swUjFKSlJXNEJJR3phUHNyS25vWTl3M2EwY3RqMTlYbk5fclk0RnBTRmhFY1duYVh4ZmNQdnJLLVU1WjBURE0wUU9kSGc?oc=5",
-       "source": "Finansavisen",
-       "date": "2026-10-01T14:00:03+00:00"
+       "title": "Kongsberg Maritime completes acquisition of Berg Propulsion",
+       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQXBjLXN5TkFLa285cjlPanlPV1ZtTTBuUkRJb01CTHlNcnlwWDh0R3RYclZkWTdVMXdacTdCU0xPenl4SGN0R0pLdW9lVXE4TTZGNE1IcFd4bmM2MUV4a2U5YVZfbXp1d2pOX1hOTWJhOGg2cjBwQmdaRzZna0ROSmNwMDdCUWt3dkoyMlg1ZXluLThIVWI1UE5JeW5pQkJ4eGoybW1aOV9fQnZyc2ZmcDZn?oc=5",
+       "source": "www.marketscreener.com",
+       "date": "2026-10-01T14:19:21+00:00"
       }
      ]
     }
@@ -736,12 +736,6 @@
    "date": "2026-10-16T11:00:00+00:00"
   },
   {
-   "title": "The Stock Market Is Facing 3 Huge Problems Right Now, and History Is Clear About What's Coming",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeTVqcUVjam5TdGZWSG5uNTRyUzVCQVNmWExBRG5MZGJ0YkVUVFhBek9UYzExTUFHSlM0a2RzVnNXd3JUSXZzcnJBMTU0ZEM3b2UwMmlGejYtMmxqbFY1T3VhZ0xfU2FISEZlakVhMWdKREV3ZHlyNnB6UG10c2JPZWFaVGtjMkVYOVNTc0Y2S191SVlmNkE?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-10-15T12:20:00+00:00"
-  },
-  {
    "title": "Borr Drilling Limited - Notification of PDMR Transaction",
    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSkhXODY4dnNGNmhWVHNlcWV3c2M2RjFHUS1xZnlrcHV1NDc4Y1luV0d6RzVoRnhxMjBEUHZWbmRyMGVQWjA0VnRuRkRsTFlmYW92aUkyM2lReWtUYkZUWWZtSkI3NW1BNnpTQ2JRc3NSTXBkbmlmM0tPVWVuZXRjLWxKRnFLbTc4bGNaYnJoME11UVlGVGFENW5ZdGEyaDNYcXdPcW9HREl5Y2hxQzV4TlR3MnE2SVoyNUF6VGZXd19YVnQxa2t5cnFjMFZiZnV2QmRYWUJMRm9kVVo1?oc=5",
    "source": "Finansavisen",
@@ -752,6 +746,12 @@
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdkJKZ0ZwdldPanlxdFRORk1GZEpNZ0NiTjZjZ1l5UjhXdmpJOERJeWtkb2hrWk9UbFV3UnZQOUtfX29WN1YxbEJIekoycTVFdGJKX000MklyX3N0UnBSZmo2MjVBQnlIajktN2l4aFRaaGNkckQtM0QycDRDekcxWFU5VUZQTF8yQzkxeXVLQkFyVHJURDU4UWJOQ1ZDN2ZxTDFwOEhuSEkzWXItRUhqUnk1MHY?oc=5",
    "source": "TradingView",
    "date": "2026-10-15T05:00:00+00:00"
+  },
+  {
+   "title": "News - Atlantic Sapphire close to leaving Oslo Stock Exchange",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRmRVNzljeElEdXNZLTJqM0hKSEhVbWtMcTV5UjZHbjJKcmRDanIyRE5LanVWSldnTTdvdURhbVBWbU1LZ2ZYaHp6dUpMcEFMWW12QUJwUVRheHNuZDBXWjFjVTg1Vm53RlZKeUc1NGRMcnhoajJfRE1sN3Npd2lmY0RnY3gtRW16XzYzQ1RjMGduRDZtUkFGdjB3?oc=5",
+   "source": "Fish Farmer",
+   "date": "2026-10-14T11:02:55+00:00"
   },
   {
    "title": "SoftOx Solutions AS: SoftOx Solutions AS exercises on the financing facility with Long State Investments Limited",
