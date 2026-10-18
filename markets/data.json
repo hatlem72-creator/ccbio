@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-18T03:05:44.736455+00:00",
+ "updated": "2026-10-18T03:52:49.415795+00:00",
  "usdnok": 9.41349983215332,
  "btc": {
-  "price": 81730.1484375,
+  "price": 81868.5234375,
   "prev": 81500.8046875,
-  "chg": 0.28140059583383614,
+  "chg": 0.45118419555481015,
   "currency": "USD",
   "asof": "2026-10-18T00:00:00+00:00"
  },
@@ -69,12 +69,6 @@
      },
      "news": [
       {
-       "title": "Kongsberg Maritime secures Extended Thruster Coverage agreement",
-       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeWFRczlOdDNxT3JRMUxZSFpvTlJaZlpDa3h2aExmTl9nU3JQc1lTaG5TM0FkNDJVNmMycVIyaEhZNjBmT0twN1U3cnB4NktaOUI4alNrQU1sY1NiV0tPc0Zad3Z2cGdvT0Z4am4zWTlVQkpBUjVfc3FLajRPOV96R0FLQUZ6Nmw0ZWF2MzJnTXRfQQ?oc=5",
-       "source": "Maritimt Magasin",
-       "date": "2026-10-07T07:00:00+00:00"
-      },
-      {
        "title": "Kongsberg Signs Waterjet contract for Indian Navy\u2019s Next Generation Missile Vessel",
        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNc3p3Vkg4M3BvUkZJTG1ObWRSQTM4czJZbFBYMFBqNTBhd2dsVHZXR19JUDhKWU9CSnVxQVhlVWVfZ05yXzJiYnBEUXRweTJtX0MtdExYMzIwVVNTeGFIQVJrRFY1cHA5U1h6b0lYME1TRXp5d1hXZnctRG4yVkpnLXlCTmhNMno1eVFvNmRPWjIwNmFsWEtlRU83UnlFT0d6ano3dEw1aXNMc0dXTkJsUERPQnV0M2ZKVVdDYzFDajhPS2hTTFE?oc=5",
        "source": "Naval News",
@@ -91,6 +85,12 @@
        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZ0FyVGs3djMxR0NfNFRDQjFiX2ttWmxPNTI3TDhKRDNZZjk2akNvLUVSSGM3SEpLbzV0U0x6UFJPdklFQ3ZHNzJWbFZmUzVMeWUxUjRhOHhvRVBjV0ZVdGwyNGhtejdGMnRfWEFaWXRZSzVfem1pckV5aXlDVFRscGdB?oc=5",
        "source": "Metal Additive Manufacturing magazine",
        "date": "2026-10-01T07:00:00+00:00"
+      },
+      {
+       "title": "Kongsberg Maritime Wins AUV Hangar and Subsea Docking Contract for Inkfish Research Vessel",
+       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUFVCVzE4cHhnZEEwdktoWDRXaHRLZDlPWFZIeXd6TlJmbFFybVhWN3FEY2VYRmhxWlkwSVR6QlFRajZ5YVV6THhuTzZYOW9PMFJnMi1oWk5LaURPdEFBNWpYdHQxa2J0QXNrcDJfTkxEZy1La05QUFRJLUtlOWRjYTJYb0ZPSzJYdFZuVHZLcXFPRzFjS282RGNvQm5aQk5RNGozMFMtTmlBSkhEaExzS1c3XzlZVVI3NUpmSWZwdzcyeHczWFpwVTBwZEVFWlVPM21v?oc=5",
+       "source": "Ocean News & Technology",
+       "date": "2026-09-30T13:57:29+00:00"
       }
      ]
     }
@@ -124,16 +124,16 @@
        "date": "2026-10-14T10:25:03+00:00"
       },
       {
-       "title": "VanEck UCITS ETFs Plc - Net Asset Value(s)",
-       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwblRPTmNTSHBPc3pSRnI3MXJON1c5aUxXVGZQU19ZVHowZXU0V3lSSUJSOG9ZRkV1aE1HSTBzRVpFdnlNQXlkWkphV0xSc0ZLVEhqTUVEZGhEVkE4amp0MWllVkdjNTJFaWU5UGRWczBxekozOUhXaWdjSUYyUzg?oc=5",
-       "source": "Yahoo Finance UK",
-       "date": "2026-10-12T06:00:00+00:00"
-      },
-      {
        "title": "VanEck Gold Miners ETF remains a buy with stron...",
        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNemhIOXhSaXlhamV6Mm5zRVNKblM1bHhPQmgxTzZRMGVHSG9PTXhHbnJaYkNqeERlOU1rdDBLNjhlWEU3eUlpNEdsTU0wdy1jbWZfakd4UzFrMHJJeFlFZzliWlJEUDRRYUQ2R3RLbzRmSGZKLS1sVjMyd1ctaHU5U1JULXMxemRxUEE?oc=5",
        "source": "Pluang",
        "date": "2026-10-12T04:13:40+00:00"
+      },
+      {
+       "title": "GDX Vs. SGDM Is A Draw, Gold Miners Are A Buy (NYSEARCA:GDX)",
+       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd0pJYktfcjZ0Z3gwNjBJeV9aTE5ESjczNXU5S1Ftanltdm9RY2dVbkdHbEtvSWpEdEVNWXFtaXlaU0V4UVNneEt4UGYxYmQxa1IxMmwxcndGM19zOXh6NTFqQ1ZoTzdEMHBUOS1FTUJCMmdUQ1ZYQlJwTlRkWGJtN3VBN0xtc2ZTZjJZVw?oc=5",
+       "source": "Seeking Alpha",
+       "date": "2026-10-12T03:57:34+00:00"
       }
      ]
     },
@@ -311,16 +311,16 @@
      },
      "news": [
       {
-       "title": "Is First Majestic Silver (TSX:AG) Driving Fresh Mining Interest?",
-       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdWZuYmdFVnN6cGdJQzU4aU5CbnVsd21xNm5QRlV6OGZlcFlZUV9iR1A5QVgxSkdEYzdlbDR5OWdhWG5OZ3h3VS1EQlF1SExkU2FYSGRjOGo5Q21xZHZTRjIwTVdRZEQydl9IMXc0Zkl6VU56Si1jTEpnN3Y2M196QmVvRjhNUUt1Y3ljLUoyZVJrcEh2NDhJNmRmNmdIYjN1a3c?oc=5",
-       "source": "Kalkine Media",
-       "date": "2026-10-15T17:28:00+00:00"
-      },
-      {
        "title": "First Majestic Silver Corp. (TSX:AG): Can It Restart Jerritt Canyon on Schedule?",
        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVFNkZnJYUnRzZ0t4Qy1oSHNySDlRc3l1cU5zckotalNtMFFsRS1zdkdMdlg5ZjBfT1hTWjgwSEVmbDM4Z1hJODF6SGVJMmQxNW5xSW54TnJzSHE1eUZ3UjFwNm9fdmNUQWVUQnNraGU0bkdLcnpzU2JBc0UwZkdSYXlfdUxNTzR4U2VfR1lXb21nQTd5cWVJanU0Zm9EOUdQZ1pqVnFwZGxGbjc2QmFMeEJoa1pDUmc?oc=5",
        "source": "Kalkine Media",
        "date": "2026-10-15T17:20:00+00:00"
+      },
+      {
+       "title": "First Majestic Silver Shares Slide 5.76% as Capital Reinvestment Pacing and Mexican Operational Headwinds Weigh on Investor Sentiment",
+       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPRFZpaktZajMwZERDd3ptcHVXVm9DNEMyZUI3WFRSZGNQbUk3LXYtbThHNER6VEJ3cW50dmVnczBPNm1BWkJ0QWNjUEt5NFhGN1VKUUNDdElIWlY0TFJLZ1U5S0FYVHhDRE5VY1hRazNYa1VtbG5jNThSYW5XZzVhY0VQbFJ3LXZFWU04SGZGQnpER3EtU2tQYzF2YzJPdzRGZXhIRUNXVGZzdTg1OXVIYUpDSHk5OGZXdEQ3UExwQ0ZHc3l1alplUzdZRm0wQ19SOXptUS1leHhKREpFQ0JveVo5V2VXbm9nUlUzcm1qUjhnMDVv?oc=5",
+       "source": "kalkine.ca",
+       "date": "2026-10-15T06:53:27+00:00"
       }
      ]
     },
@@ -404,10 +404,10 @@
        "date": "2026-10-09T12:08:00+00:00"
       },
       {
-       "title": "AGX - Silver X Made $17.3M Last Quarter, Why AISC Is Still $46 Not $15.80",
-       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNRXlYOG1KUDNhZHM0QUVxSTg1UVAzTWRtUXM3YWV4NDFjRUpZbjlwWEVaNng0NWdTZU1ucnIxX2xQSkxTMVRBMmliMUF3Wlo3M3VyeGZJX0hyYVVSRHNabGlodklLMy1CVFlQRnIxSW5WVFJzOFVNZjJlcHRpWnYydjRjVDU4UkdhLTlkdFFMcll3LVZNcEtwcm54VmlydjVqaXJoUnVmSGtBdzUwNlNGNVdqTVBNSUtNanRNNF9vejdHdHRRdEN4eVBtbFNXN2NFWHpybXFjRFhTNWItV1lTekZ0U1FSYjI5SnVlc2lsYS1pdGNJSU1jbmJBakQyNm5CTmhmcERrWQ?oc=5",
-       "source": "Simply Wall Street",
-       "date": "2026-09-24T07:00:00+00:00"
+       "title": "Silver X Mining Stock Slips as Profit-Taking, Silver Volatility and Expansion Risks Pressure Momentum",
+       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRURqdjNGX3Nod2FHOEFtdHg4enIwSjVaTkZfa0lFdjc0cjlBdFo0czhhYTkySGNKYzltRExhNFhWLVZ2eENhWmYwMHhSeHp5Ujg2QWtscHVNRXVfWEV6YmdJc3VvcmdzR0ZINU5ZOWtDeGZJZk5zUVBVdjFrdG5Ya2xUYTBBOU9ScDhrcWNYalJXSHRreS1tWTdZS0hTdnRHbGtxNm9EZ095QTRmaGF2bW9LanhURm1INVhuZnpQbF9jdWFzTXowQXNrMA?oc=5",
+       "source": "kalkine.ca",
+       "date": "2026-10-01T07:00:00+00:00"
       }
      ]
     }
@@ -668,16 +668,16 @@
      },
      "news": [
       {
-       "title": "What Wall Street may be forgetting about Meta's AI business",
-       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbkVjRkdRdVp2TUFaMmczY2dJaC00d1lUcnpZQ1RFN29hS0V5NHhmaGRGOGhZeDhocjFNM0FjeXMzb0JVV01HcGM1QUt3RDV1NGdpZGRSNllVWENhdUE4NG14UUV2NEdVa0tjWV9YeDFBR1JCUlJlbktFbzVUSHpPSkFpYkkyVWo2WUxJdnJicWRuMHBZTGdVQzFjVElVZGpNbk1GRkg2SGVETXBhUVJrLWs1aUJKTkVjdWJmdVpEWQ?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-15T12:34:22+00:00"
-      },
-      {
        "title": "Meta has an AI advantage OpenAI and Anthropic can't replicate",
        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQkh1U3hwN0V0OWc2SWp1S1Zpa204RldpMm1qUUJ6cGRMT3BuOHhWbGtNbGJla3B6RXZFb3dSZkN4NTE0NTJOYmNoLTVLVnV4RS14Zkx2ZTFUbXR1ckpfQUNDM1gyVmJESTc3ZHd4YnVoNjNpYmtrUWNBYTZEU3JwV0JfQWc1SkM4M1ZMbzBlUDVyQU5PbjVSTndGdHlzOEFTNkctekxTSXlSSG5qNlc4WDR1UmFZNjdCMUg3Zg?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-10-15T10:00:00+00:00"
+      },
+      {
+       "title": "Meta Reports on Oct. 21. I'd Consider Buying the Stock Before It Does.",
+       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQamtOeGNGblVhbllmQlV1a3VQak04LTdzR29QUXB5bFRtXzNpYTBScHoteXA1ZFlnRW9qcWxfSHEwV1k3QnEtWDUzd0d1M2F1dGpqZGhObk1ZZE1KWjJYQVJRY05qbVF4YkxYeWdZUjRUcFY3cERIdlNwbGdIeVIyb0l6bnd5Zi1Vc050Y1hjdHo?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-15T04:07:02+00:00"
       }
      ]
     },
@@ -754,10 +754,10 @@
    "date": "2026-10-16T14:11:09+00:00"
   },
   {
-   "title": "BlackRock\u2019s Larry Fink Warns AI Data Center Halt Could Tip US Into Recession",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOalMyWm9ZNnpKTVkxb0x3eHo2X3F4TjZKUW5RU2dYSWg1QzQ1bDZkRTctN2w4d3RqNUpBVHRwZWtELVcxX2VSOV9zWHMxSkRuMmlRT3lOQmVNQzZYZC1oYUlMbDkxMHVuZ0c4a3kxVGFlSTNycHJuc3FsQXQ1amZ5MjZsSmtEWGx0dnVScHQtZFM?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-10-15T18:16:04+00:00"
+   "title": "Weird Bond Market Price Action Signals Recession Ahead (SPX)",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU0V5blVtMWNkNndCMzl4YUx1QTZDcmlmZFBzbnZQZXpmYjRSdk5RSVZWckZTLUVrTVYtV1ZtMkJ5UVFNOHJHU0RRbHhFQ1hxMFlxTTBKMVdCMk9YaHAwZ056S3RFMXIwcDlWYWRaRmRkSzdkQlJKT1hDbU1kdlhobWRwSGxyRTV6TVcxVDduRXY3dTF5c1djLXRKdw?oc=5",
+   "source": "Seeking Alpha",
+   "date": "2026-10-16T11:50:38+00:00"
   },
   {
    "title": "Otovo ASA: Approval of prospectus and listing of shares",
