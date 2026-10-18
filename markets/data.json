@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-18T02:25:34.421671+00:00",
+ "updated": "2026-10-18T03:05:44.736455+00:00",
  "usdnok": 9.41349983215332,
  "btc": {
-  "price": 81624.296875,
+  "price": 81730.1484375,
   "prev": 81500.8046875,
-  "chg": 0.15152266038784834,
+  "chg": 0.28140059583383614,
   "currency": "USD",
   "asof": "2026-10-18T00:00:00+00:00"
  },
@@ -69,6 +69,12 @@
      },
      "news": [
       {
+       "title": "Kongsberg Maritime secures Extended Thruster Coverage agreement",
+       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeWFRczlOdDNxT3JRMUxZSFpvTlJaZlpDa3h2aExmTl9nU3JQc1lTaG5TM0FkNDJVNmMycVIyaEhZNjBmT0twN1U3cnB4NktaOUI4alNrQU1sY1NiV0tPc0Zad3Z2cGdvT0Z4am4zWTlVQkpBUjVfc3FLajRPOV96R0FLQUZ6Nmw0ZWF2MzJnTXRfQQ?oc=5",
+       "source": "Maritimt Magasin",
+       "date": "2026-10-07T07:00:00+00:00"
+      },
+      {
        "title": "Kongsberg Signs Waterjet contract for Indian Navy\u2019s Next Generation Missile Vessel",
        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNc3p3Vkg4M3BvUkZJTG1ObWRSQTM4czJZbFBYMFBqNTBhd2dsVHZXR19JUDhKWU9CSnVxQVhlVWVfZ05yXzJiYnBEUXRweTJtX0MtdExYMzIwVVNTeGFIQVJrRFY1cHA5U1h6b0lYME1TRXp5d1hXZnctRG4yVkpnLXlCTmhNMno1eVFvNmRPWjIwNmFsWEtlRU83UnlFT0d6ano3dEw1aXNMc0dXTkJsUERPQnV0M2ZKVVdDYzFDajhPS2hTTFE?oc=5",
        "source": "Naval News",
@@ -85,12 +91,6 @@
        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZ0FyVGs3djMxR0NfNFRDQjFiX2ttWmxPNTI3TDhKRDNZZjk2akNvLUVSSGM3SEpLbzV0U0x6UFJPdklFQ3ZHNzJWbFZmUzVMeWUxUjRhOHhvRVBjV0ZVdGwyNGhtejdGMnRfWEFaWXRZSzVfem1pckV5aXlDVFRscGdB?oc=5",
        "source": "Metal Additive Manufacturing magazine",
        "date": "2026-10-01T07:00:00+00:00"
-      },
-      {
-       "title": "Kongsberg Maritime Wins AUV Hangar and Subsea Docking Contract for Inkfish Research Vessel",
-       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUFVCVzE4cHhnZEEwdktoWDRXaHRLZDlPWFZIeXd6TlJmbFFybVhWN3FEY2VYRmhxWlkwSVR6QlFRajZ5YVV6THhuTzZYOW9PMFJnMi1oWk5LaURPdEFBNWpYdHQxa2J0QXNrcDJfTkxEZy1La05QUFRJLUtlOWRjYTJYb0ZPSzJYdFZuVHZLcXFPRzFjS282RGNvQm5aQk5RNGozMFMtTmlBSkhEaExzS1c3XzlZVVI3NUpmSWZwdzcyeHczWFpwVTBwZEVFWlVPM21v?oc=5",
-       "source": "Ocean News & Technology",
-       "date": "2026-09-30T13:57:29+00:00"
       }
      ]
     }
@@ -124,16 +124,16 @@
        "date": "2026-10-14T10:25:03+00:00"
       },
       {
+       "title": "VanEck UCITS ETFs Plc - Net Asset Value(s)",
+       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwblRPTmNTSHBPc3pSRnI3MXJON1c5aUxXVGZQU19ZVHowZXU0V3lSSUJSOG9ZRkV1aE1HSTBzRVpFdnlNQXlkWkphV0xSc0ZLVEhqTUVEZGhEVkE4amp0MWllVkdjNTJFaWU5UGRWczBxekozOUhXaWdjSUYyUzg?oc=5",
+       "source": "Yahoo Finance UK",
+       "date": "2026-10-12T06:00:00+00:00"
+      },
+      {
        "title": "VanEck Gold Miners ETF remains a buy with stron...",
        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNemhIOXhSaXlhamV6Mm5zRVNKblM1bHhPQmgxTzZRMGVHSG9PTXhHbnJaYkNqeERlOU1rdDBLNjhlWEU3eUlpNEdsTU0wdy1jbWZfakd4UzFrMHJJeFlFZzliWlJEUDRRYUQ2R3RLbzRmSGZKLS1sVjMyd1ctaHU5U1JULXMxemRxUEE?oc=5",
        "source": "Pluang",
        "date": "2026-10-12T04:13:40+00:00"
-      },
-      {
-       "title": "GDX Vs. SGDM Is A Draw, Gold Miners Are A Buy (NYSEARCA:GDX)",
-       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd0pJYktfcjZ0Z3gwNjBJeV9aTE5ESjczNXU5S1Ftanltdm9RY2dVbkdHbEtvSWpEdEVNWXFtaXlaU0V4UVNneEt4UGYxYmQxa1IxMmwxcndGM19zOXh6NTFqQ1ZoTzdEMHBUOS1FTUJCMmdUQ1ZYQlJwTlRkWGJtN3VBN0xtc2ZTZjJZVw?oc=5",
-       "source": "Seeking Alpha",
-       "date": "2026-10-12T03:57:34+00:00"
       }
      ]
     },
@@ -693,16 +693,16 @@
      },
      "news": [
       {
-       "title": "BYD or Tesla: Which Is a Better Stock?",
-       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMXZpOVcwRHVqcTFmT1JfN01DeUhfa1huNnRncTFVUHBvVWRVZVBZTTJvQzFhOFJ0cFZIUDdSdjZIcjRsNGZFMmN6OFJIWmNzYzdNZXJMSnR0SG5HYS16UVBtWFJOQWRoWXlkdnFQckZmY0pJbmFKUjRvcXFqTnk1UHZKVlBEd21KbFdGUjNIWlo?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-17T06:50:00+00:00"
-      },
-      {
        "title": "Elon Musk Says Tesla Roadster Could Be \u2018Greatest Product Demo of All Time\u2019 \u2014 Is This the Hovering Car Featuring SpaceX Tech?",
        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZElxQS1fQm1TWXhxd0VYQTZDRzFvSzdLNnVMQ0R4MHJuQ2FQSWxfYWFaU1pVVVBkVXhRTFpmZWhCdTNIRXNTVVp6ZV9aNm5QSk5rUmtOeXhjZ1JwbnJjVnR2QXVQSHlIN2tFT1BCWE5HdmIwTFFUY2ZQT3RmcjlWMnJLM2duWGVOazhIYTJ4R2E2REt6WmU5Y1pR?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-10-16T21:30:07+00:00"
+      },
+      {
+       "title": "Tesla Stocks Rise After Elon Musk Reveals Highly Anticipated Flying Roadster: \u2018Well, It Worked\u2019",
+       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSGI0a2tfVHhFRWxvVWdTNTBaVnlBVHVTVmdPb3c5S1J3bmhMMGxsWG1fZWVWSjZiWV9iNkdqUnM1cDZ4dXB6UXlabDJmTzBtX0dibHJDaGlySzZTbDJkQ185WGRlQmkxNV9OT3dRWXBveTd4TlpNb21JVUN5VjVMN2hpOVFqbjh3dWYzUm1oOUZhWXZaalk4?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-16T16:31:02+00:00"
       }
      ]
     }
@@ -754,10 +754,10 @@
    "date": "2026-10-16T14:11:09+00:00"
   },
   {
-   "title": "PPI Public Property Invest AB: Transactions carried out under the share buy-back program",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPU0N1ZEZnOEM5WnB6YWhHVTA5V0lyem93WDdqYmt5Smhsak9jemhvRXpyRndfWGNwWURpSmljaWF2emo5TnA1TTE4dmp0Mng4U3BtVks2d3YzaVRvR1ZnTTgwcWZDRDRyLU1OSDFETlFZeGZzZUg3ck1XUWNnQzdWdlJxTmdYY1pqanplZ3JDODE2NjNaeWlUQVU1ZVZyS252akJkMlJ3ZnJMVjlraGhpcGE5d2FTcGU4Yi01UkZ5bnN0NEtqSjNwaWFPbzdnSG5oN3pRRlBHd2JnWTJMOUlyMGJOWFNHdDdy?oc=5",
-   "source": "TradingView",
-   "date": "2026-10-14T05:00:00+00:00"
+   "title": "BlackRock\u2019s Larry Fink Warns AI Data Center Halt Could Tip US Into Recession",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOalMyWm9ZNnpKTVkxb0x3eHo2X3F4TjZKUW5RU2dYSWg1QzQ1bDZkRTctN2w4d3RqNUpBVHRwZWtELVcxX2VSOV9zWHMxSkRuMmlRT3lOQmVNQzZYZC1oYUlMbDkxMHVuZ0c4a3kxVGFlSTNycHJuc3FsQXQ1amZ5MjZsSmtEWGx0dnVScHQtZFM?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-10-15T18:16:04+00:00"
   },
   {
    "title": "Otovo ASA: Approval of prospectus and listing of shares",
