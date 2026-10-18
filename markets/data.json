@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-18T10:23:07.146686+00:00",
+ "updated": "2026-10-18T11:02:37.912984+00:00",
  "usdnok": 9.41349983215332,
  "btc": {
-  "price": 82092.828125,
+  "price": 81917.421875,
   "prev": 81382.1484375,
-  "chg": 0.8732623814248219,
+  "chg": 0.6577283197568562,
   "currency": "USD",
   "asof": "2026-10-18T00:00:00+00:00"
  },
@@ -354,9 +354,9 @@
        "date": "2026-10-16T02:23:36+00:00"
       },
       {
-       "title": "Millennium Silver Corp. Announces Stock Option Grant",
-       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUlpIUHlaZS14WENITUdjamR1VWt6SnlyOThRQmNMbjI5SG1PbkZXTXpMNkw1RVJNbzJlSllNUjdtQ0RXUXROVTd4ekpUYUhhSW9GNmtqNEdyX2pqRlNPYjB1S3ZnVUJmV0xyNWJSNERsdVZjQWVYc2lfSnJxaEl0Z0pFbHVudlA0ZlZZd1pGRHRaVTlCTXp5aGRORVNrdFRTUXFNSGJB?oc=5",
-       "source": "Yahoo Finance",
+       "title": "Mercado Minerals Signs LOI for La Franca in Zamora, Sinaloa",
+       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPd1EtYm5rNzRfczdXemFPVm9hZWRiOFZCZ0pieUxibnVBMTZ4Sk1Fa0d0MTB5aHFRQlFvT092WXFuU3RORlF6Um05eVIxaGM1OEllU0dOb1A1SlRwajZfeWN1MmFkWmFPQzhZZ3dvS2VfNmVPMUJua2kwSEtNYW5waUl0TzZsdXdhOU0xRTB1aVMwYjM1RGc?oc=5",
+       "source": "Mexico Business News",
        "date": "2026-09-21T07:00:00+00:00"
       }
      ]
@@ -379,10 +379,10 @@
        "date": "2026-10-09T14:57:56+00:00"
       },
       {
-       "title": "Press Release Distribution & Media Outreach Platform for PR Agencies",
-       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVkFNMWotbDNYdkxleU4ydUczcG82WHNhbnB6dG1SZER3eDBXV25ZTVBvV2JKbkJnUXZGcnlyLU41U1VpenA3ZmNKUFNGWTlUNzV1WUljR2UwYVpMMlFEZjR1TXFUcGVGNWtLclYxS0dHWUtFX2dtbFoxeENHcVV4enlQZ0RNeXE5RlJhSDg3MW9DY1N5dV9hWHZuVVUzS3RRaldRWXRSTHBnNkhMSWtISzlMNmV6R0lyd3NOVzJGdEtQUXBtWmtJbXg0dzBycnUyM0FUaEZn?oc=5",
-       "source": "ACCESS Newswire",
-       "date": "2026-10-08T18:33:32+00:00"
+       "title": "Guanajuato Silver Company Ltd. (GSVR) Options Lourdes Project, Gets Cash, Shares, 2% NSR",
+       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdzg5a1I2R2JUQXJsUktKUUxxMWtnbl9WN001ZlhXTXFPZmZNMkk4TngxWldYaVozNnFQOUVVQlltRkF3enhmNC1vRkpmZ3V1RjQ1eEJtNDNpa0lkLVVVU3NhVm9HdDdsVEJTWjNabnk3aW40R3pJZjRWZWxpZ05tZFpRbUJTb2NMUk5kVFNNcXRiTC1OWTI0X1pOZHNWMGtOQnJDNlZIZlp4NG9Nc0Fhc0hmSF83c3Y5MVBzWE4yT0pCZHVaOFVSNkw0MUp0VlRDOFFOeE1DaW9nVFU?oc=5",
+       "source": "TradingView",
+       "date": "2026-10-05T11:20:00+00:00"
       }
      ]
     },
@@ -668,16 +668,16 @@
      },
      "news": [
       {
+       "title": "What Wall Street may be forgetting about Meta's AI business",
+       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbkVjRkdRdVp2TUFaMmczY2dJaC00d1lUcnpZQ1RFN29hS0V5NHhmaGRGOGhZeDhocjFNM0FjeXMzb0JVV01HcGM1QUt3RDV1NGdpZGRSNllVWENhdUE4NG14UUV2NEdVa0tjWV9YeDFBR1JCUlJlbktFbzVUSHpPSkFpYkkyVWo2WUxJdnJicWRuMHBZTGdVQzFjVElVZGpNbk1GRkg2SGVETXBhUVJrLWs1aUJKTkVjdWJmdVpEWQ?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-15T12:34:22+00:00"
+      },
+      {
        "title": "Meta has an AI advantage OpenAI and Anthropic can't replicate",
        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQkh1U3hwN0V0OWc2SWp1S1Zpa204RldpMm1qUUJ6cGRMT3BuOHhWbGtNbGJla3B6RXZFb3dSZkN4NTE0NTJOYmNoLTVLVnV4RS14Zkx2ZTFUbXR1ckpfQUNDM1gyVmJESTc3ZHd4YnVoNjNpYmtrUWNBYTZEU3JwV0JfQWc1SkM4M1ZMbzBlUDVyQU5PbjVSTndGdHlzOEFTNkctekxTSXlSSG5qNlc4WDR1UmFZNjdCMUg3Zg?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-10-15T10:00:00+00:00"
-      },
-      {
-       "title": "Meta Reports on Oct. 21. I'd Consider Buying the Stock Before It Does.",
-       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQamtOeGNGblVhbllmQlV1a3VQak04LTdzR29QUXB5bFRtXzNpYTBScHoteXA1ZFlnRW9qcWxfSHEwV1k3QnEtWDUzd0d1M2F1dGpqZGhObk1ZZE1KWjJYQVJRY05qbVF4YkxYeWdZUjRUcFY3cERIdlNwbGdIeVIyb0l6bnd5Zi1Vc050Y1hjdHo?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-15T04:07:02+00:00"
       }
      ]
     },
@@ -711,6 +711,18 @@
  ],
  "failed": [],
  "general_news": [
+  {
+   "title": "We Just Witnessed a Unique Stock Market Measure Do Something for Only the 4th Time Since 1997, and It Offers a Chilling Outlook for Wall Street",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMWVlbTE4TmZuTGxjcDFtVzFPZVdOcXlEbE05ZU5tNVBKRjI0Q1haZFp0enBzWmRQUmpRTHBaZE9KYmoxSEVSdl9ybWloQTVremNzbmtraXJOX3JlQ3BIWXlROFZLVFphVVdaQmg1VVlGandYYWV0T3M3eW05UWN1dUN6c2dGN3JUc0Q1OTVBZjI5YS1xY3drVXhYdXBXRVVIWFBSZ1psV0ptTDdGTS1iaGFqR0xuUFFpYUx4WC11aVVnRlBabG9FakxpQURwRFdGdjZpNnZrLThiYlVIUHRTR25jNEpkZw?oc=5",
+   "source": "The Motley Fool",
+   "date": "2026-10-18T10:56:48+00:00"
+  },
+  {
+   "title": "Michael Burry Warns of a Stock Market \u2018Supervolcano\u2019",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUTJEQXBCeFBNT0YtRFJzaVZmdnAycXBOX0lRUVI3QTZ1N2FtRWFybGxNYTlpZUZ6TEdLQ2loYUpfMkpYME5hNFEwZmFQSUJOVlBua3d1TEg1azQ2d0w2MDllb08wUGZ1d2s1VGo5NXBLazQ3N3UzUWs4Q2xVNnB5a25NeXMyT05CaFNXNk54eUYwSDZpVlFmU2xOc0lQQQ?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-10-18T09:13:56+00:00"
+  },
   {
    "title": "Citi says interest rates may matter more for economy than stock valuations",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcE1SWHJ0WWJUMXZ0ZUp1MU44TzVSS1JycG1LeVVNendWSmVFSHA3WXRCVHZmWjBobC1xM2Y3Q2ZCN1JOOGhhSXg2SUpkX2NvenFxNUVnWGJ6Qm92SzBFYTlnajN6bFB2NjNnTHo3ZkY2T1ZydVdlS0RWT3RJTVlRcXdYMA?oc=5",
@@ -754,22 +766,10 @@
    "date": "2026-10-16T14:11:09+00:00"
   },
   {
-   "title": "The Stock Market Is Doing Something for Only the 3rd Time in 156 Years, and History Is Clear a Crash May be Hiding in Plain Sight",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUElOc1Z0ZTN0b1dzYTE4NUVHX3lRSkdYdE1jNTk3Zmw0SFV6THJDSUctN1ZFd18tZUNlVkp6MU5ZVjB1SDhFc1JfcTBaODNSQUgteWw2bTlTdGZZMVhNbnFLUXJEbnlBREM3U0htUzJBN2pQNDAweGZ1X3V0Wm9URVpaYzk1c09kbTBZVWNtNWdHYUlpWFkzTTZaMlBuUVE?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-10-16T12:50:00+00:00"
-  },
-  {
    "title": "Weird Bond Market Price Action Signals Recession Ahead (SPX)",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU0V5blVtMWNkNndCMzl4YUx1QTZDcmlmZFBzbnZQZXpmYjRSdk5RSVZWckZTLUVrTVYtV1ZtMkJ5UVFNOHJHU0RRbHhFQ1hxMFlxTTBKMVdCMk9YaHAwZ056S3RFMXIwcDlWYWRaRmRkSzdkQlJKT1hDbU1kdlhobWRwSGxyRTV6TVcxVDduRXY3dTF5c1djLXRKdw?oc=5",
    "source": "Seeking Alpha",
    "date": "2026-10-16T11:50:38+00:00"
-  },
-  {
-   "title": "Otovo ASA: Approval of prospectus and listing of shares",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOajNaT2sxT2V0b3VRTkk1TklPcDI5WDNHcks2amQyTE9hSU1Va19TSm56NnNDbXBRMWtwT0lNNnlZRWE1ajdLWGlCOE1hUktzbU5CaXl3TE12TWY3VXFaa3NRbGJYcTlNWEVwbDdrVmFyS2h2YU9DUmN6WEhoUHppbExyVFNGRlNDdlpRMXJ3aFo2VEgzdk43Mk9wdE92OC00X1FSQXpnWF8xZmZVaTRpUDVNTzd3TnZqa1JuS1dIVTNuaDMwakhnYk5SOHNHaXNQVDFrU3ZBWUZEaHF1?oc=5",
-   "source": "Finansavisen",
-   "date": "2026-10-13T15:47:10+00:00"
   },
   {
    "title": "Hafnia CFO Sells 50,000 Shares in Mandatory Insider Trade Disclosure",
