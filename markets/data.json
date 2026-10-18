@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-18T18:24:17.403816+00:00",
+ "updated": "2026-10-18T19:05:29.207944+00:00",
  "usdnok": 9.41349983215332,
  "btc": {
-  "price": 81022.46875,
+  "price": 81049.1484375,
   "prev": 81382.1484375,
-  "chg": -0.441963863581496,
+  "chg": -0.40918064513342234,
   "currency": "USD",
   "asof": "2026-10-18T00:00:00+00:00"
  },
@@ -32,6 +32,12 @@
      },
      "news": [
       {
+       "title": "Kongsberg Gruppen (OB:KOG) Wins Major Air Defence Deals As Valuation Debate Heats Up",
+       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeVJMWDAwUUFNeWRsOEVOOWg3b2wyNG1aRndwY3dHWmN6SmdJb2FuUm9pcVlFWFQ5WHdMZzRNa2JlWEs2Ym9RU1lERkcxVjZPMkNLQnRONlpSRHlZa0xrVWtSOGRzTjA4aHk4SDd0bldWSFpERzVseTNtaXQ3SGhqbDFhajFRSy1sUF9pSG0zZ1FWa29tSE0yNkhlX2tabDUzVjBmdUxxV2RBSVY3QWFIRFJjVkplVHFxSzI1MHpzcXBXeFNFTHpmZzBPTGN6NWNHVk9NdEQzNmotOTjSAeABQVVfeXFMTlZxMXRiUEZmV3RIUlNic001c0hKbjlkZGpUNEhjYVN2T0loY0tvSTQ4cjZESm5zY1J5c2QxWklZbDJkLWRHNEhQREJ3Njg1eEYxOUwxazV1ZjhMWTg4M2R3OEI1b1JTa3ZPM3dJWEhITVphRnpNWXNTM0YydmpvRV9rdjI4M3lzZVRNX2RwN3ZmLV9sVzlwWlUzcUJ0MUpNRi1WTmdIWkdEY2s1M3FxYkF6MXB2dmt5YmhKd1ktTk9rbFBKMVRjZ2IwY2pXbXRwZFpSZUxuQVpBMFJKYm16S1Q?oc=5",
+       "source": "Simply Wall Street",
+       "date": "2026-10-13T22:27:05+00:00"
+      },
+      {
        "title": "Kongsberg to build new plant in Poland for counter-drone systems",
        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaEJpbktxQ1BEWkkwZk1HMGxMT2F6UzU4MFNaRkNyNkNDeHBFNWxSN2RPSXVqQkJpZmdJZWpteGVLYWRZMGdtSU1nR2NZOWFQNWlmSml0SWFFUjFKV3k1YUx3X2ROUE1fMWh4X0taM3BqUnJiaDM2VHN6cTdOVDdhbnZWQjRSaUdpc0c2Ym14cUg5TnFrUGtxVHpITnlSQQ?oc=5",
        "source": "Yahoo Finance",
@@ -42,12 +48,6 @@
        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVUtQbWtoMlRhVEJkYnZpRmd6M0FIdEtPZmtXWTF6c1FDaGZUN0VsVEw4VldOUG53bnFLWU16SnRzT0d3Y1R1RGtQNWtZQUFham81T0hwUG5NUWl3dVY2cTV0M3pfb3FFVUtGOFZHd0R2VG9zTzd5VFc2WExwQWtDUUJQdTRmbGhjMHFLdGVvaFdaX2hUR3daV2UtU2ZFVXFxLUJyTnBJemRpY2c?oc=5",
        "source": "www.marketscreener.com",
        "date": "2026-10-13T06:41:26+00:00"
-      },
-      {
-       "title": "Kongsberg Gruppen : to build manufacturing plant in Poland",
-       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb091SDd0b2JFNzRvZ0RnM0owWXpFVnVINFR2d1JaQnRsR1JfbXc4eGNmZHN4TUFVVmw5ZkQ5QjZhcHN2Sm85cHlKQldkUDBUV1NPN3hFdUlTMGNuQ1NISlBlRGZZQTlvS3RvMzZMZW04bXVrZEJldG1FbGlyRDgzWmZxdHJhYUR6a1FHME1LUTVDUDhSTDd4LW1TYXg0bUVKS2Y0ckw2Y0tIeTJPTUE?oc=5",
-       "source": "www.marketscreener.com",
-       "date": "2026-10-13T06:38:11+00:00"
       },
       {
        "title": "Kongsberg signed NOK 10 billion NASAMS deal: what it means for Kongsberg stock",
@@ -361,9 +361,9 @@
        "date": "2026-10-16T02:23:36+00:00"
       },
       {
-       "title": "Millennium Silver Corp. Announces Stock Option Grant",
-       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUlpIUHlaZS14WENITUdjamR1VWt6SnlyOThRQmNMbjI5SG1PbkZXTXpMNkw1RVJNbzJlSllNUjdtQ0RXUXROVTd4ekpUYUhhSW9GNmtqNEdyX2pqRlNPYjB1S3ZnVUJmV0xyNWJSNERsdVZjQWVYc2lfSnJxaEl0Z0pFbHVudlA0ZlZZd1pGRHRaVTlCTXp5aGRORVNrdFRTUXFNSGJB?oc=5",
-       "source": "Yahoo Finance",
+       "title": "Mercado Minerals Signs LOI for La Franca in Zamora, Sinaloa",
+       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPd1EtYm5rNzRfczdXemFPVm9hZWRiOFZCZ0pieUxibnVBMTZ4Sk1Fa0d0MTB5aHFRQlFvT092WXFuU3RORlF6Um05eVIxaGM1OEllU0dOb1A1SlRwajZfeWN1MmFkWmFPQzhZZ3dvS2VfNmVPMUJua2kwSEtNYW5waUl0TzZsdXdhOU0xRTB1aVMwYjM1RGc?oc=5",
+       "source": "Mexico Business News",
        "date": "2026-09-21T07:00:00+00:00"
       }
      ]
@@ -380,10 +380,10 @@
      },
      "news": [
       {
-       "title": "Guanajuato Silver completes tunnel linking San Ignacio and Bolanitos mines",
-       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTGo3S0R1UVMyOGNoa0R0VEtGcVlOM0hjZEhTRTNnV2lyRGU4QmJydTNfU3hBRzN5VHRldzR4OVExNDc2WFJMU2swU0FJaVI3anFBMU5KbW14MGRlVHZndk9GVF8xQm93TDBOMGprYlJoSGJrM09yM1o5SmIzZkRmc05tM2twWnJBR0lTWVRtQ2pPQQ?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-09T14:57:56+00:00"
+       "title": "Torex Gold Reaches 329,000oz AuEq Year-to-Date Output",
+       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQd01za1ZCNTRvRjVnNHFMMWtFNjhCQTRtTVhqeVJyV3hVaGdkM0ZHZ29Sbi1SSFJZVnE4QWxOdGhZSDRYYU1fOTZaMXBKZ1dvNUx0RzRKUGN3a1YtY0VJX1hmVFZScVVBa0U5Z2tDd0ZRaUpOQWNLeEltUTJyVnJhNWJ4MWlremVxTnpLdUVicWU1ZDA?oc=5",
+       "source": "Mexico Business News",
+       "date": "2026-10-08T19:16:23+00:00"
       },
       {
        "title": "Press Release Distribution & Media Outreach Platform for PR Agencies",
@@ -411,10 +411,10 @@
        "date": "2026-10-09T12:08:00+00:00"
       },
       {
-       "title": "Silver X Mining Stock Surges 6.90% as Resource Estimate Nearly Triples Silver Exposure (TSXV:AGX)",
-       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORnIzOXlBQkIyWHU4SnhnTEdtV0VBYWplNVJjeTdLekpONEYzNUVyaVlNWWhWeXRFcEhyTjh6T2ZfTzczVEFjWlFtR1J5dTJCb2tDb3BycXVKb2gzcUtFbF83Qlhwbkx2RG5XT3dSTktWNUw4a01zcHFLc0VxdmZaS0Z1S3lwX0ZUU0ZJUU1uVm5RdW4zZ1hzNzZYclZUbmhRR0ZYclZ6aWFTejlOMUxQU2trbkUwNWZETjV5bkdnclQ?oc=5",
+       "title": "Silver X Mining Stock Slips as Profit-Taking, Silver Volatility and Expansion Risks Pressure Momentum",
+       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRURqdjNGX3Nod2FHOEFtdHg4enIwSjVaTkZfa0lFdjc0cjlBdFo0czhhYTkySGNKYzltRExhNFhWLVZ2eENhWmYwMHhSeHp5Ujg2QWtscHVNRXVfWEV6YmdJc3VvcmdzR0ZINU5ZOWtDeGZJZk5zUVBVdjFrdG5Ya2xUYTBBOU9ScDhrcWNYalJXSHRreS1tWTdZS0hTdnRHbGtxNm9EZ095QTRmaGF2bW9LanhURm1INVhuZnpQbF9jdWFzTXowQXNrMA?oc=5",
        "source": "kalkine.ca",
-       "date": "2026-09-22T07:00:00+00:00"
+       "date": "2026-10-01T07:00:00+00:00"
       }
      ]
     }
@@ -575,10 +575,10 @@
      },
      "news": [
       {
-       "title": "Microsoft Stock Had a Monstrous Rally After Its Last Earnings. Don\u2019t Expect It to Repeat This Time.",
-       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV1dCUFFpdGRJQUQ3VDUzai1iS01XWF9GeGdfYVFGNWpHcGxCUThqRmtuZTRjSXpTcWZFcF93elZkd05PUzhsbFM2Ymc0N052U3h5NUdEeW5DLUJOeFV0Q2RRQkNDMXdpNkk5YVh5eWpFWkk2elM5N1g1Q0VJQUN3ZnA1c1oxanhCUkxBUnNKRWdzVTcwR2p2YThhaEt0QjI4Y3c?oc=5",
+       "title": "Microsoft\u2019s AI Chief Says It Built a Better Model Than OpenAI\u2019s With a Quarter of the Computing Power",
+       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNLUcwUi0tWGVQZzJCYmo5NGNyT3JvSWVZeVVDaTZfajdOM19YMERFMVBSQUM3cm1KS2VJUmlWNE9Jc1hGY1p1NmVfQVlUWG9XaEZXRnFrVE91bnhrbFlrczRkVU10Y0o5X1VYLXdYZzUzb092cmw4UGVFMzBOZkFEWTlpZGNiYkp6eEN2MFdac3c3OWxpVTI4Ng?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-10-16T13:44:40+00:00"
+       "date": "2026-10-16T12:57:29+00:00"
       },
       {
        "title": "How Earnings Beat Will Impact Microsoft (MSFT) Stock",
@@ -725,12 +725,6 @@
    "date": "2026-10-18T14:39:53+00:00"
   },
   {
-   "title": "Friday's Market Volatility Spike May Have Gone Too Far (SPX)",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLVBpODRCV1VEYUxjM1UxQVlrUjY4TTdZRno2bmkwZURPcmZfbS11SzFiVDIwbGlCazFNVGcxTHNmMzBDS0hFNlpfaGVQTnJNMzBNUGhsaHgyRGsyNlEzR0Zid01PSXVWQ2VUWDc2Q1pEaWhRbU9zNnpNWWxCQjA0SkFpREdTZ0FsN09vLWFZQjZUdE9neTByTEhn?oc=5",
-   "source": "Seeking Alpha",
-   "date": "2026-10-18T13:55:00+00:00"
-  },
-  {
    "title": "Michael Burry Warns Stock Market Could Be Months Away From A 2000-Style Reckoning \u2014 \u2018The Preconditions Seem Set For Fireworks\u2019",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaFZJeXlDdUw0YWZkS1FydWpoWWx2VWo2cWN2Wmw0VXM5YjE4Ym82a1RpdTNkOG1INUU0VkNoX01RNHFZR2lIakUzS0UxRDFhZkUydzN0Rnhlb1pNUUVxNm1mQm5IY3R1ZDJ6YWFmUmpHdWQ1cVdJNmE1a000YkFhYXdpNkp5UFhIUUZXdG9OeUx0cDNlajJDakZvZVhNQQ?oc=5",
    "source": "Yahoo Finance",
@@ -771,6 +765,12 @@
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTnJFMVA3MVFBOGhpMU5YazZiWDVtNGFtNlEtOGVMY2U0a2k3ODhNNmttQ3dvRWNlTFVCbU1UXzV3YTFHeFNoY3MzYVlVbXdfM180d09ITUdZZjBoTmctcjZNeE1iLUtxZThxZnVtYV9OblVWMEYxeTA2UV90WmVFd1d2MHdDMXRndzlOeEV4aUE?oc=5",
    "source": "Yahoo Finance UK",
    "date": "2026-10-17T11:43:00+00:00"
+  },
+  {
+   "title": "The Stock Market Has Seen This Happen Only 2 Other Times in Over 150 Years, and History Has an Ominous Warning for Investors",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSm9pSEp1OEpkSkNSNlBtNWVjVXdJZ2ViTkdNcV81azlHSzkyWjFlaEQxT3dhb3ladmgwY3RiZkRvOWQ1ejF2QXJxbGR2azh5MnJrOWFlTGR3cVJaUHZBTWhQRHhvSXd5UjFJTzNSNWRDZmFzM2xaZlVFQ0UzZ242aU90Q2RCZ1I5bkhaeWZubEp3OUYxb1F3Ug?oc=5",
+   "source": "The Motley Fool",
+   "date": "2026-10-16T18:30:00+00:00"
   },
   {
    "title": "Regime Change: Bonds Pricing AI Bubble Burst And A Recession",
