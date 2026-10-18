@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-18T04:25:40.904734+00:00",
+ "updated": "2026-10-18T05:06:36.546515+00:00",
  "usdnok": 9.41349983215332,
  "btc": {
-  "price": 81811.7265625,
+  "price": 81682.0,
   "prev": 81500.8046875,
-  "chg": 0.38149546644621335,
+  "chg": 0.22232334170779744,
   "currency": "USD",
   "asof": "2026-10-18T00:00:00+00:00"
  },
@@ -124,10 +124,10 @@
        "date": "2026-10-14T10:25:03+00:00"
       },
       {
-       "title": "VanEck Gold Miners ETF remains a buy with stron...",
-       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNemhIOXhSaXlhamV6Mm5zRVNKblM1bHhPQmgxTzZRMGVHSG9PTXhHbnJaYkNqeERlOU1rdDBLNjhlWEU3eUlpNEdsTU0wdy1jbWZfakd4UzFrMHJJeFlFZzliWlJEUDRRYUQ2R3RLbzRmSGZKLS1sVjMyd1ctaHU5U1JULXMxemRxUEE?oc=5",
-       "source": "Pluang",
-       "date": "2026-10-12T04:13:40+00:00"
+       "title": "VanEck UCITS ETFs Plc - Net Asset Value(s)",
+       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwblRPTmNTSHBPc3pSRnI3MXJON1c5aUxXVGZQU19ZVHowZXU0V3lSSUJSOG9ZRkV1aE1HSTBzRVpFdnlNQXlkWkphV0xSc0ZLVEhqTUVEZGhEVkE4amp0MWllVkdjNTJFaWU5UGRWczBxekozOUhXaWdjSUYyUzg?oc=5",
+       "source": "Yahoo Finance UK",
+       "date": "2026-10-12T06:00:00+00:00"
       },
       {
        "title": "GDX Vs. SGDM Is A Draw, Gold Miners Are A Buy (NYSEARCA:GDX)",
@@ -379,10 +379,10 @@
        "date": "2026-10-09T14:57:56+00:00"
       },
       {
-       "title": "Torex Gold Reaches 329,000oz AuEq Year-to-Date Output",
-       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQd01za1ZCNTRvRjVnNHFMMWtFNjhCQTRtTVhqeVJyV3hVaGdkM0ZHZ29Sbi1SSFJZVnE4QWxOdGhZSDRYYU1fOTZaMXBKZ1dvNUx0RzRKUGN3a1YtY0VJX1hmVFZScVVBa0U5Z2tDd0ZRaUpOQWNLeEltUTJyVnJhNWJ4MWlremVxTnpLdUVicWU1ZDA?oc=5",
-       "source": "Mexico Business News",
-       "date": "2026-10-08T19:16:23+00:00"
+       "title": "Press Release Distribution & Media Outreach Platform for PR Agencies",
+       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVkFNMWotbDNYdkxleU4ydUczcG82WHNhbnB6dG1SZER3eDBXV25ZTVBvV2JKbkJnUXZGcnlyLU41U1VpenA3ZmNKUFNGWTlUNzV1WUljR2UwYVpMMlFEZjR1TXFUcGVGNWtLclYxS0dHWUtFX2dtbFoxeENHcVV4enlQZ0RNeXE5RlJhSDg3MW9DY1N5dV9hWHZuVVUzS3RRaldRWXRSTHBnNkhMSWtISzlMNmV6R0lyd3NOVzJGdEtQUXBtWmtJbXg0dzBycnUyM0FUaEZn?oc=5",
+       "source": "ACCESS Newswire",
+       "date": "2026-10-08T18:33:32+00:00"
       }
      ]
     },
@@ -713,9 +713,9 @@
  "general_news": [
   {
    "title": "Citi says interest rates may matter more for economy than stock valuations",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMmhMeHNEaEM4VUJhOHpnMjktS1V1cW5TQmFqazNKWmcxRzNMRUY1UFlVX0pRdzV0aGt1ZEdzOWlTMlducmQtOVltN3h3MkNqUUhQSDNYMUtrNGthMnRxeWQ0N2tnRGg1YVQ0cmZHYm9qeDlPSmQ0NV9XVUhuZXN5cmVETQ?oc=5",
-   "source": "Yahoo Finance Australia",
-   "date": "2026-10-17T20:26:11+00:00"
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcE1SWHJ0WWJUMXZ0ZUp1MU44TzVSS1JycG1LeVVNendWSmVFSHA3WXRCVHZmWjBobC1xM2Y3Q2ZCN1JOOGhhSXg2SUpkX2NvenFxNUVnWGJ6Qm92SzBFYTlnajN6bFB2NjNnTHo3ZkY2T1ZydVdlS0RWT3RJTVlRcXdYMA?oc=5",
+   "source": "Yahoo Finance UK",
+   "date": "2026-10-17T20:26:10+00:00"
   },
   {
    "title": "S&P500: Yields And Stocks Are Dropping Together, It Has A Dangerous Precedent (SP500)",
