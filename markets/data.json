@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-18T12:27:28.772976+00:00",
+ "updated": "2026-10-18T13:12:46.679098+00:00",
  "usdnok": 9.41349983215332,
  "btc": {
-  "price": 81920.0625,
+  "price": 81814.203125,
   "prev": 81382.1484375,
-  "chg": 0.6609730424026683,
+  "chg": 0.5308961434359327,
   "currency": "USD",
   "asof": "2026-10-18T00:00:00+00:00"
  },
@@ -69,6 +69,12 @@
      },
      "news": [
       {
+       "title": "What Is Drawing Fresh Attention To Kongsberg Gruppen (OB:KOG)?",
+       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQLXJob2ZYeV81SEdoakZ5RVRGNFhSVklJY3ROZGZaNGtFVHFfTU5ldFZiZm5qMllyZktaMXZ0TWx1elA3VmZGcWUxNERKZDYzU1o1SU5OdFk0QUxtQklSOG5IY1Nnc1ZNVnJObldBNHQ3R3FZZktEa3cxUi1CWmJFaHUxSExwMkRLVTJ0b1lNVkh5UDN2dlZicUhySXZpN1RnOF9ZN1JlV3FQUVYwX2RocUR1SDNtcE9HN081OGVhRERXTlpTTEhRMVVuQldraFktYjVrNTZCZXfSAd4BQVVfeXFMTVpLc0QtajNILU92WG9TMmJCOHVzNnhVd3IxZTY0ZmVpaGhkVUFqc2FfOV9WdnByWnFJTWljNjdjVktRV3hRN2hESENXYjh4cnZ3aXVIX0c5WXBpVHQ5amZTeFBFVHBIaUl4WUFPV0JpTHRTcHNpRDRFdXdEcHQ1NUZNYUN1N3U5Z0NFNVpIVVBNVVhUb014YlkyZHR3azNRZm1mU3o5OE04MG9XMzlZWFUwV0l0UnliU2F2RlZOaGhYX3FtdjdRaGdwRkFBblZXdmlYeFVwajItT21GbUpB?oc=5",
+       "source": "Simply Wall Street",
+       "date": "2026-10-06T14:41:27+00:00"
+      },
+      {
        "title": "Kongsberg Signs Waterjet contract for Indian Navy\u2019s Next Generation Missile Vessel",
        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNc3p3Vkg4M3BvUkZJTG1ObWRSQTM4czJZbFBYMFBqNTBhd2dsVHZXR19JUDhKWU9CSnVxQVhlVWVfZ05yXzJiYnBEUXRweTJtX0MtdExYMzIwVVNTeGFIQVJrRFY1cHA5U1h6b0lYME1TRXp5d1hXZnctRG4yVkpnLXlCTmhNMno1eVFvNmRPWjIwNmFsWEtlRU83UnlFT0d6ano3dEw1aXNMc0dXTkJsUERPQnV0M2ZKVVdDYzFDajhPS2hTTFE?oc=5",
        "source": "Naval News",
@@ -85,12 +91,6 @@
        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUFVCVzE4cHhnZEEwdktoWDRXaHRLZDlPWFZIeXd6TlJmbFFybVhWN3FEY2VYRmhxWlkwSVR6QlFRajZ5YVV6THhuTzZYOW9PMFJnMi1oWk5LaURPdEFBNWpYdHQxa2J0QXNrcDJfTkxEZy1La05QUFRJLUtlOWRjYTJYb0ZPSzJYdFZuVHZLcXFPRzFjS282RGNvQm5aQk5RNGozMFMtTmlBSkhEaExzS1c3XzlZVVI3NUpmSWZwdzcyeHczWFpwVTBwZEVFWlVPM21v?oc=5",
        "source": "Ocean News & Technology",
        "date": "2026-09-30T13:57:29+00:00"
-      },
-      {
-       "title": "Kongsberg Maritime to Deliver AUV Hangar, Docking System for Inkfish Research Vessel",
-       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaWZMWFlSSE5Ja01DdkpXZzAxNWNUVHJrek02Z3FONlIyaVZoZ1E3b1MtTlhvVlMtMDdBYU0zLUJza2Q5TUpYdG1MSmJvNG15SFoyZTdYR1FiMUw2eEJ1YzR6YVZzeUxhQzZtMllZUnluRThjcnpiNE9USEI0T0V2dkY2UmlGY0JNNXc?oc=5",
-       "source": "Marine Technology News",
-       "date": "2026-09-30T07:00:00+00:00"
       }
      ]
     }
