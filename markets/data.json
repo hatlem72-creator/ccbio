@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-18T15:02:01.610654+00:00",
+ "updated": "2026-10-18T15:46:42.288617+00:00",
  "usdnok": 9.41349983215332,
  "btc": {
-  "price": 81107.453125,
+  "price": 80949.3984375,
   "prev": 81382.1484375,
-  "chg": -0.33753755310473865,
+  "chg": -0.5317505230675312,
   "currency": "USD",
   "asof": "2026-10-18T00:00:00+00:00"
  },
@@ -69,6 +69,12 @@
      },
      "news": [
       {
+       "title": "Kongsberg Maritime secures Extended Thruster Coverage agreement",
+       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeWFRczlOdDNxT3JRMUxZSFpvTlJaZlpDa3h2aExmTl9nU3JQc1lTaG5TM0FkNDJVNmMycVIyaEhZNjBmT0twN1U3cnB4NktaOUI4alNrQU1sY1NiV0tPc0Zad3Z2cGdvT0Z4am4zWTlVQkpBUjVfc3FLajRPOV96R0FLQUZ6Nmw0ZWF2MzJnTXRfQQ?oc=5",
+       "source": "Maritimt Magasin",
+       "date": "2026-10-07T07:00:00+00:00"
+      },
+      {
        "title": "Kongsberg Signs Waterjet contract for Indian Navy\u2019s Next Generation Missile Vessel",
        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNc3p3Vkg4M3BvUkZJTG1ObWRSQTM4czJZbFBYMFBqNTBhd2dsVHZXR19JUDhKWU9CSnVxQVhlVWVfZ05yXzJiYnBEUXRweTJtX0MtdExYMzIwVVNTeGFIQVJrRFY1cHA5U1h6b0lYME1TRXp5d1hXZnctRG4yVkpnLXlCTmhNMno1eVFvNmRPWjIwNmFsWEtlRU83UnlFT0d6ano3dEw1aXNMc0dXTkJsUERPQnV0M2ZKVVdDYzFDajhPS2hTTFE?oc=5",
        "source": "Naval News",
@@ -85,12 +91,6 @@
        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUFVCVzE4cHhnZEEwdktoWDRXaHRLZDlPWFZIeXd6TlJmbFFybVhWN3FEY2VYRmhxWlkwSVR6QlFRajZ5YVV6THhuTzZYOW9PMFJnMi1oWk5LaURPdEFBNWpYdHQxa2J0QXNrcDJfTkxEZy1La05QUFRJLUtlOWRjYTJYb0ZPSzJYdFZuVHZLcXFPRzFjS282RGNvQm5aQk5RNGozMFMtTmlBSkhEaExzS1c3XzlZVVI3NUpmSWZwdzcyeHczWFpwVTBwZEVFWlVPM21v?oc=5",
        "source": "Ocean News & Technology",
        "date": "2026-09-30T13:57:29+00:00"
-      },
-      {
-       "title": "Kongsberg Maritime to deliver AUV hangar and subsea docking system",
-       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWFc1Y1hXWkYtT1BISHVqdDc4LThzM1VsQ0pNd25nZlN6ZXF4NFVDT1NKdFVkUHMyT3lBNjlMeGc5V05ENWhva2lBb2hwWE15b3NrWXpPNTVoVnFhV2RQUVU1ekJOdVAyNVdhdFA2TGVMX3FvWVg0QnRwaElFR0xia1kxaTJpVS1lZlNNTHZEblRNV01HRmNUUDBFdjdhWEpGdkJES2tFa3kyUUMzX080dGFPb0hHODV5dlducDJVbTRmV1k?oc=5",
-       "source": "Maritime Journal",
-       "date": "2026-09-30T07:00:00+00:00"
       }
      ]
     }
@@ -130,10 +130,10 @@
        "date": "2026-10-14T10:21:05+00:00"
       },
       {
-       "title": "Which Precious Metals ETF Is the Better Buy: abrdn\u2019s Silver SIVR or VanEck\u2019s Gold Miners GDX?",
-       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPdHRER253bHBSM3VUT0VRSGFXNEdMZUZESmNxVDNfLXJmRmJWYXhSRkJGUDhqZ210NmVqYU1UdVpBajVDWTk0a2RTT3Q5MmFlTGp1OUZzX0dwWWluTUtCSm8tT1RUeGJvYnRfV09ZaWpKV3AwU2h2aHVWdG5GZnZwTjdqR0xtWlJaOUlJS1B3c1J5OGpZQXR2QXNaVkdPcmZjNExBWWV6MHdwMnBxRTNCVXBEYllPV2h6Sm9nU1p2Nk9pdEFpS3VWTkU2cmlJRno2ZmxZbDBCVzBxQmJCWXlpVjUwYXliOGlXUmhpSnpVbW5kSzY1dDhtS3V4NlZpMHZTaDBrTzB3?oc=5",
-       "source": "The Globe and Mail",
-       "date": "2026-10-11T23:17:14+00:00"
+       "title": "GDX Vs. SGDM Is A Draw, Gold Miners Are A Buy (NYSEARCA:GDX)",
+       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd0pJYktfcjZ0Z3gwNjBJeV9aTE5ESjczNXU5S1Ftanltdm9RY2dVbkdHbEtvSWpEdEVNWXFtaXlaU0V4UVNneEt4UGYxYmQxa1IxMmwxcndGM19zOXh6NTFqQ1ZoTzdEMHBUOS1FTUJCMmdUQ1ZYQlJwTlRkWGJtN3VBN0xtc2ZTZjJZVw?oc=5",
+       "source": "Seeking Alpha",
+       "date": "2026-10-12T03:57:34+00:00"
       }
      ]
     },
@@ -354,9 +354,9 @@
        "date": "2026-10-16T02:23:36+00:00"
       },
       {
-       "title": "Mercado Minerals Signs LOI for La Franca in Zamora, Sinaloa",
-       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPd1EtYm5rNzRfczdXemFPVm9hZWRiOFZCZ0pieUxibnVBMTZ4Sk1Fa0d0MTB5aHFRQlFvT092WXFuU3RORlF6Um05eVIxaGM1OEllU0dOb1A1SlRwajZfeWN1MmFkWmFPQzhZZ3dvS2VfNmVPMUJua2kwSEtNYW5waUl0TzZsdXdhOU0xRTB1aVMwYjM1RGc?oc=5",
-       "source": "Mexico Business News",
+       "title": "Millennium Silver Corp. Announces Stock Option Grant",
+       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUlpIUHlaZS14WENITUdjamR1VWt6SnlyOThRQmNMbjI5SG1PbkZXTXpMNkw1RVJNbzJlSllNUjdtQ0RXUXROVTd4ekpUYUhhSW9GNmtqNEdyX2pqRlNPYjB1S3ZnVUJmV0xyNWJSNERsdVZjQWVYc2lfSnJxaEl0Z0pFbHVudlA0ZlZZd1pGRHRaVTlCTXp5aGRORVNrdFRTUXFNSGJB?oc=5",
+       "source": "Yahoo Finance",
        "date": "2026-09-21T07:00:00+00:00"
       }
      ]
@@ -373,16 +373,16 @@
      },
      "news": [
       {
+       "title": "Guanajuato Silver completes tunnel linking San Ignacio and Bolanitos mines",
+       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTGo3S0R1UVMyOGNoa0R0VEtGcVlOM0hjZEhTRTNnV2lyRGU4QmJydTNfU3hBRzN5VHRldzR4OVExNDc2WFJMU2swU0FJaVI3anFBMU5KbW14MGRlVHZndk9GVF8xQm93TDBOMGprYlJoSGJrM09yM1o5SmIzZkRmc05tM2twWnJBR0lTWVRtQ2pPQQ?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-09T14:57:56+00:00"
+      },
+      {
        "title": "Press Release Distribution & Media Outreach Platform for PR Agencies",
        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVkFNMWotbDNYdkxleU4ydUczcG82WHNhbnB6dG1SZER3eDBXV25ZTVBvV2JKbkJnUXZGcnlyLU41U1VpenA3ZmNKUFNGWTlUNzV1WUljR2UwYVpMMlFEZjR1TXFUcGVGNWtLclYxS0dHWUtFX2dtbFoxeENHcVV4enlQZ0RNeXE5RlJhSDg3MW9DY1N5dV9hWHZuVVUzS3RRaldRWXRSTHBnNkhMSWtISzlMNmV6R0lyd3NOVzJGdEtQUXBtWmtJbXg0dzBycnUyM0FUaEZn?oc=5",
        "source": "ACCESS Newswire",
        "date": "2026-10-08T18:33:32+00:00"
-      },
-      {
-       "title": "Guanajuato Silver Company Ltd. (GSVR) Options Lourdes Project, Gets Cash, Shares, 2% NSR",
-       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdzg5a1I2R2JUQXJsUktKUUxxMWtnbl9WN001ZlhXTXFPZmZNMkk4TngxWldYaVozNnFQOUVVQlltRkF3enhmNC1vRkpmZ3V1RjQ1eEJtNDNpa0lkLVVVU3NhVm9HdDdsVEJTWjNabnk3aW40R3pJZjRWZWxpZ05tZFpRbUJTb2NMUk5kVFNNcXRiTC1OWTI0X1pOZHNWMGtOQnJDNlZIZlp4NG9Nc0Fhc0hmSF83c3Y5MVBzWE4yT0pCZHVaOFVSNkw0MUp0VlRDOFFOeE1DaW9nVFU?oc=5",
-       "source": "TradingView",
-       "date": "2026-10-05T11:20:00+00:00"
       }
      ]
     },
@@ -568,10 +568,10 @@
      },
      "news": [
       {
-       "title": "Microsoft Stock Had a Monstrous Rally After Its Last Earnings. Don\u2019t Expect It to Repeat This Time.",
-       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV1dCUFFpdGRJQUQ3VDUzai1iS01XWF9GeGdfYVFGNWpHcGxCUThqRmtuZTRjSXpTcWZFcF93elZkd05PUzhsbFM2Ymc0N052U3h5NUdEeW5DLUJOeFV0Q2RRQkNDMXdpNkk5YVh5eWpFWkk2elM5N1g1Q0VJQUN3ZnA1c1oxanhCUkxBUnNKRWdzVTcwR2p2YThhaEt0QjI4Y3c?oc=5",
+       "title": "What Is The Biggest Threat To Microsoft Stock?",
+       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeGpuZjBOLXhac0lneUlFYVJ4c2g4WTU2dVhyRUpaSV9aLWMyV0JCMW9kWEV3MXFrRUxIQmFoU19RWkk5TUtRLUhnR2YyMzNNeTlSb2dCNS1UU1MzLUNrRWlSZm53ODdCc2VUbjcxdklqdmtwSUZrS3NoSjN0STV0YTdHV1lNUEZkR1p3Q1J1LUt3bXBxaUFKMGVMWQ?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-10-16T13:44:40+00:00"
+       "date": "2026-10-16T15:43:27+00:00"
       },
       {
        "title": "How Earnings Beat Will Impact Microsoft (MSFT) Stock",
@@ -618,16 +618,16 @@
      },
      "news": [
       {
+       "title": "Apple and Alphabet Are Especially Scared of a Blue Wave",
+       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbVFlaGRpYjZRc0hJWHJXbWk0TEhLUUpBUkVVY05HRXZPNXhSS0tXaFZDd05DRVRVbElKRVVLeFh4ekFxSllvXzZkM0JoanhYSlBUWXM4cXNpVTdXWncyMlJVUWpka1NzNE1VdVhVRTBOS0Itd1lqVjhfeEpTNzh2Z19HaDJDUjVrMlA5Xy1OOHhmblQyS1AyejhERU5laEVpd05Meg?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-16T16:45:27+00:00"
+      },
+      {
        "title": "Alphabet Stock Can Soar 22%, J.P. Morgan Says. Why Google Can Defy AI Fears.",
        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE91SExKR1JKUTMxSEpGTGxMYkRCX1ZIQ0wwd25pcEJVZ29pc2ZRdlZqN2N6ZHZYdWpVRV9TQkRKUGFwZk4tZFlPMmNQVHFUc25XRTd5YU9QUHVGTm5TQmpRczBYN3ROVjNnUGVQblg2akJKYVJTcG9RQnNLaUY?oc=5",
        "source": "Barron's",
        "date": "2026-10-15T17:48:00+00:00"
-      },
-      {
-       "title": "Can Alphabet Afford Its Spending Bill?",
-       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWEQtQXFEbEVKN1hlYjRGQjI4cnJxWU01ZHZick1jQWNNbTNxbmgyWjU3dURfWHkzMWp6QVFWdlI0S1AtSklmQTYyX2E1ZkIwWGJ0aWVwQjV1SHNLOXpkM2VIZ1k1SElzVHJJS3lJVE9IeW0xbElpcTNpUzU0d0R0bi1zMFptOEtMVDN3YkFBRHJNOW5IcXR5dWJ3?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-15T13:48:55+00:00"
       }
      ]
     },
@@ -643,16 +643,16 @@
      },
      "news": [
       {
-       "title": "Amazon Is 11% Below Its High Heading Into Earnings on Oct. 29. Here's the 1 Number That Will Decide What Happens Next.",
-       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSHFSSEl6Z1NIcE5NbnlWZHpBU1kwUzJtS09ERl9WZVBkU2p2S2xsdkYzRGVOZC1jQ24zeEp1d2U2RjBRNlE3dTE2R2gtaEZ2YmE0U0ZQdTlaV3hNWUdlclYwa1I3TnZZUGVOREJ4enJyTjEtVlhlcVI5VDhKQ2hVQ2xvLXhGR1VSQ1hNZkJlYmFaZThpSlNXcQ?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-16T17:30:00+00:00"
-      },
-      {
        "title": "Wall Street Agrees on Amazon and Can\u2019t Agree on Tesla. The Targets Show Why",
        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ2tySzBQeWxvR3RMY1Y4V01nMERkcTNfbzZ1dGxSeWFua0RzNmNPQzgxb3E2MTR0MWUzV080UXl0ZklhS1drU254MXFfcjlxNEw4blduWm5rZHJYUm5QNllSTV9uY0ZvSmhEMkZ4UkZPVkgzVFEwV1Z2ckR1dzNqc0ZhSUU4RjlIQ2RpTHZ5NG5Yd2ZKbDRJ?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-10-16T12:45:36+00:00"
+      },
+      {
+       "title": "How to Play AMZN Stock Amid the Latest Round of Amazon Layoffs",
+       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM2U5QUtrLVN1YkEwWm5ScHJNU1VITWhJZ25MbHBoZ1g5bVFZMThiYkxKRGNYamRiQW43YzExYlZwSzdoRU1UTnkyVzNLRXZmcnozVmNpUzFvblpIVER2MGJWbHFhbUJ6ZlVaOEZQb0RZVkp2U0dhOTgyTnFKeC16MklSZWVWaHVDRnYxaDFvRllCSHo0czFR?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-15T21:27:15+00:00"
       }
      ]
     },
@@ -712,6 +712,18 @@
  "failed": [],
  "general_news": [
   {
+   "title": "Friday's Market Volatility Spike May Have Gone Too Far (SPX)",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLVBpODRCV1VEYUxjM1UxQVlrUjY4TTdZRno2bmkwZURPcmZfbS11SzFiVDIwbGlCazFNVGcxTHNmMzBDS0hFNlpfaGVQTnJNMzBNUGhsaHgyRGsyNlEzR0Zid01PSXVWQ2VUWDc2Q1pEaWhRbU9zNnpNWWxCQjA0SkFpREdTZ0FsN09vLWFZQjZUdE9neTByTEhn?oc=5",
+   "source": "Seeking Alpha",
+   "date": "2026-10-18T13:55:00+00:00"
+  },
+  {
+   "title": "Michael Burry Warns Stock Market Could Be Months Away From A 2000-Style Reckoning \u2014 \u2018The Preconditions Seem Set For Fireworks\u2019",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaFZJeXlDdUw0YWZkS1FydWpoWWx2VWo2cWN2Wmw0VXM5YjE4Ym82a1RpdTNkOG1INUU0VkNoX01RNHFZR2lIakUzS0UxRDFhZkUydzN0Rnhlb1pNUUVxNm1mQm5IY3R1ZDJ6YWFmUmpHdWQ1cVdJNmE1a000YkFhYXdpNkp5UFhIUUZXdG9OeUx0cDNlajJDakZvZVhNQQ?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-10-18T13:04:04+00:00"
+  },
+  {
    "title": "The Data Center Doomsday Scenario",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tdkJFMTFGMmF5a0FzWDhmYWhvcmcyUkRlMnlZclhIRHlIV2lRaGNDR0xkVGlVZEduN1hJMmNQb016RnJIak9BREcwT3hrdy1ucGh2cVlQVWlUeFJQd1ZtTnF5czhKbktsQnltODEwdkVSN2Q3bzg2RUk3a2hBQ0E?oc=5",
    "source": "Seeking Alpha",
@@ -770,18 +782,6 @@
    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdUhBaVhQQmRuejNmRTJaTnY3bTlPZXdGaG5zc3VBUk10S2NLSlAxZmtqaGM1bnBJZk9zemhHRnltZ0EyalNDRW5XLWVScDE0R2NraFFLb0pra19RTkwzbVBGRi1zTEpkTU1uanJMTWVDXzllZmhJLUVoZXFkU3RxS2VldmZKSGl0VUU3OTgwNS14SVotX2hiUWFMZGZrLU1LNEsyek9VMGJpODdMMU9aODQ4eDU2MndQOHJudW84RlFRMk5jMHZpTHJ5YW9FbzZCaHZIOVFJQjlDY2lIZVlqc1RCMUdLVnRydHhMNw?oc=5",
    "source": "The Globe and Mail",
    "date": "2026-10-16T06:35:00+00:00"
-  },
-  {
-   "title": "Atlantic Sapphire Applies for Delisting from Euronext Oslo B\u00f8rs",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQU5EYWZtVUw5dVZCQ2Q4aUhDOUE2bldKSU1kREdaUnY3bTFVSGJMdHJiVno2MzJSc1lnelR3M1pEZUdsNXVrVm1nV2JIS1dEVlNtb3YwUF85U0xGbkRVNkV6NkMzZXRZb1ltVUZYZGxLLUM3MS1FVk9VSVllalRGZkFqdUkyelBlRV9iZFVHbHl3S1pxNlhtWWJKN0JTNTdQR3Ayc0FneE1xMHh2YVM4Y1FFVEtxbms?oc=5",
-   "source": "www.marketscreener.com",
-   "date": "2026-10-13T08:19:21+00:00"
-  },
-  {
-   "title": "Atlantic Sapphire: applies to leave Oslo stock exchange following takeover",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcV94Z19kM28zRnBvNEY0YVV4Y2RNaXN5ZWtRUnJuR0RhTWNjakpNdFE0N3RMWEZvNEJsa1duS2NEMmZWOWV3aUhEM2lERU1hdnMxSVlBTk1WMWFQZ1BUbjBFM2RxUzBJR2tNZktmSUJFTXpyby1GQ3lvOXdxTkhTMU1ZT1lnczBDR1RuMmR1S2s5c1JRODlUcjZqWHp4WlVTTFdQVXJ5MmM?oc=5",
-   "source": "Salmon Business",
-   "date": "2026-10-13T07:43:09+00:00"
   }
  ]
 }
