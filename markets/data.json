@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-18T17:44:05.561396+00:00",
+ "updated": "2026-10-18T18:24:17.403816+00:00",
  "usdnok": 9.41349983215332,
  "btc": {
-  "price": 81057.2265625,
+  "price": 81022.46875,
   "prev": 81382.1484375,
-  "chg": -0.39925448177315914,
+  "chg": -0.441963863581496,
   "currency": "USD",
   "asof": "2026-10-18T00:00:00+00:00"
  },
@@ -118,6 +118,12 @@
        "date": "2026-10-18T07:37:34+00:00"
       },
       {
+       "title": "VanEck Emerging Markets High Yield Bond UCITS ETF A USD (HYEM.MI) options chain",
+       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaTlEtZmxFeXRlODFTcVpWNHRXem5RV2ctNl9rZ0NpQnRrMWZZWkJYVkFsRElDOUYtWnpPNWFjMUQ0LTZVdThWRk84b2pwMTduMkRxREdEUThMYmJ2RzYzMg?oc=5",
+       "source": "Yahoo Finance Australia",
+       "date": "2026-10-16T12:37:50+00:00"
+      },
+      {
        "title": "iShares SLVP vs VanEck GDX: Which Miners ETF Wins",
        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU2Y2Z1M4c3l5RXc2RTRGMVl1YUtVY0Znb3Y0ZnNkVE5IaVE1LXF3UG01a0pCNjZfRTZwWUZhR0dEWnc3WFFUbWRnY0M3bk9WdlRhMFBFcXBIMVhtZlpvb0U1VGRrMWtaal9jWTVqMXJSdlJQekNPVmZTcTV5RDh3b3hGenZRMUNBY1VLUzJnRUxiS0dSQ2w5cWtlNl92UFBDdjhiSVJ0UXFTSDl0N2VmNlgyZ2Z1dWVyRTlzQmlIWlgtT3FqblE?oc=5",
        "source": "The Globe and Mail",
@@ -128,12 +134,6 @@
        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd0pJYktfcjZ0Z3gwNjBJeV9aTE5ESjczNXU5S1Ftanltdm9RY2dVbkdHbEtvSWpEdEVNWXFtaXlaU0V4UVNneEt4UGYxYmQxa1IxMmwxcndGM19zOXh6NTFqQ1ZoTzdEMHBUOS1FTUJCMmdUQ1ZYQlJwTlRkWGJtN3VBN0xtc2ZTZjJZVw?oc=5",
        "source": "Seeking Alpha",
        "date": "2026-10-12T03:57:34+00:00"
-      },
-      {
-       "title": "Which Precious Metals ETF Is the Better Buy: abrdn\u2019s Silver SIVR or VanEck\u2019s Gold Miners GDX?",
-       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPdHRER253bHBSM3VUT0VRSGFXNEdMZUZESmNxVDNfLXJmRmJWYXhSRkJGUDhqZ210NmVqYU1UdVpBajVDWTk0a2RTT3Q5MmFlTGp1OUZzX0dwWWluTUtCSm8tT1RUeGJvYnRfV09ZaWpKV3AwU2h2aHVWdG5GZnZwTjdqR0xtWlJaOUlJS1B3c1J5OGpZQXR2QXNaVkdPcmZjNExBWWV6MHdwMnBxRTNCVXBEYllPV2h6Sm9nU1p2Nk9pdEFpS3VWTkU2cmlJRno2ZmxZbDBCVzBxQmJCWXlpVjUwYXliOGlXUmhpSnpVbW5kSzY1dDhtS3V4NlZpMHZTaDBrTzB3?oc=5",
-       "source": "The Globe and Mail",
-       "date": "2026-10-11T23:17:14+00:00"
       }
      ]
     },
@@ -311,14 +311,14 @@
      },
      "news": [
       {
-       "title": "Is First Majestic Silver (TSX:AG) Driving Fresh Mining Interest?",
-       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdWZuYmdFVnN6cGdJQzU4aU5CbnVsd21xNm5QRlV6OGZlcFlZUV9iR1A5QVgxSkdEYzdlbDR5OWdhWG5OZ3h3VS1EQlF1SExkU2FYSGRjOGo5Q21xZHZTRjIwTVdRZEQydl9IMXc0Zkl6VU56Si1jTEpnN3Y2M196QmVvRjhNUUt1Y3ljLUoyZVJrcEh2NDhJNmRmNmdIYjN1a3c?oc=5",
-       "source": "Kalkine Media",
-       "date": "2026-10-15T17:28:00+00:00"
+       "title": "First Majestic Silver: Buyback Kicks Off as Mexico Tax Truce and Output Hit Collide",
+       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNcEUwRzRBc3lBZTMzSHhrQWZ1WEVrNDhJZW9KeWZyY2FyMDA0NmdIU1VISHQ4bnNXcElCS0tqeEdnLUxHMUwyRW56TWxhWUhmZF9PS0JtbS1jc1gyZFFKUk01b3RuTzdMSkoxT0Z0Z1dndlJJOEVTSmsxWF91NnFDbUdESTFSYnRJbUlxWmp6dW03SFdsY3FfajJtaER3ek50X1pfMkNKblluTUEwcXZmLS03dVFmbGw4d3pyVFRrWnY5UmxFaENjT2JNalNpV0ZwYUYxeE5tb3hNWVFfQmtudzNHeU9EQVI1SHc?oc=5",
+       "source": "ad-hoc-news.de",
+       "date": "2026-10-16T00:40:58+00:00"
       },
       {
-       "title": "Is I-80 Gold (TSX:IAU) Becoming A Gold Stocks Watchlist Name?",
-       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ25VMFZRUDBDWVR6UFhZOGN4MHotVUQ3RERsaEx6dWxVaE1lX1ZGYmhwQUlyMkM3S1hGM0FoZ2tBX0ExWlpZNjc3bUd4TjVwUy1ZaFRteEVadHEzejBnb0hPN1kyOGlwS25COTNGWDNPOUNBZ2VHOVFUNmRxVjcwMFU4alBsaURUNDBzZEZCcGxxSzZjM3dmamw1TVR2UQ?oc=5",
+       "title": "Is First Majestic Silver (TSX:AG) Driving Fresh Mining Interest?",
+       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdWZuYmdFVnN6cGdJQzU4aU5CbnVsd21xNm5QRlV6OGZlcFlZUV9iR1A5QVgxSkdEYzdlbDR5OWdhWG5OZ3h3VS1EQlF1SExkU2FYSGRjOGo5Q21xZHZTRjIwTVdRZEQydl9IMXc0Zkl6VU56Si1jTEpnN3Y2M196QmVvRjhNUUt1Y3ljLUoyZVJrcEh2NDhJNmRmNmdIYjN1a3c?oc=5",
        "source": "Kalkine Media",
        "date": "2026-10-15T17:28:00+00:00"
       }
@@ -334,7 +334,14 @@
       "currency": "CAD",
       "asof": "2026-10-16T00:00:00-04:00"
      },
-     "news": []
+     "news": [
+      {
+       "title": "Defiance Silver Corp (D4E.DU) Latest Press Releases & Corporate News",
+       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UODNIWWJMMzhNME11OGhlS1RUdU5OWXA4UmVtNkgtYTVpSjVBejJSR1RoTTdHODd4SUNtQ01uOGllWlhKZ3paaGNjajFQdTk4aFpDNHBCb1JlbmQtZ0lFQXQwTHFmNy15?oc=5",
+       "source": "Yahoo! Finance Canada",
+       "date": "2026-10-04T10:28:46+00:00"
+      }
+     ]
     },
     {
      "symbol": "GRSL.V",
@@ -354,9 +361,9 @@
        "date": "2026-10-16T02:23:36+00:00"
       },
       {
-       "title": "Mercado Minerals Signs LOI for La Franca in Zamora, Sinaloa",
-       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPd1EtYm5rNzRfczdXemFPVm9hZWRiOFZCZ0pieUxibnVBMTZ4Sk1Fa0d0MTB5aHFRQlFvT092WXFuU3RORlF6Um05eVIxaGM1OEllU0dOb1A1SlRwajZfeWN1MmFkWmFPQzhZZ3dvS2VfNmVPMUJua2kwSEtNYW5waUl0TzZsdXdhOU0xRTB1aVMwYjM1RGc?oc=5",
-       "source": "Mexico Business News",
+       "title": "Millennium Silver Corp. Announces Stock Option Grant",
+       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUlpIUHlaZS14WENITUdjamR1VWt6SnlyOThRQmNMbjI5SG1PbkZXTXpMNkw1RVJNbzJlSllNUjdtQ0RXUXROVTd4ekpUYUhhSW9GNmtqNEdyX2pqRlNPYjB1S3ZnVUJmV0xyNWJSNERsdVZjQWVYc2lfSnJxaEl0Z0pFbHVudlA0ZlZZd1pGRHRaVTlCTXp5aGRORVNrdFRTUXFNSGJB?oc=5",
+       "source": "Yahoo Finance",
        "date": "2026-09-21T07:00:00+00:00"
       }
      ]
@@ -404,10 +411,10 @@
        "date": "2026-10-09T12:08:00+00:00"
       },
       {
-       "title": "Silver X Mining Stock Slips as Profit-Taking, Silver Volatility and Expansion Risks Pressure Momentum",
-       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRURqdjNGX3Nod2FHOEFtdHg4enIwSjVaTkZfa0lFdjc0cjlBdFo0czhhYTkySGNKYzltRExhNFhWLVZ2eENhWmYwMHhSeHp5Ujg2QWtscHVNRXVfWEV6YmdJc3VvcmdzR0ZINU5ZOWtDeGZJZk5zUVBVdjFrdG5Ya2xUYTBBOU9ScDhrcWNYalJXSHRreS1tWTdZS0hTdnRHbGtxNm9EZ095QTRmaGF2bW9LanhURm1INVhuZnpQbF9jdWFzTXowQXNrMA?oc=5",
+       "title": "Silver X Mining Stock Surges 6.90% as Resource Estimate Nearly Triples Silver Exposure (TSXV:AGX)",
+       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORnIzOXlBQkIyWHU4SnhnTEdtV0VBYWplNVJjeTdLekpONEYzNUVyaVlNWWhWeXRFcEhyTjh6T2ZfTzczVEFjWlFtR1J5dTJCb2tDb3BycXVKb2gzcUtFbF83Qlhwbkx2RG5XT3dSTktWNUw4a01zcHFLc0VxdmZaS0Z1S3lwX0ZUU0ZJUU1uVm5RdW4zZ1hzNzZYclZUbmhRR0ZYclZ6aWFTejlOMUxQU2trbkUwNWZETjV5bkdnclQ?oc=5",
        "source": "kalkine.ca",
-       "date": "2026-10-01T07:00:00+00:00"
+       "date": "2026-09-22T07:00:00+00:00"
       }
      ]
     }
@@ -593,16 +600,16 @@
      },
      "news": [
       {
+       "title": "TSMC Says AI Chip Demand Is Still Far Above What It Can Supply. That's Why I'd Buy Nvidia Stock.",
+       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPT2JhQVVYRlR0dWIxZjBLVVI1eEM5bWF0UWU2LUNtdXVZN19vVTJlTG50Rk9YX3hNSzdMTUxKNTBCYjFXR1FRT1pBSFBlVlBBQ3dwNmJIcTRiSGQ2QXZWRGdfUWh6YnF5RjFOcjJkMWZseVpZeDltTEdJVUJTSE9xMm1wVGQyNXdTQU9UUGpBdC1qZw?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-17T03:17:00+00:00"
+      },
+      {
        "title": "1 Obvious Metric That Makes Nvidia a Top Stock to Buy Now",
        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTkU3S24zUXVBZEFrZEhJdEk2UU1OZ29BZHJXS0xyOFBRY2ZRdXdITjIyaVo3X256cXJmVHZUVUY1MGRhTnZZdERoUG5OMEI3UDFFVjFGR1ZTUVEyOTI3VEpyQmFnODgwUXFCQzlNTkQtQmlxTGI5RnhUVGF1cEVocHpzcnJ2VUs0WmhXWmdCY1cxRDljN1JwV21R?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-10-16T23:04:00+00:00"
-      },
-      {
-       "title": "Why Nvidia Stock Can Defy the Broader Chip Sector Slump",
-       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PVVcyTUpzN3dWbVBTZ3ZmX19KNHc1UFoyUm9JeGFfa01DWXA3Mkh3VXNtMFJ1ZTZNU1BFN3EzbTk5SnR1VXU0NERRRHlwaW5hSmMxdnhJN0t4cTNNVlNXdG1Wbjd6TG1KMVRONkYtRmY?oc=5",
-       "source": "Barron's",
-       "date": "2026-10-16T16:23:00+00:00"
       }
      ]
     },
@@ -736,6 +743,12 @@
    "date": "2026-10-18T12:00:00+00:00"
   },
   {
+   "title": "This Market Is Rotten Under The Hood - I'm Making These 3 Moves",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUWtNRGc3dVlxTW1NVU5IbFFGcmtldWR6OXlMWVhha2Vaa1JONlhmZC1KOVliNzBwMDFmaVZRaTlpZFMyNm9GWjZyNzFUWXljMXU4ZUxzTllfNlU2dzhJTzNyRWRLd3RwUURqQ3ZLVms3bDFMdnJQMlozV3Y3N1c4aXJMY3YxUWFHVm1FSGFabUp2UVFVR2NVQXZkY0tidEhJeVBF?oc=5",
+   "source": "Seeking Alpha",
+   "date": "2026-10-18T11:30:00+00:00"
+  },
+  {
    "title": "We Just Witnessed a Unique Stock Market Measure Do Something for Only the 4th Time Since 1997, and It Offers a Chilling Outlook for Wall Street",
    "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQYVFYUmFtY0VvS0pzMkVwNGUzS2Vmazl1YjZDbDFZSk11ai12UnQ0Wmp3TFlxcmctZUtNaXc2UEpxN1IwOHVZblNpNWlTRXZoWlNuVFB1YzFTbl8xU292U28ydllYdWdlWXJ1T1ZnUTZtbno5c3hCT2xmcUFRS2xZbzJPMThHUEJZTVNsWG9GWUZBY1JXaG9XR0w5VlhaZ3ZDSXlDZXZKellxVFl5aU1kUDBNaUFjZVlXZU4wb01uZ0pad1hWXzJHUUc5RHByOTRVdFdiQlMzR3dhYmRmTXlQdFd3YTlXUVh0VzBfWTA4Szl3Qm5nLVZNdVJIeWRhZk13T2xwQTRTWEdIbWtRR0N5S0p3RGtTZVh6VzZQMDNWRW15QWt6OE5lSHZWNl9MM3gxRGV5N3U2Z0dzTXNtSE52SDdzRnRRVlA3V1Y0?oc=5",
    "source": "The Globe and Mail",
@@ -758,12 +771,6 @@
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTnJFMVA3MVFBOGhpMU5YazZiWDVtNGFtNlEtOGVMY2U0a2k3ODhNNmttQ3dvRWNlTFVCbU1UXzV3YTFHeFNoY3MzYVlVbXdfM180d09ITUdZZjBoTmctcjZNeE1iLUtxZThxZnVtYV9OblVWMEYxeTA2UV90WmVFd1d2MHdDMXRndzlOeEV4aUE?oc=5",
    "source": "Yahoo Finance UK",
    "date": "2026-10-17T11:43:00+00:00"
-  },
-  {
-   "title": "Major earnings reports are due next week, but strong results may not be enough to quell market fears",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMDB5eUJodTlUZTZQNzNYdFhCVWFOWUdRZk5ENkFRNll3OEE0RjJkb0tMUzZRMkJYNktERG5pN1ZmR1JTUW1FczQ0UmQwSGRza2xUeUsyTndRajd0aVU3dXRTaE1nVkFKalpJZm9yMVVNWUJpYi1vUGp2VEJwQl85dmNzY0ExV015MGc?oc=5",
-   "source": "CNBC",
-   "date": "2026-10-16T19:39:38+00:00"
   },
   {
    "title": "Regime Change: Bonds Pricing AI Bubble Burst And A Recession",
