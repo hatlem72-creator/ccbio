@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-18T13:12:46.679098+00:00",
+ "updated": "2026-10-18T13:47:34.586675+00:00",
  "usdnok": 9.41349983215332,
  "btc": {
-  "price": 81814.203125,
+  "price": 81407.6171875,
   "prev": 81382.1484375,
-  "chg": 0.5308961434359327,
+  "chg": 0.03129525392113752,
   "currency": "USD",
   "asof": "2026-10-18T00:00:00+00:00"
  },
@@ -69,12 +69,6 @@
      },
      "news": [
       {
-       "title": "What Is Drawing Fresh Attention To Kongsberg Gruppen (OB:KOG)?",
-       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQLXJob2ZYeV81SEdoakZ5RVRGNFhSVklJY3ROZGZaNGtFVHFfTU5ldFZiZm5qMllyZktaMXZ0TWx1elA3VmZGcWUxNERKZDYzU1o1SU5OdFk0QUxtQklSOG5IY1Nnc1ZNVnJObldBNHQ3R3FZZktEa3cxUi1CWmJFaHUxSExwMkRLVTJ0b1lNVkh5UDN2dlZicUhySXZpN1RnOF9ZN1JlV3FQUVYwX2RocUR1SDNtcE9HN081OGVhRERXTlpTTEhRMVVuQldraFktYjVrNTZCZXfSAd4BQVVfeXFMTVpLc0QtajNILU92WG9TMmJCOHVzNnhVd3IxZTY0ZmVpaGhkVUFqc2FfOV9WdnByWnFJTWljNjdjVktRV3hRN2hESENXYjh4cnZ3aXVIX0c5WXBpVHQ5amZTeFBFVHBIaUl4WUFPV0JpTHRTcHNpRDRFdXdEcHQ1NUZNYUN1N3U5Z0NFNVpIVVBNVVhUb014YlkyZHR3azNRZm1mU3o5OE04MG9XMzlZWFUwV0l0UnliU2F2RlZOaGhYX3FtdjdRaGdwRkFBblZXdmlYeFVwajItT21GbUpB?oc=5",
-       "source": "Simply Wall Street",
-       "date": "2026-10-06T14:41:27+00:00"
-      },
-      {
        "title": "Kongsberg Signs Waterjet contract for Indian Navy\u2019s Next Generation Missile Vessel",
        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNc3p3Vkg4M3BvUkZJTG1ObWRSQTM4czJZbFBYMFBqNTBhd2dsVHZXR19JUDhKWU9CSnVxQVhlVWVfZ05yXzJiYnBEUXRweTJtX0MtdExYMzIwVVNTeGFIQVJrRFY1cHA5U1h6b0lYME1TRXp5d1hXZnctRG4yVkpnLXlCTmhNMno1eVFvNmRPWjIwNmFsWEtlRU83UnlFT0d6ano3dEw1aXNMc0dXTkJsUERPQnV0M2ZKVVdDYzFDajhPS2hTTFE?oc=5",
        "source": "Naval News",
@@ -91,6 +85,12 @@
        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUFVCVzE4cHhnZEEwdktoWDRXaHRLZDlPWFZIeXd6TlJmbFFybVhWN3FEY2VYRmhxWlkwSVR6QlFRajZ5YVV6THhuTzZYOW9PMFJnMi1oWk5LaURPdEFBNWpYdHQxa2J0QXNrcDJfTkxEZy1La05QUFRJLUtlOWRjYTJYb0ZPSzJYdFZuVHZLcXFPRzFjS282RGNvQm5aQk5RNGozMFMtTmlBSkhEaExzS1c3XzlZVVI3NUpmSWZwdzcyeHczWFpwVTBwZEVFWlVPM21v?oc=5",
        "source": "Ocean News & Technology",
        "date": "2026-09-30T13:57:29+00:00"
+      },
+      {
+       "title": "Kongsberg Maritime to Deliver AUV Hangar, Docking System for Inkfish Research Vessel",
+       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaWZMWFlSSE5Ja01DdkpXZzAxNWNUVHJrek02Z3FONlIyaVZoZ1E3b1MtTlhvVlMtMDdBYU0zLUJza2Q5TUpYdG1MSmJvNG15SFoyZTdYR1FiMUw2eEJ1YzR6YVZzeUxhQzZtMllZUnluRThjcnpiNE9USEI0T0V2dkY2UmlGY0JNNXc?oc=5",
+       "source": "Marine Technology News",
+       "date": "2026-09-30T13:11:50+00:00"
       }
      ]
     }
@@ -354,9 +354,9 @@
        "date": "2026-10-16T02:23:36+00:00"
       },
       {
-       "title": "Mercado Minerals Signs LOI for La Franca in Zamora, Sinaloa",
-       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPd1EtYm5rNzRfczdXemFPVm9hZWRiOFZCZ0pieUxibnVBMTZ4Sk1Fa0d0MTB5aHFRQlFvT092WXFuU3RORlF6Um05eVIxaGM1OEllU0dOb1A1SlRwajZfeWN1MmFkWmFPQzhZZ3dvS2VfNmVPMUJua2kwSEtNYW5waUl0TzZsdXdhOU0xRTB1aVMwYjM1RGc?oc=5",
-       "source": "Mexico Business News",
+       "title": "Millennium Silver Corp. Announces Stock Option Grant",
+       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUlpIUHlaZS14WENITUdjamR1VWt6SnlyOThRQmNMbjI5SG1PbkZXTXpMNkw1RVJNbzJlSllNUjdtQ0RXUXROVTd4ekpUYUhhSW9GNmtqNEdyX2pqRlNPYjB1S3ZnVUJmV0xyNWJSNERsdVZjQWVYc2lfSnJxaEl0Z0pFbHVudlA0ZlZZd1pGRHRaVTlCTXp5aGRORVNrdFRTUXFNSGJB?oc=5",
+       "source": "Yahoo Finance",
        "date": "2026-09-21T07:00:00+00:00"
       }
      ]
@@ -379,10 +379,10 @@
        "date": "2026-10-09T14:57:56+00:00"
       },
       {
-       "title": "Guanajuato Silver Company Ltd. (GSVR) Options Lourdes Project, Gets Cash, Shares, 2% NSR",
-       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdzg5a1I2R2JUQXJsUktKUUxxMWtnbl9WN001ZlhXTXFPZmZNMkk4TngxWldYaVozNnFQOUVVQlltRkF3enhmNC1vRkpmZ3V1RjQ1eEJtNDNpa0lkLVVVU3NhVm9HdDdsVEJTWjNabnk3aW40R3pJZjRWZWxpZ05tZFpRbUJTb2NMUk5kVFNNcXRiTC1OWTI0X1pOZHNWMGtOQnJDNlZIZlp4NG9Nc0Fhc0hmSF83c3Y5MVBzWE4yT0pCZHVaOFVSNkw0MUp0VlRDOFFOeE1DaW9nVFU?oc=5",
-       "source": "TradingView",
-       "date": "2026-10-05T11:20:00+00:00"
+       "title": "Press Release Distribution & Media Outreach Platform for PR Agencies",
+       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVkFNMWotbDNYdkxleU4ydUczcG82WHNhbnB6dG1SZER3eDBXV25ZTVBvV2JKbkJnUXZGcnlyLU41U1VpenA3ZmNKUFNGWTlUNzV1WUljR2UwYVpMMlFEZjR1TXFUcGVGNWtLclYxS0dHWUtFX2dtbFoxeENHcVV4enlQZ0RNeXE5RlJhSDg3MW9DY1N5dV9hWHZuVVUzS3RRaldRWXRSTHBnNkhMSWtISzlMNmV6R0lyd3NOVzJGdEtQUXBtWmtJbXg0dzBycnUyM0FUaEZn?oc=5",
+       "source": "ACCESS Newswire",
+       "date": "2026-10-08T18:33:32+00:00"
       }
      ]
     },
@@ -754,12 +754,6 @@
    "date": "2026-10-16T18:30:00+00:00"
   },
   {
-   "title": "Tesla analysis: stock falls after Roadster reveal fails to hold gains",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd1FsOU9SckktaTZPOFFjeGtzTEU4SmpOVksxTl9HWjhMRXR5bHlqRUhxSjZ0dVJTN1RwdGVETG1zWTR5dG5XSGdPcWRoZmUtZFY3SEtnS0tSUE5nM3B2alA1T0JRUDY2MVJna1hacnVBU3pTZkVrYlJMbVpSMWtTbnJBZ0stTWR6Qzg0TFlHWm91YU1DcE1vMS12U0Q1NUdEM2d4WURfRkdFaUxxLW53ejJ0Mzg3QUdtc3lLekEzNkoyS284Ymk3NWhR?oc=5",
-   "source": "Investing.com",
-   "date": "2026-10-16T17:44:34+00:00"
-  },
-  {
    "title": "Regime Change: Bonds Pricing AI Bubble Burst And A Recession",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRFRYSmZTX1IxSTBwU2p1U0hVc2Z5Q1NLR3RTb2VCNFEzWUFMdGJDSzJfQkdJQXp4V3JBbG4wV2hDVTJaZlNQSmswcFZwRzlUaEJMME1zTlFqVVlGbEtEUUdfNDBneWJMSVBlZ0d1Yi1BNG9HeEV1V0lHTlNzNERlVTVlaC1scWdCRnhqRWhTYTBNZGxRd3J5VWg3S2dadVF1V0E?oc=5",
    "source": "Seeking Alpha",
@@ -770,6 +764,12 @@
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU0V5blVtMWNkNndCMzl4YUx1QTZDcmlmZFBzbnZQZXpmYjRSdk5RSVZWckZTLUVrTVYtV1ZtMkJ5UVFNOHJHU0RRbHhFQ1hxMFlxTTBKMVdCMk9YaHAwZ056S3RFMXIwcDlWYWRaRmRkSzdkQlJKT1hDbU1kdlhobWRwSGxyRTV6TVcxVDduRXY3dTF5c1djLXRKdw?oc=5",
    "source": "Seeking Alpha",
    "date": "2026-10-16T11:50:38+00:00"
+  },
+  {
+   "title": "Otovo ASA: Approval of prospectus and listing of shares",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOajNaT2sxT2V0b3VRTkk1TklPcDI5WDNHcks2amQyTE9hSU1Va19TSm56NnNDbXBRMWtwT0lNNnlZRWE1ajdLWGlCOE1hUktzbU5CaXl3TE12TWY3VXFaa3NRbGJYcTlNWEVwbDdrVmFyS2h2YU9DUmN6WEhoUHppbExyVFNGRlNDdlpRMXJ3aFo2VEgzdk43Mk9wdE92OC00X1FSQXpnWF8xZmZVaTRpUDVNTzd3TnZqa1JuS1dIVTNuaDMwakhnYk5SOHNHaXNQVDFrU3ZBWUZEaHF1?oc=5",
+   "source": "Finansavisen",
+   "date": "2026-10-13T15:47:10+00:00"
   },
   {
    "title": "Atlantic Sapphire Applies for Delisting from Euronext Oslo B\u00f8rs",
