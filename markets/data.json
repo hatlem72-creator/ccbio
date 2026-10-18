@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-18T05:06:36.546515+00:00",
+ "updated": "2026-10-18T05:48:39.187033+00:00",
  "usdnok": 9.41349983215332,
  "btc": {
-  "price": 81682.0,
+  "price": 81608.796875,
   "prev": 81500.8046875,
-  "chg": 0.22232334170779744,
+  "chg": 0.13250444325558774,
   "currency": "USD",
   "asof": "2026-10-18T00:00:00+00:00"
  },
@@ -75,10 +75,10 @@
        "date": "2026-10-04T07:00:00+00:00"
       },
       {
-       "title": "KMAR: Kongsberg Maritime completes acquisition of Berg Propulsion",
-       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVko0OTJ2SXRWSXl0V3ZwMkozVUI2NkVKRUZnb3hNUkUyLTRrMHl1M19pV1dKcmNqakVQczNFRE1KODFJUUxHV1hoajBhc2RfOHVKd1k1WjNIdTJ0MC1DQ0VQUnlaM1lnSy1XQlV6Z3RieHlqQ2djSS1BdjBCWkh2WHFfY3l3UWxiZG9nek82d1RtM3M2cDZGU2ZPYjFUbHBFU0JfT2swUjFKSlJXNEJJR3phUHNyS25vWTl3M2EwY3RqMTlYbk5fclk0RnBTRmhFY1duYVh4ZmNQdnJLLVU1WjBURE0wUU9kSGc?oc=5",
-       "source": "Finansavisen",
-       "date": "2026-10-01T14:00:03+00:00"
+       "title": "Kongsberg Maritime completes acquisition of Berg Propulsion",
+       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQk9IUHIzRWdyd3FTSlpneEJVblNBTGRnOVJNbW5UT3lnUEhVaEpWbG9scE5PTTJtUnVKQWt3cmt1UGd6c252YWNlZnZjTDQ5MzN4bTJGRjc4R2l3TlZjLWc3RDhKSlhhNVJpOUlocDZlTUhNM2JMcDRlMTJDRy1rQ1NTTG5ha1RzbU1Hdm5yc0RBQ0ZUN1F0RjhTMG8xMjBhTkF6ZjVWX3BKNmY3Q0E1TExR?oc=5",
+       "source": "www.marketscreener.com",
+       "date": "2026-10-01T07:00:00+00:00"
       },
       {
        "title": "Kongsberg Maritime Wins AUV Hangar and Subsea Docking Contract for Inkfish Research Vessel",
@@ -90,7 +90,7 @@
        "title": "Kongsberg Maritime to Deliver AUV Hangar, Docking System for Inkfish Research Vessel",
        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaWZMWFlSSE5Ja01DdkpXZzAxNWNUVHJrek02Z3FONlIyaVZoZ1E3b1MtTlhvVlMtMDdBYU0zLUJza2Q5TUpYdG1MSmJvNG15SFoyZTdYR1FiMUw2eEJ1YzR6YVZzeUxhQzZtMllZUnluRThjcnpiNE9USEI0T0V2dkY2UmlGY0JNNXc?oc=5",
        "source": "Marine Technology News",
-       "date": "2026-09-30T13:11:50+00:00"
+       "date": "2026-09-30T07:00:00+00:00"
       }
      ]
     }
@@ -124,16 +124,16 @@
        "date": "2026-10-14T10:25:03+00:00"
       },
       {
-       "title": "VanEck UCITS ETFs Plc - Net Asset Value(s)",
-       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwblRPTmNTSHBPc3pSRnI3MXJON1c5aUxXVGZQU19ZVHowZXU0V3lSSUJSOG9ZRkV1aE1HSTBzRVpFdnlNQXlkWkphV0xSc0ZLVEhqTUVEZGhEVkE4amp0MWllVkdjNTJFaWU5UGRWczBxekozOUhXaWdjSUYyUzg?oc=5",
-       "source": "Yahoo Finance UK",
-       "date": "2026-10-12T06:00:00+00:00"
-      },
-      {
        "title": "GDX Vs. SGDM Is A Draw, Gold Miners Are A Buy (NYSEARCA:GDX)",
        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd0pJYktfcjZ0Z3gwNjBJeV9aTE5ESjczNXU5S1Ftanltdm9RY2dVbkdHbEtvSWpEdEVNWXFtaXlaU0V4UVNneEt4UGYxYmQxa1IxMmwxcndGM19zOXh6NTFqQ1ZoTzdEMHBUOS1FTUJCMmdUQ1ZYQlJwTlRkWGJtN3VBN0xtc2ZTZjJZVw?oc=5",
        "source": "Seeking Alpha",
        "date": "2026-10-12T03:57:34+00:00"
+      },
+      {
+       "title": "Which Precious Metals ETF Is the Better Buy: abrdn\u2019s Silver SIVR or VanEck\u2019s Gold Miners GDX?",
+       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNEFjU3hkT3hGM2hNcWtZaXNhV3g4N3B3QzY4WjVuMHVnckZGcHZqa0h1dzJjbVpta1AzWGp0Mmdva2ozWTdjV2xjX0w3X0pGd3FNajhiMklyUWEwbXl4cHAtUDBaNUlncFVvaElrN21QS0ZhMDF4d2VWek1LVGFFRWFBQ1h5MVE1SlUxV3ZlVlY0bWc1ck1DaTYtTlBlbHpEb09hcm5oa3ZMYm12Q1dsem4tV1RzTjFwX2xEdU5mYUxDNGFfS0dQWWNGNUNVN3hSSERUSw?oc=5",
+       "source": "The Motley Fool",
+       "date": "2026-10-11T23:44:00+00:00"
       }
      ]
     },
@@ -148,12 +148,6 @@
       "asof": "2026-10-16T00:00:00+02:00"
      },
      "news": [
-      {
-       "title": "AEHR Stock Price and Chart \u2014 NASDAQ:AEHR",
-       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAtR3FhNUVGRno5OURQSVF3eW5XUWFWNUVHTjJNbTZGT2Jic3NBTmtzWXI4UDg0T21PTjVNQWV4cWUtNm1FWjNQcGo4QUphQ241YnlxQ2hVVjl1ZTEw?oc=5",
-       "source": "TradingView",
-       "date": "2026-10-12T16:38:38+00:00"
-      },
       {
        "title": "ETFs Investing in Interroll Holding AG Stocks",
        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1Vb3JFSzZOQ1I2ZEJIRXBPYUl2eVhWQXNYNHZqQWg1QVEyUV9sLXpuRHBoMEJHb0x2bXlKMVEwN0wyM29QTkZJM216T29VWlp2TDlxbDFTUUMxSWNv?oc=5",
@@ -379,10 +373,10 @@
        "date": "2026-10-09T14:57:56+00:00"
       },
       {
-       "title": "Press Release Distribution & Media Outreach Platform for PR Agencies",
-       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVkFNMWotbDNYdkxleU4ydUczcG82WHNhbnB6dG1SZER3eDBXV25ZTVBvV2JKbkJnUXZGcnlyLU41U1VpenA3ZmNKUFNGWTlUNzV1WUljR2UwYVpMMlFEZjR1TXFUcGVGNWtLclYxS0dHWUtFX2dtbFoxeENHcVV4enlQZ0RNeXE5RlJhSDg3MW9DY1N5dV9hWHZuVVUzS3RRaldRWXRSTHBnNkhMSWtISzlMNmV6R0lyd3NOVzJGdEtQUXBtWmtJbXg0dzBycnUyM0FUaEZn?oc=5",
-       "source": "ACCESS Newswire",
-       "date": "2026-10-08T18:33:32+00:00"
+       "title": "Torex Gold Reaches 329,000oz AuEq Year-to-Date Output",
+       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQd01za1ZCNTRvRjVnNHFMMWtFNjhCQTRtTVhqeVJyV3hVaGdkM0ZHZ29Sbi1SSFJZVnE4QWxOdGhZSDRYYU1fOTZaMXBKZ1dvNUx0RzRKUGN3a1YtY0VJX1hmVFZScVVBa0U5Z2tDd0ZRaUpOQWNLeEltUTJyVnJhNWJ4MWlremVxTnpLdUVicWU1ZDA?oc=5",
+       "source": "Mexico Business News",
+       "date": "2026-10-08T19:16:23+00:00"
       }
      ]
     },
