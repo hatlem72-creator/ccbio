@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-18T11:44:40.767465+00:00",
+ "updated": "2026-10-18T12:27:28.772976+00:00",
  "usdnok": 9.41349983215332,
  "btc": {
-  "price": 81912.4921875,
+  "price": 81920.0625,
   "prev": 81382.1484375,
-  "chg": 0.651670864166598,
+  "chg": 0.6609730424026683,
   "currency": "USD",
   "asof": "2026-10-18T00:00:00+00:00"
  },
@@ -38,6 +38,12 @@
        "date": "2026-10-13T18:08:19+00:00"
       },
       {
+       "title": "Kongsberg to invest \u20ac45m in drone factory in Poland",
+       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVUtQbWtoMlRhVEJkYnZpRmd6M0FIdEtPZmtXWTF6c1FDaGZUN0VsVEw4VldOUG53bnFLWU16SnRzT0d3Y1R1RGtQNWtZQUFham81T0hwUG5NUWl3dVY2cTV0M3pfb3FFVUtGOFZHd0R2VG9zTzd5VFc2WExwQWtDUUJQdTRmbGhjMHFLdGVvaFdaX2hUR3daV2UtU2ZFVXFxLUJyTnBJemRpY2c?oc=5",
+       "source": "www.marketscreener.com",
+       "date": "2026-10-13T06:41:26+00:00"
+      },
+      {
        "title": "Kongsberg Gruppen : to build manufacturing plant in Poland",
        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb091SDd0b2JFNzRvZ0RnM0owWXpFVnVINFR2d1JaQnRsR1JfbXc4eGNmZHN4TUFVVmw5ZkQ5QjZhcHN2Sm85cHlKQldkUDBUV1NPN3hFdUlTMGNuQ1NISlBlRGZZQTlvS3RvMzZMZW04bXVrZEJldG1FbGlyRDgzWmZxdHJhYUR6a1FHME1LUTVDUDhSTDd4LW1TYXg0bUVKS2Y0ckw2Y0tIeTJPTUE?oc=5",
        "source": "www.marketscreener.com",
@@ -48,12 +54,6 @@
        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbWpVUm5IUzROQUNaTE1saG5sWmVaZ3RscFFFT3ZRRzVwTU1GZzlqVjAzcGMxWDc3VlZNdmdzUHNzcHhVYlF1V0I2NGNEN0lGdExxOWpVMEJkZHFoVFMyLTg0TUNKbFQ1NEx0X25CRWREYW1lMkFfR0ZGTENTdlJxS0M3U2s2SVN2VlVVS2Z1RHJIX1Q1d2dTeUtCUFE4cWFKTkdqckNSZ2RxMnZTZEZVSlItZml2MWtVTDJtUDIyWXI2cjlMTnIwUUVSZnp2a3M0a3c?oc=5",
        "source": "ad-hoc-news.de",
        "date": "2026-10-13T03:24:02+00:00"
-      },
-      {
-       "title": "Should Large Defense Orders Require Action From Kongsberg Shares Investors?",
-       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWWdxWXNZUVZxQUpPa1FydmpnY2h0M2dhX3hpR3Fob1lCMElHRUxvWGQzeWlCM21SWXhCQ1lPVEwtR1RFNHZvR3NBcS1NbG53cXpocXUyVFZmMTVHQXljNEI3SGd2RVZuUUEzbjFnOGtyM1JsWUxXcWptdXViM0dHWXBPd0ZpaVptdzJjbzllZEo0WEpRb0xsNzdONm5hWWJPVTM3UG1NMDRfTGNCdW01SmdWWkN0eWJ5aHlXNVY1MU43VGtMMlRpM3JFU3lJWE1jOFpiMkl6NVEwS0XSAeABQVVfeXFMUEpuTEl2N2pPSG5POTlRLXgzVno1cVEtUWMyclJWWThpT29zT1Z5bnFHMFRlWXQ0dktxX1llam1NUWI4TzV1eTRneE12U1JLSnBaN2wtcXByMmNXdVZTSVRFcVlNNUpZcUNRYUh3bjJ1dnlZZktyQ1ZLY1Z6VUctU09OdzZvWHpzX01IdEctTXdQbHlxVzd2WnZMSWJnR2RJMVBjR2dSb0ZRdzBOdUpyNzFnSUxzX0dYR1hNTFlLUnpSX0pBdjZtODNlVmdua2VEMWt1MXRuMmI5RlpMN2pKakc?oc=5",
-       "source": "Simply Wall Street",
-       "date": "2026-10-10T07:03:30+00:00"
       }
      ]
     },
@@ -87,9 +87,9 @@
        "date": "2026-09-30T13:57:29+00:00"
       },
       {
-       "title": "Kongsberg Maritime to deliver AUV hangar and subsea docking system",
-       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWFc1Y1hXWkYtT1BISHVqdDc4LThzM1VsQ0pNd25nZlN6ZXF4NFVDT1NKdFVkUHMyT3lBNjlMeGc5V05ENWhva2lBb2hwWE15b3NrWXpPNTVoVnFhV2RQUVU1ekJOdVAyNVdhdFA2TGVMX3FvWVg0QnRwaElFR0xia1kxaTJpVS1lZlNNTHZEblRNV01HRmNUUDBFdjdhWEpGdkJES2tFa3kyUUMzX080dGFPb0hHODV5dlducDJVbTRmV1k?oc=5",
-       "source": "Maritime Journal",
+       "title": "Kongsberg Maritime to Deliver AUV Hangar, Docking System for Inkfish Research Vessel",
+       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaWZMWFlSSE5Ja01DdkpXZzAxNWNUVHJrek02Z3FONlIyaVZoZ1E3b1MtTlhvVlMtMDdBYU0zLUJza2Q5TUpYdG1MSmJvNG15SFoyZTdYR1FiMUw2eEJ1YzR6YVZzeUxhQzZtMllZUnluRThjcnpiNE9USEI0T0V2dkY2UmlGY0JNNXc?oc=5",
+       "source": "Marine Technology News",
        "date": "2026-09-30T07:00:00+00:00"
       }
      ]
@@ -118,16 +118,16 @@
        "date": "2026-10-18T07:37:34+00:00"
       },
       {
+       "title": "VanEck Emerging Markets High Yield Bond UCITS ETF A USD (HYEM.MI) options chain",
+       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaTlEtZmxFeXRlODFTcVpWNHRXem5RV2ctNl9rZ0NpQnRrMWZZWkJYVkFsRElDOUYtWnpPNWFjMUQ0LTZVdThWRk84b2pwMTduMkRxREdEUThMYmJ2RzYzMg?oc=5",
+       "source": "Yahoo Finance Australia",
+       "date": "2026-10-16T12:37:50+00:00"
+      },
+      {
        "title": "iShares SLVP vs VanEck GDX: Which Miners ETF Wins",
        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLWZRWVFRZjRhMnNyN25Hd1lQXzFyNUdTb05KbC1fNl95eDMzdmhYZkpweEl0ZDM0UVBDVW82a1BrVXFzWUNlOU1ZYndaZ0VXQkd2QTliX1NqeTFQZWtBRUxHRE1RRGxUMjBGR0VSOUhsRU1XaTd1SHRqTFREU0VxdGlVbUtqMU96T0wzVmNzYk9QMTkzamlKcGU0NC1xUDlpZkFuQ056SndkMWVIY1lyaWQwbGw4SlhYcnNVMmdpMUN2LVRxZllvSGlCd1Q?oc=5",
        "source": "The Globe and Mail",
        "date": "2026-10-14T10:25:03+00:00"
-      },
-      {
-       "title": "GDX Vs. SGDM Is A Draw, Gold Miners Are A Buy (NYSEARCA:GDX)",
-       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd0pJYktfcjZ0Z3gwNjBJeV9aTE5ESjczNXU5S1Ftanltdm9RY2dVbkdHbEtvSWpEdEVNWXFtaXlaU0V4UVNneEt4UGYxYmQxa1IxMmwxcndGM19zOXh6NTFqQ1ZoTzdEMHBUOS1FTUJCMmdUQ1ZYQlJwTlRkWGJtN3VBN0xtc2ZTZjJZVw?oc=5",
-       "source": "Seeking Alpha",
-       "date": "2026-10-12T03:57:34+00:00"
       },
       {
        "title": "Which Precious Metals ETF Is the Better Buy: abrdn\u2019s Silver SIVR or VanEck\u2019s Gold Miners GDX?",
@@ -354,9 +354,9 @@
        "date": "2026-10-16T02:23:36+00:00"
       },
       {
-       "title": "Millennium Silver Corp. Announces Stock Option Grant",
-       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUlpIUHlaZS14WENITUdjamR1VWt6SnlyOThRQmNMbjI5SG1PbkZXTXpMNkw1RVJNbzJlSllNUjdtQ0RXUXROVTd4ekpUYUhhSW9GNmtqNEdyX2pqRlNPYjB1S3ZnVUJmV0xyNWJSNERsdVZjQWVYc2lfSnJxaEl0Z0pFbHVudlA0ZlZZd1pGRHRaVTlCTXp5aGRORVNrdFRTUXFNSGJB?oc=5",
-       "source": "Yahoo Finance",
+       "title": "Mercado Minerals Signs LOI for La Franca in Zamora, Sinaloa",
+       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPd1EtYm5rNzRfczdXemFPVm9hZWRiOFZCZ0pieUxibnVBMTZ4Sk1Fa0d0MTB5aHFRQlFvT092WXFuU3RORlF6Um05eVIxaGM1OEllU0dOb1A1SlRwajZfeWN1MmFkWmFPQzhZZ3dvS2VfNmVPMUJua2kwSEtNYW5waUl0TzZsdXdhOU0xRTB1aVMwYjM1RGc?oc=5",
+       "source": "Mexico Business News",
        "date": "2026-09-21T07:00:00+00:00"
       }
      ]
@@ -693,16 +693,16 @@
      },
      "news": [
       {
+       "title": "BYD or Tesla: Which Is a Better Stock?",
+       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMXZpOVcwRHVqcTFmT1JfN01DeUhfa1huNnRncTFVUHBvVWRVZVBZTTJvQzFhOFJ0cFZIUDdSdjZIcjRsNGZFMmN6OFJIWmNzYzdNZXJMSnR0SG5HYS16UVBtWFJOQWRoWXlkdnFQckZmY0pJbmFKUjRvcXFqTnk1UHZKVlBEd21KbFdGUjNIWlo?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-17T06:50:00+00:00"
+      },
+      {
        "title": "Elon Musk Says Tesla Roadster Could Be \u2018Greatest Product Demo of All Time\u2019 \u2014 Is This the Hovering Car Featuring SpaceX Tech?",
        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZElxQS1fQm1TWXhxd0VYQTZDRzFvSzdLNnVMQ0R4MHJuQ2FQSWxfYWFaU1pVVVBkVXhRTFpmZWhCdTNIRXNTVVp6ZV9aNm5QSk5rUmtOeXhjZ1JwbnJjVnR2QXVQSHlIN2tFT1BCWE5HdmIwTFFUY2ZQT3RmcjlWMnJLM2duWGVOazhIYTJ4R2E2REt6WmU5Y1pR?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-10-16T21:30:07+00:00"
-      },
-      {
-       "title": "Tesla Stocks Rise After Elon Musk Reveals Highly Anticipated Flying Roadster: \u2018Well, It Worked\u2019",
-       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSGI0a2tfVHhFRWxvVWdTNTBaVnlBVHVTVmdPb3c5S1J3bmhMMGxsWG1fZWVWSjZiWV9iNkdqUnM1cDZ4dXB6UXlabDJmTzBtX0dibHJDaGlySzZTbDJkQ185WGRlQmkxNV9OT3dRWXBveTd4TlpNb21JVUN5VjVMN2hpOVFqbjh3dWYzUm1oOUZhWXZaalk4?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-16T16:31:02+00:00"
       }
      ]
     }
@@ -712,10 +712,16 @@
  "failed": [],
  "general_news": [
   {
+   "title": "The Data Center Doomsday Scenario",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tdkJFMTFGMmF5a0FzWDhmYWhvcmcyUkRlMnlZclhIRHlIV2lRaGNDR0xkVGlVZEduN1hJMmNQb016RnJIak9BREcwT3hrdy1ucGh2cVlQVWlUeFJQd1ZtTnF5czhKbktsQnltODEwdkVSN2Q3bzg2RUk3a2hBQ0E?oc=5",
+   "source": "Seeking Alpha",
+   "date": "2026-10-18T12:00:00+00:00"
+  },
+  {
    "title": "We Just Witnessed a Unique Stock Market Measure Do Something for Only the 4th Time Since 1997, and It Offers a Chilling Outlook for Wall Street",
-   "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQLVNVWm9zWGk0WGJ3Q0s5VkxEb3kwU3pQYnJJVjJzckllSGV1N1pxTDd0RVp5VldiY2tEMkktS1RzcElHQ1d0NEY3eFJWTldRLVNEYmwxOWpGN0VNZUhQTWUzUVdXUk5HaUQtSHJFaE5yeDZyajVrM1drQzdONG5yZjM5NFJMX21UZmVvYTdDVWNMTVI2bzQ2eEhYY0sybUZ5MnMza0dEZjBCZGlmbHRXU19LeU9ibXdVamJwM0VScVV1SjBJRHBxeEZBcGQyOGVHTVBnWC02Vk9aWWtzV1lmYUxUZEFpUndkdDRSZ1dLWnRyTTFMNHlCeTVuTFNVSnFVV212T0x6allid3ZSUTdaNmRlLUl4bktURVBEMjlaX0FMbUxYeWNudmhfR2ZxenVRVjF1YWlfcWhzUzEyOTFPN0ZnUQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQYVFYUmFtY0VvS0pzMkVwNGUzS2Vmazl1YjZDbDFZSk11ai12UnQ0Wmp3TFlxcmctZUtNaXc2UEpxN1IwOHVZblNpNWlTRXZoWlNuVFB1YzFTbl8xU292U28ydllYdWdlWXJ1T1ZnUTZtbno5c3hCT2xmcUFRS2xZbzJPMThHUEJZTVNsWG9GWUZBY1JXaG9XR0w5VlhaZ3ZDSXlDZXZKellxVFl5aU1kUDBNaUFjZVlXZU4wb01uZ0pad1hWXzJHUUc5RHByOTRVdFdiQlMzR3dhYmRmTXlQdFd3YTlXUVh0VzBfWTA4Szl3Qm5nLVZNdVJIeWRhZk13T2xwQTRTWEdIbWtRR0N5S0p3RGtTZVh6VzZQMDNWRW15QWt6OE5lSHZWNl9MM3gxRGV5N3U2Z0dzTXNtSE52SDdzRnRRVlA3V1Y0?oc=5",
    "source": "The Globe and Mail",
-   "date": "2026-10-18T11:00:47+00:00"
+   "date": "2026-10-18T10:56:10+00:00"
   },
   {
    "title": "Michael Burry Warns of a Stock Market \u2018Supervolcano\u2019",
@@ -764,12 +770,6 @@
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU0V5blVtMWNkNndCMzl4YUx1QTZDcmlmZFBzbnZQZXpmYjRSdk5RSVZWckZTLUVrTVYtV1ZtMkJ5UVFNOHJHU0RRbHhFQ1hxMFlxTTBKMVdCMk9YaHAwZ056S3RFMXIwcDlWYWRaRmRkSzdkQlJKT1hDbU1kdlhobWRwSGxyRTV6TVcxVDduRXY3dTF5c1djLXRKdw?oc=5",
    "source": "Seeking Alpha",
    "date": "2026-10-16T11:50:38+00:00"
-  },
-  {
-   "title": "Otovo ASA: Approval of prospectus and listing of shares",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOajNaT2sxT2V0b3VRTkk1TklPcDI5WDNHcks2amQyTE9hSU1Va19TSm56NnNDbXBRMWtwT0lNNnlZRWE1ajdLWGlCOE1hUktzbU5CaXl3TE12TWY3VXFaa3NRbGJYcTlNWEVwbDdrVmFyS2h2YU9DUmN6WEhoUHppbExyVFNGRlNDdlpRMXJ3aFo2VEgzdk43Mk9wdE92OC00X1FSQXpnWF8xZmZVaTRpUDVNTzd3TnZqa1JuS1dIVTNuaDMwakhnYk5SOHNHaXNQVDFrU3ZBWUZEaHF1?oc=5",
-   "source": "Finansavisen",
-   "date": "2026-10-13T15:47:10+00:00"
   },
   {
    "title": "Atlantic Sapphire Applies for Delisting from Euronext Oslo B\u00f8rs",
