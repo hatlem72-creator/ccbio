@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-18T09:48:55.736190+00:00",
+ "updated": "2026-10-18T10:23:07.146686+00:00",
  "usdnok": 9.41349983215332,
  "btc": {
-  "price": 82105.71875,
+  "price": 82092.828125,
   "prev": 81382.1484375,
-  "chg": 0.8891020038082287,
+  "chg": 0.8732623814248219,
   "currency": "USD",
   "asof": "2026-10-18T00:00:00+00:00"
  },
  "silver": {
-  "price": 56.994998931884766,
+  "price": 57.30500030517578,
   "prev": 56.83700180053711,
-  "chg": 0.2779828744347457,
+  "chg": 0.8234046304572029,
   "currency": "USD",
   "asof": "2026-10-16T00:00:00-04:00"
  },
@@ -69,6 +69,12 @@
      },
      "news": [
       {
+       "title": "What Is Drawing Fresh Attention To Kongsberg Gruppen (OB:KOG)?",
+       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQLXJob2ZYeV81SEdoakZ5RVRGNFhSVklJY3ROZGZaNGtFVHFfTU5ldFZiZm5qMllyZktaMXZ0TWx1elA3VmZGcWUxNERKZDYzU1o1SU5OdFk0QUxtQklSOG5IY1Nnc1ZNVnJObldBNHQ3R3FZZktEa3cxUi1CWmJFaHUxSExwMkRLVTJ0b1lNVkh5UDN2dlZicUhySXZpN1RnOF9ZN1JlV3FQUVYwX2RocUR1SDNtcE9HN081OGVhRERXTlpTTEhRMVVuQldraFktYjVrNTZCZXfSAd4BQVVfeXFMTVpLc0QtajNILU92WG9TMmJCOHVzNnhVd3IxZTY0ZmVpaGhkVUFqc2FfOV9WdnByWnFJTWljNjdjVktRV3hRN2hESENXYjh4cnZ3aXVIX0c5WXBpVHQ5amZTeFBFVHBIaUl4WUFPV0JpTHRTcHNpRDRFdXdEcHQ1NUZNYUN1N3U5Z0NFNVpIVVBNVVhUb014YlkyZHR3azNRZm1mU3o5OE04MG9XMzlZWFUwV0l0UnliU2F2RlZOaGhYX3FtdjdRaGdwRkFBblZXdmlYeFVwajItT21GbUpB?oc=5",
+       "source": "Simply Wall Street",
+       "date": "2026-10-06T14:41:27+00:00"
+      },
+      {
        "title": "Kongsberg Signs Waterjet contract for Indian Navy\u2019s Next Generation Missile Vessel",
        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNc3p3Vkg4M3BvUkZJTG1ObWRSQTM4czJZbFBYMFBqNTBhd2dsVHZXR19JUDhKWU9CSnVxQVhlVWVfZ05yXzJiYnBEUXRweTJtX0MtdExYMzIwVVNTeGFIQVJrRFY1cHA5U1h6b0lYME1TRXp5d1hXZnctRG4yVkpnLXlCTmhNMno1eVFvNmRPWjIwNmFsWEtlRU83UnlFT0d6ano3dEw1aXNMc0dXTkJsUERPQnV0M2ZKVVdDYzFDajhPS2hTTFE?oc=5",
        "source": "Naval News",
@@ -85,12 +91,6 @@
        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUFVCVzE4cHhnZEEwdktoWDRXaHRLZDlPWFZIeXd6TlJmbFFybVhWN3FEY2VYRmhxWlkwSVR6QlFRajZ5YVV6THhuTzZYOW9PMFJnMi1oWk5LaURPdEFBNWpYdHQxa2J0QXNrcDJfTkxEZy1La05QUFRJLUtlOWRjYTJYb0ZPSzJYdFZuVHZLcXFPRzFjS282RGNvQm5aQk5RNGozMFMtTmlBSkhEaExzS1c3XzlZVVI3NUpmSWZwdzcyeHczWFpwVTBwZEVFWlVPM21v?oc=5",
        "source": "Ocean News & Technology",
        "date": "2026-09-30T13:57:29+00:00"
-      },
-      {
-       "title": "Kongsberg Maritime to deliver AUV hangar and subsea docking system",
-       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWFc1Y1hXWkYtT1BISHVqdDc4LThzM1VsQ0pNd25nZlN6ZXF4NFVDT1NKdFVkUHMyT3lBNjlMeGc5V05ENWhva2lBb2hwWE15b3NrWXpPNTVoVnFhV2RQUVU1ekJOdVAyNVdhdFA2TGVMX3FvWVg0QnRwaElFR0xia1kxaTJpVS1lZlNNTHZEblRNV01HRmNUUDBFdjdhWEpGdkJES2tFa3kyUUMzX080dGFPb0hHODV5dlducDJVbTRmV1k?oc=5",
-       "source": "Maritime Journal",
-       "date": "2026-09-30T07:00:00+00:00"
       }
      ]
     }
@@ -118,16 +118,16 @@
        "date": "2026-10-18T07:37:34+00:00"
       },
       {
+       "title": "VanEck Emerging Markets High Yield Bond UCITS ETF A USD (HYEM.MI) options chain",
+       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaTlEtZmxFeXRlODFTcVpWNHRXem5RV2ctNl9rZ0NpQnRrMWZZWkJYVkFsRElDOUYtWnpPNWFjMUQ0LTZVdThWRk84b2pwMTduMkRxREdEUThMYmJ2RzYzMg?oc=5",
+       "source": "Yahoo Finance Australia",
+       "date": "2026-10-16T12:37:50+00:00"
+      },
+      {
        "title": "iShares SLVP vs VanEck GDX: Which Miners ETF Wins",
        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLWZRWVFRZjRhMnNyN25Hd1lQXzFyNUdTb05KbC1fNl95eDMzdmhYZkpweEl0ZDM0UVBDVW82a1BrVXFzWUNlOU1ZYndaZ0VXQkd2QTliX1NqeTFQZWtBRUxHRE1RRGxUMjBGR0VSOUhsRU1XaTd1SHRqTFREU0VxdGlVbUtqMU96T0wzVmNzYk9QMTkzamlKcGU0NC1xUDlpZkFuQ056SndkMWVIY1lyaWQwbGw4SlhYcnNVMmdpMUN2LVRxZllvSGlCd1Q?oc=5",
        "source": "The Globe and Mail",
        "date": "2026-10-14T10:25:03+00:00"
-      },
-      {
-       "title": "GDX Vs. SGDM Is A Draw, Gold Miners Are A Buy (NYSEARCA:GDX)",
-       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd0pJYktfcjZ0Z3gwNjBJeV9aTE5ESjczNXU5S1Ftanltdm9RY2dVbkdHbEtvSWpEdEVNWXFtaXlaU0V4UVNneEt4UGYxYmQxa1IxMmwxcndGM19zOXh6NTFqQ1ZoTzdEMHBUOS1FTUJCMmdUQ1ZYQlJwTlRkWGJtN3VBN0xtc2ZTZjJZVw?oc=5",
-       "source": "Seeking Alpha",
-       "date": "2026-10-12T03:57:34+00:00"
       },
       {
        "title": "Which Precious Metals ETF Is the Better Buy: abrdn\u2019s Silver SIVR or VanEck\u2019s Gold Miners GDX?",
@@ -354,9 +354,9 @@
        "date": "2026-10-16T02:23:36+00:00"
       },
       {
-       "title": "Mercado Minerals Signs LOI for La Franca in Zamora, Sinaloa",
-       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPd1EtYm5rNzRfczdXemFPVm9hZWRiOFZCZ0pieUxibnVBMTZ4Sk1Fa0d0MTB5aHFRQlFvT092WXFuU3RORlF6Um05eVIxaGM1OEllU0dOb1A1SlRwajZfeWN1MmFkWmFPQzhZZ3dvS2VfNmVPMUJua2kwSEtNYW5waUl0TzZsdXdhOU0xRTB1aVMwYjM1RGc?oc=5",
-       "source": "Mexico Business News",
+       "title": "Millennium Silver Corp. Announces Stock Option Grant",
+       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUlpIUHlaZS14WENITUdjamR1VWt6SnlyOThRQmNMbjI5SG1PbkZXTXpMNkw1RVJNbzJlSllNUjdtQ0RXUXROVTd4ekpUYUhhSW9GNmtqNEdyX2pqRlNPYjB1S3ZnVUJmV0xyNWJSNERsdVZjQWVYc2lfSnJxaEl0Z0pFbHVudlA0ZlZZd1pGRHRaVTlCTXp5aGRORVNrdFRTUXFNSGJB?oc=5",
+       "source": "Yahoo Finance",
        "date": "2026-09-21T07:00:00+00:00"
       }
      ]
@@ -404,10 +404,10 @@
        "date": "2026-10-09T12:08:00+00:00"
       },
       {
-       "title": "TSX Penny Stocks With Promising Potential In October 2026",
-       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWVhpdWRPUDFMRUV5amNzMnZiSk13cDU0eGFPZWRJV2otUkFFRVU0eTk2blNUZGdOSDNSakFpdGpCQ2c1bG1FZnpMWjBia1drYks1Um04MWRTTjlOdEFkTDJJOG1hc291c0FLR2l0cVFpbFozVzlIQmVIMURHdkh3Y1FYZlVLRGdGWldhV3o1cG9aajVzcEZwT2poYjh6cFZrZU9KOENIbUVQMFhOdzlpU1RLdjhoUV9qekptcVlGRS16eUlROXMxWFY0bTdYbGJtYWfSAdcBQVVfeXFMTVA3aHQ0MUxQWWYxSGFtaUhzVjZTaEp3UU1aXzhtbGEybUZmak04WmFJUW5sdmRnRlctTFl1U19XS0Q2Tl9Xa0JSejI2SjZkM3gxNjlJUGhwVVpkSk5YZFhkcXJPVHV3ZDlQMF9WNEpOVThLZU5YS0FqcEpEOUV5LURfbjBQNmZxdks5UWpCa09yLS1fYVdJZmJzOFZYQ3R0OU4ySXVHSTFGaWlWb0JINmNfTDJhdVBQMkIxWTUtWXdlWGtSLTV1MzRRQjVyOWhnOHA3dFkzMWM?oc=5",
-       "source": "Simply Wall Street",
-       "date": "2026-10-07T12:18:34+00:00"
+       "title": "Silver X Mining Stock Slips as Profit-Taking, Silver Volatility and Expansion Risks Pressure Momentum",
+       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRURqdjNGX3Nod2FHOEFtdHg4enIwSjVaTkZfa0lFdjc0cjlBdFo0czhhYTkySGNKYzltRExhNFhWLVZ2eENhWmYwMHhSeHp5Ujg2QWtscHVNRXVfWEV6YmdJc3VvcmdzR0ZINU5ZOWtDeGZJZk5zUVBVdjFrdG5Ya2xUYTBBOU9ScDhrcWNYalJXSHRreS1tWTdZS0hTdnRHbGtxNm9EZ095QTRmaGF2bW9LanhURm1INVhuZnpQbF9jdWFzTXowQXNrMA?oc=5",
+       "source": "kalkine.ca",
+       "date": "2026-10-01T07:00:00+00:00"
       }
      ]
     }
@@ -668,16 +668,16 @@
      },
      "news": [
       {
-       "title": "What Wall Street may be forgetting about Meta's AI business",
-       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbkVjRkdRdVp2TUFaMmczY2dJaC00d1lUcnpZQ1RFN29hS0V5NHhmaGRGOGhZeDhocjFNM0FjeXMzb0JVV01HcGM1QUt3RDV1NGdpZGRSNllVWENhdUE4NG14UUV2NEdVa0tjWV9YeDFBR1JCUlJlbktFbzVUSHpPSkFpYkkyVWo2WUxJdnJicWRuMHBZTGdVQzFjVElVZGpNbk1GRkg2SGVETXBhUVJrLWs1aUJKTkVjdWJmdVpEWQ?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-15T12:34:22+00:00"
-      },
-      {
        "title": "Meta has an AI advantage OpenAI and Anthropic can't replicate",
        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQkh1U3hwN0V0OWc2SWp1S1Zpa204RldpMm1qUUJ6cGRMT3BuOHhWbGtNbGJla3B6RXZFb3dSZkN4NTE0NTJOYmNoLTVLVnV4RS14Zkx2ZTFUbXR1ckpfQUNDM1gyVmJESTc3ZHd4YnVoNjNpYmtrUWNBYTZEU3JwV0JfQWc1SkM4M1ZMbzBlUDVyQU5PbjVSTndGdHlzOEFTNkctekxTSXlSSG5qNlc4WDR1UmFZNjdCMUg3Zg?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-10-15T10:00:00+00:00"
+      },
+      {
+       "title": "Meta Reports on Oct. 21. I'd Consider Buying the Stock Before It Does.",
+       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQamtOeGNGblVhbllmQlV1a3VQak04LTdzR29QUXB5bFRtXzNpYTBScHoteXA1ZFlnRW9qcWxfSHEwV1k3QnEtWDUzd0d1M2F1dGpqZGhObk1ZZE1KWjJYQVJRY05qbVF4YkxYeWdZUjRUcFY3cERIdlNwbGdIeVIyb0l6bnd5Zi1Vc050Y1hjdHo?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-15T04:07:02+00:00"
       }
      ]
     },
@@ -742,6 +742,12 @@
    "date": "2026-10-16T18:30:00+00:00"
   },
   {
+   "title": "Tesla analysis: stock falls after Roadster reveal fails to hold gains",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd1FsOU9SckktaTZPOFFjeGtzTEU4SmpOVksxTl9HWjhMRXR5bHlqRUhxSjZ0dVJTN1RwdGVETG1zWTR5dG5XSGdPcWRoZmUtZFY3SEtnS0tSUE5nM3B2alA1T0JRUDY2MVJna1hacnVBU3pTZkVrYlJMbVpSMWtTbnJBZ0stTWR6Qzg0TFlHWm91YU1DcE1vMS12U0Q1NUdEM2d4WURfRkdFaUxxLW53ejJ0Mzg3QUdtc3lLekEzNkoyS284Ymk3NWhR?oc=5",
+   "source": "Investing.com",
+   "date": "2026-10-16T17:44:34+00:00"
+  },
+  {
    "title": "Regime Change: Bonds Pricing AI Bubble Burst And A Recession",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRFRYSmZTX1IxSTBwU2p1U0hVc2Z5Q1NLR3RTb2VCNFEzWUFMdGJDSzJfQkdJQXp4V3JBbG4wV2hDVTJaZlNQSmswcFZwRzlUaEJMME1zTlFqVVlGbEtEUUdfNDBneWJMSVBlZ0d1Yi1BNG9HeEV1V0lHTlNzNERlVTVlaC1scWdCRnhqRWhTYTBNZGxRd3J5VWg3S2dadVF1V0E?oc=5",
    "source": "Seeking Alpha",
@@ -758,12 +764,6 @@
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU0V5blVtMWNkNndCMzl4YUx1QTZDcmlmZFBzbnZQZXpmYjRSdk5RSVZWckZTLUVrTVYtV1ZtMkJ5UVFNOHJHU0RRbHhFQ1hxMFlxTTBKMVdCMk9YaHAwZ056S3RFMXIwcDlWYWRaRmRkSzdkQlJKT1hDbU1kdlhobWRwSGxyRTV6TVcxVDduRXY3dTF5c1djLXRKdw?oc=5",
    "source": "Seeking Alpha",
    "date": "2026-10-16T11:50:38+00:00"
-  },
-  {
-   "title": "PPI Public Property Invest AB: Transactions carried out under the share buy-back program",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPU0N1ZEZnOEM5WnB6YWhHVTA5V0lyem93WDdqYmt5Smhsak9jemhvRXpyRndfWGNwWURpSmljaWF2emo5TnA1TTE4dmp0Mng4U3BtVks2d3YzaVRvR1ZnTTgwcWZDRDRyLU1OSDFETlFZeGZzZUg3ck1XUWNnQzdWdlJxTmdYY1pqanplZ3JDODE2NjNaeWlUQVU1ZVZyS252akJkMlJ3ZnJMVjlraGhpcGE5d2FTcGU4Yi01UkZ5bnN0NEtqSjNwaWFPbzdnSG5oN3pRRlBHd2JnWTJMOUlyMGJOWFNHdDdy?oc=5",
-   "source": "TradingView",
-   "date": "2026-10-14T05:00:00+00:00"
   },
   {
    "title": "Otovo ASA: Approval of prospectus and listing of shares",
