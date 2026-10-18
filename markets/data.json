@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-17T23:56:39.214805+00:00",
+ "updated": "2026-10-18T00:38:01.643246+00:00",
  "usdnok": 9.41349983215332,
  "btc": {
-  "price": 81381.046875,
+  "price": 81356.640625,
   "prev": 81500.8046875,
-  "chg": -0.14694065041344073,
+  "chg": -0.17688667376078993,
   "currency": "USD",
-  "asof": "2026-10-17T00:00:00+00:00"
+  "asof": "2026-10-18T00:00:00+00:00"
  },
  "silver": {
   "price": 56.994998931884766,
@@ -69,12 +69,6 @@
      },
      "news": [
       {
-       "title": "Kongsberg Maritime secures Extended Thruster Coverage agreement",
-       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeWFRczlOdDNxT3JRMUxZSFpvTlJaZlpDa3h2aExmTl9nU3JQc1lTaG5TM0FkNDJVNmMycVIyaEhZNjBmT0twN1U3cnB4NktaOUI4alNrQU1sY1NiV0tPc0Zad3Z2cGdvT0Z4am4zWTlVQkpBUjVfc3FLajRPOV96R0FLQUZ6Nmw0ZWF2MzJnTXRfQQ?oc=5",
-       "source": "Maritimt Magasin",
-       "date": "2026-10-07T07:00:00+00:00"
-      },
-      {
        "title": "Kongsberg Signs Waterjet contract for Indian Navy\u2019s Next Generation Missile Vessel",
        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNc3p3Vkg4M3BvUkZJTG1ObWRSQTM4czJZbFBYMFBqNTBhd2dsVHZXR19JUDhKWU9CSnVxQVhlVWVfZ05yXzJiYnBEUXRweTJtX0MtdExYMzIwVVNTeGFIQVJrRFY1cHA5U1h6b0lYME1TRXp5d1hXZnctRG4yVkpnLXlCTmhNMno1eVFvNmRPWjIwNmFsWEtlRU83UnlFT0d6ano3dEw1aXNMc0dXTkJsUERPQnV0M2ZKVVdDYzFDajhPS2hTTFE?oc=5",
        "source": "Naval News",
@@ -87,10 +81,16 @@
        "date": "2026-10-01T14:00:03+00:00"
       },
       {
-       "title": "Tekna appoints Egil Haugsdal as Chair of the Board",
-       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZ0FyVGs3djMxR0NfNFRDQjFiX2ttWmxPNTI3TDhKRDNZZjk2akNvLUVSSGM3SEpLbzV0U0x6UFJPdklFQ3ZHNzJWbFZmUzVMeWUxUjRhOHhvRVBjV0ZVdGwyNGhtejdGMnRfWEFaWXRZSzVfem1pckV5aXlDVFRscGdB?oc=5",
-       "source": "Metal Additive Manufacturing magazine",
-       "date": "2026-10-01T07:00:00+00:00"
+       "title": "Kongsberg Maritime Wins AUV Hangar and Subsea Docking Contract for Inkfish Research Vessel",
+       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUFVCVzE4cHhnZEEwdktoWDRXaHRLZDlPWFZIeXd6TlJmbFFybVhWN3FEY2VYRmhxWlkwSVR6QlFRajZ5YVV6THhuTzZYOW9PMFJnMi1oWk5LaURPdEFBNWpYdHQxa2J0QXNrcDJfTkxEZy1La05QUFRJLUtlOWRjYTJYb0ZPSzJYdFZuVHZLcXFPRzFjS282RGNvQm5aQk5RNGozMFMtTmlBSkhEaExzS1c3XzlZVVI3NUpmSWZwdzcyeHczWFpwVTBwZEVFWlVPM21v?oc=5",
+       "source": "Ocean News & Technology",
+       "date": "2026-09-30T13:57:29+00:00"
+      },
+      {
+       "title": "Kongsberg Maritime to Deliver AUV Hangar, Docking System for Inkfish Research Vessel",
+       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaWZMWFlSSE5Ja01DdkpXZzAxNWNUVHJrek02Z3FONlIyaVZoZ1E3b1MtTlhvVlMtMDdBYU0zLUJza2Q5TUpYdG1MSmJvNG15SFoyZTdYR1FiMUw2eEJ1YzR6YVZzeUxhQzZtMllZUnluRThjcnpiNE9USEI0T0V2dkY2UmlGY0JNNXc?oc=5",
+       "source": "Marine Technology News",
+       "date": "2026-09-30T13:11:50+00:00"
       }
      ]
     }
@@ -124,16 +124,16 @@
        "date": "2026-10-14T10:25:03+00:00"
       },
       {
-       "title": "VanEck UCITS ETFs Plc - Net Asset Value(s)",
-       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwblRPTmNTSHBPc3pSRnI3MXJON1c5aUxXVGZQU19ZVHowZXU0V3lSSUJSOG9ZRkV1aE1HSTBzRVpFdnlNQXlkWkphV0xSc0ZLVEhqTUVEZGhEVkE4amp0MWllVkdjNTJFaWU5UGRWczBxekozOUhXaWdjSUYyUzg?oc=5",
-       "source": "Yahoo Finance UK",
-       "date": "2026-10-12T06:00:00+00:00"
-      },
-      {
        "title": "VanEck Gold Miners ETF remains a buy with stron...",
        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNemhIOXhSaXlhamV6Mm5zRVNKblM1bHhPQmgxTzZRMGVHSG9PTXhHbnJaYkNqeERlOU1rdDBLNjhlWEU3eUlpNEdsTU0wdy1jbWZfakd4UzFrMHJJeFlFZzliWlJEUDRRYUQ2R3RLbzRmSGZKLS1sVjMyd1ctaHU5U1JULXMxemRxUEE?oc=5",
        "source": "Pluang",
        "date": "2026-10-12T04:13:40+00:00"
+      },
+      {
+       "title": "GDX Vs. SGDM Is A Draw, Gold Miners Are A Buy (NYSEARCA:GDX)",
+       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd0pJYktfcjZ0Z3gwNjBJeV9aTE5ESjczNXU5S1Ftanltdm9RY2dVbkdHbEtvSWpEdEVNWXFtaXlaU0V4UVNneEt4UGYxYmQxa1IxMmwxcndGM19zOXh6NTFqQ1ZoTzdEMHBUOS1FTUJCMmdUQ1ZYQlJwTlRkWGJtN3VBN0xtc2ZTZjJZVw?oc=5",
+       "source": "Seeking Alpha",
+       "date": "2026-10-12T03:57:34+00:00"
       }
      ]
     },
@@ -311,16 +311,16 @@
      },
      "news": [
       {
+       "title": "Is First Majestic Silver (TSX:AG) Driving Fresh Mining Interest?",
+       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdWZuYmdFVnN6cGdJQzU4aU5CbnVsd21xNm5QRlV6OGZlcFlZUV9iR1A5QVgxSkdEYzdlbDR5OWdhWG5OZ3h3VS1EQlF1SExkU2FYSGRjOGo5Q21xZHZTRjIwTVdRZEQydl9IMXc0Zkl6VU56Si1jTEpnN3Y2M196QmVvRjhNUUt1Y3ljLUoyZVJrcEh2NDhJNmRmNmdIYjN1a3c?oc=5",
+       "source": "Kalkine Media",
+       "date": "2026-10-15T17:28:00+00:00"
+      },
+      {
        "title": "First Majestic Silver Corp. (TSX:AG): Can It Restart Jerritt Canyon on Schedule?",
        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVFNkZnJYUnRzZ0t4Qy1oSHNySDlRc3l1cU5zckotalNtMFFsRS1zdkdMdlg5ZjBfT1hTWjgwSEVmbDM4Z1hJODF6SGVJMmQxNW5xSW54TnJzSHE1eUZ3UjFwNm9fdmNUQWVUQnNraGU0bkdLcnpzU2JBc0UwZkdSYXlfdUxNTzR4U2VfR1lXb21nQTd5cWVJanU0Zm9EOUdQZ1pqVnFwZGxGbjc2QmFMeEJoa1pDUmc?oc=5",
        "source": "Kalkine Media",
        "date": "2026-10-15T17:20:00+00:00"
-      },
-      {
-       "title": "First Majestic Silver Shares Slide 5.76% as Capital Reinvestment Pacing and Mexican Operational Headwinds Weigh on Investor Sentiment",
-       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPRFZpaktZajMwZERDd3ptcHVXVm9DNEMyZUI3WFRSZGNQbUk3LXYtbThHNER6VEJ3cW50dmVnczBPNm1BWkJ0QWNjUEt5NFhGN1VKUUNDdElIWlY0TFJLZ1U5S0FYVHhDRE5VY1hRazNYa1VtbG5jNThSYW5XZzVhY0VQbFJ3LXZFWU04SGZGQnpER3EtU2tQYzF2YzJPdzRGZXhIRUNXVGZzdTg1OXVIYUpDSHk5OGZXdEQ3UExwQ0ZHc3l1alplUzdZRm0wQ19SOXptUS1leHhKREpFQ0JveVo5V2VXbm9nUlUzcm1qUjhnMDVv?oc=5",
-       "source": "kalkine.ca",
-       "date": "2026-10-15T06:53:27+00:00"
       }
      ]
     },
@@ -354,10 +354,10 @@
        "date": "2026-10-16T02:23:36+00:00"
       },
       {
-       "title": "Millennium Silver Corp. Announces Stock Option Grant",
-       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUlpIUHlaZS14WENITUdjamR1VWt6SnlyOThRQmNMbjI5SG1PbkZXTXpMNkw1RVJNbzJlSllNUjdtQ0RXUXROVTd4ekpUYUhhSW9GNmtqNEdyX2pqRlNPYjB1S3ZnVUJmV0xyNWJSNERsdVZjQWVYc2lfSnJxaEl0Z0pFbHVudlA0ZlZZd1pGRHRaVTlCTXp5aGRORVNrdFRTUXFNSGJB?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-09-21T07:00:00+00:00"
+       "title": "GR Silver's 2027 Resource Update Decides What Its Zinc Is Worth",
+       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPS1VDNGUyS3Nnc25PbG10LUUtZmlBdHlZdjZRM0lTQ1laYUNmXzZwdXo2ajN2ZUpQZGdjWXZHMXpTTC1Oai00aXVITi1JUkR3VkgxamVEYXRmOXhjR3I0cDlVMlRENlhjZng3RnBZVl9fZTJ6azZBQmRrUHg4ck1SOWFHZXZ3MlhDZkxTdmdIX0V0OW92enA0S012SW1xdw?oc=5",
+       "source": "Crux Investor",
+       "date": "2026-09-18T07:00:00+00:00"
       }
      ]
     },
@@ -404,10 +404,10 @@
        "date": "2026-10-09T12:08:00+00:00"
       },
       {
-       "title": "TSX Penny Stocks With Promising Potential In October 2026",
-       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWVhpdWRPUDFMRUV5amNzMnZiSk13cDU0eGFPZWRJV2otUkFFRVU0eTk2blNUZGdOSDNSakFpdGpCQ2c1bG1FZnpMWjBia1drYks1Um04MWRTTjlOdEFkTDJJOG1hc291c0FLR2l0cVFpbFozVzlIQmVIMURHdkh3Y1FYZlVLRGdGWldhV3o1cG9aajVzcEZwT2poYjh6cFZrZU9KOENIbUVQMFhOdzlpU1RLdjhoUV9qekptcVlGRS16eUlROXMxWFY0bTdYbGJtYWfSAdcBQVVfeXFMTVA3aHQ0MUxQWWYxSGFtaUhzVjZTaEp3UU1aXzhtbGEybUZmak04WmFJUW5sdmRnRlctTFl1U19XS0Q2Tl9Xa0JSejI2SjZkM3gxNjlJUGhwVVpkSk5YZFhkcXJPVHV3ZDlQMF9WNEpOVThLZU5YS0FqcEpEOUV5LURfbjBQNmZxdks5UWpCa09yLS1fYVdJZmJzOFZYQ3R0OU4ySXVHSTFGaWlWb0JINmNfTDJhdVBQMkIxWTUtWXdlWGtSLTV1MzRRQjVyOWhnOHA3dFkzMWM?oc=5",
+       "title": "AGX - Silver X Made $17.3M Last Quarter, Why AISC Is Still $46 Not $15.80",
+       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNRXlYOG1KUDNhZHM0QUVxSTg1UVAzTWRtUXM3YWV4NDFjRUpZbjlwWEVaNng0NWdTZU1ucnIxX2xQSkxTMVRBMmliMUF3Wlo3M3VyeGZJX0hyYVVSRHNabGlodklLMy1CVFlQRnIxSW5WVFJzOFVNZjJlcHRpWnYydjRjVDU4UkdhLTlkdFFMcll3LVZNcEtwcm54VmlydjVqaXJoUnVmSGtBdzUwNlNGNVdqTVBNSUtNanRNNF9vejdHdHRRdEN4eVBtbFNXN2NFWHpybXFjRFhTNWItV1lTekZ0U1FSYjI5SnVlc2lsYS1pdGNJSU1jbmJBakQyNm5CTmhmcERrWQ?oc=5",
        "source": "Simply Wall Street",
-       "date": "2026-10-07T12:18:34+00:00"
+       "date": "2026-09-24T07:00:00+00:00"
       }
      ]
     }
@@ -599,10 +599,10 @@
        "date": "2026-10-16T16:23:00+00:00"
       },
       {
-       "title": "Nvidia and Apple Donate Millions for Planned White House Project",
-       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdHhIS0h1SExtb016THBmdnZZSVFKcEgxNTlsamgxOG85bFpIS0U3QzdTRDZQMGpvek5EWjZSVlVjUDhlYXRuM3FoWHRzVVk2elBFSjI1SDlCUXBDQVN5QXJub3JaSF8xM0p2WGxVd1Y3SllWMkVQaHNLQzNYTnNRcDd0dnhFU1g5NjFyUnVMUjE3SFd4NFVwb29tNjByazFvM1Q0?oc=5",
+       "title": "CoreWeave stock sinks as AI financing worries linger",
+       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSGxnU2w4ZktmRzVlVVJGNkUzOWxuUEVHQlEybUhCUmJIcndia3dvTjhrZUhEZkFLek1JWFlQZFptbEd5Rkp0RDlpOFNCelZBdW5haU1WeDR3U3RELXlKeDNRVnJsWmFzLUxFOUxUT0lRSUw2cWc4eGZBcUlOYmFpNW1xbWdoTWNEb0Exdlo2Z25tTVVieEFUQV9DaVlTeG1tdzFnTVFBTm1fYXp1OFRBSmJBVHhweUE?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-10-16T13:55:45+00:00"
+       "date": "2026-10-16T13:55:50+00:00"
       }
      ]
     },
@@ -754,16 +754,16 @@
    "date": "2026-10-16T14:11:09+00:00"
   },
   {
+   "title": "The Stock Market Is Doing Something for Only the 3rd Time in 156 Years, and History Is Clear a Crash May be Hiding in Plain Sight",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUElOc1Z0ZTN0b1dzYTE4NUVHX3lRSkdYdE1jNTk3Zmw0SFV6THJDSUctN1ZFd18tZUNlVkp6MU5ZVjB1SDhFc1JfcTBaODNSQUgteWw2bTlTdGZZMVhNbnFLUXJEbnlBREM3U0htUzJBN2pQNDAweGZ1X3V0Wm9URVpaYzk1c09kbTBZVWNtNWdHYUlpWFkzTTZaMlBuUVE?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-10-16T12:50:00+00:00"
+  },
+  {
    "title": "BlackRock's Larry Fink says a data center moratorium would trigger a U.S. recession as public opposition grows",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPXzZKMEFJbDZuSEUtcDNaeE9KUVI2dnVIUkd2MzgxVFF2ZWhuUmhueGZEZkkxSElFelYxNkpHZXYyekdfOUM5QTcxRmZwNjFLTlQ1WXlJV3YyeE9kMW1ucEJSYXhfUEY0VFFmY1BqTE9faENmam1sX2MzMmpCOE40NTI0WUY2X3FmVWRxRG0wVlRsSEE?oc=5",
    "source": "Yahoo Finance",
    "date": "2026-10-16T11:00:00+00:00"
-  },
-  {
-   "title": "Otovo ASA: Approval of prospectus and listing of shares",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOajNaT2sxT2V0b3VRTkk1TklPcDI5WDNHcks2amQyTE9hSU1Va19TSm56NnNDbXBRMWtwT0lNNnlZRWE1ajdLWGlCOE1hUktzbU5CaXl3TE12TWY3VXFaa3NRbGJYcTlNWEVwbDdrVmFyS2h2YU9DUmN6WEhoUHppbExyVFNGRlNDdlpRMXJ3aFo2VEgzdk43Mk9wdE92OC00X1FSQXpnWF8xZmZVaTRpUDVNTzd3TnZqa1JuS1dIVTNuaDMwakhnYk5SOHNHaXNQVDFrU3ZBWUZEaHF1?oc=5",
-   "source": "Finansavisen",
-   "date": "2026-10-13T15:47:10+00:00"
   },
   {
    "title": "Hafnia CFO Sells 50,000 Shares in Mandatory Insider Trade Disclosure",
