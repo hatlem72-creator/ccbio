@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-19T07:15:43.374422+00:00",
- "usdnok": 9.427599906921387,
+ "updated": "2026-10-19T08:06:26.489851+00:00",
+ "usdnok": 9.434450149536133,
  "btc": {
-  "price": 82746.828125,
+  "price": 82525.5390625,
   "prev": 82017.6015625,
-  "chg": 0.8891098357031391,
+  "chg": 0.6193030402296351,
   "currency": "USD",
   "asof": "2026-10-19T00:00:00+00:00"
  },
  "silver": {
-  "price": 57.85499954223633,
+  "price": 57.61000061035156,
   "prev": 56.994998931884766,
-  "chg": 1.5089053890137816,
+  "chg": 1.0790449863887108,
   "currency": "USD",
   "asof": "2026-10-19T00:00:00-04:00"
  },
@@ -24,13 +24,19 @@
      "symbol": "KOG.OL",
      "name": "Kongsberg Gruppen",
      "quote": {
-      "price": 313.79998779296875,
+      "price": 308.5,
       "prev": 315.29998779296875,
-      "chg": -0.47573741137755254,
+      "chg": -2.1566723933505894,
       "currency": "NOK",
       "asof": "2026-10-19T00:00:00+02:00"
      },
      "news": [
+      {
+       "title": "Kongsberg Maritime (OB:KMAR) Stock Forecast & Analyst Predictions",
+       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYnpzeTBqTVNhR1NVWHgxRlVYQ1lhUFhWTEdYOU15emJJaTMtUjNfZGlqNWlWN2hhMFBYSHNBRHVVQzl1N3VwbW12TUdYQ1hDVHFNQ282Szd2YkFmeDd3dGs4YmpSZXgyUldERkxrQlhMT0NaUmRPU19VWW9qZ0c4dTFIOWw4Q1ozMFJXN0hnSQ?oc=5",
+       "source": "Simply Wall Street",
+       "date": "2026-10-15T07:00:00+00:00"
+      },
       {
        "title": "3 Aerospace Stocks In Focus As Norway Wealth Fund Ethics Review Nears",
        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYzJQQkJLdUR0WkFBVEs2QUNwaWlpMm94MEM0NF9lSzhnZWU2UEZLUVoxS1dDLWVoZ0VLdW1OYXRrUTA3c09DNnJBRGx1T1pUdWxhMmpoWmo5V2t5S1ZtVHhDWnVodnBseGQ1Y3dkdXd6UWJpVnNTd1NkdHBMdHZZUG5tNjM2eVFvVHZRenhPc1ZiaFN5UTMtZ2M0VmhRcTh4QWpTY3hlQ0FJeG90cUQwczB6RWJTX3N1U3VCcHdPRGRUQdIBxwFBVV95cUxPVnMteHFUM1ZoYVZHeG81S1NxR095c2JfYk1EQTluRWU0SUM0cGVndHoyTDA4d1RNTnRlYkY4NDZMeDlIQTFVMUEtazNrYWNRdDAzWDdWa1RIMWp4emZBSUlkanJjMEVjSkc2SzA5Y0s1SGJHcWJZa1h6NWxsdVVldW12MVZ6UHRxT0F4em1Md2F6a0JKTEVWQjVPNnlaMW4wQUc2TzFkdkFQRFNzM3ZiWm1jbXpFWnpkYUR5YnprM21kQ09Ydng0?oc=5",
@@ -48,12 +54,6 @@
        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeVJMWDAwUUFNeWRsOEVOOWg3b2wyNG1aRndwY3dHWmN6SmdJb2FuUm9pcVlFWFQ5WHdMZzRNa2JlWEs2Ym9RU1lERkcxVjZPMkNLQnRONlpSRHlZa0xrVWtSOGRzTjA4aHk4SDd0bldWSFpERzVseTNtaXQ3SGhqbDFhajFRSy1sUF9pSG0zZ1FWa29tSE0yNkhlX2tabDUzVjBmdUxxV2RBSVY3QWFIRFJjVkplVHFxSzI1MHpzcXBXeFNFTHpmZzBPTGN6NWNHVk9NdEQzNmotOTjSAeABQVVfeXFMTlZxMXRiUEZmV3RIUlNic001c0hKbjlkZGpUNEhjYVN2T0loY0tvSTQ4cjZESm5zY1J5c2QxWklZbDJkLWRHNEhQREJ3Njg1eEYxOUwxazV1ZjhMWTg4M2R3OEI1b1JTa3ZPM3dJWEhITVphRnpNWXNTM0YydmpvRV9rdjI4M3lzZVRNX2RwN3ZmLV9sVzlwWlUzcUJ0MUpNRi1WTmdIWkdEY2s1M3FxYkF6MXB2dmt5YmhKd1ktTk9rbFBKMVRjZ2IwY2pXbXRwZFpSZUxuQVpBMFJKYm16S1Q?oc=5",
        "source": "Simply Wall Street",
        "date": "2026-10-13T22:27:05+00:00"
-      },
-      {
-       "title": "Kongsberg to build new plant in Poland for counter-drone systems",
-       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaEJpbktxQ1BEWkkwZk1HMGxMT2F6UzU4MFNaRkNyNkNDeHBFNWxSN2RPSXVqQkJpZmdJZWpteGVLYWRZMGdtSU1nR2NZOWFQNWlmSml0SWFFUjFKV3k1YUx3X2ROUE1fMWh4X0taM3BqUnJiaDM2VHN6cTdOVDdhbnZWQjRSaUdpc0c2Ym14cUg5TnFrUGtxVHpITnlSQQ?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-13T18:08:19+00:00"
       }
      ]
     },
@@ -61,9 +61,9 @@
      "symbol": "KMAR.OL",
      "name": "Kongsberg Maritime",
      "quote": {
-      "price": 60.58000183105469,
+      "price": 60.5,
       "prev": 61.060001373291016,
-      "chg": -0.7861112535878401,
+      "chg": -0.9171329195809208,
       "currency": "NOK",
       "asof": "2026-10-19T00:00:00+02:00"
      },
@@ -104,11 +104,11 @@
      "symbol": "G2X.DE",
      "name": "VanEck Gold Miners UCITS ETF",
      "quote": {
-      "price": 88.5,
-      "prev": 86.94999694824219,
-      "chg": 1.782637269878773,
+      "price": 88.73999786376953,
+      "prev": 88.5,
+      "chg": 0.27118402685821774,
       "currency": "EUR",
-      "asof": "2026-10-16T00:00:00+02:00"
+      "asof": "2026-10-19T00:00:00+02:00"
      },
      "news": [
       {
@@ -141,11 +141,11 @@
      "symbol": "2B76.DE",
      "name": "iShares Automation & Robotics UCITS ETF",
      "quote": {
-      "price": 18.829999923706055,
-      "prev": 19.101999282836914,
-      "chg": -1.423931365002462,
+      "price": 18.959999084472656,
+      "prev": 18.829999923706055,
+      "chg": 0.6903832251371256,
       "currency": "EUR",
-      "asof": "2026-10-16T00:00:00+02:00"
+      "asof": "2026-10-19T00:00:00+02:00"
      },
      "news": [
       {
@@ -405,10 +405,10 @@
        "date": "2026-10-09T12:08:00+00:00"
       },
       {
-       "title": "Silver X Mining Corp. (TSXV: AGX) Gains Momentum as Resource Expansion and Silver Market Strength Support Investor Interest",
-       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQQ0tuM0xqSXRnQWVBaUxoVTN1UDVWMVhaaDFPemZQQUJqVURtVXh2VjBvTFZ0RVF4NEZmWC1qT21iQWxXcHVfUmkzb011bXoyQ2lnVzBlaHBUY3VBUHdUYkNhQmtCOGNhVTJsMDNvMGl3QXR2YlRxcm5CeGdGRE5WcEdmaElSS1VON1JGNTJnTER3R2R6V25wYVJXeTJKaGNkRlB5OVZOcGlRbFBnZVJrWHJkelk5VWl4b2I2Yld2MUFHSThRLTVzcVdvcTE2ellGZzBUVncxZnRKUTFramFLNndFaXY?oc=5",
+       "title": "Silver X Mining Stock Surges 6.90% as Resource Estimate Nearly Triples Silver Exposure (TSXV:AGX)",
+       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORnIzOXlBQkIyWHU4SnhnTEdtV0VBYWplNVJjeTdLekpONEYzNUVyaVlNWWhWeXRFcEhyTjh6T2ZfTzczVEFjWlFtR1J5dTJCb2tDb3BycXVKb2gzcUtFbF83Qlhwbkx2RG5XT3dSTktWNUw4a01zcHFLc0VxdmZaS0Z1S3lwX0ZUU0ZJUU1uVm5RdW4zZ1hzNzZYclZUbmhRR0ZYclZ6aWFTejlOMUxQU2trbkUwNWZETjV5bkdnclQ?oc=5",
        "source": "kalkine.ca",
-       "date": "2026-09-23T11:41:00+00:00"
+       "date": "2026-09-22T07:00:00+00:00"
       }
      ]
     }
@@ -458,9 +458,9 @@
      "symbol": "OSEBX.OL",
      "name": "Oslo B\u00f8rs (OSEBX)",
      "quote": {
-      "price": 2110.110107421875,
+      "price": 2102.320068359375,
       "prev": 2101.64990234375,
-      "chg": 0.40255063741541086,
+      "chg": 0.031887614339454196,
       "currency": "NOK",
       "asof": "2026-10-19T00:00:00+02:00"
      },
@@ -470,11 +470,11 @@
      "symbol": "^GDAXI",
      "name": "DAX",
      "quote": {
-      "price": 25622.609375,
-      "prev": 25382.619140625,
-      "chg": 0.9454904280972842,
+      "price": 25374.0390625,
+      "prev": 25622.609375,
+      "chg": -0.9701209929950827,
       "currency": "EUR",
-      "asof": "2026-10-16T00:00:00+02:00"
+      "asof": "2026-10-19T00:00:00+02:00"
      },
      "news": null
     },
@@ -482,11 +482,11 @@
      "symbol": "^VIX",
      "name": "VIX volatility",
      "quote": {
-      "price": 19.989999771118164,
-      "prev": 16.459999084472656,
-      "chg": 21.44593489057658,
+      "price": 18.459999084472656,
+      "prev": 19.989999771118164,
+      "chg": -7.65383043603669,
       "currency": "USD",
-      "asof": "2026-10-16T00:00:00-05:00"
+      "asof": "2026-10-19T00:00:00-05:00"
      },
      "news": null
     },
@@ -494,9 +494,9 @@
      "symbol": "GC=F",
      "name": "Gold (USD/oz)",
      "quote": {
-      "price": 4206.0,
+      "price": 4197.60009765625,
       "prev": 4181.10009765625,
-      "chg": 0.5955347100565112,
+      "chg": 0.39463298210078435,
       "currency": "USD",
       "asof": "2026-10-19T00:00:00-04:00"
      },
@@ -518,9 +518,9 @@
      "symbol": "USDNOK=X",
      "name": "USD/NOK",
      "quote": {
-      "price": 9.427949905395508,
+      "price": 9.434450149536133,
       "prev": 9.473099708557129,
-      "chg": -0.4766106612478338,
+      "chg": -0.40799273954736925,
       "currency": "NOK",
       "asof": "2026-10-19T00:00:00+01:00"
      },
@@ -544,16 +544,16 @@
      },
      "news": [
       {
+       "title": "$10,000 Invested in Apple Could Be Worth This Much by 2031",
+       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSHQ1UHRkT280bVY3b0JMLXhDSXBHSVlBTlMzbk9KdGdPaWZMYlduUzQ2dmhvNWJtX3BzazJIYkZ0N2JFc2NMYm5LaFVfTl9RVVlLdVo0UE1wRGdfZFBlT1RsclBES1NRZEpoTDBWbmcySGtGdzBJa2poOWVXX0pGd1dDNHJNSjF4MjFOaVRKb0ktNVAzNmsw?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-17T15:49:02+00:00"
+      },
+      {
        "title": "Apple\u2019s $1,999 Foldable iPhone Sold Out in Minutes. Deliveries Now Slip to January",
        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeDA3dU1MNjRXS250MkpoR21BVEttdVNXV2xpZjllcTRNNnhHTVFuVDlxSTZQUkhrMTFKUmxmSWF5cklxWXpxMGZTX2ZtWjcybWdfX1BsdmRrX0FaVnJKa2hleDV5cmgwcWFCZnNlNE5HMU1QNGQ5aURyVjc1UTVicERrdldrSGFOUjFmTzJnYVdNQkw0NUpv?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-10-17T14:50:18+00:00"
-      },
-      {
-       "title": "Apple's iPhone Duo Demand Tracking 'Solidly Out Of The Gate', Says Analyst As AAPL Stock Caps Off Best Week Since September Launch",
-       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPazl4WnkxZ01PS3NmdFcydDY2WS1FbFFfS0hsdUxwQ0VKcDNHbWVpWHd2SGNSN3VsQkxucGZUdFpJRkMwR0x5X09BV2tJbm5acGFiaFFVVlp4clJLWXdseTdIalNoRERBbjZoRk5BVFZHMGM3YTJPMlZOeUlVYjhJTktqX3pTeDJuZGdLOVpXSzBldTlRWDBoZDlfVUQ3ZHc?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-17T09:11:05+00:00"
       }
      ]
     },
@@ -644,10 +644,10 @@
      },
      "news": [
       {
-       "title": "Should you Buy Amazon Stock Before October 29? History Has a Clear Answer.",
-       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZ1NYeFB6R3BmMHNWUVNPc0F4NEpkS2pWaHNSZEx3OUZtNjU2Z2tIVUtLQm5HQmxPZWdWVHNQVktURWU1ang5ZURxOXR0YXFfNmUyVkFPc2RWbmtSdkN4M3l1SzlweVphOWxWNHFieXpkX3ozS0hoOV9JX2NZTWxfeVA0VVRVV2dLR2Nwa0Rqc3VzUlBacTNN?oc=5",
+       "title": "Cathie Wood Just Sold $7.7 Million of Amazon Stock",
+       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPazBwbWpQYXFRQWhxNDdPMWx6WDVNSVNJcElIdG1Qa2d5akltSFdGLVJZTlM2WHBQZ0pQWFlLWEtNTGdya0tqQXdtVjZjVUhwSlpWSURIMG51TzRTY3FhTU1DTGRmNEVwTzFmR2hESUotekVoRFdjZ2FXczdELWtOWThpWXZOQlhIYzZaRVFybUZOZw?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-10-17T18:47:00+00:00"
+       "date": "2026-10-16T18:29:33+00:00"
       },
       {
        "title": "Amazon Is 11% Below Its High Heading Into Earnings on Oct. 29. Here's the 1 Number That Will Decide What Happens Next.",
@@ -669,16 +669,16 @@
      },
      "news": [
       {
-       "title": "What Wall Street may be forgetting about Meta's AI business",
-       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbkVjRkdRdVp2TUFaMmczY2dJaC00d1lUcnpZQ1RFN29hS0V5NHhmaGRGOGhZeDhocjFNM0FjeXMzb0JVV01HcGM1QUt3RDV1NGdpZGRSNllVWENhdUE4NG14UUV2NEdVa0tjWV9YeDFBR1JCUlJlbktFbzVUSHpPSkFpYkkyVWo2WUxJdnJicWRuMHBZTGdVQzFjVElVZGpNbk1GRkg2SGVETXBhUVJrLWs1aUJKTkVjdWJmdVpEWQ?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-15T12:34:22+00:00"
-      },
-      {
        "title": "Meta has an AI advantage OpenAI and Anthropic can't replicate",
        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQkh1U3hwN0V0OWc2SWp1S1Zpa204RldpMm1qUUJ6cGRMT3BuOHhWbGtNbGJla3B6RXZFb3dSZkN4NTE0NTJOYmNoLTVLVnV4RS14Zkx2ZTFUbXR1ckpfQUNDM1gyVmJESTc3ZHd4YnVoNjNpYmtrUWNBYTZEU3JwV0JfQWc1SkM4M1ZMbzBlUDVyQU5PbjVSTndGdHlzOEFTNkctekxTSXlSSG5qNlc4WDR1UmFZNjdCMUg3Zg?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-10-15T10:00:00+00:00"
+      },
+      {
+       "title": "Meta Reports on Oct. 21. I'd Consider Buying the Stock Before It Does.",
+       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQamtOeGNGblVhbllmQlV1a3VQak04LTdzR29QUXB5bFRtXzNpYTBScHoteXA1ZFlnRW9qcWxfSHEwV1k3QnEtWDUzd0d1M2F1dGpqZGhObk1ZZE1KWjJYQVJRY05qbVF4YkxYeWdZUjRUcFY3cERIdlNwbGdIeVIyb0l6bnd5Zi1Vc050Y1hjdHo?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-15T04:07:00+00:00"
       }
      ]
     },
@@ -773,16 +773,16 @@
    "date": "2026-10-16T06:35:00+00:00"
   },
   {
-   "title": "Otovo ASA: Approval of prospectus and listing of shares",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOajNaT2sxT2V0b3VRTkk1TklPcDI5WDNHcks2amQyTE9hSU1Va19TSm56NnNDbXBRMWtwT0lNNnlZRWE1ajdLWGlCOE1hUktzbU5CaXl3TE12TWY3VXFaa3NRbGJYcTlNWEVwbDdrVmFyS2h2YU9DUmN6WEhoUHppbExyVFNGRlNDdlpRMXJ3aFo2VEgzdk43Mk9wdE92OC00X1FSQXpnWF8xZmZVaTRpUDVNTzd3TnZqa1JuS1dIVTNuaDMwakhnYk5SOHNHaXNQVDFrU3ZBWUZEaHF1?oc=5",
+   "title": "AKRBP: Third quarter 2026 trading update",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZzFxS2IyN3lYS2xZYjJqMGo5Y2gxcHZ2T05TZ1VuSVFjZms3bWd0SDlfRW03a0ZCV2pYdlJVXzN5c2h2LV9IMW1SRWRjUmFJbUdvazdmekRDYWlWTlNQMnktVnJCX0JIMmJLLVhPSVlXamJOVWdacEc4bkxya0dCcHNXMUg2WmY5QVFVNExkOWZ5U1QtZFRPODYzSHVSWTlJTHdjVTNObUhieGZERHVXUG81ODJ1N3pjdVlmd0VLWmZLa1lVZE9kTQ?oc=5",
    "source": "Finansavisen",
-   "date": "2026-10-13T15:47:10+00:00"
+   "date": "2026-10-14T05:00:10+00:00"
   },
   {
-   "title": "Atlantic Sapphire Applies for Delisting from Euronext Oslo B\u00f8rs",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQU5EYWZtVUw5dVZCQ2Q4aUhDOUE2bldKSU1kREdaUnY3bTFVSGJMdHJiVno2MzJSc1lnelR3M1pEZUdsNXVrVm1nV2JIS1dEVlNtb3YwUF85U0xGbkRVNkV6NkMzZXRZb1ltVUZYZGxLLUM3MS1FVk9VSVllalRGZkFqdUkyelBlRV9iZFVHbHl3S1pxNlhtWWJKN0JTNTdQR3Ayc0FneE1xMHh2YVM4Y1FFVEtxbms?oc=5",
-   "source": "www.marketscreener.com",
-   "date": "2026-10-13T08:19:21+00:00"
+   "title": "PPI Public Property Invest AB: Transactions carried out under the share buy-back program",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPU0N1ZEZnOEM5WnB6YWhHVTA5V0lyem93WDdqYmt5Smhsak9jemhvRXpyRndfWGNwWURpSmljaWF2emo5TnA1TTE4dmp0Mng4U3BtVks2d3YzaVRvR1ZnTTgwcWZDRDRyLU1OSDFETlFZeGZzZUg3ck1XUWNnQzdWdlJxTmdYY1pqanplZ3JDODE2NjNaeWlUQVU1ZVZyS252akJkMlJ3ZnJMVjlraGhpcGE5d2FTcGU4Yi01UkZ5bnN0NEtqSjNwaWFPbzdnSG5oN3pRRlBHd2JnWTJMOUlyMGJOWFNHdDdy?oc=5",
+   "source": "TradingView",
+   "date": "2026-10-14T05:00:00+00:00"
   }
  ]
 }
