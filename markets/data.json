@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-18T23:57:33.389319+00:00",
- "usdnok": 9.429019927978516,
+ "updated": "2026-10-19T00:39:53.742616+00:00",
+ "usdnok": 9.427350044250488,
  "btc": {
-  "price": 82018.5234375,
+  "price": 82124.78125,
   "prev": 81382.1484375,
-  "chg": 0.7819589580984498,
+  "chg": 0.9125254453933751,
   "currency": "USD",
-  "asof": "2026-10-18T00:00:00+00:00"
+  "asof": "2026-10-19T00:00:00+00:00"
  },
  "silver": {
-  "price": 57.45000076293945,
+  "price": 57.43000030517578,
   "prev": 56.994998931884766,
-  "chg": 0.7983188693423182,
+  "chg": 0.7632272680816898,
   "currency": "USD",
   "asof": "2026-10-18T00:00:00-04:00"
  },
@@ -355,9 +355,9 @@
        "date": "2026-10-16T02:23:36+00:00"
       },
       {
-       "title": "Mercado Minerals Signs LOI for La Franca in Zamora, Sinaloa",
-       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPd1EtYm5rNzRfczdXemFPVm9hZWRiOFZCZ0pieUxibnVBMTZ4Sk1Fa0d0MTB5aHFRQlFvT092WXFuU3RORlF6Um05eVIxaGM1OEllU0dOb1A1SlRwajZfeWN1MmFkWmFPQzhZZ3dvS2VfNmVPMUJua2kwSEtNYW5waUl0TzZsdXdhOU0xRTB1aVMwYjM1RGc?oc=5",
-       "source": "Mexico Business News",
+       "title": "Millennium Silver Corp. Announces Stock Option Grant",
+       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUlpIUHlaZS14WENITUdjamR1VWt6SnlyOThRQmNMbjI5SG1PbkZXTXpMNkw1RVJNbzJlSllNUjdtQ0RXUXROVTd4ekpUYUhhSW9GNmtqNEdyX2pqRlNPYjB1S3ZnVUJmV0xyNWJSNERsdVZjQWVYc2lfSnJxaEl0Z0pFbHVudlA0ZlZZd1pGRHRaVTlCTXp5aGRORVNrdFRTUXFNSGJB?oc=5",
+       "source": "Yahoo Finance",
        "date": "2026-09-21T07:00:00+00:00"
       }
      ]
@@ -380,10 +380,10 @@
        "date": "2026-10-16T15:41:20+00:00"
       },
       {
-       "title": "Guanajuato Silver Breaks Through: 267m Ramp Links San Ignacio & Bolanitos Mines",
-       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa3NlbWVFVDFjRDd5elNHWHFyRzV3eDlzeGhIT3JPOFBqUHhyUnpKOEdjVDh4TXpmOExINzliRTNmalpSTDdvTWMwSkJBNTlpcTBCUTVyZzd6eDhKckJoSXdjTE0yWW5uczduRmQyOGlKdV8zSF9CUEJ2SlBjSGNoVXpHT3FFc0tDLWNjbFY3QWlOOGdxc0NWVFNTUm54U3Bwd1IyT1dIUnp5ZG5MQ0xVV2FUSzlXMmxkV1AzUkdsclFoU2dKdjlHb2gwWG11R01SeWZQNw?oc=5",
-       "source": "Streetwise Reports",
-       "date": "2026-10-09T07:00:00+00:00"
+       "title": "Guanajuato Silver completes tunnel linking San Ignacio and Bolanitos mines",
+       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTGo3S0R1UVMyOGNoa0R0VEtGcVlOM0hjZEhTRTNnV2lyRGU4QmJydTNfU3hBRzN5VHRldzR4OVExNDc2WFJMU2swU0FJaVI3anFBMU5KbW14MGRlVHZndk9GVF8xQm93TDBOMGprYlJoSGJrM09yM1o5SmIzZkRmc05tM2twWnJBR0lTWVRtQ2pPQQ?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-09T14:57:56+00:00"
       }
      ]
     },
@@ -494,9 +494,9 @@
      "symbol": "GC=F",
      "name": "Gold (USD/oz)",
      "quote": {
-      "price": 4205.0,
+      "price": 4196.0,
       "prev": 4181.10009765625,
-      "chg": 0.5716175596261586,
+      "chg": 0.3563632057530075,
       "currency": "USD",
       "asof": "2026-10-18T00:00:00-04:00"
      },
@@ -518,9 +518,9 @@
      "symbol": "USDNOK=X",
      "name": "USD/NOK",
      "quote": {
-      "price": 9.429019927978516,
+      "price": 9.427350044250488,
       "prev": 9.473099708557129,
-      "chg": -0.46531528153129775,
+      "chg": -0.4829429195737811,
       "currency": "NOK",
       "asof": "2026-10-19T00:00:00+01:00"
      },
@@ -644,16 +644,16 @@
      },
      "news": [
       {
+       "title": "Amazon Is 11% Below Its High Heading Into Earnings on Oct. 29. Here's the 1 Number That Will Decide What Happens Next.",
+       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSHFSSEl6Z1NIcE5NbnlWZHpBU1kwUzJtS09ERl9WZVBkU2p2S2xsdkYzRGVOZC1jQ24zeEp1d2U2RjBRNlE3dTE2R2gtaEZ2YmE0U0ZQdTlaV3hNWUdlclYwa1I3TnZZUGVOREJ4enJyTjEtVlhlcVI5VDhKQ2hVQ2xvLXhGR1VSQ1hNZkJlYmFaZThpSlNXcQ?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-16T17:30:00+00:00"
+      },
+      {
        "title": "Wall Street Agrees on Amazon and Can\u2019t Agree on Tesla. The Targets Show Why",
        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ2tySzBQeWxvR3RMY1Y4V01nMERkcTNfbzZ1dGxSeWFua0RzNmNPQzgxb3E2MTR0MWUzV080UXl0ZklhS1drU254MXFfcjlxNEw4blduWm5rZHJYUm5QNllSTV9uY0ZvSmhEMkZ4UkZPVkgzVFEwV1Z2ckR1dzNqc0ZhSUU4RjlIQ2RpTHZ5NG5Yd2ZKbDRJ?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-10-16T12:45:36+00:00"
-      },
-      {
-       "title": "How to Play AMZN Stock Amid the Latest Round of Amazon Layoffs",
-       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM2U5QUtrLVN1YkEwWm5ScHJNU1VITWhJZ25MbHBoZ1g5bVFZMThiYkxKRGNYamRiQW43YzExYlZwSzdoRU1UTnkyVzNLRXZmcnozVmNpUzFvblpIVER2MGJWbHFhbUJ6ZlVaOEZQb0RZVkp2U0dhOTgyTnFKeC16MklSZWVWaHVDRnYxaDFvRllCSHo0czFR?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-15T21:27:15+00:00"
       }
      ]
     },
@@ -761,28 +761,28 @@
    "date": "2026-10-17T11:43:00+00:00"
   },
   {
-   "title": "Major earnings reports are due next week, but strong results may not be enough to quell market fears",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMDB5eUJodTlUZTZQNzNYdFhCVWFOWUdRZk5ENkFRNll3OEE0RjJkb0tMUzZRMkJYNktERG5pN1ZmR1JTUW1FczQ0UmQwSGRza2xUeUsyTndRajd0aVU3dXRTaE1nVkFKalpJZm9yMVVNWUJpYi1vUGp2VEJwQl85dmNzY0ExV015MGc?oc=5",
-   "source": "CNBC",
-   "date": "2026-10-16T19:39:38+00:00"
-  },
-  {
    "title": "Regime Change: Bonds Pricing AI Bubble Burst And A Recession",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRFRYSmZTX1IxSTBwU2p1U0hVc2Z5Q1NLR3RTb2VCNFEzWUFMdGJDSzJfQkdJQXp4V3JBbG4wV2hDVTJaZlNQSmswcFZwRzlUaEJMME1zTlFqVVlGbEtEUUdfNDBneWJMSVBlZ0d1Yi1BNG9HeEV1V0lHTlNzNERlVTVlaC1scWdCRnhqRWhTYTBNZGxRd3J5VWg3S2dadVF1V0E?oc=5",
    "source": "Seeking Alpha",
    "date": "2026-10-16T14:11:09+00:00"
   },
   {
-   "title": "Weird Bond Market Price Action Signals Recession Ahead (SPX)",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU0V5blVtMWNkNndCMzl4YUx1QTZDcmlmZFBzbnZQZXpmYjRSdk5RSVZWckZTLUVrTVYtV1ZtMkJ5UVFNOHJHU0RRbHhFQ1hxMFlxTTBKMVdCMk9YaHAwZ056S3RFMXIwcDlWYWRaRmRkSzdkQlJKT1hDbU1kdlhobWRwSGxyRTV6TVcxVDduRXY3dTF5c1djLXRKdw?oc=5",
-   "source": "Seeking Alpha",
-   "date": "2026-10-16T11:50:38+00:00"
-  },
-  {
    "title": "CMB.TECH Shares Go Ex-Distribution for USD 0.64 Across Multiple Exchanges",
    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdUhBaVhQQmRuejNmRTJaTnY3bTlPZXdGaG5zc3VBUk10S2NLSlAxZmtqaGM1bnBJZk9zemhHRnltZ0EyalNDRW5XLWVScDE0R2NraFFLb0pra19RTkwzbVBGRi1zTEpkTU1uanJMTWVDXzllZmhJLUVoZXFkU3RxS2VldmZKSGl0VUU3OTgwNS14SVotX2hiUWFMZGZrLU1LNEsyek9VMGJpODdMMU9aODQ4eDU2MndQOHJudW84RlFRMk5jMHZpTHJ5YW9FbzZCaHZIOVFJQjlDY2lIZVlqc1RCMUdLVnRydHhMNw?oc=5",
    "source": "The Globe and Mail",
    "date": "2026-10-16T06:35:00+00:00"
+  },
+  {
+   "title": "Press release: CMB.TECH fleet update",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQT3F2emsxbkVmRm9iZ21lM052MFkwRjhRVEowd3NpTXNSMDh2dmROUzRnWkw0V05vY09nZkxDQXVnY3Z2a0dya1JfOXEtS0Y1bkg0R0hmdkIyRE9oWVNobmNMdG82SkluaF8xaExEazZYMkNOYVlfNHdvVXhmQ3pQOExETGUyYXFtVHNJeGJ6MWhyTzAza0NuQWg4WV9mb1c1UWZ1bmtLcFFlWjBL0gGyAUFVX3lxTE1kX2JhZ0c5a2FTT1h1ZkNNbzZ3SUxIaHp0MzRfbEJnZll6MlRTV3llNW5HRVpNZWZZanVNU3ZhLTR5UmI4ODM4Vmd3UWFPQzdsSGhrdVpkdGJBVXo0RlJ2NUhrM0o3SzBuTjdtSkJjNGhTOHo5ZG8wQkhNeWJlWWt1MTIza1h4bGtPR1JSbDl4Z3ZfNTdpQ3U4OTdEWUg5MDhsZThUZkkzbldUUDd0dTlqWWc?oc=5",
+   "source": "The Manila Times",
+   "date": "2026-10-13T07:27:25+00:00"
+  },
+  {
+   "title": "Atlantic Sapphire Shares and Warrants Suspended from Trading on Oslo B\u00f8rs",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQck9tSmRlWnFQTjVjenROMlJzLWttMmd3MUk4UmtRdHMtUGFNMmtJS1Y1QVZIVlR6cUtlaUdKbEZQZ21QT2ZMMjcySlNrSDk0WHlpQi1qYmxHdTRITklSVXhDMGRqc2c2b0lINkUweDBURDQtb2ZjOEtMN2lkUk1jX1lQQ1g4QmNWclo2c0pvQlpkZW5hd0tUOFFTbnVfVmthdDYxMlpEbHBLMExhZkJfaVlGMGh2dUZaSGRCemNpZ0JRSFk?oc=5",
+   "source": "TipRanks",
+   "date": "2026-10-13T07:17:43+00:00"
   }
  ]
 }
