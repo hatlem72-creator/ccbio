@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-19T06:11:25.498454+00:00",
- "usdnok": 9.429800033569336,
+ "updated": "2026-10-19T07:15:43.374422+00:00",
+ "usdnok": 9.427599906921387,
  "btc": {
-  "price": 82692.359375,
-  "prev": 81382.1484375,
-  "chg": 1.6099488188201505,
+  "price": 82746.828125,
+  "prev": 82017.6015625,
+  "chg": 0.8891098357031391,
   "currency": "USD",
   "asof": "2026-10-19T00:00:00+00:00"
  },
  "silver": {
-  "price": 57.95000076293945,
+  "price": 57.85499954223633,
   "prev": 56.994998931884766,
-  "chg": 1.6755888217421022,
+  "chg": 1.5089053890137816,
   "currency": "USD",
   "asof": "2026-10-19T00:00:00-04:00"
  },
@@ -24,13 +24,25 @@
      "symbol": "KOG.OL",
      "name": "Kongsberg Gruppen",
      "quote": {
-      "price": 315.29998779296875,
-      "prev": 302.29998779296875,
-      "chg": 4.300364050594374,
+      "price": 313.79998779296875,
+      "prev": 315.29998779296875,
+      "chg": -0.47573741137755254,
       "currency": "NOK",
-      "asof": "2026-10-16T00:00:00+02:00"
+      "asof": "2026-10-19T00:00:00+02:00"
      },
      "news": [
+      {
+       "title": "3 Aerospace Stocks In Focus As Norway Wealth Fund Ethics Review Nears",
+       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYzJQQkJLdUR0WkFBVEs2QUNwaWlpMm94MEM0NF9lSzhnZWU2UEZLUVoxS1dDLWVoZ0VLdW1OYXRrUTA3c09DNnJBRGx1T1pUdWxhMmpoWmo5V2t5S1ZtVHhDWnVodnBseGQ1Y3dkdXd6UWJpVnNTd1NkdHBMdHZZUG5tNjM2eVFvVHZRenhPc1ZiaFN5UTMtZ2M0VmhRcTh4QWpTY3hlQ0FJeG90cUQwczB6RWJTX3N1U3VCcHdPRGRUQdIBxwFBVV95cUxPVnMteHFUM1ZoYVZHeG81S1NxR095c2JfYk1EQTluRWU0SUM0cGVndHoyTDA4d1RNTnRlYkY4NDZMeDlIQTFVMUEtazNrYWNRdDAzWDdWa1RIMWp4emZBSUlkanJjMEVjSkc2SzA5Y0s1SGJHcWJZa1h6NWxsdVVldW12MVZ6UHRxT0F4em1Md2F6a0JKTEVWQjVPNnlaMW4wQUc2TzFkdkFQRFNzM3ZiWm1jbXpFWnpkYUR5YnprM21kQ09Ydng0?oc=5",
+       "source": "Simply Wall Street",
+       "date": "2026-10-15T03:57:47+00:00"
+      },
+      {
+       "title": "Kongsberg to Build New Counter-Drone Plant in Poland Worth $51 Million",
+       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1YTElCTm85LTN2OVRNTHBPdW1lMU5RUHhjZHRvLXNUVDlOVzl3NkthNGV1SmttRGVSdWpHX0hoejZHV2VXbWdqYWNvWE53N0Z1UjNnWXB4bzcyd1NLc05OcEVMOUVSMkE3YnNhcVZ5Z25Ub2RmTmRN?oc=5",
+       "source": "Envanter Medya",
+       "date": "2026-10-14T00:21:07+00:00"
+      },
       {
        "title": "Kongsberg Gruppen (OB:KOG) Wins Major Air Defence Deals As Valuation Debate Heats Up",
        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeVJMWDAwUUFNeWRsOEVOOWg3b2wyNG1aRndwY3dHWmN6SmdJb2FuUm9pcVlFWFQ5WHdMZzRNa2JlWEs2Ym9RU1lERkcxVjZPMkNLQnRONlpSRHlZa0xrVWtSOGRzTjA4aHk4SDd0bldWSFpERzVseTNtaXQ3SGhqbDFhajFRSy1sUF9pSG0zZ1FWa29tSE0yNkhlX2tabDUzVjBmdUxxV2RBSVY3QWFIRFJjVkplVHFxSzI1MHpzcXBXeFNFTHpmZzBPTGN6NWNHVk9NdEQzNmotOTjSAeABQVVfeXFMTlZxMXRiUEZmV3RIUlNic001c0hKbjlkZGpUNEhjYVN2T0loY0tvSTQ4cjZESm5zY1J5c2QxWklZbDJkLWRHNEhQREJ3Njg1eEYxOUwxazV1ZjhMWTg4M2R3OEI1b1JTa3ZPM3dJWEhITVphRnpNWXNTM0YydmpvRV9rdjI4M3lzZVRNX2RwN3ZmLV9sVzlwWlUzcUJ0MUpNRi1WTmdIWkdEY2s1M3FxYkF6MXB2dmt5YmhKd1ktTk9rbFBKMVRjZ2IwY2pXbXRwZFpSZUxuQVpBMFJKYm16S1Q?oc=5",
@@ -42,18 +54,6 @@
        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaEJpbktxQ1BEWkkwZk1HMGxMT2F6UzU4MFNaRkNyNkNDeHBFNWxSN2RPSXVqQkJpZmdJZWpteGVLYWRZMGdtSU1nR2NZOWFQNWlmSml0SWFFUjFKV3k1YUx3X2ROUE1fMWh4X0taM3BqUnJiaDM2VHN6cTdOVDdhbnZWQjRSaUdpc0c2Ym14cUg5TnFrUGtxVHpITnlSQQ?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-10-13T18:08:19+00:00"
-      },
-      {
-       "title": "Kongsberg signed NOK 10 billion NASAMS deal: what it means for Kongsberg stock",
-       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbWpVUm5IUzROQUNaTE1saG5sWmVaZ3RscFFFT3ZRRzVwTU1GZzlqVjAzcGMxWDc3VlZNdmdzUHNzcHhVYlF1V0I2NGNEN0lGdExxOWpVMEJkZHFoVFMyLTg0TUNKbFQ1NEx0X25CRWREYW1lMkFfR0ZGTENTdlJxS0M3U2s2SVN2VlVVS2Z1RHJIX1Q1d2dTeUtCUFE4cWFKTkdqckNSZ2RxMnZTZEZVSlItZml2MWtVTDJtUDIyWXI2cjlMTnIwUUVSZnp2a3M0a3c?oc=5",
-       "source": "ad-hoc-news.de",
-       "date": "2026-10-13T03:24:02+00:00"
-      },
-      {
-       "title": "Should Large Defense Orders Require Action From Kongsberg Shares Investors?",
-       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWWdxWXNZUVZxQUpPa1FydmpnY2h0M2dhX3hpR3Fob1lCMElHRUxvWGQzeWlCM21SWXhCQ1lPVEwtR1RFNHZvR3NBcS1NbG53cXpocXUyVFZmMTVHQXljNEI3SGd2RVZuUUEzbjFnOGtyM1JsWUxXcWptdXViM0dHWXBPd0ZpaVptdzJjbzllZEo0WEpRb0xsNzdONm5hWWJPVTM3UG1NMDRfTGNCdW01SmdWWkN0eWJ5aHlXNVY1MU43VGtMMlRpM3JFU3lJWE1jOFpiMkl6NVEwS0XSAeABQVVfeXFMUEpuTEl2N2pPSG5POTlRLXgzVno1cVEtUWMyclJWWThpT29zT1Z5bnFHMFRlWXQ0dktxX1llam1NUWI4TzV1eTRneE12U1JLSnBaN2wtcXByMmNXdVZTSVRFcVlNNUpZcUNRYUh3bjJ1dnlZZktyQ1ZLY1Z6VUctU09OdzZvWHpzX01IdEctTXdQbHlxVzd2WnZMSWJnR2RJMVBjR2dSb0ZRdzBOdUpyNzFnSUxzX0dYR1hNTFlLUnpSX0pBdjZtODNlVmdua2VEMWt1MXRuMmI5RlpMN2pKakc?oc=5",
-       "source": "Simply Wall Street",
-       "date": "2026-10-10T07:03:30+00:00"
       }
      ]
     },
@@ -61,11 +61,11 @@
      "symbol": "KMAR.OL",
      "name": "Kongsberg Maritime",
      "quote": {
-      "price": 61.060001373291016,
-      "prev": 61.400001525878906,
-      "chg": -0.5537461630918505,
+      "price": 60.58000183105469,
+      "prev": 61.060001373291016,
+      "chg": -0.7861112535878401,
       "currency": "NOK",
-      "asof": "2026-10-16T00:00:00+02:00"
+      "asof": "2026-10-19T00:00:00+02:00"
      },
      "news": [
       {
@@ -355,9 +355,9 @@
        "date": "2026-10-16T02:23:36+00:00"
       },
       {
-       "title": "Mercado Minerals Signs LOI for La Franca in Zamora, Sinaloa",
-       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPd1EtYm5rNzRfczdXemFPVm9hZWRiOFZCZ0pieUxibnVBMTZ4Sk1Fa0d0MTB5aHFRQlFvT092WXFuU3RORlF6Um05eVIxaGM1OEllU0dOb1A1SlRwajZfeWN1MmFkWmFPQzhZZ3dvS2VfNmVPMUJua2kwSEtNYW5waUl0TzZsdXdhOU0xRTB1aVMwYjM1RGc?oc=5",
-       "source": "Mexico Business News",
+       "title": "Millennium Silver Corp. Announces Stock Option Grant",
+       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUlpIUHlaZS14WENITUdjamR1VWt6SnlyOThRQmNMbjI5SG1PbkZXTXpMNkw1RVJNbzJlSllNUjdtQ0RXUXROVTd4ekpUYUhhSW9GNmtqNEdyX2pqRlNPYjB1S3ZnVUJmV0xyNWJSNERsdVZjQWVYc2lfSnJxaEl0Z0pFbHVudlA0ZlZZd1pGRHRaVTlCTXp5aGRORVNrdFRTUXFNSGJB?oc=5",
+       "source": "Yahoo Finance",
        "date": "2026-09-21T07:00:00+00:00"
       }
      ]
@@ -380,10 +380,10 @@
        "date": "2026-10-16T15:41:20+00:00"
       },
       {
-       "title": "Guanajuato Silver Breaks Through: 267m Ramp Links San Ignacio & Bolanitos Mines",
-       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa3NlbWVFVDFjRDd5elNHWHFyRzV3eDlzeGhIT3JPOFBqUHhyUnpKOEdjVDh4TXpmOExINzliRTNmalpSTDdvTWMwSkJBNTlpcTBCUTVyZzd6eDhKckJoSXdjTE0yWW5uczduRmQyOGlKdV8zSF9CUEJ2SlBjSGNoVXpHT3FFc0tDLWNjbFY3QWlOOGdxc0NWVFNTUm54U3Bwd1IyT1dIUnp5ZG5MQ0xVV2FUSzlXMmxkV1AzUkdsclFoU2dKdjlHb2gwWG11R01SeWZQNw?oc=5",
-       "source": "Streetwise Reports",
-       "date": "2026-10-09T07:00:00+00:00"
+       "title": "Torex Gold Reaches 329,000oz AuEq Year-to-Date Output",
+       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQd01za1ZCNTRvRjVnNHFMMWtFNjhCQTRtTVhqeVJyV3hVaGdkM0ZHZ29Sbi1SSFJZVnE4QWxOdGhZSDRYYU1fOTZaMXBKZ1dvNUx0RzRKUGN3a1YtY0VJX1hmVFZScVVBa0U5Z2tDd0ZRaUpOQWNLeEltUTJyVnJhNWJ4MWlremVxTnpLdUVicWU1ZDA?oc=5",
+       "source": "Mexico Business News",
+       "date": "2026-10-08T19:16:23+00:00"
       }
      ]
     },
@@ -405,10 +405,10 @@
        "date": "2026-10-09T12:08:00+00:00"
       },
       {
-       "title": "Silver X Mining Stock Surges 6.90% as Resource Estimate Nearly Triples Silver Exposure (TSXV:AGX)",
-       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORnIzOXlBQkIyWHU4SnhnTEdtV0VBYWplNVJjeTdLekpONEYzNUVyaVlNWWhWeXRFcEhyTjh6T2ZfTzczVEFjWlFtR1J5dTJCb2tDb3BycXVKb2gzcUtFbF83Qlhwbkx2RG5XT3dSTktWNUw4a01zcHFLc0VxdmZaS0Z1S3lwX0ZUU0ZJUU1uVm5RdW4zZ1hzNzZYclZUbmhRR0ZYclZ6aWFTejlOMUxQU2trbkUwNWZETjV5bkdnclQ?oc=5",
+       "title": "Silver X Mining Corp. (TSXV: AGX) Gains Momentum as Resource Expansion and Silver Market Strength Support Investor Interest",
+       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQQ0tuM0xqSXRnQWVBaUxoVTN1UDVWMVhaaDFPemZQQUJqVURtVXh2VjBvTFZ0RVF4NEZmWC1qT21iQWxXcHVfUmkzb011bXoyQ2lnVzBlaHBUY3VBUHdUYkNhQmtCOGNhVTJsMDNvMGl3QXR2YlRxcm5CeGdGRE5WcEdmaElSS1VON1JGNTJnTER3R2R6V25wYVJXeTJKaGNkRlB5OVZOcGlRbFBnZVJrWHJkelk5VWl4b2I2Yld2MUFHSThRLTVzcVdvcTE2ellGZzBUVncxZnRKUTFramFLNndFaXY?oc=5",
        "source": "kalkine.ca",
-       "date": "2026-09-22T07:00:00+00:00"
+       "date": "2026-09-23T11:41:00+00:00"
       }
      ]
     }
@@ -458,11 +458,11 @@
      "symbol": "OSEBX.OL",
      "name": "Oslo B\u00f8rs (OSEBX)",
      "quote": {
-      "price": 2101.64990234375,
-      "prev": 2081.530029296875,
-      "chg": 0.9665905734577152,
+      "price": 2110.110107421875,
+      "prev": 2101.64990234375,
+      "chg": 0.40255063741541086,
       "currency": "NOK",
-      "asof": "2026-10-16T00:00:00+02:00"
+      "asof": "2026-10-19T00:00:00+02:00"
      },
      "news": null
     },
@@ -494,9 +494,9 @@
      "symbol": "GC=F",
      "name": "Gold (USD/oz)",
      "quote": {
-      "price": 4205.0,
+      "price": 4206.0,
       "prev": 4181.10009765625,
-      "chg": 0.5716175596261586,
+      "chg": 0.5955347100565112,
       "currency": "USD",
       "asof": "2026-10-19T00:00:00-04:00"
      },
@@ -518,9 +518,9 @@
      "symbol": "USDNOK=X",
      "name": "USD/NOK",
      "quote": {
-      "price": 9.430120468139648,
+      "price": 9.427949905395508,
       "prev": 9.473099708557129,
-      "chg": -0.45369775194762374,
+      "chg": -0.4766106612478338,
       "currency": "NOK",
       "asof": "2026-10-19T00:00:00+01:00"
      },
@@ -713,6 +713,12 @@
  "failed": [],
  "general_news": [
   {
+   "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdmhWOHBPbmpydVMwNlBNb2JjeHJCMndndGp5Vl9HcVB5bWZxWU1xT1NhczBJelduZ0JUSnZ5S3lTNWZXYjFhUG9qZEhlWENybUN2TGlhMVNTbml6bVFZem9Kb2dCeWhuZ2I2VU42UkNRSlViLWs2d0pwWUU3UXN3dVI2bXBDVHYtRlRQR1g3clNyUQ?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-10-19T06:36:00+00:00"
+  },
+  {
    "title": "Could Bitcoin Price Drop to $10,000? Bloomberg Analyst Gives Grim Warning",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVThPTjZldzBoLXU2VzdSZUdKRnpZNVJCSVBfTzdyMERWWjBEZll3STVjWVJUV0tfN0JXZUUyMk1JVHA3TDJObTlMRTE4UHh6SzM3ZHIwY3FTQWktOG5FRGZ6Y05NcF9DRS1yU084YVIteEVEeU1JbzZkaWlkMmstT1hGaFhiSWNDaFpBRGZLMTVTdUdqRExB?oc=5",
    "source": "Yahoo Finance",
@@ -761,28 +767,22 @@
    "date": "2026-10-17T10:50:11+00:00"
   },
   {
-   "title": "Regime Change: Bonds Pricing AI Bubble Burst And A Recession",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRFRYSmZTX1IxSTBwU2p1U0hVc2Z5Q1NLR3RTb2VCNFEzWUFMdGJDSzJfQkdJQXp4V3JBbG4wV2hDVTJaZlNQSmswcFZwRzlUaEJMME1zTlFqVVlGbEtEUUdfNDBneWJMSVBlZ0d1Yi1BNG9HeEV1V0lHTlNzNERlVTVlaC1scWdCRnhqRWhTYTBNZGxRd3J5VWg3S2dadVF1V0E?oc=5",
-   "source": "Seeking Alpha",
-   "date": "2026-10-16T14:11:09+00:00"
-  },
-  {
    "title": "CMB.TECH Shares Go Ex-Distribution for USD 0.64 Across Multiple Exchanges",
    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdUhBaVhQQmRuejNmRTJaTnY3bTlPZXdGaG5zc3VBUk10S2NLSlAxZmtqaGM1bnBJZk9zemhHRnltZ0EyalNDRW5XLWVScDE0R2NraFFLb0pra19RTkwzbVBGRi1zTEpkTU1uanJMTWVDXzllZmhJLUVoZXFkU3RxS2VldmZKSGl0VUU3OTgwNS14SVotX2hiUWFMZGZrLU1LNEsyek9VMGJpODdMMU9aODQ4eDU2MndQOHJudW84RlFRMk5jMHZpTHJ5YW9FbzZCaHZIOVFJQjlDY2lIZVlqc1RCMUdLVnRydHhMNw?oc=5",
    "source": "The Globe and Mail",
    "date": "2026-10-16T06:35:00+00:00"
   },
   {
+   "title": "Otovo ASA: Approval of prospectus and listing of shares",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOajNaT2sxT2V0b3VRTkk1TklPcDI5WDNHcks2amQyTE9hSU1Va19TSm56NnNDbXBRMWtwT0lNNnlZRWE1ajdLWGlCOE1hUktzbU5CaXl3TE12TWY3VXFaa3NRbGJYcTlNWEVwbDdrVmFyS2h2YU9DUmN6WEhoUHppbExyVFNGRlNDdlpRMXJ3aFo2VEgzdk43Mk9wdE92OC00X1FSQXpnWF8xZmZVaTRpUDVNTzd3TnZqa1JuS1dIVTNuaDMwakhnYk5SOHNHaXNQVDFrU3ZBWUZEaHF1?oc=5",
+   "source": "Finansavisen",
+   "date": "2026-10-13T15:47:10+00:00"
+  },
+  {
    "title": "Atlantic Sapphire Applies for Delisting from Euronext Oslo B\u00f8rs",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQU5EYWZtVUw5dVZCQ2Q4aUhDOUE2bldKSU1kREdaUnY3bTFVSGJMdHJiVno2MzJSc1lnelR3M1pEZUdsNXVrVm1nV2JIS1dEVlNtb3YwUF85U0xGbkRVNkV6NkMzZXRZb1ltVUZYZGxLLUM3MS1FVk9VSVllalRGZkFqdUkyelBlRV9iZFVHbHl3S1pxNlhtWWJKN0JTNTdQR3Ayc0FneE1xMHh2YVM4Y1FFVEtxbms?oc=5",
    "source": "www.marketscreener.com",
    "date": "2026-10-13T08:19:21+00:00"
-  },
-  {
-   "title": "Atlantic Sapphire: applies to leave Oslo stock exchange following takeover",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcV94Z19kM28zRnBvNEY0YVV4Y2RNaXN5ZWtRUnJuR0RhTWNjakpNdFE0N3RMWEZvNEJsa1duS2NEMmZWOWV3aUhEM2lERU1hdnMxSVlBTk1WMWFQZ1BUbjBFM2RxUzBJR2tNZktmSUJFTXpyby1GQ3lvOXdxTkhTMU1ZT1lnczBDR1RuMmR1S2s5c1JRODlUcjZqWHp4WlVTTFdQVXJ5MmM?oc=5",
-   "source": "Salmon Business",
-   "date": "2026-10-13T07:43:09+00:00"
   }
  ]
 }
