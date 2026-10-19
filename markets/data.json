@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-19T12:40:10.582472+00:00",
- "usdnok": 9.413220405578613,
+ "updated": "2026-10-19T13:26:59.109793+00:00",
+ "usdnok": 9.473099708557129,
  "btc": {
-  "price": 82515.0,
+  "price": 82483.171875,
   "prev": 82017.6015625,
-  "chg": 0.6064532832272151,
+  "chg": 0.5676468265719992,
   "currency": "USD",
   "asof": "2026-10-19T00:00:00+00:00"
  },
  "silver": {
-  "price": 57.779998779296875,
+  "price": 57.630001068115234,
   "prev": 56.994998931884766,
-  "chg": 1.3773135575461115,
+  "chg": 1.114136587649317,
   "currency": "USD",
   "asof": "2026-10-19T00:00:00-04:00"
  },
@@ -24,13 +24,19 @@
      "symbol": "KOG.OL",
      "name": "Kongsberg Gruppen",
      "quote": {
-      "price": 311.0,
+      "price": 311.6000061035156,
       "prev": 315.29998779296875,
-      "chg": -1.3637767077213425,
+      "chg": -1.1734798073898434,
       "currency": "NOK",
       "asof": "2026-10-19T00:00:00+02:00"
      },
      "news": [
+      {
+       "title": "SB1 Markets raises its target price for Kongsberg Gruppen to NOK 400 (375), reiterates buy",
+       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQb2pNQy1aTG16d2dtbzFoTGpmSVBjYkZ0bGYzeE1jeW0xT0ZYcWZ5bjRVM1VDczRDQ2Q4TlhZY0JPNFJOQjNhTmF5eWs3dmEzaEZnZWFxVkRURU1MREJxMmd6OHIzSldXcV9DclUyZ1ZVTU9vVGF4dVVsZDVubXNjQ2tjRlpNUUF0Mk43WWpweUdFTG5GcFl2U0hEZmlDakRocEJROVd4a3Rta0JSanZORTBTc09VXzUwNnlkTHlMR1hYVGJRVS15ZnVuSW8yZVVpLTVDQmd3OA?oc=5",
+       "source": "www.marketscreener.com",
+       "date": "2026-10-15T08:51:20+00:00"
+      },
       {
        "title": "Kongsberg Maritime (OB:KMAR) Stock Forecast & Analyst Predictions",
        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYnpzeTBqTVNhR1NVWHgxRlVYQ1lhUFhWTEdYOU15emJJaTMtUjNfZGlqNWlWN2hhMFBYSHNBRHVVQzl1N3VwbW12TUdYQ1hDVHFNQ282Szd2YkFmeDd3dGs4YmpSZXgyUldERkxrQlhMT0NaUmRPU19VWW9qZ0c4dTFIOWw4Q1ozMFJXN0hnSQ?oc=5",
@@ -48,12 +54,6 @@
        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1YTElCTm85LTN2OVRNTHBPdW1lMU5RUHhjZHRvLXNUVDlOVzl3NkthNGV1SmttRGVSdWpHX0hoejZHV2VXbWdqYWNvWE53N0Z1UjNnWXB4bzcyd1NLc05OcEVMOUVSMkE3YnNhcVZ5Z25Ub2RmTmRN?oc=5",
        "source": "Envanter Medya",
        "date": "2026-10-14T00:21:07+00:00"
-      },
-      {
-       "title": "Kongsberg Gruppen (OB:KOG) Wins Major Air Defence Deals As Valuation Debate Heats Up",
-       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeVJMWDAwUUFNeWRsOEVOOWg3b2wyNG1aRndwY3dHWmN6SmdJb2FuUm9pcVlFWFQ5WHdMZzRNa2JlWEs2Ym9RU1lERkcxVjZPMkNLQnRONlpSRHlZa0xrVWtSOGRzTjA4aHk4SDd0bldWSFpERzVseTNtaXQ3SGhqbDFhajFRSy1sUF9pSG0zZ1FWa29tSE0yNkhlX2tabDUzVjBmdUxxV2RBSVY3QWFIRFJjVkplVHFxSzI1MHpzcXBXeFNFTHpmZzBPTGN6NWNHVk9NdEQzNmotOTjSAeABQVVfeXFMTlZxMXRiUEZmV3RIUlNic001c0hKbjlkZGpUNEhjYVN2T0loY0tvSTQ4cjZESm5zY1J5c2QxWklZbDJkLWRHNEhQREJ3Njg1eEYxOUwxazV1ZjhMWTg4M2R3OEI1b1JTa3ZPM3dJWEhITVphRnpNWXNTM0YydmpvRV9rdjI4M3lzZVRNX2RwN3ZmLV9sVzlwWlUzcUJ0MUpNRi1WTmdIWkdEY2s1M3FxYkF6MXB2dmt5YmhKd1ktTk9rbFBKMVRjZ2IwY2pXbXRwZFpSZUxuQVpBMFJKYm16S1Q?oc=5",
-       "source": "Simply Wall Street",
-       "date": "2026-10-13T22:27:05+00:00"
       }
      ]
     },
@@ -61,9 +61,9 @@
      "symbol": "KMAR.OL",
      "name": "Kongsberg Maritime",
      "quote": {
-      "price": 60.86000061035156,
+      "price": 60.79999923706055,
       "prev": 61.060001373291016,
-      "chg": -0.3275479175258167,
+      "chg": -0.4258141670206328,
       "currency": "NOK",
       "asof": "2026-10-19T00:00:00+02:00"
      },
@@ -104,9 +104,9 @@
      "symbol": "G2X.DE",
      "name": "VanEck Gold Miners UCITS ETF",
      "quote": {
-      "price": 88.13999938964844,
+      "price": 88.08000183105469,
       "prev": 88.5,
-      "chg": -0.4067803506797363,
+      "chg": -0.474574202198097,
       "currency": "EUR",
       "asof": "2026-10-19T00:00:00+02:00"
      },
@@ -141,9 +141,9 @@
      "symbol": "2B76.DE",
      "name": "iShares Automation & Robotics UCITS ETF",
      "quote": {
-      "price": 18.950000762939453,
+      "price": 18.95199966430664,
       "prev": 18.829999923706055,
-      "chg": 0.6372853941561729,
+      "chg": 0.6479009086292953,
       "currency": "EUR",
       "asof": "2026-10-19T00:00:00+02:00"
      },
@@ -299,16 +299,16 @@
      },
      "news": [
       {
-       "title": "Is First Majestic Silver (TSX:AG) Driving Fresh Mining Interest?",
-       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdWZuYmdFVnN6cGdJQzU4aU5CbnVsd21xNm5QRlV6OGZlcFlZUV9iR1A5QVgxSkdEYzdlbDR5OWdhWG5OZ3h3VS1EQlF1SExkU2FYSGRjOGo5Q21xZHZTRjIwTVdRZEQydl9IMXc0Zkl6VU56Si1jTEpnN3Y2M196QmVvRjhNUUt1Y3ljLUoyZVJrcEh2NDhJNmRmNmdIYjN1a3c?oc=5",
-       "source": "Kalkine Media",
-       "date": "2026-10-15T17:28:00+00:00"
-      },
-      {
        "title": "First Majestic Silver Corp. (TSX:AG): Can It Restart Jerritt Canyon on Schedule?",
        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVFNkZnJYUnRzZ0t4Qy1oSHNySDlRc3l1cU5zckotalNtMFFsRS1zdkdMdlg5ZjBfT1hTWjgwSEVmbDM4Z1hJODF6SGVJMmQxNW5xSW54TnJzSHE1eUZ3UjFwNm9fdmNUQWVUQnNraGU0bkdLcnpzU2JBc0UwZkdSYXlfdUxNTzR4U2VfR1lXb21nQTd5cWVJanU0Zm9EOUdQZ1pqVnFwZGxGbjc2QmFMeEJoa1pDUmc?oc=5",
        "source": "Kalkine Media",
        "date": "2026-10-15T17:20:00+00:00"
+      },
+      {
+       "title": "First Majestic Silver Shares Slide 5.76% as Capital Reinvestment Pacing and Mexican Operational Headwinds Weigh on Investor Sentiment",
+       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPRFZpaktZajMwZERDd3ptcHVXVm9DNEMyZUI3WFRSZGNQbUk3LXYtbThHNER6VEJ3cW50dmVnczBPNm1BWkJ0QWNjUEt5NFhGN1VKUUNDdElIWlY0TFJLZ1U5S0FYVHhDRE5VY1hRazNYa1VtbG5jNThSYW5XZzVhY0VQbFJ3LXZFWU04SGZGQnpER3EtU2tQYzF2YzJPdzRGZXhIRUNXVGZzdTg1OXVIYUpDSHk5OGZXdEQ3UExwQ0ZHc3l1alplUzdZRm0wQ19SOXptUS1leHhKREpFQ0JveVo5V2VXbm9nUlUzcm1qUjhnMDVv?oc=5",
+       "source": "kalkine.ca",
+       "date": "2026-10-15T06:53:27+00:00"
       }
      ]
     },
@@ -452,9 +452,9 @@
      "symbol": "OSEBX.OL",
      "name": "Oslo B\u00f8rs (OSEBX)",
      "quote": {
-      "price": 2099.090087890625,
+      "price": 2097.300048828125,
       "prev": 2101.64990234375,
-      "chg": -0.12180023182121191,
+      "chg": -0.2069732694667259,
       "currency": "NOK",
       "asof": "2026-10-19T00:00:00+02:00"
      },
@@ -464,9 +464,9 @@
      "symbol": "^GDAXI",
      "name": "DAX",
      "quote": {
-      "price": 25298.0703125,
+      "price": 25264.060546875,
       "prev": 25622.609375,
-      "chg": -1.2666120680770776,
+      "chg": -1.3993454877192835,
       "currency": "EUR",
       "asof": "2026-10-19T00:00:00+02:00"
      },
@@ -476,9 +476,9 @@
      "symbol": "^VIX",
      "name": "VIX volatility",
      "quote": {
-      "price": 18.6200008392334,
+      "price": 18.329999923706055,
       "prev": 19.989999771118164,
-      "chg": -6.8534214485793,
+      "chg": -8.30415140779792,
       "currency": "USD",
       "asof": "2026-10-19T00:00:00-05:00"
      },
@@ -488,9 +488,9 @@
      "symbol": "GC=F",
      "name": "Gold (USD/oz)",
      "quote": {
-      "price": 4184.2001953125,
+      "price": 4181.7998046875,
       "prev": 4181.10009765625,
-      "chg": 0.07414550199331682,
+      "chg": 0.01673499832357539,
       "currency": "USD",
       "asof": "2026-10-19T00:00:00-04:00"
      },
@@ -500,9 +500,9 @@
      "symbol": "^TNX",
      "name": "US 10-year yield (%)",
      "quote": {
-      "price": 5.090000152587891,
+      "price": 5.1020002365112305,
       "prev": 5.0980000495910645,
-      "chg": -0.15692226216857952,
+      "chg": 0.07846580779236056,
       "currency": "USD",
       "asof": "2026-10-19T00:00:00-05:00"
      },
@@ -512,9 +512,9 @@
      "symbol": "USDNOK=X",
      "name": "USD/NOK",
      "quote": {
-      "price": 9.412790298461914,
+      "price": 9.414560317993164,
       "prev": 9.473099708557129,
-      "chg": -0.6366386077488073,
+      "chg": -0.6179539154547831,
       "currency": "NOK",
       "asof": "2026-10-19T00:00:00+01:00"
      },
@@ -538,16 +538,16 @@
      },
      "news": [
       {
+       "title": "Apple Stock Escaped the AI Downturn. Now It Faces a 27% Plunge, Says Analyst.",
+       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBiRENpVUVRNldJYkpuVm1fQnVwMmRTUE5FdkJENzdST3cyME4wWlRZSFN0c3Zna2pvb0J3RkhhSHVtcV9MWW9tVTBIMmFTQ08yRHBsNlpwYzZwQVhkaGdKWDBITENKVnVOUVgyYmM4OV9fUmNMVjlFY2NjZXU?oc=5",
+       "source": "Barron's",
+       "date": "2026-10-19T12:42:00+00:00"
+      },
+      {
        "title": "Apple's Market Value Grew From $350 Billion to $5 Trillion During Tim Cook's 15 Years as CEO. Here's What That Growth Curve Means for Apple's Next Chapter Under John Ternus.",
        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVGN0dzdtQkRGYmhIWklBMHBzSTh1S3lSQXJEYV9qUlFXc1Q3ekNPeHZ6bllWa1NZX1NfTFp6ZmhuMVBnTzFqWFNLQWZHMXJNb01jSGE2X1JHdng2cFI4UVNUOFItWVRzay12N1JWXzhPY1hYLXNDZUQ4VGN6ZnNfcEhaUFNiWHdRZmZBTjM4WU1FSkpOZl9vbA?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-10-17T20:07:00+00:00"
-      },
-      {
-       "title": "$10,000 Invested in Apple Could Be Worth This Much by 2031",
-       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSHQ1UHRkT280bVY3b0JMLXhDSXBHSVlBTlMzbk9KdGdPaWZMYlduUzQ2dmhvNWJtX3BzazJIYkZ0N2JFc2NMYm5LaFVfTl9RVVlLdVo0UE1wRGdfZFBlT1RsclBES1NRZEpoTDBWbmcySGtGdzBJa2poOWVXX0pGd1dDNHJNSjF4MjFOaVRKb0ktNVAzNmsw?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-17T15:49:02+00:00"
       }
      ]
     },
@@ -563,16 +563,16 @@
      },
      "news": [
       {
-       "title": "Microsoft Stock Had a Monstrous Rally After Its Last Earnings. Don\u2019t Expect It to Repeat This Time.",
-       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV1dCUFFpdGRJQUQ3VDUzai1iS01XWF9GeGdfYVFGNWpHcGxCUThqRmtuZTRjSXpTcWZFcF93elZkd05PUzhsbFM2Ymc0N052U3h5NUdEeW5DLUJOeFV0Q2RRQkNDMXdpNkk5YVh5eWpFWkk2elM5N1g1Q0VJQUN3ZnA1c1oxanhCUkxBUnNKRWdzVTcwR2p2YThhaEt0QjI4Y3c?oc=5",
+       "title": "Here's How Microsoft's $175 Billion in Capital Expenditures Is Hurting Its Business",
+       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRjNNMm5lNWtWTmwwNkVVTG9wOUJBTVJqaU05ajg5Vm51Y05hRDlKcHdOVWhoVUlKYlBheV9zVHMtMVN1SXBIRHl5VkZHTzlnbUZ0a01IRUZNeDUwWVByUXEtOVV4b21kc3VWU1NwYUxxZWhUZ1g3aUgtc0k3dkFXRVo2aDNnZUZhYjN5MUVOeDEyaHV2YmhjMExKRnZSZkZWQmZB?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-10-16T13:44:40+00:00"
+       "date": "2026-10-17T14:36:00+00:00"
       },
       {
-       "title": "How Earnings Beat Will Impact Microsoft (MSFT) Stock",
-       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSmRPNkRTT0Z2SUczb0Z4YjdZWVB2Z2x6TXBSSi1lMlN6VGtINVdUWjV2dU5xY0IzbzZOMHQwcV9nSXczRmlOREN6Zi1aUlg1LU9ETk9Bb3JZV1JQaDN1bmxHdm5JWFcxblNuQ2ZmWE5PUF9LZDJ6bE9YaWtzN1R1UWtNWlU2U0l4TnVFMHptNnFuVExtRUQwLVdoU0NxTGNtY2c?oc=5",
+       "title": "What Is The Biggest Threat To Microsoft Stock?",
+       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeGpuZjBOLXhac0lneUlFYVJ4c2g4WTU2dVhyRUpaSV9aLWMyV0JCMW9kWEV3MXFrRUxIQmFoU19RWkk5TUtRLUhnR2YyMzNNeTlSb2dCNS1UU1MzLUNrRWlSZm53ODdCc2VUbjcxdklqdmtwSUZrS3NoSjN0STV0YTdHV1lNUEZkR1p3Q1J1LUt3bXBxaUFKMGVMWQ?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-10-16T04:29:00+00:00"
+       "date": "2026-10-16T15:43:27+00:00"
       }
      ]
     },
@@ -641,7 +641,7 @@
        "title": "Why Amazon Stock Has 40% Upside Even as Meta\u2019s Muse Changes the E-Commerce Landscape",
        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UeEVYeXJTTm1ncDN2eG9wOUY0MnhoR2R5d3UtWmhnSmtaVWVFdmtqeU40cWZ0VzRZU3AtcHNOMUJ1VmJDdlg5QzJOb0U1N1dXd0tUNWY3TFBnaEhyNnZIWkFQbjlPSkJVZWVSbUx3Zi1idmxsQ3FkOHZaR2F2aFU?oc=5",
        "source": "Barron's",
-       "date": "2026-10-19T11:44:00+00:00"
+       "date": "2026-10-19T13:16:00+00:00"
       },
       {
        "title": "Should you Buy Amazon Stock Before October 29? History Has a Clear Answer.",
@@ -731,6 +731,12 @@
    "date": "2026-10-19T06:36:00+00:00"
   },
   {
+   "title": "US futures rebound as AI earnings test looms; France pressures Europe By Reuters",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSUVZaDFGTC1IZnYyTXYzeTE0MlQ2eWhSMWl3NGNrNTI4U3FsTEtWbFNfZHlSZWlNQXBpZVdjSnRYTEl5b3prMGNGSFU4T0xrUGJ5RndHcThVejZXZVdMSTRUeTVrMG5qTWhJeWs1VEdCZlBrSzQ1SkFMVF82NDg1LWdBejFub3pxbXFpNFd6aUlOLTBnTlhSNEVicDF4RGFseHhCcmZNakNSYzRaQlFxb1paWXg?oc=5",
+   "source": "Investing.com",
+   "date": "2026-10-19T00:45:31+00:00"
+  },
+  {
    "title": "Could Bitcoin Price Drop to $10,000? Bloomberg Analyst Gives Grim Warning",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVThPTjZldzBoLXU2VzdSZUdKRnpZNVJCSVBfTzdyMERWWjBEZll3STVjWVJUV0tfN0JXZUUyMk1JVHA3TDJObTlMRTE4UHh6SzM3ZHIwY3FTQWktOG5FRGZ6Y05NcF9DRS1yU084YVIteEVEeU1JbzZkaWlkMmstT1hGaFhiSWNDaFpBRGZLMTVTdUdqRExB?oc=5",
    "source": "Yahoo Finance",
@@ -743,16 +749,10 @@
    "date": "2026-10-18T13:04:04+00:00"
   },
   {
-   "title": "The Data Center Doomsday Scenario",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tdkJFMTFGMmF5a0FzWDhmYWhvcmcyUkRlMnlZclhIRHlIV2lRaGNDR0xkVGlVZEduN1hJMmNQb016RnJIak9BREcwT3hrdy1ucGh2cVlQVWlUeFJQd1ZtTnF5czhKbktsQnltODEwdkVSN2Q3bzg2RUk3a2hBQ0E?oc=5",
-   "source": "Seeking Alpha",
-   "date": "2026-10-18T12:00:00+00:00"
-  },
-  {
    "title": "We Just Witnessed a Unique Stock Market Measure Do Something for Only the 4th Time Since 1997, and It Offers a Chilling Outlook for Wall Street",
-   "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPdXQ5RnExWWpOSkxIY2hsV2VSZHNYYUtCdXgtWXhGR1o1NU4zaFI0UFB1ZzNDc3gwcmpNQ01lc1I3ODF1NXVFRFdscGJvbFlvNFRNVUxqODNsSUdYdzFJNmk2WDVKbU9vX1lfYmtzaGlxSlVmRVVHZm1GR2xvNXNfcXBfdWgxOGdIeUhQeWU5TDZ0cjdwZU02YW5BMk5kT29JTXNqdnFuZEJCWlg1bEZtZ2x2RExXTzhpYTB6NXJqcDJlOU81dGJkdlhwQ2J0RTdVUU5KSWxBRl9fM2o5T253OFNJRE1KakZ4UXd3MEtmNU82X19hQ3BoSEU0cEVVUkZJX05GbTcybUs3Y1AyUWNoSm94TEVybDVSelRpYzBmeTNNWGxLOXp5VnhZb09sN0I5cmJIYnk2ZFJ1RFZsdU94VDJQRmNCamRYdHl1U1pR?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQLVNVWm9zWGk0WGJ3Q0s5VkxEb3kwU3pQYnJJVjJzckllSGV1N1pxTDd0RVp5VldiY2tEMkktS1RzcElHQ1d0NEY3eFJWTldRLVNEYmwxOWpGN0VNZUhQTWUzUVdXUk5HaUQtSHJFaE5yeDZyajVrM1drQzdONG5yZjM5NFJMX21UZmVvYTdDVWNMTVI2bzQ2eEhYY0sybUZ5MnMza0dEZjBCZGlmbHRXU19LeU9ibXdVamJwM0VScVV1SjBJRHBxeEZBcGQyOGVHTVBnWC02Vk9aWWtzV1lmYUxUZEFpUndkdDRSZ1dLWnRyTTFMNHlCeTVuTFNVSnFVV212T0x6allid3ZSUTdaNmRlLUl4bktURVBEMjlaX0FMbUxYeWNudmhfR2ZxenVRVjF1YWlfcWhzUzEyOTFPN0ZnUQ?oc=5",
    "source": "The Globe and Mail",
-   "date": "2026-10-18T10:56:39+00:00"
+   "date": "2026-10-18T11:00:47+00:00"
   },
   {
    "title": "Michael Burry Warns of a Stock Market \u2018Supervolcano\u2019",
