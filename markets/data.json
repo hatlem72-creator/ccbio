@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-19T00:39:53.742616+00:00",
- "usdnok": 9.427350044250488,
+ "updated": "2026-10-19T01:20:41.696203+00:00",
+ "usdnok": 9.428950309753418,
  "btc": {
-  "price": 82124.78125,
+  "price": 82380.34375,
   "prev": 81382.1484375,
-  "chg": 0.9125254453933751,
+  "chg": 1.2265531589726875,
   "currency": "USD",
   "asof": "2026-10-19T00:00:00+00:00"
  },
  "silver": {
-  "price": 57.43000030517578,
+  "price": 57.40999984741211,
   "prev": 56.994998931884766,
-  "chg": 0.7632272680816898,
+  "chg": 0.7281356668210837,
   "currency": "USD",
   "asof": "2026-10-18T00:00:00-04:00"
  },
@@ -118,16 +118,16 @@
        "date": "2026-10-18T07:37:34+00:00"
       },
       {
-       "title": "VanEck Emerging Markets High Yield Bond UCITS ETF A USD (HYEM.MI) options chain",
-       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaTlEtZmxFeXRlODFTcVpWNHRXem5RV2ctNl9rZ0NpQnRrMWZZWkJYVkFsRElDOUYtWnpPNWFjMUQ0LTZVdThWRk84b2pwMTduMkRxREdEUThMYmJ2RzYzMg?oc=5",
-       "source": "Yahoo Finance Australia",
-       "date": "2026-10-16T12:37:50+00:00"
-      },
-      {
        "title": "iShares SLVP vs VanEck GDX: Which Miners ETF Wins",
        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU2Y2Z1M4c3l5RXc2RTRGMVl1YUtVY0Znb3Y0ZnNkVE5IaVE1LXF3UG01a0pCNjZfRTZwWUZhR0dEWnc3WFFUbWRnY0M3bk9WdlRhMFBFcXBIMVhtZlpvb0U1VGRrMWtaal9jWTVqMXJSdlJQekNPVmZTcTV5RDh3b3hGenZRMUNBY1VLUzJnRUxiS0dSQ2w5cWtlNl92UFBDdjhiSVJ0UXFTSDl0N2VmNlgyZ2Z1dWVyRTlzQmlIWlgtT3FqblE?oc=5",
        "source": "The Globe and Mail",
        "date": "2026-10-14T10:21:05+00:00"
+      },
+      {
+       "title": "GDX Vs. SGDM Is A Draw, Gold Miners Are A Buy (NYSEARCA:GDX)",
+       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd0pJYktfcjZ0Z3gwNjBJeV9aTE5ESjczNXU5S1Ftanltdm9RY2dVbkdHbEtvSWpEdEVNWXFtaXlaU0V4UVNneEt4UGYxYmQxa1IxMmwxcndGM19zOXh6NTFqQ1ZoTzdEMHBUOS1FTUJCMmdUQ1ZYQlJwTlRkWGJtN3VBN0xtc2ZTZjJZVw?oc=5",
+       "source": "Seeking Alpha",
+       "date": "2026-10-12T03:57:34+00:00"
       },
       {
        "title": "Which Precious Metals ETF Is the Better Buy: abrdn\u2019s Silver SIVR or VanEck\u2019s Gold Miners GDX?",
@@ -355,9 +355,9 @@
        "date": "2026-10-16T02:23:36+00:00"
       },
       {
-       "title": "Millennium Silver Corp. Announces Stock Option Grant",
-       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUlpIUHlaZS14WENITUdjamR1VWt6SnlyOThRQmNMbjI5SG1PbkZXTXpMNkw1RVJNbzJlSllNUjdtQ0RXUXROVTd4ekpUYUhhSW9GNmtqNEdyX2pqRlNPYjB1S3ZnVUJmV0xyNWJSNERsdVZjQWVYc2lfSnJxaEl0Z0pFbHVudlA0ZlZZd1pGRHRaVTlCTXp5aGRORVNrdFRTUXFNSGJB?oc=5",
-       "source": "Yahoo Finance",
+       "title": "Mercado Minerals Signs LOI for La Franca in Zamora, Sinaloa",
+       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPd1EtYm5rNzRfczdXemFPVm9hZWRiOFZCZ0pieUxibnVBMTZ4Sk1Fa0d0MTB5aHFRQlFvT092WXFuU3RORlF6Um05eVIxaGM1OEllU0dOb1A1SlRwajZfeWN1MmFkWmFPQzhZZ3dvS2VfNmVPMUJua2kwSEtNYW5waUl0TzZsdXdhOU0xRTB1aVMwYjM1RGc?oc=5",
+       "source": "Mexico Business News",
        "date": "2026-09-21T07:00:00+00:00"
       }
      ]
@@ -380,10 +380,10 @@
        "date": "2026-10-16T15:41:20+00:00"
       },
       {
-       "title": "Guanajuato Silver completes tunnel linking San Ignacio and Bolanitos mines",
-       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTGo3S0R1UVMyOGNoa0R0VEtGcVlOM0hjZEhTRTNnV2lyRGU4QmJydTNfU3hBRzN5VHRldzR4OVExNDc2WFJMU2swU0FJaVI3anFBMU5KbW14MGRlVHZndk9GVF8xQm93TDBOMGprYlJoSGJrM09yM1o5SmIzZkRmc05tM2twWnJBR0lTWVRtQ2pPQQ?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-09T14:57:56+00:00"
+       "title": "Guanajuato Silver Breaks Through: 267m Ramp Links San Ignacio & Bolanitos Mines",
+       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa3NlbWVFVDFjRDd5elNHWHFyRzV3eDlzeGhIT3JPOFBqUHhyUnpKOEdjVDh4TXpmOExINzliRTNmalpSTDdvTWMwSkJBNTlpcTBCUTVyZzd6eDhKckJoSXdjTE0yWW5uczduRmQyOGlKdV8zSF9CUEJ2SlBjSGNoVXpHT3FFc0tDLWNjbFY3QWlOOGdxc0NWVFNTUm54U3Bwd1IyT1dIUnp5ZG5MQ0xVV2FUSzlXMmxkV1AzUkdsclFoU2dKdjlHb2gwWG11R01SeWZQNw?oc=5",
+       "source": "Streetwise Reports",
+       "date": "2026-10-09T07:00:00+00:00"
       }
      ]
     },
@@ -494,9 +494,9 @@
      "symbol": "GC=F",
      "name": "Gold (USD/oz)",
      "quote": {
-      "price": 4196.0,
+      "price": 4187.10009765625,
       "prev": 4181.10009765625,
-      "chg": 0.3563632057530075,
+      "chg": 0.1435029025821155,
       "currency": "USD",
       "asof": "2026-10-18T00:00:00-04:00"
      },
@@ -518,9 +518,9 @@
      "symbol": "USDNOK=X",
      "name": "USD/NOK",
      "quote": {
-      "price": 9.427350044250488,
+      "price": 9.428950309753418,
       "prev": 9.473099708557129,
-      "chg": -0.4829429195737811,
+      "chg": -0.4660501859157118,
       "currency": "NOK",
       "asof": "2026-10-19T00:00:00+01:00"
      },
@@ -644,16 +644,16 @@
      },
      "news": [
       {
-       "title": "Amazon Is 11% Below Its High Heading Into Earnings on Oct. 29. Here's the 1 Number That Will Decide What Happens Next.",
-       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSHFSSEl6Z1NIcE5NbnlWZHpBU1kwUzJtS09ERl9WZVBkU2p2S2xsdkYzRGVOZC1jQ24zeEp1d2U2RjBRNlE3dTE2R2gtaEZ2YmE0U0ZQdTlaV3hNWUdlclYwa1I3TnZZUGVOREJ4enJyTjEtVlhlcVI5VDhKQ2hVQ2xvLXhGR1VSQ1hNZkJlYmFaZThpSlNXcQ?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-16T17:30:00+00:00"
-      },
-      {
        "title": "Wall Street Agrees on Amazon and Can\u2019t Agree on Tesla. The Targets Show Why",
        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ2tySzBQeWxvR3RMY1Y4V01nMERkcTNfbzZ1dGxSeWFua0RzNmNPQzgxb3E2MTR0MWUzV080UXl0ZklhS1drU254MXFfcjlxNEw4blduWm5rZHJYUm5QNllSTV9uY0ZvSmhEMkZ4UkZPVkgzVFEwV1Z2ckR1dzNqc0ZhSUU4RjlIQ2RpTHZ5NG5Yd2ZKbDRJ?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-10-16T12:45:36+00:00"
+      },
+      {
+       "title": "How to Play AMZN Stock Amid the Latest Round of Amazon Layoffs",
+       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM2U5QUtrLVN1YkEwWm5ScHJNU1VITWhJZ25MbHBoZ1g5bVFZMThiYkxKRGNYamRiQW43YzExYlZwSzdoRU1UTnkyVzNLRXZmcnozVmNpUzFvblpIVER2MGJWbHFhbUJ6ZlVaOEZQb0RZVkp2U0dhOTgyTnFKeC16MklSZWVWaHVDRnYxaDFvRllCSHo0czFR?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-15T21:27:15+00:00"
       }
      ]
     },
@@ -694,16 +694,16 @@
      },
      "news": [
       {
+       "title": "History Says Tesla Stock Swings Hard on Earnings. It Has Moved 8% or More After 10 of Its Last 15 Reports.",
+       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdWJqVTlMR0NpMDZCQk9SaEhEOGktUkU0Zng0NUNWOXl5NDM2cWJoU21SblJvYWtSaDBXRjVUT0x6TkM2OHFlZHBhVFViN0tFb3JLVHdUbGZkNGFlWnVObkdvYlVhQzk0bE9VWEtSQkQyTENyRDdVZmdqQkFVQ0h2WGkwQTlrbkN6NlhCbVFyUWFwZ0hmdmh1Sy1iVlI?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-17T08:49:01+00:00"
+      },
+      {
        "title": "BYD or Tesla: Which Is a Better Stock?",
        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMXZpOVcwRHVqcTFmT1JfN01DeUhfa1huNnRncTFVUHBvVWRVZVBZTTJvQzFhOFJ0cFZIUDdSdjZIcjRsNGZFMmN6OFJIWmNzYzdNZXJMSnR0SG5HYS16UVBtWFJOQWRoWXlkdnFQckZmY0pJbmFKUjRvcXFqTnk1UHZKVlBEd21KbFdGUjNIWlo?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-10-17T06:50:00+00:00"
-      },
-      {
-       "title": "Elon Musk Says Tesla Roadster Could Be \u2018Greatest Product Demo of All Time\u2019 \u2014 Is This the Hovering Car Featuring SpaceX Tech?",
-       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZElxQS1fQm1TWXhxd0VYQTZDRzFvSzdLNnVMQ0R4MHJuQ2FQSWxfYWFaU1pVVVBkVXhRTFpmZWhCdTNIRXNTVVp6ZV9aNm5QSk5rUmtOeXhjZ1JwbnJjVnR2QXVQSHlIN2tFT1BCWE5HdmIwTFFUY2ZQT3RmcjlWMnJLM2duWGVOazhIYTJ4R2E2REt6WmU5Y1pR?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-16T21:30:07+00:00"
       }
      ]
     }
@@ -773,16 +773,16 @@
    "date": "2026-10-16T06:35:00+00:00"
   },
   {
-   "title": "Press release: CMB.TECH fleet update",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQT3F2emsxbkVmRm9iZ21lM052MFkwRjhRVEowd3NpTXNSMDh2dmROUzRnWkw0V05vY09nZkxDQXVnY3Z2a0dya1JfOXEtS0Y1bkg0R0hmdkIyRE9oWVNobmNMdG82SkluaF8xaExEazZYMkNOYVlfNHdvVXhmQ3pQOExETGUyYXFtVHNJeGJ6MWhyTzAza0NuQWg4WV9mb1c1UWZ1bmtLcFFlWjBL0gGyAUFVX3lxTE1kX2JhZ0c5a2FTT1h1ZkNNbzZ3SUxIaHp0MzRfbEJnZll6MlRTV3llNW5HRVpNZWZZanVNU3ZhLTR5UmI4ODM4Vmd3UWFPQzdsSGhrdVpkdGJBVXo0RlJ2NUhrM0o3SzBuTjdtSkJjNGhTOHo5ZG8wQkhNeWJlWWt1MTIza1h4bGtPR1JSbDl4Z3ZfNTdpQ3U4OTdEWUg5MDhsZThUZkkzbldUUDd0dTlqWWc?oc=5",
-   "source": "The Manila Times",
-   "date": "2026-10-13T07:27:25+00:00"
-  },
-  {
    "title": "Atlantic Sapphire Shares and Warrants Suspended from Trading on Oslo B\u00f8rs",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQck9tSmRlWnFQTjVjenROMlJzLWttMmd3MUk4UmtRdHMtUGFNMmtJS1Y1QVZIVlR6cUtlaUdKbEZQZ21QT2ZMMjcySlNrSDk0WHlpQi1qYmxHdTRITklSVXhDMGRqc2c2b0lINkUweDBURDQtb2ZjOEtMN2lkUk1jX1lQQ1g4QmNWclo2c0pvQlpkZW5hd0tUOFFTbnVfVmthdDYxMlpEbHBLMExhZkJfaVlGMGh2dUZaSGRCemNpZ0JRSFk?oc=5",
    "source": "TipRanks",
    "date": "2026-10-13T07:17:43+00:00"
+  },
+  {
+   "title": "Atlantic Sapphire close to leaving Oslo Stock Exchange",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZEFUYjB5T3hVbDJnbEota1VONF9Mc2J5RWVZOVg2NUdQQVI0QWtyWEItM3IwVHh1b1h5VmZab2p5TnNNdC0xZ21kZEZCUjJFbEZlTDgxanFhNzV0RTBodEF2S25rYndJemlQQjRUNlpUSHB0WkRfaHZNRVZOVElEVFhCQWxLSjhSbm80R09ZUWZDNExuTEdwMGUwMzBiZHdPdVkwSy1JZXdsVjY3cGtzdzl3SQ?oc=5",
+   "source": "Fish Farmer",
+   "date": "2026-10-13T07:00:00+00:00"
   }
  ]
 }
