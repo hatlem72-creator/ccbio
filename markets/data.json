@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-19T04:15:04.416814+00:00",
- "usdnok": 9.423049926757812,
+ "updated": "2026-10-19T04:56:59.559848+00:00",
+ "usdnok": 9.422249794006348,
  "btc": {
-  "price": 82393.0,
+  "price": 82691.9921875,
   "prev": 81382.1484375,
-  "chg": 1.2421047882218428,
+  "chg": 1.6094976295765173,
   "currency": "USD",
   "asof": "2026-10-19T00:00:00+00:00"
  },
  "silver": {
-  "price": 57.915000915527344,
+  "price": 57.88999938964844,
   "prev": 56.994998931884766,
-  "chg": 1.6141801927956445,
+  "chg": 1.5703140179602393,
   "currency": "USD",
   "asof": "2026-10-19T00:00:00-04:00"
  },
@@ -44,16 +44,16 @@
        "date": "2026-10-13T18:08:19+00:00"
       },
       {
-       "title": "Kongsberg to invest \u20ac45m in drone factory in Poland",
-       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVUtQbWtoMlRhVEJkYnZpRmd6M0FIdEtPZmtXWTF6c1FDaGZUN0VsVEw4VldOUG53bnFLWU16SnRzT0d3Y1R1RGtQNWtZQUFham81T0hwUG5NUWl3dVY2cTV0M3pfb3FFVUtGOFZHd0R2VG9zTzd5VFc2WExwQWtDUUJQdTRmbGhjMHFLdGVvaFdaX2hUR3daV2UtU2ZFVXFxLUJyTnBJemRpY2c?oc=5",
-       "source": "www.marketscreener.com",
-       "date": "2026-10-13T06:41:26+00:00"
-      },
-      {
        "title": "Kongsberg signed NOK 10 billion NASAMS deal: what it means for Kongsberg stock",
        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbWpVUm5IUzROQUNaTE1saG5sWmVaZ3RscFFFT3ZRRzVwTU1GZzlqVjAzcGMxWDc3VlZNdmdzUHNzcHhVYlF1V0I2NGNEN0lGdExxOWpVMEJkZHFoVFMyLTg0TUNKbFQ1NEx0X25CRWREYW1lMkFfR0ZGTENTdlJxS0M3U2s2SVN2VlVVS2Z1RHJIX1Q1d2dTeUtCUFE4cWFKTkdqckNSZ2RxMnZTZEZVSlItZml2MWtVTDJtUDIyWXI2cjlMTnIwUUVSZnp2a3M0a3c?oc=5",
        "source": "ad-hoc-news.de",
        "date": "2026-10-13T03:24:02+00:00"
+      },
+      {
+       "title": "Should Large Defense Orders Require Action From Kongsberg Shares Investors?",
+       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWWdxWXNZUVZxQUpPa1FydmpnY2h0M2dhX3hpR3Fob1lCMElHRUxvWGQzeWlCM21SWXhCQ1lPVEwtR1RFNHZvR3NBcS1NbG53cXpocXUyVFZmMTVHQXljNEI3SGd2RVZuUUEzbjFnOGtyM1JsWUxXcWptdXViM0dHWXBPd0ZpaVptdzJjbzllZEo0WEpRb0xsNzdONm5hWWJPVTM3UG1NMDRfTGNCdW01SmdWWkN0eWJ5aHlXNVY1MU43VGtMMlRpM3JFU3lJWE1jOFpiMkl6NVEwS0XSAeABQVVfeXFMUEpuTEl2N2pPSG5POTlRLXgzVno1cVEtUWMyclJWWThpT29zT1Z5bnFHMFRlWXQ0dktxX1llam1NUWI4TzV1eTRneE12U1JLSnBaN2wtcXByMmNXdVZTSVRFcVlNNUpZcUNRYUh3bjJ1dnlZZktyQ1ZLY1Z6VUctU09OdzZvWHpzX01IdEctTXdQbHlxVzd2WnZMSWJnR2RJMVBjR2dSb0ZRdzBOdUpyNzFnSUxzX0dYR1hNTFlLUnpSX0pBdjZtODNlVmdua2VEMWt1MXRuMmI5RlpMN2pKakc?oc=5",
+       "source": "Simply Wall Street",
+       "date": "2026-10-10T07:03:30+00:00"
       }
      ]
     },
@@ -494,9 +494,9 @@
      "symbol": "GC=F",
      "name": "Gold (USD/oz)",
      "quote": {
-      "price": 4200.7001953125,
+      "price": 4201.0,
       "prev": 4181.10009765625,
-      "chg": 0.46877848409410117,
+      "chg": 0.47594895790477043,
       "currency": "USD",
       "asof": "2026-10-19T00:00:00-04:00"
      },
@@ -518,9 +518,9 @@
      "symbol": "USDNOK=X",
      "name": "USD/NOK",
      "quote": {
-      "price": 9.423049926757812,
+      "price": 9.422249794006348,
       "prev": 9.473099708557129,
-      "chg": -0.5283358492902401,
+      "chg": -0.5367822161192692,
       "currency": "NOK",
       "asof": "2026-10-19T00:00:00+01:00"
      },
@@ -644,16 +644,16 @@
      },
      "news": [
       {
+       "title": "Should you Buy Amazon Stock Before October 29? History Has a Clear Answer.",
+       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZ1NYeFB6R3BmMHNWUVNPc0F4NEpkS2pWaHNSZEx3OUZtNjU2Z2tIVUtLQm5HQmxPZWdWVHNQVktURWU1ang5ZURxOXR0YXFfNmUyVkFPc2RWbmtSdkN4M3l1SzlweVphOWxWNHFieXpkX3ozS0hoOV9JX2NZTWxfeVA0VVRVV2dLR2Nwa0Rqc3VzUlBacTNN?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-17T18:47:00+00:00"
+      },
+      {
        "title": "Amazon Is 11% Below Its High Heading Into Earnings on Oct. 29. Here's the 1 Number That Will Decide What Happens Next.",
        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSHFSSEl6Z1NIcE5NbnlWZHpBU1kwUzJtS09ERl9WZVBkU2p2S2xsdkYzRGVOZC1jQ24zeEp1d2U2RjBRNlE3dTE2R2gtaEZ2YmE0U0ZQdTlaV3hNWUdlclYwa1I3TnZZUGVOREJ4enJyTjEtVlhlcVI5VDhKQ2hVQ2xvLXhGR1VSQ1hNZkJlYmFaZThpSlNXcQ?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-10-16T17:30:00+00:00"
-      },
-      {
-       "title": "Wall Street Agrees on Amazon and Can\u2019t Agree on Tesla. The Targets Show Why",
-       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ2tySzBQeWxvR3RMY1Y4V01nMERkcTNfbzZ1dGxSeWFua0RzNmNPQzgxb3E2MTR0MWUzV080UXl0ZklhS1drU254MXFfcjlxNEw4blduWm5rZHJYUm5QNllSTV9uY0ZvSmhEMkZ4UkZPVkgzVFEwV1Z2ckR1dzNqc0ZhSUU4RjlIQ2RpTHZ5NG5Yd2ZKbDRJ?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-16T12:45:36+00:00"
       }
      ]
     },
@@ -732,9 +732,9 @@
   },
   {
    "title": "We Just Witnessed a Unique Stock Market Measure Do Something for Only the 4th Time Since 1997, and It Offers a Chilling Outlook for Wall Street",
-   "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQYVFYUmFtY0VvS0pzMkVwNGUzS2Vmazl1YjZDbDFZSk11ai12UnQ0Wmp3TFlxcmctZUtNaXc2UEpxN1IwOHVZblNpNWlTRXZoWlNuVFB1YzFTbl8xU292U28ydllYdWdlWXJ1T1ZnUTZtbno5c3hCT2xmcUFRS2xZbzJPMThHUEJZTVNsWG9GWUZBY1JXaG9XR0w5VlhaZ3ZDSXlDZXZKellxVFl5aU1kUDBNaUFjZVlXZU4wb01uZ0pad1hWXzJHUUc5RHByOTRVdFdiQlMzR3dhYmRmTXlQdFd3YTlXUVh0VzBfWTA4Szl3Qm5nLVZNdVJIeWRhZk13T2xwQTRTWEdIbWtRR0N5S0p3RGtTZVh6VzZQMDNWRW15QWt6OE5lSHZWNl9MM3gxRGV5N3U2Z0dzTXNtSE52SDdzRnRRVlA3V1Y0?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPdXQ5RnExWWpOSkxIY2hsV2VSZHNYYUtCdXgtWXhGR1o1NU4zaFI0UFB1ZzNDc3gwcmpNQ01lc1I3ODF1NXVFRFdscGJvbFlvNFRNVUxqODNsSUdYdzFJNmk2WDVKbU9vX1lfYmtzaGlxSlVmRVVHZm1GR2xvNXNfcXBfdWgxOGdIeUhQeWU5TDZ0cjdwZU02YW5BMk5kT29JTXNqdnFuZEJCWlg1bEZtZ2x2RExXTzhpYTB6NXJqcDJlOU81dGJkdlhwQ2J0RTdVUU5KSWxBRl9fM2o5T253OFNJRE1KakZ4UXd3MEtmNU82X19hQ3BoSEU0cEVVUkZJX05GbTcybUs3Y1AyUWNoSm94TEVybDVSelRpYzBmeTNNWGxLOXp5VnhZb09sN0I5cmJIYnk2ZFJ1RFZsdU94VDJQRmNCamRYdHl1U1pR?oc=5",
    "source": "The Globe and Mail",
-   "date": "2026-10-18T10:56:10+00:00"
+   "date": "2026-10-18T10:56:39+00:00"
   },
   {
    "title": "Michael Burry Warns of a Stock Market \u2018Supervolcano\u2019",
@@ -755,10 +755,10 @@
    "date": "2026-10-17T11:43:00+00:00"
   },
   {
-   "title": "The Stock Market Has Seen This Happen Only 2 Other Times in Over 150 Years, and History Has an Ominous Warning for Investors",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSm9pSEp1OEpkSkNSNlBtNWVjVXdJZ2ViTkdNcV81azlHSzkyWjFlaEQxT3dhb3ladmgwY3RiZkRvOWQ1ejF2QXJxbGR2azh5MnJrOWFlTGR3cVJaUHZBTWhQRHhvSXd5UjFJTzNSNWRDZmFzM2xaZlVFQ0UzZ242aU90Q2RCZ1I5bkhaeWZubEp3OUYxb1F3Ug?oc=5",
-   "source": "The Motley Fool",
-   "date": "2026-10-16T18:30:00+00:00"
+   "title": "Peter Schiff Sounds Alarm On Inflation, Housing And Banks \u2014 \u2018We\u2019re Actually Even Closer Now To An Even Bigger Crisis\u2019",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeGJTT2RHUlBQVkxFWURnbmEzbFJnZFlZYjl3U0ZqQWZtQ2t4amtITVJBRHlSQ181LU5HMk1tRW1JZkoxY2lvaVRyWm5NVGRqVkl6XzUtLVZQeDZuT3BkaGtHYk9EaGgxVVhmanIxSERjWHhWZXhqOHZlUkRTT3I0R3loejJJNy15bFU3T2lUN2Z2OXlncmM2SQ?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-10-17T10:50:11+00:00"
   },
   {
    "title": "Regime Change: Bonds Pricing AI Bubble Burst And A Recession",
