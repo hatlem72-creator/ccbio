@@ -1,19 +1,19 @@
 {
- "updated": "2026-10-19T01:20:41.696203+00:00",
- "usdnok": 9.428950309753418,
+ "updated": "2026-10-19T02:10:16.272152+00:00",
+ "usdnok": 9.417670249938965,
  "btc": {
-  "price": 82380.34375,
+  "price": 82460.3203125,
   "prev": 81382.1484375,
-  "chg": 1.2265531589726875,
+  "chg": 1.3248260161477843,
   "currency": "USD",
   "asof": "2026-10-19T00:00:00+00:00"
  },
  "silver": {
-  "price": 57.40999984741211,
+  "price": 57.54499816894531,
   "prev": 56.994998931884766,
-  "chg": 0.7281356668210837,
+  "chg": 0.9649956090320488,
   "currency": "USD",
-  "asof": "2026-10-18T00:00:00-04:00"
+  "asof": "2026-10-19T00:00:00-04:00"
  },
  "sections": [
   {
@@ -119,9 +119,9 @@
       },
       {
        "title": "iShares SLVP vs VanEck GDX: Which Miners ETF Wins",
-       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU2Y2Z1M4c3l5RXc2RTRGMVl1YUtVY0Znb3Y0ZnNkVE5IaVE1LXF3UG01a0pCNjZfRTZwWUZhR0dEWnc3WFFUbWRnY0M3bk9WdlRhMFBFcXBIMVhtZlpvb0U1VGRrMWtaal9jWTVqMXJSdlJQekNPVmZTcTV5RDh3b3hGenZRMUNBY1VLUzJnRUxiS0dSQ2w5cWtlNl92UFBDdjhiSVJ0UXFTSDl0N2VmNlgyZ2Z1dWVyRTlzQmlIWlgtT3FqblE?oc=5",
+       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLWZRWVFRZjRhMnNyN25Hd1lQXzFyNUdTb05KbC1fNl95eDMzdmhYZkpweEl0ZDM0UVBDVW82a1BrVXFzWUNlOU1ZYndaZ0VXQkd2QTliX1NqeTFQZWtBRUxHRE1RRGxUMjBGR0VSOUhsRU1XaTd1SHRqTFREU0VxdGlVbUtqMU96T0wzVmNzYk9QMTkzamlKcGU0NC1xUDlpZkFuQ056SndkMWVIY1lyaWQwbGw4SlhYcnNVMmdpMUN2LVRxZllvSGlCd1Q?oc=5",
        "source": "The Globe and Mail",
-       "date": "2026-10-14T10:21:05+00:00"
+       "date": "2026-10-14T10:25:03+00:00"
       },
       {
        "title": "GDX Vs. SGDM Is A Draw, Gold Miners Are A Buy (NYSEARCA:GDX)",
@@ -286,10 +286,10 @@
        "date": "2026-10-15T01:52:22+00:00"
       },
       {
-       "title": "Can Coeur Mining (NYSE:CDE) Hold Up at 15.41 Times Earnings as Gold Struggles Under Rising Yields?",
-       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMnhLcEJ2LV96TE9jWTN2aDdEMG5RY3BLUkRqb1IxWVlHYmNvYlhGb0xLV0FqWklGYlI5ak1kSFZIN0o2eUZ6QWZ4aXVnVWFLOTJhZ3J1X1VDQUc4MnJIQ2luQXRVSmRQUzlVQm92c2paSXNUNnNkY3J2SDZfeV9RZXd2Y0hNMm9yT2c0djhPWE12YVN2T1JMb1Y1dW9GQmpkcnVrOU9PTWRmWkd4YUVaVjRRNWJQMjJ4c09oWnc4ZTBnT2J1WV9KeXFJNXhKQVpfenMw?oc=5",
+       "title": "Why Did Coeur Mining (NYSE:CDE) Fall 2.5% as Gold Held Up?",
+       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORE1KNnBfMGF2NTZZeDROMUpKX1FRSXBUSUV2amxtOTFTU3FPSXJoYVhUSDEzZ3R4Rk9BSW5LSERrWWhqUk5WN3hBUUhReUs2N0p2T09vdVJ4NTE1X2M5Zkw0Sk9qeW1fbVdleW40aXJ3SlN4U1Z2ZmlDT2QzYmxyWjdaVlJjMERLNmlj?oc=5",
        "source": "kalkine.ca",
-       "date": "2026-10-12T17:52:00+00:00"
+       "date": "2026-10-13T16:03:00+00:00"
       }
      ]
     },
@@ -494,11 +494,11 @@
      "symbol": "GC=F",
      "name": "Gold (USD/oz)",
      "quote": {
-      "price": 4187.10009765625,
+      "price": 4195.10009765625,
       "prev": 4181.10009765625,
-      "chg": 0.1435029025821155,
+      "chg": 0.334840106024914,
       "currency": "USD",
-      "asof": "2026-10-18T00:00:00-04:00"
+      "asof": "2026-10-19T00:00:00-04:00"
      },
      "news": null
     },
@@ -518,9 +518,9 @@
      "symbol": "USDNOK=X",
      "name": "USD/NOK",
      "quote": {
-      "price": 9.428950309753418,
+      "price": 9.417670249938965,
       "prev": 9.473099708557129,
-      "chg": -0.4660501859157118,
+      "chg": -0.5851248305567158,
       "currency": "NOK",
       "asof": "2026-10-19T00:00:00+01:00"
      },
@@ -732,9 +732,9 @@
   },
   {
    "title": "We Just Witnessed a Unique Stock Market Measure Do Something for Only the 4th Time Since 1997, and It Offers a Chilling Outlook for Wall Street",
-   "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQLVNVWm9zWGk0WGJ3Q0s5VkxEb3kwU3pQYnJJVjJzckllSGV1N1pxTDd0RVp5VldiY2tEMkktS1RzcElHQ1d0NEY3eFJWTldRLVNEYmwxOWpGN0VNZUhQTWUzUVdXUk5HaUQtSHJFaE5yeDZyajVrM1drQzdONG5yZjM5NFJMX21UZmVvYTdDVWNMTVI2bzQ2eEhYY0sybUZ5MnMza0dEZjBCZGlmbHRXU19LeU9ibXdVamJwM0VScVV1SjBJRHBxeEZBcGQyOGVHTVBnWC02Vk9aWWtzV1lmYUxUZEFpUndkdDRSZ1dLWnRyTTFMNHlCeTVuTFNVSnFVV212T0x6allid3ZSUTdaNmRlLUl4bktURVBEMjlaX0FMbUxYeWNudmhfR2ZxenVRVjF1YWlfcWhzUzEyOTFPN0ZnUQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQYVFYUmFtY0VvS0pzMkVwNGUzS2Vmazl1YjZDbDFZSk11ai12UnQ0Wmp3TFlxcmctZUtNaXc2UEpxN1IwOHVZblNpNWlTRXZoWlNuVFB1YzFTbl8xU292U28ydllYdWdlWXJ1T1ZnUTZtbno5c3hCT2xmcUFRS2xZbzJPMThHUEJZTVNsWG9GWUZBY1JXaG9XR0w5VlhaZ3ZDSXlDZXZKellxVFl5aU1kUDBNaUFjZVlXZU4wb01uZ0pad1hWXzJHUUc5RHByOTRVdFdiQlMzR3dhYmRmTXlQdFd3YTlXUVh0VzBfWTA4Szl3Qm5nLVZNdVJIeWRhZk13T2xwQTRTWEdIbWtRR0N5S0p3RGtTZVh6VzZQMDNWRW15QWt6OE5lSHZWNl9MM3gxRGV5N3U2Z0dzTXNtSE52SDdzRnRRVlA3V1Y0?oc=5",
    "source": "The Globe and Mail",
-   "date": "2026-10-18T11:00:47+00:00"
+   "date": "2026-10-18T10:56:10+00:00"
   },
   {
    "title": "Michael Burry Warns of a Stock Market \u2018Supervolcano\u2019",
@@ -779,10 +779,10 @@
    "date": "2026-10-13T07:17:43+00:00"
   },
   {
-   "title": "Atlantic Sapphire close to leaving Oslo Stock Exchange",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZEFUYjB5T3hVbDJnbEota1VONF9Mc2J5RWVZOVg2NUdQQVI0QWtyWEItM3IwVHh1b1h5VmZab2p5TnNNdC0xZ21kZEZCUjJFbEZlTDgxanFhNzV0RTBodEF2S25rYndJemlQQjRUNlpUSHB0WkRfaHZNRVZOVElEVFhCQWxLSjhSbm80R09ZUWZDNExuTEdwMGUwMzBiZHdPdVkwSy1JZXdsVjY3cGtzdzl3SQ?oc=5",
-   "source": "Fish Farmer",
-   "date": "2026-10-13T07:00:00+00:00"
+   "title": "Atlantic Sapphire ASA - Minutes from Extraordinary General Meeting",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQR1AxYWRKX3c3RFdNbW9VQ3NvNUJtVlRBU3l0X0oweEI4SkE0TXk1Zy1yNm1ab0FrWkhCaXl0d0VadFJ3MVNVWkVNSTNGOTRvRlR1QXc0V0FrR29MdHRNMGlmTmRmbm1rdjZlcEdaSkc0TW5CTkRvRllLNkdGTG9pcGx5VGF1VWZ4WHNoMVlPSXZ2OUU5UGdNSDR4aUQ2VDRmQzZVNDVidTJRLTZ0ZjZfR1daSkotbHUxMmJFLXRMeXY1ZHY4Q3FlaTdsZzlBWjBsLWdvQzJ6aHFiTXFPTXdyTURWLVRTZVZVNWc?oc=5",
+   "source": "Finansavisen",
+   "date": "2026-10-13T07:02:29+00:00"
   }
  ]
 }
