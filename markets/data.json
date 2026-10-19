@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-19T22:26:58.327536+00:00",
- "usdnok": 9.427200317382812,
+ "updated": "2026-10-19T23:05:58.320724+00:00",
+ "usdnok": 9.41746997833252,
  "btc": {
-  "price": 82050.65625,
+  "price": 81979.9921875,
   "prev": 82017.6015625,
-  "chg": 0.040301943570986154,
+  "chg": -0.045855248487536304,
   "currency": "USD",
   "asof": "2026-10-19T00:00:00+00:00"
  },
  "silver": {
-  "price": 57.17499923706055,
+  "price": 57.040000915527344,
   "prev": 56.994998931884766,
-  "chg": 0.3158177183069988,
+  "chg": 0.0789577760960336,
   "currency": "USD",
   "asof": "2026-10-19T00:00:00-04:00"
  },
@@ -69,12 +69,6 @@
      },
      "news": [
       {
-       "title": "Kongsberg wins four-vessel IWS offshore wind deal",
-       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVVZlNnJaV2ZVTGxsWlJoeWpXdkU2M1ZQX1NrYjluV2JnSXpST2hOQ1NMLVB5WFFQVDU4M2RUd0lwNFhHS04xSlBFSmZ3enJha2xCcXhLWXQxbW5GVFZRVjZFOEtSYlYwQ1FaeHRZc05hUlRKWHkxeHQ1MkRLZ3Zkek1MbHlsSHVGTGRMamxSOHA?oc=5",
-       "source": "reNEWS",
-       "date": "2026-10-13T07:55:16+00:00"
-      },
-      {
        "title": "AYK Energy to supply batteries for four electric Svitzer tugs",
        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMWRuX0ZlYjRFOGhMaGl4SDZMNFJjUDBMd0N3NmN3Y21kWmZtZURIZm44SS1rWS1CbDJRRGl3N2p6MnptOVJGcWM1b0thUlFUbXgxQmU2TWFzSlRrakpaM2VQdjRmX3VWZFJaNTloTERWekhqMlVMbko5ZUJQSUFmdkIwOFJjeWEzTGkwR3VhbUpCYllXdmswcm8yMzJfWWFfTmt3SWNsbHFJNkdEc2FQbldkX1J3ZnBQRW91cDRn?oc=5",
        "source": "Maritime Journal",
@@ -91,6 +85,12 @@
        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeWFRczlOdDNxT3JRMUxZSFpvTlJaZlpDa3h2aExmTl9nU3JQc1lTaG5TM0FkNDJVNmMycVIyaEhZNjBmT0twN1U3cnB4NktaOUI4alNrQU1sY1NiV0tPc0Zad3Z2cGdvT0Z4am4zWTlVQkpBUjVfc3FLajRPOV96R0FLQUZ6Nmw0ZWF2MzJnTXRfQQ?oc=5",
        "source": "Maritimt Magasin",
        "date": "2026-10-07T07:00:00+00:00"
+      },
+      {
+       "title": "What Is Drawing Fresh Attention To Kongsberg Gruppen (OB:KOG)?",
+       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQLXJob2ZYeV81SEdoakZ5RVRGNFhSVklJY3ROZGZaNGtFVHFfTU5ldFZiZm5qMllyZktaMXZ0TWx1elA3VmZGcWUxNERKZDYzU1o1SU5OdFk0QUxtQklSOG5IY1Nnc1ZNVnJObldBNHQ3R3FZZktEa3cxUi1CWmJFaHUxSExwMkRLVTJ0b1lNVkh5UDN2dlZicUhySXZpN1RnOF9ZN1JlV3FQUVYwX2RocUR1SDNtcE9HN081OGVhRERXTlpTTEhRMVVuQldraFktYjVrNTZCZXfSAd4BQVVfeXFMTVpLc0QtajNILU92WG9TMmJCOHVzNnhVd3IxZTY0ZmVpaGhkVUFqc2FfOV9WdnByWnFJTWljNjdjVktRV3hRN2hESENXYjh4cnZ3aXVIX0c5WXBpVHQ5amZTeFBFVHBIaUl4WUFPV0JpTHRTcHNpRDRFdXdEcHQ1NUZNYUN1N3U5Z0NFNVpIVVBNVVhUb014YlkyZHR3azNRZm1mU3o5OE04MG9XMzlZWFUwV0l0UnliU2F2RlZOaGhYX3FtdjdRaGdwRkFBblZXdmlYeFVwajItT21GbUpB?oc=5",
+       "source": "Simply Wall Street",
+       "date": "2026-10-06T14:41:27+00:00"
       }
      ]
     }
@@ -280,16 +280,16 @@
      },
      "news": [
       {
+       "title": "Coeur Mining (CDE) Stock Looks Undervalued Despite Recent Market Pressure",
+       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMk9lTGVNRzROWUY4UDNfNVhkbDg3SVFZM2VuVXY3dEZlUUEzQnFCamdlTVo2UEpwY3dpd2RCM0VldTQ4RXg0dlR5a0RPQXdwZnlKbW5VdzByYmJsYnVIa2N2NEgtRHdnbl9BVjhOMHlMNnhCY1N0RXgyUFlnOGQ5VDR5UVV5OHU3R2hsZjNwSUxIVldjUjZ2Rg?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-19T22:19:48+00:00"
+      },
+      {
        "title": "Coeur Mining, Inc. (CDE) Stock Forecasts",
        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQT1lGWDRfU0ZXLWY2MmVhanRfbmhjSGRHdG9Kenh2b3J1bm1XUDdjdmlIN2FpSXNaRmlPeHZlVk1YaU5nb2RfMTAyNE1pME9sWGxsSlN5ODA2OFo5M1VwNkROTkRPeGNqSUxiN2haUkJLb0NURTlPeExaejhoUEJBM2ViellCV1pMSWRGeU5LVQ?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-10-15T01:52:22+00:00"
-      },
-      {
-       "title": "Gold Slump Sends Coeur Mining Sharply Lower",
-       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPakh2UTdBLWdUZkNROFR2MTI2bnVacERUYk1aYVBvYjBQUzBfSHZYQ2FmNktEbG12QU9ncnRrMjBxLUUwR0c5ZDJnNnBtcWpMSFp5YjI2NVltQnA4c1JpSGNaek1jQS1JX21IUFVhTFlmWUhwaDRJRkVTOVQ1WmZHZ0thakdLcUVRZnc?oc=5",
-       "source": "TipRanks",
-       "date": "2026-10-14T14:32:31+00:00"
       }
      ]
     },
@@ -494,9 +494,9 @@
      "symbol": "GC=F",
      "name": "Gold (USD/oz)",
      "quote": {
-      "price": 4160.10009765625,
+      "price": 4155.89990234375,
       "prev": 4181.10009765625,
-      "chg": -0.502260159037371,
+      "chg": -0.6027168621632883,
       "currency": "USD",
       "asof": "2026-10-19T00:00:00-04:00"
      },
@@ -518,11 +518,11 @@
      "symbol": "USDNOK=X",
      "name": "USD/NOK",
      "quote": {
-      "price": 9.416199684143066,
-      "prev": 9.473099708557129,
-      "chg": -0.6006484272794488,
+      "price": 9.41746997833252,
+      "prev": 9.427200317382812,
+      "chg": -0.10321557538510717,
       "currency": "NOK",
-      "asof": "2026-10-19T00:00:00+01:00"
+      "asof": "2026-10-20T00:00:00+01:00"
      },
      "news": null
     }
@@ -719,16 +719,16 @@
    "date": "2026-10-19T14:40:23+00:00"
   },
   {
+   "title": "SPY: Why Rate Hikes May Shake The Market Without Ending The Bull Run (NYSEARCA:SPY)",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ3BHR25ENGRPZWZqUnhaeklBaFJEUW5MT0hSRW5LQWpwVHU2SUQtWGtlQjhzeGtsWmc1a3NSZkdFT0pHaWFlNzBFTXJLZ2puSEpQNENjTjZZak40MElKQUJOOUhRT2hiX1pZOWlPaC1wVDFIY18wQm5FN0pZYlI0ck5YUzJpaWxNRVlrRkxYbmNoMkZLN2xLTjRiUE9RVWVwVVE1b1Iyd1RoSG4z?oc=5",
+   "source": "Seeking Alpha",
+   "date": "2026-10-19T13:41:13+00:00"
+  },
+  {
    "title": "If a Stock Market Crash Is Coming, History Says This 1 Strategy Has a Perfect Track Record",
    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOeGk1Y05JYVRHZ1pMOFRGWGQ2QmdoQ1NnbEFpSjlxbTRtWjRUNFFTT0RUaGh1dEMtZUUwMzBmSFNibWtBUzVoaEtRSjJWWTg3N0g4RkNiOGtwb3FFVy1hQWlHVVUxaXBmMU1qUjhFR1B4ZlhjdXk0SjZLMFd1OWZPWTBnd2I5U3NXTWlqS2JRaFdFVVBGWFFtcEc5WEhNcUtSTHkxTnRVN3ZvemlGVzEtUUVvX2dwR21iTXZSck1nOTJMQmU4WHdfRU1OX05mWWx0cWxKanVVbG1xSDhkaFFCSWROdVJmOGhrQkFaREJwbmVrbVdmaWlhV1RGNWY?oc=5",
    "source": "The Globe and Mail",
    "date": "2026-10-19T09:31:53+00:00"
-  },
-  {
-   "title": "Sterling today: Pound edges lower; AI jitters cloud dollar outlook",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOM0FBWWVlcmJVaHNBY2VyamRrWnZuTTVKckVrSW9lWGpXM0h5elZkU0VsVXBzanVicXQ1N0Jlby1vWGNDa1FIN2g0U1FET1RiNlVFeVJRWlNSb1FEV1lVa3VJLUdOWnR1X1pmYmJ6ejRJb2hGcVZYVEpSMzhmVHhpR0xKWDl4MmtmWXpKeXFzeDdmSFZwcHdVdExBMG9oNDMwcE9R?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-10-19T08:54:41+00:00"
   },
   {
    "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
