@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-19T08:06:26.489851+00:00",
- "usdnok": 9.434450149536133,
+ "updated": "2026-10-19T09:00:46.039844+00:00",
+ "usdnok": 9.418350219726562,
  "btc": {
-  "price": 82525.5390625,
+  "price": 82673.703125,
   "prev": 82017.6015625,
-  "chg": 0.6193030402296351,
+  "chg": 0.799952144418703,
   "currency": "USD",
   "asof": "2026-10-19T00:00:00+00:00"
  },
  "silver": {
-  "price": 57.61000061035156,
+  "price": 57.59000015258789,
   "prev": 56.994998931884766,
-  "chg": 1.0790449863887108,
+  "chg": 1.0439533851280824,
   "currency": "USD",
   "asof": "2026-10-19T00:00:00-04:00"
  },
@@ -24,9 +24,9 @@
      "symbol": "KOG.OL",
      "name": "Kongsberg Gruppen",
      "quote": {
-      "price": 308.5,
+      "price": 307.20001220703125,
       "prev": 315.29998779296875,
-      "chg": -2.1566723933505894,
+      "chg": -2.568974278316838,
       "currency": "NOK",
       "asof": "2026-10-19T00:00:00+02:00"
      },
@@ -61,13 +61,19 @@
      "symbol": "KMAR.OL",
      "name": "Kongsberg Maritime",
      "quote": {
-      "price": 60.5,
+      "price": 60.599998474121094,
       "prev": 61.060001373291016,
-      "chg": -0.9171329195809208,
+      "chg": -0.7533620845464606,
       "currency": "NOK",
       "asof": "2026-10-19T00:00:00+02:00"
      },
      "news": [
+      {
+       "title": "Kongsberg wins four-vessel IWS offshore wind deal",
+       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVVZlNnJaV2ZVTGxsWlJoeWpXdkU2M1ZQX1NrYjluV2JnSXpST2hOQ1NMLVB5WFFQVDU4M2RUd0lwNFhHS04xSlBFSmZ3enJha2xCcXhLWXQxbW5GVFZRVjZFOEtSYlYwQ1FaeHRZc05hUlRKWHkxeHQ1MkRLZ3Zkek1MbHlsSHVGTGRMamxSOHA?oc=5",
+       "source": "reNEWS",
+       "date": "2026-10-13T07:55:16+00:00"
+      },
       {
        "title": "Marine Battery Maker AYK Energy Lands Kongsberg Maritime Electric Tug Deal",
        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUDBBMW0wMWRDYl9HZ21IVjliT2RmOTNLMFY5RnU5U2s4SW1hdzI1U24wZ0doMkJoQjdDT2R6YVFnSS1neEpxc0hoN05MZkYtcEp6UVpLM3lyUHNvWi1PaUJkdURaLW9fMjlyWFJTXzhmNnVSU3h6bXBOc2lFcVFzZ1RMUU5RS0pZVDFfbXZEYWtuSHYwcWJwOWJ4a3EtU2FCUFNyVE90SmRQNGJIeVRNSWlkQjgtUQ?oc=5",
@@ -85,12 +91,6 @@
        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeWFRczlOdDNxT3JRMUxZSFpvTlJaZlpDa3h2aExmTl9nU3JQc1lTaG5TM0FkNDJVNmMycVIyaEhZNjBmT0twN1U3cnB4NktaOUI4alNrQU1sY1NiV0tPc0Zad3Z2cGdvT0Z4am4zWTlVQkpBUjVfc3FLajRPOV96R0FLQUZ6Nmw0ZWF2MzJnTXRfQQ?oc=5",
        "source": "Maritimt Magasin",
        "date": "2026-10-07T07:00:00+00:00"
-      },
-      {
-       "title": "Kongsberg Signs Waterjet contract for Indian Navy\u2019s Next Generation Missile Vessel",
-       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNc3p3Vkg4M3BvUkZJTG1ObWRSQTM4czJZbFBYMFBqNTBhd2dsVHZXR19JUDhKWU9CSnVxQVhlVWVfZ05yXzJiYnBEUXRweTJtX0MtdExYMzIwVVNTeGFIQVJrRFY1cHA5U1h6b0lYME1TRXp5d1hXZnctRG4yVkpnLXlCTmhNMno1eVFvNmRPWjIwNmFsWEtlRU83UnlFT0d6ano3dEw1aXNMc0dXTkJsUERPQnV0M2ZKVVdDYzFDajhPS2hTTFE?oc=5",
-       "source": "Naval News",
-       "date": "2026-10-04T07:00:00+00:00"
       }
      ]
     }
@@ -104,9 +104,9 @@
      "symbol": "G2X.DE",
      "name": "VanEck Gold Miners UCITS ETF",
      "quote": {
-      "price": 88.73999786376953,
+      "price": 88.37000274658203,
       "prev": 88.5,
-      "chg": 0.27118402685821774,
+      "chg": -0.1468895518847102,
       "currency": "EUR",
       "asof": "2026-10-19T00:00:00+02:00"
      },
@@ -141,19 +141,13 @@
      "symbol": "2B76.DE",
      "name": "iShares Automation & Robotics UCITS ETF",
      "quote": {
-      "price": 18.959999084472656,
+      "price": 18.945999145507812,
       "prev": 18.829999923706055,
-      "chg": 0.6903832251371256,
+      "chg": 0.6160341065945651,
       "currency": "EUR",
       "asof": "2026-10-19T00:00:00+02:00"
      },
      "news": [
-      {
-       "title": "ETFs Investing in Interroll Holding AG Stocks",
-       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1Vb3JFSzZOQ1I2ZEJIRXBPYUl2eVhWQXNYNHZqQWg1QVEyUV9sLXpuRHBoMEJHb0x2bXlKMVEwN0wyM29QTkZJM216T29VWlp2TDlxbDFTUUMxSWNv?oc=5",
-       "source": "TradingView",
-       "date": "2026-10-10T21:39:37+00:00"
-      },
       {
        "title": "The Best AI ETFs to Buy in 2026",
        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lUkkzNXg4cjVYR3lSLXVMZ2pyVTh1aXFJNHA3ZVpZTk5nZzUwZllhZnFZaEJoTVR1cF9EWFF4VnhFbjVsMEFzSUkzRUNPeGNuMWRjcTBZd1JuS19sUUpPXzlPSjRqbVRCRy1LUg?oc=5",
@@ -405,10 +399,10 @@
        "date": "2026-10-09T12:08:00+00:00"
       },
       {
-       "title": "Silver X Mining Stock Surges 6.90% as Resource Estimate Nearly Triples Silver Exposure (TSXV:AGX)",
-       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORnIzOXlBQkIyWHU4SnhnTEdtV0VBYWplNVJjeTdLekpONEYzNUVyaVlNWWhWeXRFcEhyTjh6T2ZfTzczVEFjWlFtR1J5dTJCb2tDb3BycXVKb2gzcUtFbF83Qlhwbkx2RG5XT3dSTktWNUw4a01zcHFLc0VxdmZaS0Z1S3lwX0ZUU0ZJUU1uVm5RdW4zZ1hzNzZYclZUbmhRR0ZYclZ6aWFTejlOMUxQU2trbkUwNWZETjV5bkdnclQ?oc=5",
+       "title": "Silver X Mining Corp. (TSXV: AGX) Gains Momentum as Resource Expansion and Silver Market Strength Support Investor Interest",
+       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQQ0tuM0xqSXRnQWVBaUxoVTN1UDVWMVhaaDFPemZQQUJqVURtVXh2VjBvTFZ0RVF4NEZmWC1qT21iQWxXcHVfUmkzb011bXoyQ2lnVzBlaHBUY3VBUHdUYkNhQmtCOGNhVTJsMDNvMGl3QXR2YlRxcm5CeGdGRE5WcEdmaElSS1VON1JGNTJnTER3R2R6V25wYVJXeTJKaGNkRlB5OVZOcGlRbFBnZVJrWHJkelk5VWl4b2I2Yld2MUFHSThRLTVzcVdvcTE2ellGZzBUVncxZnRKUTFramFLNndFaXY?oc=5",
        "source": "kalkine.ca",
-       "date": "2026-09-22T07:00:00+00:00"
+       "date": "2026-09-23T11:41:00+00:00"
       }
      ]
     }
@@ -458,9 +452,9 @@
      "symbol": "OSEBX.OL",
      "name": "Oslo B\u00f8rs (OSEBX)",
      "quote": {
-      "price": 2102.320068359375,
+      "price": 2099.43994140625,
       "prev": 2101.64990234375,
-      "chg": 0.031887614339454196,
+      "chg": -0.10515361930811817,
       "currency": "NOK",
       "asof": "2026-10-19T00:00:00+02:00"
      },
@@ -470,9 +464,9 @@
      "symbol": "^GDAXI",
      "name": "DAX",
      "quote": {
-      "price": 25374.0390625,
+      "price": 25337.619140625,
       "prev": 25622.609375,
-      "chg": -0.9701209929950827,
+      "chg": -1.1122607779872173,
       "currency": "EUR",
       "asof": "2026-10-19T00:00:00+02:00"
      },
@@ -482,9 +476,9 @@
      "symbol": "^VIX",
      "name": "VIX volatility",
      "quote": {
-      "price": 18.459999084472656,
+      "price": 18.690000534057617,
       "prev": 19.989999771118164,
-      "chg": -7.65383043603669,
+      "chg": -6.503247883668339,
       "currency": "USD",
       "asof": "2026-10-19T00:00:00-05:00"
      },
@@ -494,9 +488,9 @@
      "symbol": "GC=F",
      "name": "Gold (USD/oz)",
      "quote": {
-      "price": 4197.60009765625,
+      "price": 4190.60009765625,
       "prev": 4181.10009765625,
-      "chg": 0.39463298210078435,
+      "chg": 0.22721292908833846,
       "currency": "USD",
       "asof": "2026-10-19T00:00:00-04:00"
      },
@@ -518,9 +512,9 @@
      "symbol": "USDNOK=X",
      "name": "USD/NOK",
      "quote": {
-      "price": 9.434450149536133,
+      "price": 9.418350219726562,
       "prev": 9.473099708557129,
-      "chg": -0.40799273954736925,
+      "chg": -0.5779469288295425,
       "currency": "NOK",
       "asof": "2026-10-19T00:00:00+01:00"
      },
@@ -544,16 +538,16 @@
      },
      "news": [
       {
+       "title": "Apple's Market Value Grew From $350 Billion to $5 Trillion During Tim Cook's 15 Years as CEO. Here's What That Growth Curve Means for Apple's Next Chapter Under John Ternus.",
+       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVGN0dzdtQkRGYmhIWklBMHBzSTh1S3lSQXJEYV9qUlFXc1Q3ekNPeHZ6bllWa1NZX1NfTFp6ZmhuMVBnTzFqWFNLQWZHMXJNb01jSGE2X1JHdng2cFI4UVNUOFItWVRzay12N1JWXzhPY1hYLXNDZUQ4VGN6ZnNfcEhaUFNiWHdRZmZBTjM4WU1FSkpOZl9vbA?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-17T20:07:00+00:00"
+      },
+      {
        "title": "$10,000 Invested in Apple Could Be Worth This Much by 2031",
        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSHQ1UHRkT280bVY3b0JMLXhDSXBHSVlBTlMzbk9KdGdPaWZMYlduUzQ2dmhvNWJtX3BzazJIYkZ0N2JFc2NMYm5LaFVfTl9RVVlLdVo0UE1wRGdfZFBlT1RsclBES1NRZEpoTDBWbmcySGtGdzBJa2poOWVXX0pGd1dDNHJNSjF4MjFOaVRKb0ktNVAzNmsw?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-10-17T15:49:02+00:00"
-      },
-      {
-       "title": "Apple\u2019s $1,999 Foldable iPhone Sold Out in Minutes. Deliveries Now Slip to January",
-       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeDA3dU1MNjRXS250MkpoR21BVEttdVNXV2xpZjllcTRNNnhHTVFuVDlxSTZQUkhrMTFKUmxmSWF5cklxWXpxMGZTX2ZtWjcybWdfX1BsdmRrX0FaVnJKa2hleDV5cmgwcWFCZnNlNE5HMU1QNGQ5aURyVjc1UTVicERrdldrSGFOUjFmTzJnYVdNQkw0NUpv?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-17T14:50:18+00:00"
       }
      ]
     },
@@ -644,10 +638,10 @@
      },
      "news": [
       {
-       "title": "Cathie Wood Just Sold $7.7 Million of Amazon Stock",
-       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPazBwbWpQYXFRQWhxNDdPMWx6WDVNSVNJcElIdG1Qa2d5akltSFdGLVJZTlM2WHBQZ0pQWFlLWEtNTGdya0tqQXdtVjZjVUhwSlpWSURIMG51TzRTY3FhTU1DTGRmNEVwTzFmR2hESUotekVoRFdjZ2FXczdELWtOWThpWXZOQlhIYzZaRVFybUZOZw?oc=5",
+       "title": "Should you Buy Amazon Stock Before October 29? History Has a Clear Answer.",
+       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZ1NYeFB6R3BmMHNWUVNPc0F4NEpkS2pWaHNSZEx3OUZtNjU2Z2tIVUtLQm5HQmxPZWdWVHNQVktURWU1ang5ZURxOXR0YXFfNmUyVkFPc2RWbmtSdkN4M3l1SzlweVphOWxWNHFieXpkX3ozS0hoOV9JX2NZTWxfeVA0VVRVV2dLR2Nwa0Rqc3VzUlBacTNN?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-10-16T18:29:33+00:00"
+       "date": "2026-10-17T18:47:00+00:00"
       },
       {
        "title": "Amazon Is 11% Below Its High Heading Into Earnings on Oct. 29. Here's the 1 Number That Will Decide What Happens Next.",
