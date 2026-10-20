@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-20T05:10:36.115330+00:00",
- "usdnok": 9.427200317382812,
+ "updated": "2026-10-20T05:52:48.387203+00:00",
+ "usdnok": 9.397749900817871,
  "btc": {
-  "price": 81931.84375,
+  "price": 81787.0625,
   "prev": 82017.6015625,
-  "chg": -0.10456025397749258,
+  "chg": -0.2810848624052009,
   "currency": "USD",
   "asof": "2026-10-20T00:00:00+00:00"
  },
  "silver": {
-  "price": 57.599998474121094,
+  "price": 57.5099983215332,
   "prev": 56.9739990234375,
-  "chg": 1.0987458514647663,
+  "chg": 0.9407787890669317,
   "currency": "USD",
   "asof": "2026-10-20T00:00:00-04:00"
  },
@@ -118,6 +118,12 @@
        "date": "2026-10-18T07:37:34+00:00"
       },
       {
+       "title": "VanEck Emerging Markets High Yield Bond UCITS ETF A USD (HYEM.MI) options chain",
+       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaTlEtZmxFeXRlODFTcVpWNHRXem5RV2ctNl9rZ0NpQnRrMWZZWkJYVkFsRElDOUYtWnpPNWFjMUQ0LTZVdThWRk84b2pwMTduMkRxREdEUThMYmJ2RzYzMg?oc=5",
+       "source": "Yahoo Finance Australia",
+       "date": "2026-10-16T12:37:50+00:00"
+      },
+      {
        "title": "iShares SLVP vs VanEck GDX: Which Miners ETF Wins",
        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU2Y2Z1M4c3l5RXc2RTRGMVl1YUtVY0Znb3Y0ZnNkVE5IaVE1LXF3UG01a0pCNjZfRTZwWUZhR0dEWnc3WFFUbWRnY0M3bk9WdlRhMFBFcXBIMVhtZlpvb0U1VGRrMWtaal9jWTVqMXJSdlJQekNPVmZTcTV5RDh3b3hGenZRMUNBY1VLUzJnRUxiS0dSQ2w5cWtlNl92UFBDdjhiSVJ0UXFTSDl0N2VmNlgyZ2Z1dWVyRTlzQmlIWlgtT3FqblE?oc=5",
        "source": "The Globe and Mail",
@@ -127,12 +133,6 @@
        "title": "GDX Vs. SGDM Is A Draw, Gold Miners Are A Buy (NYSEARCA:GDX)",
        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd0pJYktfcjZ0Z3gwNjBJeV9aTE5ESjczNXU5S1Ftanltdm9RY2dVbkdHbEtvSWpEdEVNWXFtaXlaU0V4UVNneEt4UGYxYmQxa1IxMmwxcndGM19zOXh6NTFqQ1ZoTzdEMHBUOS1FTUJCMmdUQ1ZYQlJwTlRkWGJtN3VBN0xtc2ZTZjJZVw?oc=5",
        "source": "Seeking Alpha",
-       "date": "2026-10-11T07:00:00+00:00"
-      },
-      {
-       "title": "Which Precious Metals ETF Is the Better Buy: abrdn\u2019s Silver SIVR or VanEck\u2019s Gold Miners GDX?",
-       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNEFjU3hkT3hGM2hNcWtZaXNhV3g4N3B3QzY4WjVuMHVnckZGcHZqa0h1dzJjbVpta1AzWGp0Mmdva2ozWTdjV2xjX0w3X0pGd3FNajhiMklyUWEwbXl4cHAtUDBaNUlncFVvaElrN21QS0ZhMDF4d2VWek1LVGFFRWFBQ1h5MVE1SlUxV3ZlVlY0bWc1ck1DaTYtTlBlbHpEb09hcm5oa3ZMYm12Q1dsem4tV1RzTjFwX2xEdU5mYUxDNGFfS0dQWWNGNUNVN3hSSERUSw?oc=5",
-       "source": "The Motley Fool",
        "date": "2026-10-11T07:00:00+00:00"
       }
      ]
@@ -206,9 +206,9 @@
      "news": [
       {
        "title": "HECLA MINING CO (HL.SW) Q1 FY2026 earnings call transcript",
-       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZkFJZE5fRzJLdHNpQzhaS0gzaDhvbkZOaWdUQ1E3cEhkOGJCbTZ5MTFhRXRadXFzMXllV0xNXzhFX25neXpuNEoyem02bG9wUDFLWXNFeXRwZldTWndlc0pwdTZVZDQ3Yk82cWNMWjZ1R2lnOW9KM1ZQUnFvV2pMTUV0cTJldnNnZ2w5c1N2QQ?oc=5",
+       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZFVJbE9SVm5yTXBGMDhOZEpTOHFwUGNGWDkteUdRaTN4WjRNNTBaQ1pKNy1NS0FSU2V3b0JwR2xZbGtHbmRvbXRDVFRncjFSMS14RjlXdFRMd3VZUTBzMmxxTksycXk1QlhKNmx2RmgtQXU3WkNXS1k3VGVDZEc5UXFJdDRNdkVrazl4VmFlbHA?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-10-16T03:44:27+00:00"
+       "date": "2026-10-16T04:33:00+00:00"
       },
       {
        "title": "Hecla Mining Company (HL) Stock Forecasts",
@@ -330,16 +330,16 @@
      },
      "news": [
       {
+       "title": "Defiance Silver Corp. (D4E.F) Stock Price, News, Quote & History",
+       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4yOTJ0a0t0bEgzbWZ0aExVVjBya2VLOVpFZXRzMVB3RWlMLXAzeml1U2lJVktwSV9DMzNUekdvU1V2WEc2OGkzZ3FnQ25KRkF2bjVtVDJ1X1hpR0JqVnRySGktMA?oc=5",
+       "source": "Yahoo! Finance Canada",
+       "date": "2026-10-19T19:16:56+00:00"
+      },
+      {
        "title": "Defiance Silver Corp (D4E.DU) Latest Press Releases & Corporate News",
        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UODNIWWJMMzhNME11OGhlS1RUdU5OWXA4UmVtNkgtYTVpSjVBejJSR1RoTTdHODd4SUNtQ01uOGllWlhKZ3paaGNjajFQdTk4aFpDNHBCb1JlbmQtZ0lFQXQwTHFmNy15?oc=5",
        "source": "Yahoo! Finance Canada",
        "date": "2026-10-04T10:28:46+00:00"
-      },
-      {
-       "title": "Defiance Silver raises C$3.27M in private placement",
-       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVThvVEk3MTRTQUk4eW0xVlhJdEl3aGtpUnRraWhHb0pnNGRKXzlZS0FEZUYzbU9zWW11Ujg1a1FFaG9DU2dhcEJVZS1hV0xYUWFNNk5TMWpGckFzRFJuYVpiZmlVQ0F4Z2lBNkpINExnb2dqWW52ZGxQeFQ1bUVEdTk4WWRmRUhWYU9oUGJ3?oc=5",
-       "source": "Dealroom",
-       "date": "2026-08-19T05:04:28+00:00"
       }
      ]
     },
@@ -500,9 +500,9 @@
      "symbol": "GC=F",
      "name": "Gold (USD/oz)",
      "quote": {
-      "price": 4162.5,
+      "price": 4150.7998046875,
       "prev": 4160.10009765625,
-      "chg": 0.05768857208754419,
+      "chg": -0.2235593555546811,
       "currency": "USD",
       "asof": "2026-10-20T00:00:00-04:00"
      },
@@ -524,9 +524,9 @@
      "symbol": "USDNOK=X",
      "name": "USD/NOK",
      "quote": {
-      "price": 9.393950462341309,
+      "price": 9.397749900817871,
       "prev": 9.427200317382812,
-      "chg": -0.35270126784294753,
+      "chg": -0.31239833220301216,
       "currency": "NOK",
       "asof": "2026-10-20T00:00:00+01:00"
      },
@@ -575,16 +575,16 @@
      },
      "news": [
       {
+       "title": "Microsoft vs. Alphabet: Is GOOGL\u2019s Cloud Growth Worth More Than Investors Think?",
+       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRGFiZVk2X0FnVmNBOGV0RXY3VERVTFZGTVpfakU2VTdkX1NwS3dhM1NTdkJXT1hQV05oazVjc2pFdjU4eWgtVjZfTFpGdWIwT0pSQlhlVWthVG15U1JKTFR5ZVpkREFnUFFBM2pkcVNzdnBQVlFHQWVjQTRlVG1aMmJ5T3kwMzNSWFJHYll6emlvMEhLYXFLTDQ4NDlkSmM?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-19T13:38:11+00:00"
+      },
+      {
        "title": "Prediction: Microsoft Stock Is Going to Soar After Oct. 28",
        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ2pCWnV6aGpTNWxxQnF6MWlFbEpaNXkwVkVERU5UNFRDV0NRWmdranFRUzhvMkJqdi0tVVgxTm5XSWlTMUlpZGF5SmNkbi1TUjVERWhFY0N4YVlwRXVHc0k5WUJrUmJCRmt3ZzhXREJNMDB4MEJfRnFfRDRXdWlkVUg2d21CMFBWRXlUZ2haX1RKQW5PelFIekk3azRmd0NsYUluZw?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-10-19T09:55:00+00:00"
-      },
-      {
-       "title": "UBS resets Microsoft stock price target for investors",
-       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdm1TenpDX2thM25Bcm5hSXQ2NWdzVVFuNDRJWGFiaTdHVWxEeUZUZVh5ZFp3QjluYTI2cTQ0OG42Y3czRUVwR3k0blZrOTgtWjB3QWFwT194Q3d0bGF1ZENsWjRSeDNwc0hjeVc0ckc3SGJFWUM3UnZsVXpxRUkwUTRNaGFSTXdTOHgzRkFFRG5KQ0tEY0VicS0tUzhQZw?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-17T14:37:00+00:00"
       }
      ]
     },
@@ -650,16 +650,16 @@
      },
      "news": [
       {
+       "title": "Amazon (AMZN) Stock Costs $250 a Share. Here's Why I'd Still Buy It.",
+       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeFZwb0JDNGYxbkVyVzVIc0xmUFVaZENzR3djd29NVlJ5UW80XzVURW1fUlFhMmhYYktpTl9oazdPRzhaM3ZaWGFiYlkyTS1ZYktqMTFGUnVxV2lRWmdLLS1kdnlzQzVMcGpBZklMN3RDcXFuY09qVnBETlhlWXFYN21vYUdaQXhpRDJJMEs5WXJuSHI0S1VJ?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-19T19:25:00+00:00"
+      },
+      {
        "title": "Amazon Soars 5% as Morgan Stanley Names It a Top Pick: AWS Runway \u201cUnder-Appreciated\u201d",
        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOX3c2OGNucmRrUmNsdHc0Y1ROcTQ4c1dWM3NnaVZQWWZaSDlNUEF1aEQxejNLZFVLVHBKcnNWWTgxc21GT05ROHhPOUFWOFNDd0dUV0E3RFAybmYybGFaVkQ1OU41aTAxdzFCUGNaOGQ1eWt4ZjJNSFdreE1LeUdLaVJqOXlUXzl6Z1hDYjBzLTR2RkxIdW9rRjlB?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-10-19T19:18:52+00:00"
-      },
-      {
-       "title": "Why Amazon Stock Has 40% Upside Even as Meta\u2019s Muse Changes the E-Commerce Landscape",
-       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UeEVYeXJTTm1ncDN2eG9wOUY0MnhoR2R5d3UtWmhnSmtaVWVFdmtqeU40cWZ0VzRZU3AtcHNOMUJ1VmJDdlg5QzJOb0U1N1dXd0tUNWY3TFBnaEhyNnZIWkFQbjlPSkJVZWVSbUx3Zi1idmxsQ3FkOHZaR2F2aFU?oc=5",
-       "source": "Barron's",
-       "date": "2026-10-19T17:56:00+00:00"
       }
      ]
     },
