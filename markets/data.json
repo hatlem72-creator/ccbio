@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-20T08:56:54.083987+00:00",
- "usdnok": 9.390449523925781,
+ "updated": "2026-10-20T09:32:49.910420+00:00",
+ "usdnok": 9.384260177612305,
  "btc": {
-  "price": 81311.03125,
+  "price": 81294.3203125,
   "prev": 81853.5390625,
-  "chg": -0.6627786882687614,
+  "chg": -0.683194344929916,
   "currency": "USD",
   "asof": "2026-10-20T00:00:00+00:00"
  },
  "silver": {
-  "price": 57.540000915527344,
+  "price": 57.3849983215332,
   "prev": 56.9739990234375,
-  "chg": 0.9934389402032506,
+  "chg": 0.7213804632647092,
   "currency": "USD",
   "asof": "2026-10-20T00:00:00-04:00"
  },
@@ -24,13 +24,19 @@
      "symbol": "KOG.OL",
      "name": "Kongsberg Gruppen",
      "quote": {
-      "price": 307.1000061035156,
+      "price": 305.79998779296875,
       "prev": 313.29998779296875,
-      "chg": -1.9789281618325938,
+      "chg": -2.393871781749335,
       "currency": "NOK",
       "asof": "2026-10-20T00:00:00+02:00"
      },
      "news": [
+      {
+       "title": "Kongsberg Tests Firing NSM Missile From a Shipping Container",
+       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03ZkVVdFlnQUhLTVNfanhvYkMyV1JVM3RBM0xDZk95NThNcGhodHhwUXluRjBtM3VxQmJLRUtvSzRySzNmS3BhcU5ET2hONTZtV1Y1cGVjNnM5YkpkbzFrR2FRRnNNTnBsOC1pbjVFQTJpRTMtdHJz?oc=5",
+       "source": "Envanter Medya",
+       "date": "2026-10-17T09:15:00+00:00"
+      },
       {
        "title": "SB1 Markets raises its target price for Kongsberg Gruppen to NOK 400 (375), reiterates buy",
        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQb2pNQy1aTG16d2dtbzFoTGpmSVBjYkZ0bGYzeE1jeW0xT0ZYcWZ5bjRVM1VDczRDQ2Q4TlhZY0JPNFJOQjNhTmF5eWs3dmEzaEZnZWFxVkRURU1MREJxMmd6OHIzSldXcV9DclUyZ1ZVTU9vVGF4dVVsZDVubXNjQ2tjRlpNUUF0Mk43WWpweUdFTG5GcFl2U0hEZmlDakRocEJROVd4a3Rta0JSanZORTBTc09VXzUwNnlkTHlMR1hYVGJRVS15ZnVuSW8yZVVpLTVDQmd3OA?oc=5",
@@ -48,12 +54,6 @@
        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYzJQQkJLdUR0WkFBVEs2QUNwaWlpMm94MEM0NF9lSzhnZWU2UEZLUVoxS1dDLWVoZ0VLdW1OYXRrUTA3c09DNnJBRGx1T1pUdWxhMmpoWmo5V2t5S1ZtVHhDWnVodnBseGQ1Y3dkdXd6UWJpVnNTd1NkdHBMdHZZUG5tNjM2eVFvVHZRenhPc1ZiaFN5UTMtZ2M0VmhRcTh4QWpTY3hlQ0FJeG90cUQwczB6RWJTX3N1U3VCcHdPRGRUQdIBxwFBVV95cUxPVnMteHFUM1ZoYVZHeG81S1NxR095c2JfYk1EQTluRWU0SUM0cGVndHoyTDA4d1RNTnRlYkY4NDZMeDlIQTFVMUEtazNrYWNRdDAzWDdWa1RIMWp4emZBSUlkanJjMEVjSkc2SzA5Y0s1SGJHcWJZa1h6NWxsdVVldW12MVZ6UHRxT0F4em1Md2F6a0JKTEVWQjVPNnlaMW4wQUc2TzFkdkFQRFNzM3ZiWm1jbXpFWnpkYUR5YnprM21kQ09Ydng0?oc=5",
        "source": "Simply Wall Street",
        "date": "2026-10-15T03:57:47+00:00"
-      },
-      {
-       "title": "Kongsberg to Build New Counter-Drone Plant in Poland Worth $51 Million",
-       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBHSVJRVkNRYmtIWGhJUE9qNkNmNTAwVTFWUVNUZjBpb2g5QWpUbG1JcHdNUmN3YUtZYVAtblpKYWQwSG0xM1VFWFVDV1V6bDlNT1RId1N5cjNtdUxRQlRLbjZiZEpGQVJ5UHVpVnppOVV4cHVfaWNr?oc=5",
-       "source": "Envanter Medya",
-       "date": "2026-10-14T00:21:49+00:00"
       }
      ]
     },
@@ -61,9 +61,9 @@
      "symbol": "KMAR.OL",
      "name": "Kongsberg Maritime",
      "quote": {
-      "price": 60.060001373291016,
+      "price": 59.68000030517578,
       "prev": 60.959999084472656,
-      "chg": -1.476374220305532,
+      "chg": -2.0997355618775027,
       "currency": "NOK",
       "asof": "2026-10-20T00:00:00+02:00"
      },
@@ -104,9 +104,9 @@
      "symbol": "G2X.DE",
      "name": "VanEck Gold Miners UCITS ETF",
      "quote": {
-      "price": 86.75,
+      "price": 86.55999755859375,
       "prev": 88.5,
-      "chg": -1.9774011299435013,
+      "chg": -2.192093154131358,
       "currency": "EUR",
       "asof": "2026-10-20T00:00:00+02:00"
      },
@@ -141,9 +141,9 @@
      "symbol": "2B76.DE",
      "name": "iShares Automation & Robotics UCITS ETF",
      "quote": {
-      "price": 18.763999938964844,
+      "price": 18.687999725341797,
       "prev": 18.829999923706055,
-      "chg": -0.35050443445897583,
+      "chg": -0.754116829206608,
       "currency": "EUR",
       "asof": "2026-10-20T00:00:00+02:00"
      },
@@ -236,10 +236,10 @@
        "date": "2026-10-16T11:17:35+00:00"
       },
       {
-       "title": "How Record Drill Hit At Hycroft Mining Holding (HYMC) Has Changed Its Investment Story",
-       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQkxDUkRHazFIX0RsSmxjMW5rY0pTdUpPZWpvYUM4UmxZQ2g2em9YelJoQzMyNzV4NXc5bEpiaXpLam4xNU8wSnpiZl9SMGt5VjZuVDYxSm0zOUl3U0xsM3FVbTlMbEtoVUxTTEdpUnljMFhYYkN1amdHemlTcnJWU3A0SnktcG92VGpBQ0wtakhJMGdwMkZmSElBV3I3dEpzQUJsZ2oybTZUbi1sWldDZUhGdG9qYTFfNFlPbmVidVVNNzJnT1pMOFEwWEJZS05ZSkY1YXhkeWN3QdIB3wFBVV95cUxNQ1Vpb0tPN0xKdXlRMG9iOGFNUmJORmlOcEpGUDY0SmtqdzdMRkNLc0syVmpiMHIybWU4bUNCYVdhQTVjcXctbnBLNHNJX1hGeWxDOHpoSmtoaGxnRnYwTWF3WnVCVEdCMk5LNmwxX3lZWnN2MW1qWkFWcnhiZzBvRFlZQlFrLTU0eExudy1ZMld4QWhXdi1kZnNIaFUzVnBpNjF4M01DMlpxMHpxUHVTYnhyVDMxeFZtbUtqdTF5Tm9hdWRFZzEyWkY1YUVoVTZQcUYtekI1c3lfWlprdHJJ?oc=5",
-       "source": "Simply Wall Street",
-       "date": "2026-10-14T16:08:01+00:00"
+       "title": "'Best hole ever' for Hycroft at Vortex",
+       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV3YtcmRIaWQ2V2RKejY2cTRTbzk2dTVUZGxCclh6QkFqWFNpZUREQm45bk9sU3dXejdCNFpFLVpZUjlrSW94dnJuTXV5VGxOWWM0cm1hdmtUUVZHMlE2Z19EN2tsOTJCVDNTSEh3WHZqVUhacjJDOFY2QWVqRFhYNHlYY2JRSC1mODVnWjc3MVJRSGdmcGh2M1c3NV9GUE11aUdJ?oc=5",
+       "source": "www.mining-journal.com",
+       "date": "2026-10-14T12:24:33+00:00"
       }
      ]
     },
@@ -464,9 +464,9 @@
      "symbol": "OSEBX.OL",
      "name": "Oslo B\u00f8rs (OSEBX)",
      "quote": {
-      "price": 2095.969970703125,
+      "price": 2090.52001953125,
       "prev": 2098.81005859375,
-      "chg": -0.13531895747288525,
+      "chg": -0.3949875801555147,
       "currency": "NOK",
       "asof": "2026-10-20T00:00:00+02:00"
      },
@@ -476,9 +476,9 @@
      "symbol": "^GDAXI",
      "name": "DAX",
      "quote": {
-      "price": 25128.369140625,
+      "price": 25073.16015625,
       "prev": 25319.76953125,
-      "chg": -0.7559325940497685,
+      "chg": -0.9739795407522678,
       "currency": "EUR",
       "asof": "2026-10-20T00:00:00+02:00"
      },
@@ -488,9 +488,9 @@
      "symbol": "^VIX",
      "name": "VIX volatility",
      "quote": {
-      "price": 18.399999618530273,
+      "price": 18.809999465942383,
       "prev": 18.440000534057617,
-      "chg": -0.21692469831258165,
+      "chg": 2.006501741696809,
       "currency": "USD",
       "asof": "2026-10-20T00:00:00-05:00"
      },
@@ -500,9 +500,9 @@
      "symbol": "GC=F",
      "name": "Gold (USD/oz)",
      "quote": {
-      "price": 4140.89990234375,
+      "price": 4143.7998046875,
       "prev": 4160.10009765625,
-      "chg": -0.46153205119552343,
+      "chg": -0.39182453753777713,
       "currency": "USD",
       "asof": "2026-10-20T00:00:00-04:00"
      },
@@ -524,9 +524,9 @@
      "symbol": "USDNOK=X",
      "name": "USD/NOK",
      "quote": {
-      "price": 9.390449523925781,
+      "price": 9.384260177612305,
       "prev": 9.427200317382812,
-      "chg": -0.3898378332882868,
+      "chg": -0.4554919628824483,
       "currency": "NOK",
       "asof": "2026-10-20T00:00:00+01:00"
      },
@@ -625,16 +625,16 @@
      },
      "news": [
       {
-       "title": "1 Analyst Thinks Alphabet Stock Could Jump 20% on AI Chip Demand. Is He Right?",
-       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR2NkN2ZTMXpMVl9KRUE3ODIxMVoxcGVKMzMwcExOYll2YmR4dzMtVmUtQ1lNQkhCMHpieDZHZnFBbWJ6SjZQc1IyalVOTVhHSVBpOWVCcHRpVkRubVV4Z1prR0s1ai10bHRNbVJ4MlljdURVS0x6ZnR2SGZtMU1iZEw4eW1qUXJHQlpEdjlOQ2MtX1lsZmhIVUhIaw?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-18T16:35:00+00:00"
-      },
-      {
        "title": "Alphabet\u2019s (GOOGL) Low P/E Is Misleading, but the AI Opportunity Is Real",
        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNc1ZnUC1Rb1U2dGlJckdTZEVQRl9VZ2trQXY1U0ZJQWswZVJ2SElrNzFRVXdlRDdRSDRLUGs1OVhxU3J1RTFzc3puM3I1eGRhZEd5bDdMLS1FWWxZRXktV1RtYzZvZ01aZmlzWXRscjRxMm1ZQXhLVDlOdTNTRU8yWUpXa2J3VFZNandjbjJEclA?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-10-18T14:39:08+00:00"
+      },
+      {
+       "title": "Prediction: Alphabet Will Report Google Cloud Revenue Growth Exceeding 100% on Oct. 28.",
+       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNN0gxQnpQTXk5YTBqZkNxdVZTQ2phXzVUTkhLRUJkNDRSdkFCYnNWMk1zSGozMlljdEFvU0ZqOVRMWWozUVBabzJ6WTVLYVhIeDR5T1g1dUkzeHg5RFhjSXp4QVVJUGVGa2czd3VEWEl2Yjk4NlA2VHZrQk02b1o2bVUxUkZpSHg1NzhXTVdBUHM2VWtjZnVaMVpVYWJRSlZYaDhJU0IzSQ?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-18T12:05:00+00:00"
       }
      ]
     },
@@ -650,16 +650,16 @@
      },
      "news": [
       {
-       "title": "Why Amazon (AMZN) Stock Is Up Today",
-       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQU3pTZEJjVGVLLUg3WmZTV2xmN1R6Zm9wWTB2bXdYOGNtNXNKVTdqTHNFTDMyLVNjZERUa1U5blotTG5hVEtseGZCRkcxazlkdVpsOVh6c1YxSzBSMGNQT3lBclB4VUgyajN4SUpDODNEQTBUWGgwNUVrclhWVjhyc3prZHY1TjhObjdsakZLaXRxcTAyRXJ3?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-19T20:56:55+00:00"
-      },
-      {
        "title": "Amazon (AMZN) Stock Costs $250 a Share. Here's Why I'd Still Buy It.",
        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeFZwb0JDNGYxbkVyVzVIc0xmUFVaZENzR3djd29NVlJ5UW80XzVURW1fUlFhMmhYYktpTl9oazdPRzhaM3ZaWGFiYlkyTS1ZYktqMTFGUnVxV2lRWmdLLS1kdnlzQzVMcGpBZklMN3RDcXFuY09qVnBETlhlWXFYN21vYUdaQXhpRDJJMEs5WXJuSHI0S1VJ?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-10-19T19:25:00+00:00"
+      },
+      {
+       "title": "Amazon Soars 5% as Morgan Stanley Names It a Top Pick: AWS Runway \u201cUnder-Appreciated\u201d",
+       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOX3c2OGNucmRrUmNsdHc0Y1ROcTQ4c1dWM3NnaVZQWWZaSDlNUEF1aEQxejNLZFVLVHBKcnNWWTgxc21GT05ROHhPOUFWOFNDd0dUV0E3RFAybmYybGFaVkQ1OU41aTAxdzFCUGNaOGQ1eWt4ZjJNSFdreE1LeUdLaVJqOXlUXzl6Z1hDYjBzLTR2RkxIdW9rRjlB?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-19T19:18:52+00:00"
       }
      ]
     },
@@ -675,16 +675,16 @@
      },
      "news": [
       {
+       "title": "Should You Buy Meta (META) Ahead of Earnings?",
+       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObHAxelFtNmtsWHhTNmJFY1BzdHlJTVktNzFYQkRqdGREcUpybjllbFozSXQ5VWJSaFJQTXJ4VHYtVU05VWxUaURTYU9malBuVVBQUWhDSFZtRXdDNEgtdUpXX2NNMVhiLThKYnF1TUZ5UGVBRi1qSGFJc2Zzb2lWbXRTLTl3WktYS2RNZkYxNGFCWXJmbk9XUw?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-19T14:07:01+00:00"
+      },
+      {
        "title": "Meta's AI vision doesn't come cheap, and its earnings could prove it",
        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOczJkZURyVjBJaUszYWdzSkdYc0wwUG91MV81SmlQLXJpQXlDeFUwVjRyaTJHOUZUQV9RaGFpN0h4QlhxSmhDNU1RVnFvV1ZFTDVkOGMzeE9VNmpGVWJIVjF1eEZsbm9EeDk5VDRGamQ3UXdueXVvYzRpaERKMTRuNjd2TG5nUlNtb2FldFNGaTQ3bEgxUFFJZFhvUTRhOEhqQVBFeTY0OElFbG9yVkVhbC00eVpOTk9yWXZ2U1ZBY2IzUUE?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-10-19T13:07:19+00:00"
-      },
-      {
-       "title": "Should You Buy, Sell, or Hold META Stock Before Q3 Earnings Release?",
-       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWUROT2p3bkhvQU9YRHFCU2xNcTBKYmpLM1R6WUE2cVNzUHVZU3lHY2w5Wk4tMFU5U3VDZ3BJbmNhY0RIc2p6T0xtNDVFT0hLRDZEcWlsZmRfM0R5SnNMUlpOSUJoMjA1TF96LS1odXNWbzcwNGZxRENPTk50R1ZXdE9MUEd6MzE2SENNOEpmMVJzZkk?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-19T08:37:00+00:00"
       }
      ]
     },
@@ -725,6 +725,12 @@
    "date": "2026-10-19T21:37:27+00:00"
   },
   {
+   "title": "Are We There Yet? Bull Market May Have More Miles",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPX1drLWpQaS1OVEgwVnVRMGdieDl0SnhoRm9fSkdCRmxFN3JvVkFlN0xHXy1kU2hSdVJlb3ltWVNNSEduTVNZcDNveUZGTHBlTWVfSTc5bGZVczR3SE1ZRF9DU2o4aDZreThJcHliZXlpVGFmV240TTRrRm5icHVZOWRaNDh3bkthRXh2NE00QURob0E?oc=5",
+   "source": "Seeking Alpha",
+   "date": "2026-10-19T19:35:00+00:00"
+  },
+  {
    "title": "What Does This Record Correlation In Bonds And Oil Mean For Stocks?",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUnhfOFc5MHI3empZenlQUGpldlhrQ3dacmlrVmlfTDZpM1FuWGtSaW9LeHlvRWI4Sy10X21zMXhLb21rOFFmYTdyQTZsNkdmWEtNOE5oM0tMY3RHWTdkSUkwdzd6aHBRWlpjaDUwTktKM3RDQnk3Q1J5NXRYNXp4OWoxTG90Nm1hbTlNYUtiQlpBakI3a0ZjbkNETHNPeXc?oc=5",
    "source": "Seeking Alpha",
@@ -761,18 +767,6 @@
    "date": "2026-10-18T13:04:04+00:00"
   },
   {
-   "title": "The Data Center Doomsday Scenario",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tdkJFMTFGMmF5a0FzWDhmYWhvcmcyUkRlMnlZclhIRHlIV2lRaGNDR0xkVGlVZEduN1hJMmNQb016RnJIak9BREcwT3hrdy1ucGh2cVlQVWlUeFJQd1ZtTnF5czhKbktsQnltODEwdkVSN2Q3bzg2RUk3a2hBQ0E?oc=5",
-   "source": "Seeking Alpha",
-   "date": "2026-10-18T12:00:00+00:00"
-  },
-  {
-   "title": "Michael Burry Warns of a Stock Market \u2018Supervolcano\u2019",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUTJEQXBCeFBNT0YtRFJzaVZmdnAycXBOX0lRUVI3QTZ1N2FtRWFybGxNYTlpZUZ6TEdLQ2loYUpfMkpYME5hNFEwZmFQSUJOVlBua3d1TEg1azQ2d0w2MDllb08wUGZ1d2s1VGo5NXBLazQ3N3UzUWs4Q2xVNnB5a25NeXMyT05CaFNXNk54eUYwSDZpVlFmU2xOc0lQQQ?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-10-18T09:13:56+00:00"
-  },
-  {
    "title": "Norwegian Air Wins Prospectus Approval for Share Issue Tied to NLTG Acquisition",
    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNdFdRR3d3Qm5aakw3NWRIaFR0R3hUOWtSYkxTTW5JMHUtTWxBbXhHT2s0c0J1cnBkcEtpbnJBSzVGVUlmUEk4VDl1bXloeWNpcW9sbTFwMEF6TGdiRTVna213VEhSa2MtVU9ZY2NVS3ZXRG1XTVlYMEpVc1dwanNZb0RLcGV6Z1lXRGVCOXo1ay1zZW42aDhhOXI1cURjVEVRTnR4RVZVNmJKNGVzVlFFRTNYeF82N2w4QWk4N0x6aERPeVd1NVhvc2RSdEFqS0o0eFNBV29nYWZHc3ZabkJPa0Q0cFZuWkt2b3NoQjhMbVVoUQ?oc=5",
    "source": "The Globe and Mail",
@@ -785,10 +779,16 @@
    "date": "2026-10-16T06:35:00+00:00"
   },
   {
-   "title": "Insider-Linked Investor Acquires 1.5 Million Shares in Borr Drilling",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQWxZSHhKY3ZSTHpzM0FzMmVkTjhUSU9GbE0tdnV5NnVaVGVUWEgwM1puRFpxTkNfcU5XVXAwSkhGcEpGVzVBY3J6TW9iY2pBZkItaU1veHI0TXJVRGFnUUx0d3dzNFUzYTZNVXJhR04ySFBCNmUtemFKR3hhaWU5M2tJZ0pOd3o4YzJmUnBPdG9ITXZsVXFtNGZRdDdWY1c1dkFkak0wV180bnpsSVFLaXdNZ0pfdjJTSUVJaGFKbmppdEdTOExkUGM1QmMzX29CMGhnUzFrLXE5WUREQUN0NWhjSGJ3RWpJd0pB?oc=5",
-   "source": "The Globe and Mail",
-   "date": "2026-10-15T05:46:00+00:00"
+   "title": "CMB.TECH detaches distribution of $0.64, including $0.43 in capital repayment",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYXZkZVVJdDRKbVByUkZySnZaeTFVU2JGSlNoaGlra0hZOXFTUzd6MU1GV0xsb09MZVpaY1dhcF9mSDV6dndlSzJ0TGJhV2FQbnRac3I0eFlOb0lsOEN1WUJEUW4wMGl3enJKa2lqaHRBYWgzd3RJb1Q0ZE4yd2dLT1J6RzRUZ2VBcXQ1ZHNab3pHWnFrSWM2NGtNSDN1R0JBVlhQREhnZkgzajc0ZGJtZk5sY054UVY1bG5xbGVDbTBDeHRYYldXZ1dGR3Nfdw?oc=5",
+   "source": "Id\u00e9al Investisseur",
+   "date": "2026-10-15T06:49:00+00:00"
+  },
+  {
+   "title": "Borr Drilling Limited - Notification of PDMR Transaction",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSkhXODY4dnNGNmhWVHNlcWV3c2M2RjFHUS1xZnlrcHV1NDc4Y1luV0d6RzVoRnhxMjBEUHZWbmRyMGVQWjA0VnRuRkRsTFlmYW92aUkyM2lReWtUYkZUWWZtSkI3NW1BNnpTQ2JRc3NSTXBkbmlmM0tPVWVuZXRjLWxKRnFLbTc4bGNaYnJoME11UVlGVGFENW5ZdGEyaDNYcXdPcW9HREl5Y2hxQzV4TlR3MnE2SVoyNUF6VGZXd19YVnQxa2t5cnFjMFZiZnV2QmRYWUJMRm9kVVo1?oc=5",
+   "source": "Finansavisen",
+   "date": "2026-10-15T05:40:00+00:00"
   }
  ]
 }
