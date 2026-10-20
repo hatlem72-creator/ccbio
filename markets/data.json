@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-19T23:50:26.314219+00:00",
- "usdnok": 9.423080444335938,
+ "updated": "2026-10-20T00:36:19.402543+00:00",
+ "usdnok": 9.4122896194458,
  "btc": {
-  "price": 81896.2734375,
+  "price": 81625.203125,
   "prev": 82017.6015625,
-  "chg": -0.147929374534983,
+  "chg": -0.4784319829213457,
   "currency": "USD",
-  "asof": "2026-10-19T00:00:00+00:00"
+  "asof": "2026-10-20T00:00:00+00:00"
  },
  "silver": {
-  "price": 57.06999969482422,
+  "price": 57.03499984741211,
   "prev": 56.994998931884766,
-  "chg": 0.13159183146769227,
+  "chg": 0.07018320252123456,
   "currency": "USD",
   "asof": "2026-10-19T00:00:00-04:00"
  },
@@ -75,15 +75,15 @@
        "date": "2026-10-13T07:55:16+00:00"
       },
       {
-       "title": "Marine Battery Maker AYK Energy Lands Kongsberg Maritime Electric Tug Deal",
-       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUDBBMW0wMWRDYl9HZ21IVjliT2RmOTNLMFY5RnU5U2s4SW1hdzI1U24wZ0doMkJoQjdDT2R6YVFnSS1neEpxc0hoN05MZkYtcEp6UVpLM3lyUHNvWi1PaUJkdURaLW9fMjlyWFJTXzhmNnVSU3h6bXBOc2lFcVFzZ1RMUU5RS0pZVDFfbXZEYWtuSHYwcWJwOWJ4a3EtU2FCUFNyVE90SmRQNGJIeVRNSWlkQjgtUQ?oc=5",
-       "source": "The Maritime Executive",
-       "date": "2026-10-09T07:00:00+00:00"
-      },
-      {
        "title": "AYK Energy to supply batteries for four electric Svitzer tugs",
        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMWRuX0ZlYjRFOGhMaGl4SDZMNFJjUDBMd0N3NmN3Y21kWmZtZURIZm44SS1rWS1CbDJRRGl3N2p6MnptOVJGcWM1b0thUlFUbXgxQmU2TWFzSlRrakpaM2VQdjRmX3VWZFJaNTloTERWekhqMlVMbko5ZUJQSUFmdkIwOFJjeWEzTGkwR3VhbUpCYllXdmswcm8yMzJfWWFfTmt3SWNsbHFJNkdEc2FQbldkX1J3ZnBQRW91cDRn?oc=5",
        "source": "Maritime Journal",
+       "date": "2026-10-09T09:59:37+00:00"
+      },
+      {
+       "title": "Marine Battery Maker AYK Energy Lands Kongsberg Maritime Electric Tug Deal",
+       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUDBBMW0wMWRDYl9HZ21IVjliT2RmOTNLMFY5RnU5U2s4SW1hdzI1U24wZ0doMkJoQjdDT2R6YVFnSS1neEpxc0hoN05MZkYtcEp6UVpLM3lyUHNvWi1PaUJkdURaLW9fMjlyWFJTXzhmNnVSU3h6bXBOc2lFcVFzZ1RMUU5RS0pZVDFfbXZEYWtuSHYwcWJwOWJ4a3EtU2FCUFNyVE90SmRQNGJIeVRNSWlkQjgtUQ?oc=5",
+       "source": "The Maritime Executive",
        "date": "2026-10-09T07:00:00+00:00"
       },
       {
@@ -197,9 +197,9 @@
      "symbol": "HL",
      "name": "Hecla Mining",
      "quote": {
-      "price": 15.050000190734863,
-      "prev": 15.300000190734863,
-      "chg": -1.6339869077347524,
+      "price": 15.05,
+      "prev": 15.25,
+      "chg": -1.3114754098360604,
       "currency": "USD",
       "asof": "2026-10-19T00:00:00-04:00"
      },
@@ -222,9 +222,9 @@
      "symbol": "HYMC",
      "name": "Hycroft Mining",
      "quote": {
-      "price": 16.860000610351562,
-      "prev": 17.170000076293945,
-      "chg": -1.805471546679771,
+      "price": 16.86,
+      "prev": 17.0892,
+      "chg": -1.3411979495822068,
       "currency": "USD",
       "asof": "2026-10-19T00:00:00-04:00"
      },
@@ -247,9 +247,9 @@
      "symbol": "ASM",
      "name": "Avino Silver & Gold",
      "quote": {
-      "price": 5.210000038146973,
-      "prev": 5.329999923706055,
-      "chg": -2.2514050145735043,
+      "price": 5.21,
+      "prev": 5.4099,
+      "chg": -3.6950775430229843,
       "currency": "USD",
       "asof": "2026-10-19T00:00:00-04:00"
      },
@@ -272,9 +272,9 @@
      "symbol": "CDE",
      "name": "Coeur Mining",
      "quote": {
-      "price": 15.329999923706055,
-      "prev": 15.470000267028809,
-      "chg": -0.9049795792255844,
+      "price": 15.33,
+      "prev": 15.46,
+      "chg": -0.8408796895213455,
       "currency": "USD",
       "asof": "2026-10-19T00:00:00-04:00"
      },
@@ -494,9 +494,9 @@
      "symbol": "GC=F",
      "name": "Gold (USD/oz)",
      "quote": {
-      "price": 4154.5,
+      "price": 4153.89990234375,
       "prev": 4181.10009765625,
-      "chg": -0.6361985371065582,
+      "chg": -0.6505511630239935,
       "currency": "USD",
       "asof": "2026-10-19T00:00:00-04:00"
      },
@@ -518,9 +518,9 @@
      "symbol": "USDNOK=X",
      "name": "USD/NOK",
      "quote": {
-      "price": 9.423290252685547,
+      "price": 9.4122896194458,
       "prev": 9.427200317382812,
-      "chg": -0.041476414689689545,
+      "chg": -0.15816676674959007,
       "currency": "NOK",
       "asof": "2026-10-20T00:00:00+01:00"
      },
@@ -536,9 +536,9 @@
      "symbol": "AAPL",
      "name": "Apple",
      "quote": {
-      "price": 342.94000244140625,
-      "prev": 343.4599914550781,
-      "chg": -0.15139725924667724,
+      "price": 342.94,
+      "prev": 342.62,
+      "chg": 0.0933979335707269,
       "currency": "USD",
       "asof": "2026-10-19T00:00:00-04:00"
      },
@@ -561,24 +561,24 @@
      "symbol": "MSFT",
      "name": "Microsoft",
      "quote": {
-      "price": 533.52001953125,
-      "prev": 529.0499877929688,
-      "chg": 0.8449167075740505,
+      "price": 533.52,
+      "prev": 526.8316,
+      "chg": 1.2695517884652396,
       "currency": "USD",
       "asof": "2026-10-19T00:00:00-04:00"
      },
      "news": [
       {
-       "title": "Prediction: Microsoft Stock Is Going to Soar After Oct. 28",
-       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ2pCWnV6aGpTNWxxQnF6MWlFbEpaNXkwVkVERU5UNFRDV0NRWmdranFRUzhvMkJqdi0tVVgxTm5XSWlTMUlpZGF5SmNkbi1TUjVERWhFY0N4YVlwRXVHc0k5WUJrUmJCRmt3ZzhXREJNMDB4MEJfRnFfRDRXdWlkVUg2d21CMFBWRXlUZ2haX1RKQW5PelFIekk3azRmd0NsYUluZw?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-19T09:55:00+00:00"
-      },
-      {
        "title": "UBS resets Microsoft stock price target for investors",
        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdm1TenpDX2thM25Bcm5hSXQ2NWdzVVFuNDRJWGFiaTdHVWxEeUZUZVh5ZFp3QjluYTI2cTQ0OG42Y3czRUVwR3k0blZrOTgtWjB3QWFwT194Q3d0bGF1ZENsWjRSeDNwc0hjeVc0ckc3SGJFWUM3UnZsVXpxRUkwUTRNaGFSTXdTOHgzRkFFRG5KQ0tEY0VicS0tUzhQZw?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-10-17T14:37:00+00:00"
+      },
+      {
+       "title": "Here's How Microsoft's $175 Billion in Capital Expenditures Is Hurting Its Business",
+       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRjNNMm5lNWtWTmwwNkVVTG9wOUJBTVJqaU05ajg5Vm51Y05hRDlKcHdOVWhoVUlKYlBheV9zVHMtMVN1SXBIRHl5VkZHTzlnbUZ0a01IRUZNeDUwWVByUXEtOVV4b21kc3VWU1NwYUxxZWhUZ1g3aUgtc0k3dkFXRVo2aDNnZUZhYjN5MUVOeDEyaHV2YmhjMExKRnZSZkZWQmZB?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-17T14:36:00+00:00"
       }
      ]
     },
@@ -586,9 +586,9 @@
      "symbol": "NVDA",
      "name": "Nvidia",
      "quote": {
-      "price": 217.08999633789062,
-      "prev": 214.1300048828125,
-      "chg": 1.3823338101066396,
+      "price": 217.09,
+      "prev": 213.7494,
+      "chg": 1.5628581881399484,
       "currency": "USD",
       "asof": "2026-10-19T00:00:00-04:00"
      },
@@ -611,9 +611,9 @@
      "symbol": "GOOGL",
      "name": "Alphabet",
      "quote": {
-      "price": 344.17999267578125,
-      "prev": 340.5899963378906,
-      "chg": 1.0540521966267757,
+      "price": 344.18,
+      "prev": 339.2211,
+      "chg": 1.4618489239024424,
       "currency": "USD",
       "asof": "2026-10-19T00:00:00-04:00"
      },
@@ -636,9 +636,9 @@
      "symbol": "AMZN",
      "name": "Amazon",
      "quote": {
-      "price": 262.45001220703125,
-      "prev": 250.0,
-      "chg": 4.980004882812494,
+      "price": 262.45,
+      "prev": 248.98,
+      "chg": 5.41007309824082,
       "currency": "USD",
       "asof": "2026-10-19T00:00:00-04:00"
      },
@@ -661,9 +661,9 @@
      "symbol": "META",
      "name": "Meta Platforms",
      "quote": {
-      "price": 705.4400024414062,
-      "prev": 709.3300170898438,
-      "chg": -0.5484068846257184,
+      "price": 705.44,
+      "prev": 705.3229,
+      "chg": 0.0166023249776881,
       "currency": "USD",
       "asof": "2026-10-19T00:00:00-04:00"
      },
@@ -686,9 +686,9 @@
      "symbol": "TSLA",
      "name": "Tesla",
      "quote": {
-      "price": 368.05999755859375,
-      "prev": 354.7200012207031,
-      "chg": 3.7607116294495757,
+      "price": 368.06,
+      "prev": 352.46,
+      "chg": 4.426034159904679,
       "currency": "USD",
       "asof": "2026-10-19T00:00:00-04:00"
      },
@@ -719,22 +719,22 @@
    "date": "2026-10-19T14:40:23+00:00"
   },
   {
+   "title": "SPY: Why Rate Hikes May Shake The Market Without Ending The Bull Run (NYSEARCA:SPY)",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ3BHR25ENGRPZWZqUnhaeklBaFJEUW5MT0hSRW5LQWpwVHU2SUQtWGtlQjhzeGtsWmc1a3NSZkdFT0pHaWFlNzBFTXJLZ2puSEpQNENjTjZZak40MElKQUJOOUhRT2hiX1pZOWlPaC1wVDFIY18wQm5FN0pZYlI0ck5YUzJpaWxNRVlrRkxYbmNoMkZLN2xLTjRiUE9RVWVwVVE1b1Iyd1RoSG4z?oc=5",
+   "source": "Seeking Alpha",
+   "date": "2026-10-19T13:41:13+00:00"
+  },
+  {
+   "title": "The S&P Is Soaring, But Two-Thirds Of Stocks Are Stalling",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYkZ6bDdvUTJMQndrb19lRkRYbXBteTh1TTRQRmdETmYzTXhBNk11LU55NzEtbkZIaElvcm9IalFSV1RsN25qWWM4NzU5QmJoY1JmM1I5N2tpVlcxMDZkdG81NGQ2YV9nSXpqcGlZLXhxTWFCcnNfaGxnRHVWaUN5U0dlNmU?oc=5",
+   "source": "Seeking Alpha",
+   "date": "2026-10-19T13:38:00+00:00"
+  },
+  {
    "title": "If a Stock Market Crash Is Coming, History Says This 1 Strategy Has a Perfect Track Record",
    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOeGk1Y05JYVRHZ1pMOFRGWGQ2QmdoQ1NnbEFpSjlxbTRtWjRUNFFTT0RUaGh1dEMtZUUwMzBmSFNibWtBUzVoaEtRSjJWWTg3N0g4RkNiOGtwb3FFVy1hQWlHVVUxaXBmMU1qUjhFR1B4ZlhjdXk0SjZLMFd1OWZPWTBnd2I5U3NXTWlqS2JRaFdFVVBGWFFtcEc5WEhNcUtSTHkxTnRVN3ZvemlGVzEtUUVvX2dwR21iTXZSck1nOTJMQmU4WHdfRU1OX05mWWx0cWxKanVVbG1xSDhkaFFCSWROdVJmOGhrQkFaREJwbmVrbVdmaWlhV1RGNWY?oc=5",
    "source": "The Globe and Mail",
    "date": "2026-10-19T09:31:53+00:00"
-  },
-  {
-   "title": "Sterling today: Pound edges lower; AI jitters cloud dollar outlook",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOM0FBWWVlcmJVaHNBY2VyamRrWnZuTTVKckVrSW9lWGpXM0h5elZkU0VsVXBzanVicXQ1N0Jlby1vWGNDa1FIN2g0U1FET1RiNlVFeVJRWlNSb1FEV1lVa3VJLUdOWnR1X1pmYmJ6ejRJb2hGcVZYVEpSMzhmVHhpR0xKWDl4MmtmWXpKeXFzeDdmSFZwcHdVdExBMG9oNDMwcE9R?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-10-19T08:54:41+00:00"
-  },
-  {
-   "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdmhWOHBPbmpydVMwNlBNb2JjeHJCMndndGp5Vl9HcVB5bWZxWU1xT1NhczBJelduZ0JUSnZ5S3lTNWZXYjFhUG9qZEhlWENybUN2TGlhMVNTbml6bVFZem9Kb2dCeWhuZ2I2VU42UkNRSlViLWs2d0pwWUU3UXN3dVI2bXBDVHYtRlRQR1g3clNyUQ?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-10-19T06:36:00+00:00"
   },
   {
    "title": "Could Bitcoin Price Drop to $10,000? Bloomberg Analyst Gives Grim Warning",
