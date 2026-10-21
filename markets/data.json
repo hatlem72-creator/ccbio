@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-21T17:52:17.390840+00:00",
- "usdnok": 9.370800018310547,
+ "updated": "2026-10-21T18:30:30.194694+00:00",
+ "usdnok": 9.369600296020508,
  "btc": {
-  "price": 84592.5234375,
+  "price": 84680.3828125,
   "prev": 82941.0,
-  "chg": 1.9912027073461847,
+  "chg": 2.0971326756368924,
   "currency": "USD",
   "asof": "2026-10-21T00:00:00+00:00"
  },
  "silver": {
-  "price": 57.75,
+  "price": 57.849998474121094,
   "prev": 57.70600128173828,
-  "chg": 0.07624634749321402,
+  "chg": 0.24953590473160148,
   "currency": "USD",
   "asof": "2026-10-21T00:00:00-04:00"
  },
@@ -189,7 +189,7 @@
        "title": "Monthly letter October 2026",
        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQb2VuZ21na2FjQUMyVVNjNHBqMnlmU0dwMlpaTXhfcUdKMkk0OUpxX0ltZUQzZFZVeFBnS0hoZVIwX3Zab3kwMm5jS1hHYnotZ3NBVWI2TjVhaHhDWWtLNU1LSEpaOUZJdnlQWDI3YklRZEF0WEQ1M1ZvVHpvN29INkhiLTVTTDBSX3kxbzBDQnlOUUJuM2VLSw?oc=5",
        "source": "TradingView",
-       "date": "2026-10-08T12:00:00+00:00"
+       "date": "2026-10-08T07:00:00+00:00"
       }
      ]
     }
@@ -203,9 +203,9 @@
      "symbol": "HL",
      "name": "Hecla Mining",
      "quote": {
-      "price": 15.050100326538086,
+      "price": 15.104999542236328,
       "prev": 15.020000457763672,
-      "chg": 0.2003985875969505,
+      "chg": 0.5659060045415831,
       "currency": "USD",
       "asof": "2026-10-21T00:00:00-04:00"
      },
@@ -228,9 +228,9 @@
      "symbol": "HYMC",
      "name": "Hycroft Mining",
      "quote": {
-      "price": 17.100000381469727,
+      "price": 17.190000534057617,
       "prev": 16.950000762939453,
-      "chg": 0.8849534618207366,
+      "chg": 1.4159277894719269,
       "currency": "USD",
       "asof": "2026-10-21T00:00:00-04:00"
      },
@@ -253,9 +253,9 @@
      "symbol": "ASM",
      "name": "Avino Silver & Gold",
      "quote": {
-      "price": 5.175000190734863,
+      "price": 5.208700180053711,
       "prev": 5.190000057220459,
-      "chg": -0.28901476532215975,
+      "chg": 0.3603106479206364,
       "currency": "USD",
       "asof": "2026-10-21T00:00:00-04:00"
      },
@@ -278,9 +278,9 @@
      "symbol": "CDE",
      "name": "Coeur Mining",
      "quote": {
-      "price": 15.050000190734863,
+      "price": 15.085000038146973,
       "prev": 15.130000114440918,
-      "chg": -0.5287503179177033,
+      "chg": -0.2974228417288338,
       "currency": "USD",
       "asof": "2026-10-21T00:00:00-04:00"
      },
@@ -303,9 +303,9 @@
      "symbol": "AG.TO",
      "name": "First Majestic Silver",
      "quote": {
-      "price": 22.510000228881836,
+      "price": 22.575000762939453,
       "prev": 22.479999542236328,
-      "chg": 0.1334550144858282,
+      "chg": 0.4226033035482635,
       "currency": "CAD",
       "asof": "2026-10-21T00:00:00-04:00"
      },
@@ -353,9 +353,9 @@
      "symbol": "GRSL.V",
      "name": "GR Silver Mining",
      "quote": {
-      "price": 0.27000001072883606,
+      "price": 0.26499998569488525,
       "prev": 0.2750000059604645,
-      "chg": -1.8181800448205276,
+      "chg": -3.636370926848953,
       "currency": "CAD",
       "asof": "2026-10-21T00:00:00-04:00"
      },
@@ -378,9 +378,9 @@
      "symbol": "GSVR.V",
      "name": "Guanajuato Silver",
      "quote": {
-      "price": 0.3400000035762787,
+      "price": 0.3425000011920929,
       "prev": 0.3499999940395355,
-      "chg": -2.8571401810159047,
+      "chg": -2.142855135761923,
       "currency": "CAD",
       "asof": "2026-10-21T00:00:00-04:00"
      },
@@ -403,9 +403,9 @@
      "symbol": "AGX.V",
      "name": "Silver X Mining",
      "quote": {
-      "price": 0.75,
+      "price": 0.7599999904632568,
       "prev": 0.75,
-      "chg": 0.0,
+      "chg": 1.3333320617675781,
       "currency": "CAD",
       "asof": "2026-10-21T00:00:00-04:00"
      },
@@ -434,9 +434,9 @@
      "symbol": "^GSPC",
      "name": "S&P 500",
      "quote": {
-      "price": 7765.83984375,
+      "price": 7768.7900390625,
       "prev": 7712.56982421875,
-      "chg": 0.690690920735304,
+      "chg": 0.7289427016557992,
       "currency": "USD",
       "asof": "2026-10-21T00:00:00-04:00"
      },
@@ -446,9 +446,9 @@
      "symbol": "^IXIC",
      "name": "Nasdaq Composite",
      "quote": {
-      "price": 26749.748046875,
+      "price": 26760.13671875,
       "prev": 26424.8203125,
-      "chg": 1.2296308187999205,
+      "chg": 1.2689448869833253,
       "currency": "USD",
       "asof": "2026-10-21T00:00:00-04:00"
      },
@@ -458,9 +458,9 @@
      "symbol": "^DJI",
      "name": "Dow Jones",
      "quote": {
-      "price": 52785.578125,
+      "price": 52809.6484375,
       "prev": 52495.87890625,
-      "chg": 0.5518513544031878,
+      "chg": 0.5977031679198053,
       "currency": "USD",
       "asof": "2026-10-21T00:00:00-04:00"
      },
@@ -494,9 +494,9 @@
      "symbol": "^VIX",
      "name": "VIX volatility",
      "quote": {
-      "price": 16.649999618530273,
+      "price": 16.610000610351562,
       "prev": 17.309999465942383,
-      "chg": -3.8128241928063966,
+      "chg": -4.04389877058099,
       "currency": "USD",
       "asof": "2026-10-21T00:00:00-05:00"
      },
@@ -506,9 +506,9 @@
      "symbol": "GC=F",
      "name": "Gold (USD/oz)",
      "quote": {
-      "price": 4154.7001953125,
+      "price": 4157.39990234375,
       "prev": 4142.60009765625,
-      "chg": 0.292089445541599,
+      "chg": 0.3572588311353764,
       "currency": "USD",
       "asof": "2026-10-21T00:00:00-04:00"
      },
@@ -518,9 +518,9 @@
      "symbol": "^TNX",
      "name": "US 10-year yield (%)",
      "quote": {
-      "price": 5.105999946594238,
+      "price": 5.111000061035156,
       "prev": 5.117000102996826,
-      "chg": -0.21497276101568596,
+      "chg": -0.11725702249166803,
       "currency": "USD",
       "asof": "2026-10-21T00:00:00-05:00"
      },
@@ -530,9 +530,9 @@
      "symbol": "USDNOK=X",
      "name": "USD/NOK",
      "quote": {
-      "price": 9.370759963989258,
+      "price": 9.369600296020508,
       "prev": 9.421950340270996,
-      "chg": -0.5433097653141039,
+      "chg": -0.5556179173088593,
       "currency": "NOK",
       "asof": "2026-10-21T00:00:00+01:00"
      },
@@ -548,9 +548,9 @@
      "symbol": "AAPL",
      "name": "Apple",
      "quote": {
-      "price": 344.7101135253906,
+      "price": 344.95001220703125,
       "prev": 339.5,
-      "chg": 1.5346431591724885,
+      "chg": 1.6053055101712177,
       "currency": "USD",
       "asof": "2026-10-21T00:00:00-04:00"
      },
@@ -573,24 +573,24 @@
      "symbol": "MSFT",
      "name": "Microsoft",
      "quote": {
-      "price": 532.5250244140625,
+      "price": 532.7150268554688,
       "prev": 531.8699951171875,
-      "chg": 0.12315590330127524,
+      "chg": 0.1588793776748032,
       "currency": "USD",
       "asof": "2026-10-21T00:00:00-04:00"
      },
      "news": [
       {
-       "title": "What Will $5,000 Invested in Microsoft Stock Be Worth in 5 Years?",
-       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcGlUcUNreWpmMEt2RTJRUDQtenI1dFhLMzNGY01JdVFtaDl2ek9La29wOS0yX2xYdEZoRnRNeEFBYWFrM3FWQUxuMnRwbDh1bzVuN0FUZ3lBbG5SOGs5R1NYbXNVX0I2d1MtNy1Bdk9vemNmY2tReUwyV1dzc0d4b1h4Vm5VUkk1LXZyWm9TQXd3LWdJSG1LakNTOA?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-21T15:00:11+00:00"
-      },
-      {
        "title": "Jim Cramer and Ken Fisher\u2019s AI Pick: Microsoft (MSFT)",
        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOb1pmemlxTW5xT1NRanZxNjRjNG04bF9iSnEwQzV1enVSSWNoR1ZZQVB4QjA3MWFrSnJXTllUTU5fbmUzUDhHZXdSQ3d6LWo3c0Z2Ukp4UFhHUldSUXVsVjdqcWUxczg3X1dfUVFUU2VHR1ViNzd5dHFFODMycEdtdXBDbTUxUHFMU2FfaTlvaEJuYms?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-10-21T13:23:54+00:00"
+      },
+      {
+       "title": "What Did It Take To Hold Microsoft Stock?",
+       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOS01aQ0hsLXlfNHJPa3dFSGhDMjI1TGl5TWJ3djlrVWNnb0RnRF9GTFVESUVUZVl6anMyYmFWMnB3UUdpNjlhdlpEclZUM2V3Sk9pNThleXgyaHR1X3hQRTJIOFNLZE03cERNcmcwbGc5MVhSZGtEM0pnRWdMZjU5ZEhSS1prc2d4bDJNSkQtYmU1Mk0?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-21T13:21:21+00:00"
       }
      ]
     },
@@ -598,24 +598,24 @@
      "symbol": "NVDA",
      "name": "Nvidia",
      "quote": {
-      "price": 221.7100067138672,
+      "price": 221.77499389648438,
       "prev": 216.47000122070312,
-      "chg": 2.420661275749514,
+      "chg": 2.4506826099993884,
       "currency": "USD",
       "asof": "2026-10-21T00:00:00-04:00"
      },
      "news": [
       {
-       "title": "Nvidia Stock Pops After Hours As Elon Musk Says SpaceX Is Adding 200,000 Chips a Month \u2014 Daniel Newman Says NVDA Is 'Ripping'",
-       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNlJ3a3BoVTJkcVB3c2V6LWg1RU53V3FOeEZkUXNNYXNEVUF2NXJZb18yZ1JFSTR6djVzX2hScnNBdG4tcEQtdjRBMUJ4cjJJYVN4OExVMXBDU0pfaTI5ZXc2MXhuSU54ZXRjZDNabFNLNUYzbGZRNno1YU1DVnFvNmIxbVZhVnAzeXZYaDk3clY4OUtDMEdsNg?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-21T01:34:00+00:00"
-      },
-      {
        "title": "Not Even Rumors of a Big China Chip Purchase Can Lift Nvidia Stock",
        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oeXdGdlJLZWg4QWFrdDdoTFI5WWs1b1A4R1R0U2NCNmR2RkNSMnJZb2RBZVprejQwSmV3OHRVOFhmTGxTa3R0b1A2bE5Yb1VTbVB2QmJYajNZQWNPZWlsdVdhSXVQRW1abl82WEtBMGpJaFI3LTR1S1dSTlY?oc=5",
        "source": "Barron's",
        "date": "2026-10-20T18:41:00+00:00"
+      },
+      {
+       "title": "Nvidia Reportedly Just Landed $35 Billion In Chip Orders From Chinese Companies. Here's Why That Could Be Great News for the Stock",
+       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdGNMZVNmM3VNVm45Ym1FR0Vfa25pZ29uTV9YQWNJbWljWnhEaUM5T2RudzVCQkduSjdWUkNseDhIemJ6VXo0c3lIOFl2UVN0Y2R0ZlpiTU1zeFdRVU1pNERmMVpMYWc0VVZuOW1fSXl5aVVXblpsY1pqb0lZSHlLQTJ0YjJYWGdoWEJVWnRZNHBqUzk0N0hxcmZWakxoQQ?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-20T18:28:01+00:00"
       }
      ]
     },
@@ -623,9 +623,9 @@
      "symbol": "GOOGL",
      "name": "Alphabet",
      "quote": {
-      "price": 334.8500061035156,
+      "price": 334.7799987792969,
       "prev": 340.2799987792969,
-      "chg": -1.5957425341661335,
+      "chg": -1.6163159808776362,
       "currency": "USD",
       "asof": "2026-10-21T00:00:00-04:00"
      },
@@ -648,9 +648,9 @@
      "symbol": "AMZN",
      "name": "Amazon",
      "quote": {
-      "price": 264.0849914550781,
+      "price": 263.8900146484375,
       "prev": 262.6300048828125,
-      "chg": 0.5540062236661925,
+      "chg": 0.4797661128579822,
       "currency": "USD",
       "asof": "2026-10-21T00:00:00-04:00"
      },
@@ -673,9 +673,9 @@
      "symbol": "META",
      "name": "Meta Platforms",
      "quote": {
-      "price": 708.219970703125,
+      "price": 708.1300048828125,
       "prev": 694.25,
-      "chg": 2.012239208228306,
+      "chg": 1.999280501665468,
       "currency": "USD",
       "asof": "2026-10-21T00:00:00-04:00"
      },
@@ -698,18 +698,18 @@
      "symbol": "TSLA",
      "name": "Tesla",
      "quote": {
-      "price": 387.0050048828125,
+      "price": 386.8699951171875,
       "prev": 373.7099914550781,
-      "chg": 3.5575750533104245,
+      "chg": 3.521448171848318,
       "currency": "USD",
       "asof": "2026-10-21T00:00:00-04:00"
      },
      "news": [
       {
-       "title": "Tesla Bulls Eying Merger Bump Find Stock Needs More Than Rockets",
-       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVlM3TVgtSEVDTzE3alN1cG5xYjJzWWJJM0pyTy1fdTd1WWIwX1BPRUtJZ1Mzczg4Sy1YV1hmdXpTMmJ1U1ZhbmdGcmtOeW1HRzFmQmEyd3kzV1ZNczVfTkY4S3hkb0tHaUdzWGtLa2pNNndoX19iemtJWEpXc3UzblRHMU5LSnlyNG5LMnZ5ejFnZXdUcTVCMVFBZks1YkRiTl9VZS1ST3Z3ZnV1RUt6emVEV3MtZw?oc=5",
-       "source": "Bloomberg.com",
-       "date": "2026-10-21T14:55:46+00:00"
+       "title": "Tesla earnings loom after Musk calls SpaceX merger a 'good idea'",
+       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1rRTRZdEQyQ0tYemI0R0tuYi04TWhxWEVoRGx6M3h3MWpWTzhRdnpvZTk4R2tSV09GX2dNS0p6ckxOMkpDd3NCbEViY1ZtOUNOU0JjejU5VjhoVTRIRjZ2SHBiOG0wbXY0NmVBUmFUTDFWZ01LSmZraHN4TdIBgAFBVV95cUxPdzZSSklMOG1fb1hCcUpGSmpyVDAxVlZuXzZ4ZDEwdkJhX2xoWXdVb1V5Vkp0b0tkekhaVHhoa2szSC0tejZ6aTYtb1JJUWo4aG90ZTN5UURiS19sMGhCUHFxZUdhdk9rd3JaN0xRVVk3OGZ0VkhZSjFDMU11dUJIVw?oc=5",
+       "source": "CNBC",
+       "date": "2026-10-21T16:00:01+00:00"
       },
       {
        "title": "Tesla (TSLA) Needs Stronger Earnings to Justify Its Autonomy Ambitions",
@@ -724,12 +724,6 @@
  ],
  "failed": [],
  "general_news": [
-  {
-   "title": "Gordon Reid's Market Outlook: U.S. Equities",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ0ktbzB3Mmp2Z2lHT3dnRXkybUV5RXN0UGIyZE5sMG1WTmpwNlZVVWJaSkJ3bm5RNjJwZ29Gbk1MVXhMbHozVXNETkVqbWFGMjFKV2pwdW1YNVY0ZWtPcmpRTlc3UC1XY1N2cVdOempEeE05SF9Cb2NtbTFTUDVuVl9JVlA1M2pSZ2RfbWpqQno0NlNFcmdSVUtPMDJ6cG1OUTB0V01n?oc=5",
-   "source": "BNN Bloomberg",
-   "date": "2026-10-21T16:36:52+00:00"
-  },
   {
    "title": "The Stock Market is Flashing Several Warning Signs at Once. Does That Mean a Crash is Imminent?",
    "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNYjVNTTVIenV5R282M0Vaa1FFUm9NLVhDbHJzWmNPMkFVZWtPbjM4TDgwRmRiMFA0ZU8zV0hzelhmZGFpUnRjdzg2SEZmaWFjaFJfaER0TTdfTkZKUjgxakUtM2E5MXIxTG5acnozTFNYR1NiWmVEUjZkM1pUUVpWNDRhZkVnSnlidEpzY2QzWG1vb1dnMjA4WWNEMkQ4dm9EOWFqTEJlSW9qLWZtQUNmWXhZdUgxeWt3SERSZWNHa211dURHSXNMUDg4cUpSRXlEazhySmVHY0FHRUczdmIxdk5aYUpvdjA4ODRwcUo4N1JRQmpIdWJFMnlWa3c0dnFTa21FTFBYREdnNW8?oc=5",
@@ -765,6 +759,12 @@
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVTJ0WjBJdWNOa0U5ZFRiNGFSUlg1Y3MxLVZmTGtRS1JWNUpaMFVEWGtQNTdCS29qeVltTXJ4ODg4a1V2OGtDd2tsWlJOdmQySjZfQVdlalJsNkRPQjdqVU52WE5ZM09KUDVyVy1LenlWSkV6elhGcl9DR2c0WE5uVzllVEc5WXpDTVV3WUhHczNVdC1tVllOV2tsSzNucE9ERmRYUFhFc28?oc=5",
    "source": "Yahoo Finance",
    "date": "2026-10-21T05:50:00+00:00"
+  },
+  {
+   "title": "Super Micro surges 13% after raising revenue outlook on AI demand",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLWo3bVBrclBqYVBFZzZ4X1RoTmY4ZGNJQW94c1FzbUNZRWl6cXJLUHNMZ3prN3V6WWNkWWgxdjAzVUoza002Nlp3bHFCVklaSmtKbUJUR1JFb2JrSkxsU3AxZzY4MTlwRkJXQ2NmN3ZyenBkMU1IQzZwQWx0Q3c1MHpMb1N1bE9OTE9jQVB2bVlLZlRZaXNNWkpWeHhlOWZEX0o3RTRDWnlId2lvTHlzWU13c3dfUm9wb3p6eHVBd0loNDZR?oc=5",
+   "source": "Investing.com",
+   "date": "2026-10-21T03:40:34+00:00"
   },
   {
    "title": "Stock Market Today, Oct. 20: SpaceX Stock Gains After Market Close on Q3 Earnings Report",
