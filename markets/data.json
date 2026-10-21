@@ -1,19 +1,19 @@
 {
- "updated": "2026-10-21T03:11:00.783048+00:00",
- "usdnok": 9.396470069885254,
+ "updated": "2026-10-21T03:56:17.276698+00:00",
+ "usdnok": 9.39585018157959,
  "btc": {
-  "price": 82659.7265625,
+  "price": 82648.71875,
   "prev": 81853.5390625,
-  "chg": 0.9849146527243446,
+  "chg": 0.9714664712210386,
   "currency": "USD",
   "asof": "2026-10-21T00:00:00+00:00"
  },
  "silver": {
-  "price": 57.625,
-  "prev": 57.70600128173828,
-  "chg": -0.14036890434118154,
+  "price": 57.6150016784668,
+  "prev": 56.9739990234375,
+  "chg": 1.1250792747856897,
   "currency": "USD",
-  "asof": "2026-10-21T00:00:00-04:00"
+  "asof": "2026-10-20T00:00:00-04:00"
  },
  "sections": [
   {
@@ -87,10 +87,10 @@
        "date": "2026-10-09T07:00:00+00:00"
       },
       {
-       "title": "Kongsberg Maritime secures Extended Thruster Coverage agreement",
-       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeWFRczlOdDNxT3JRMUxZSFpvTlJaZlpDa3h2aExmTl9nU3JQc1lTaG5TM0FkNDJVNmMycVIyaEhZNjBmT0twN1U3cnB4NktaOUI4alNrQU1sY1NiV0tPc0Zad3Z2cGdvT0Z4am4zWTlVQkpBUjVfc3FLajRPOV96R0FLQUZ6Nmw0ZWF2MzJnTXRfQQ?oc=5",
-       "source": "Maritimt Magasin",
-       "date": "2026-10-07T07:00:00+00:00"
+       "title": "AYK Energy to supply batteries for four electric Svitzer tugs",
+       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMWRuX0ZlYjRFOGhMaGl4SDZMNFJjUDBMd0N3NmN3Y21kWmZtZURIZm44SS1rWS1CbDJRRGl3N2p6MnptOVJGcWM1b0thUlFUbXgxQmU2TWFzSlRrakpaM2VQdjRmX3VWZFJaNTloTERWekhqMlVMbko5ZUJQSUFmdkIwOFJjeWEzTGkwR3VhbUpCYllXdmswcm8yMzJfWWFfTmt3SWNsbHFJNkdEc2FQbldkX1J3ZnBQRW91cDRn?oc=5",
+       "source": "Maritime Journal",
+       "date": "2026-10-09T07:00:00+00:00"
       }
      ]
     }
@@ -112,28 +112,28 @@
      },
      "news": [
       {
+       "title": "Form 4 VanEck Gold Miners ETF For: 18 October By Investing.com",
+       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc2xwV2VMMWN1RmM2TmhRNFpwajhQaTlZTHg3UkxxWDJWU0V6cjJ0MjQzaWlFcC0ySmtkUm9xck9RcURXVURhM0FCZGdSWmlVbDl5T3BlUDVzRE83R1ZHMWlUQ1ZYNktCSmFfdEVSNjFvdDhieWY0WXBmbnllWkpiNGlyeXVVYzRZUXM1SUI4RnRDUHllX3RENmdYV3J4NWltQzlqOE5ZZFE?oc=5",
+       "source": "Investing.com India",
+       "date": "2026-10-18T07:37:34+00:00"
+      },
+      {
+       "title": "iShares SLVP vs VanEck GDX: Which Miners ETF Wins",
+       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU2Y2Z1M4c3l5RXc2RTRGMVl1YUtVY0Znb3Y0ZnNkVE5IaVE1LXF3UG01a0pCNjZfRTZwWUZhR0dEWnc3WFFUbWRnY0M3bk9WdlRhMFBFcXBIMVhtZlpvb0U1VGRrMWtaal9jWTVqMXJSdlJQekNPVmZTcTV5RDh3b3hGenZRMUNBY1VLUzJnRUxiS0dSQ2w5cWtlNl92UFBDdjhiSVJ0UXFTSDl0N2VmNlgyZ2Z1dWVyRTlzQmlIWlgtT3FqblE?oc=5",
+       "source": "The Globe and Mail",
+       "date": "2026-10-14T10:21:05+00:00"
+      },
+      {
+       "title": "GDX Vs. SGDM Is A Draw, Gold Miners Are A Buy (NYSEARCA:GDX)",
+       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd0pJYktfcjZ0Z3gwNjBJeV9aTE5ESjczNXU5S1Ftanltdm9RY2dVbkdHbEtvSWpEdEVNWXFtaXlaU0V4UVNneEt4UGYxYmQxa1IxMmwxcndGM19zOXh6NTFqQ1ZoTzdEMHBUOS1FTUJCMmdUQ1ZYQlJwTlRkWGJtN3VBN0xtc2ZTZjJZVw?oc=5",
+       "source": "Seeking Alpha",
+       "date": "2026-10-11T07:00:00+00:00"
+      },
+      {
        "title": "Which Precious Metals ETF Is the Better Buy: abrdn\u2019s Silver SIVR or VanEck\u2019s Gold Miners GDX?",
        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNEFjU3hkT3hGM2hNcWtZaXNhV3g4N3B3QzY4WjVuMHVnckZGcHZqa0h1dzJjbVpta1AzWGp0Mmdva2ozWTdjV2xjX0w3X0pGd3FNajhiMklyUWEwbXl4cHAtUDBaNUlncFVvaElrN21QS0ZhMDF4d2VWek1LVGFFRWFBQ1h5MVE1SlUxV3ZlVlY0bWc1ck1DaTYtTlBlbHpEb09hcm5oa3ZMYm12Q1dsem4tV1RzTjFwX2xEdU5mYUxDNGFfS0dQWWNGNUNVN3hSSERUSw?oc=5",
        "source": "The Motley Fool",
        "date": "2026-10-11T07:00:00+00:00"
-      },
-      {
-       "title": "7 Best Gold ETFs for 2026 and How to Invest",
-       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOTgxMENUUWpxcm9UUmYtSW5HZDVla3NBTU1VZ0Zva3hXcVIzaWhSaE5OaGFITnJhdFIxTUxPWUhwTm9LMjRScFNOSExOTldPRE9tcmthdVhnRmQ5ZXN0OXktNGdNMzAzbkxwa00tOFgxY1U0RDM2UzI1QnRQaUlLd3pYa0stRGxpTW5vSXBNYkhkQ1ludVE?oc=5",
-       "source": "The Motley Fool",
-       "date": "2026-10-02T07:00:00+00:00"
-      },
-      {
-       "title": "Form 4 VanEck Gold Miners ETF For: 25 September By Investing.com",
-       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVS15Rjc0UUdWai1IZThTYy1jN0hSaHNITWJXSzFwZlluNWtSZWI5MDR5aGpwWmtoRmN4b2MyZnd3dU1nbF9TY0pQRHkyWXFldWFNaHhkeE94LTNhYlk3UW1ZTjFYVWxxZWZUajlOblRzMkZKVFBJUEFGTVQyZGRjTk5wVWk1VTdlaFFsNVZIYnhwOTVKbkJzY2pOVjJENXo1bjVHcjkzRzBRV0U?oc=5",
-       "source": "Investing.com UK",
-       "date": "2026-09-26T07:00:00+00:00"
-      },
-      {
-       "title": "AAAU vs. GDX: Is It Better to Hold Physical Gold or Invest in Gold Miners?",
-       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaFdQYjFXUUZBZjNQdVJuQUphWEFuN1RDWjFQWkk0UDNyYXNidkw2NUMteWNoQ29UOHlfVjNaSlBOTU0wN0xSamx0NW1tZFJZNVF3QVByRXhtOENDM3Vtd3ViVEh4QWdzTm1fZ2stSlNMVG81SVBKWXBGZWNvN1VWWmItTmo0ZV9VVG9CdFZEZ3Nnb0l5eDBIeG12S1ZnR0JaNVFfb3Bhd2pLR0REcm9adUE5NXNtdnBsZlE?oc=5",
-       "source": "The Motley Fool",
-       "date": "2026-09-23T07:00:00+00:00"
       }
      ]
     },
@@ -405,10 +405,10 @@
        "date": "2026-10-09T07:00:00+00:00"
       },
       {
-       "title": "Silver X Grows the AgEq Processed by 42% and Gold 119% YoY As Nueva Recuperada Plant Expansion to 1,000 tpd Advances",
-       "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPUGFwNmtfUmdtMlBPRTgtRGpQTjNGQTA2U3ZEenNyZ0dnUlNRNVFhNGZQVjBNVFROUm8tWjdURUxQMUpRdjJtMmJwYmw5alJDb0hGRmhYRUpSTk1fUkY5dVRBcnB2OUF1SU5KaklqaW5Ea0tDZlhsQlp3eVYtbzR5N0d6bl9MaWNpdnNfelJOWVBFZmJQT1ZGM1c0SThMczFSTnJSV21VY08xUmU0ZkpsX0tGX1pEVUhxYW52TmY5UDZtNXhsSVhnWjR6QkRIYmNfT2szN2NXLWdVcXBJUGlCMUJpQWdBTmFCWS1wS1RJcVpBQXc2R25sOS0yWklpZG9ZSUJjV250X2FWVE84eDVjRzRGX1BIbkZkMGN2V1dqenBpVi1SVkE?oc=5",
-       "source": "The Globe and Mail",
-       "date": "2026-10-08T07:00:00+00:00"
+       "title": "Silver X Mining Corp. (TSXV: AGX) Gains Momentum as Resource Expansion and Silver Market Strength Support Investor Interest",
+       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQQ0tuM0xqSXRnQWVBaUxoVTN1UDVWMVhaaDFPemZQQUJqVURtVXh2VjBvTFZ0RVF4NEZmWC1qT21iQWxXcHVfUmkzb011bXoyQ2lnVzBlaHBUY3VBUHdUYkNhQmtCOGNhVTJsMDNvMGl3QXR2YlRxcm5CeGdGRE5WcEdmaElSS1VON1JGNTJnTER3R2R6V25wYVJXeTJKaGNkRlB5OVZOcGlRbFBnZVJrWHJkelk5VWl4b2I2Yld2MUFHSThRLTVzcVdvcTE2ellGZzBUVncxZnRKUTFramFLNndFaXY?oc=5",
+       "source": "kalkine.ca",
+       "date": "2026-09-23T11:41:00+00:00"
       }
      ]
     }
@@ -446,9 +446,9 @@
      "symbol": "^DJI",
      "name": "Dow Jones",
      "quote": {
-      "price": 52495.8984375,
+      "price": 52495.87890625,
       "prev": 51966.03125,
-      "chg": 1.0196414364431527,
+      "chg": 1.0196038517950035,
       "currency": "USD",
       "asof": "2026-10-20T00:00:00-04:00"
      },
@@ -494,9 +494,9 @@
      "symbol": "GC=F",
      "name": "Gold (USD/oz)",
      "quote": {
-      "price": 4136.10009765625,
+      "price": 4139.10009765625,
       "prev": 4160.10009765625,
-      "chg": -0.5769091953705896,
+      "chg": -0.5047955459492659,
       "currency": "USD",
       "asof": "2026-10-20T00:00:00-04:00"
      },
@@ -518,9 +518,9 @@
      "symbol": "USDNOK=X",
      "name": "USD/NOK",
      "quote": {
-      "price": 9.396470069885254,
+      "price": 9.39585018157959,
       "prev": 9.421950340270996,
-      "chg": -0.2704352014766598,
+      "chg": -0.27701439456595534,
       "currency": "NOK",
       "asof": "2026-10-21T00:00:00+01:00"
      },
@@ -650,10 +650,10 @@
        "date": "2026-10-20T22:15:02+00:00"
       },
       {
-       "title": "A $18 Billion Reason Why Amazon Stock in Focus",
-       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObVNQZXVlNEowbHctUGkyYUFQa2ppM2hvaHRqdlowS0g1ck5kR1pzY0dpSkJETWNqejhfNmlOMk9ISlhEeV9udEJDLVoyZHRMRTNqa3dhVkdrM2hFS2xmZENUZk5iRnJYekRrMXpqczdGWjFDand5S1JvbzVLVGUtMkJGU1VJQzhDVWJndW9Mb29qRVpDa180TA?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-20T12:21:11+00:00"
+       "title": "Amazon Stock Costs More Than the Market. I'd Still Buy It for the Next 5 Years.",
+       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOSzJiUEZESVdSVnE2RmhfUzJjeU9rOG1ScnFpVEYzU2FIZWNDZ0RoVU1UZ1dRb3JpNUdpenUzUW1SZXpkanotRGJtc2gxTmR5TUFjV3hLQmJtRGtGaWdseDk3LWRtZUt4eDNZWkttcDRocHVyQWVPaGNseEVvQ0lqeFdBRUFOMHRWcW1OVUZDa0NCVDlEaFRnbTNOckZhYWpiWHlwX25UQkhLRWM1YlJueWw2NFVVc2tFR1NjZUZvcF9vUl9mN0hmUlRVdDBUOElYNmFST01aT3pIWm5lTnRZUHBmdFR6Sk1TOWhvdnBScDc0Z0U?oc=5",
+       "source": "The Globe and Mail",
+       "date": "2026-10-20T20:18:54+00:00"
       }
      ]
     },
@@ -719,12 +719,6 @@
    "date": "2026-10-20T21:38:35+00:00"
   },
   {
-   "title": "Supermicro stock surges 12% after raising revenue outlook on AI demand",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY3JWdGpUdzh1OG91NHdUdGVYMkxfelFGX0RlSm13WDV6ZXdPTEVmMDE4NWJkYTc4TXlfeU9wZU1EZnhxYXpqRm9wNUY1dDVnaTlGSmhTcVJnQTh5VlZFQ2wtNGJ0cHBHR09iemZwR0ZCUDFBOVJEbE5XeXNNdGFlS2RFMEk0MDI1ZkNwcThPdG5ENkFVYzU0RldJZ0Q3S1Vp?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-10-20T21:09:04+00:00"
-  },
-  {
    "title": "Netflix stock sinks after announcing Q3 earnings, Q4 revenue forecast falls short of estimates",
    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQNEJkYUJaMXNVbEhiRTVINEhQZEptTkdWWFpkQkhDc2hDMkREQVRteGxITEZGVlYwcnZzSUdmd1ltclFkM2hBTnp2OGVWSVJEaWlub29QdHVMVC15eTRISWRPUGZLT3NaS2FiZHhwNGxtOExtUDBQUUpHejhDOFRmQ2pFQXhKRUNuN1JnM3RiR281VjlfT1ZvS1IxX2FWZ0tZQ3VjMTAzRERHQnowczhMNGJRUU1YeUFPdGNxVDNOWFFrZ0FOckdkNDdZNDFwaXhtaF81VXhJSzRLb1hVVW5JVks2Q09vVVViQ3dVN21n?oc=5",
    "source": "Yahoo Finance",
@@ -743,10 +737,28 @@
    "date": "2026-10-20T15:55:00+00:00"
   },
   {
+   "title": "Shape how Nammo rewards and retains its people",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95b2JtczBxYTJBMWNRSG4tUml2U0dfNVItNzhrRW1LMW05MFBfNTRGTXZFOGxHSmx0R19CTndLRm5NdWZISEVvM0RYVjZkRHRRSFd1Uktn?oc=5",
+   "source": "E24",
+   "date": "2026-10-20T13:25:23+00:00"
+  },
+  {
    "title": "RTX stock climbs on strong earnings beat and raised outlook",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdDltWG5qd2c0R1BtMGlNQzE5azhWVWh1SUZLY01LYmIzdjhWRXJFVDF3R3IxcUNDWlFQNURQOS1hLUREYmh2aXU0cDROVVhZRFRzcW51dGp5US1ab3NkQThXeUpOWHpVc2tYY095QThpNERVbHdIZGdLVXNLcjdTUTRTUXp6YlU5V29VX0JsN3hSREJYN0dGWThsd2R6QQ?oc=5",
    "source": "Yahoo Finance",
    "date": "2026-10-20T12:44:09+00:00"
+  },
+  {
+   "title": "Gulf Keystone Announces $601 Million All-Share Merger With ShaMaran Petroleum",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMF9VMXA1akJZNkNzRG52Q1ZJT0t5RHQ3eGZHZUg1R3VmczhlNTl2UVJ3b1VkcmhWTXlJMWR2UmQ1MXIwVzlSYXNfV1hPS1Axd25QLXJMTnlReHdSMVBGQnRkR1V2R1p2Tm5peW03ZG1ldHlWSVpvc3VIaWE3aHM1eDh3eWZLZUY0MThZWQ?oc=5",
+   "source": "Yahoo Finance UK",
+   "date": "2026-10-20T09:11:08+00:00"
+  },
+  {
+   "title": "Gulf Keystone to merge with ShaMaran in $601 mln Iraq deal",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNkRkRHpqMzU1b1pLdWNhSlVNWm0ySDUtVlhyQ09JbzFqOFI3V2ppMUlfeTZWYkVNVC0wMHdWNGZVa0hFb3ZGRldlVHFuWmFaSnp1ODNCdXgwb3dmY0xiVnB1NlJfVEk0b2VEX2dqMzlZdTVyYUJoVnEwd0hsbDVPT2x1TmtHd0dmUEtVNklzVVc3UFZ0Qk9fbjZHNzNSMWRWdTRDUHBEcW1rNlRxazBJdkF2LUJYem1NT0E?oc=5",
+   "source": "Investing.com Australia",
+   "date": "2026-10-20T08:55:56+00:00"
   },
   {
    "title": "JPMorgan Bitcoin Forecast Gives BTC a Major Edge Over US Stocks",
@@ -767,22 +779,10 @@
    "date": "2026-10-19T09:31:53+00:00"
   },
   {
-   "title": "Insider-Linked Entity Buys 500,000 Shares in Borr Drilling",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUTh2MU5GaTR0QlBJdUczWjRraU5xR1FkTFBOaXM1MDJLOWNVVHIwOVNGaUpjbFdqdllTS1I1ZmtjWWdWbDJmX2liR0swQkJadWYxaFdrZ1B4LUpqaDRyc0J1RmNudE9PRDVmcmhRMW91bnhtNzNJdVNEalViZzNNX2hKTlN3TFJZeDlwVElfRnNxdEJzemJaeElTNFo3Y2JreXI0MWt1a0RaM3k5bUg5NGcyTWhCRk5hTVdlZERnUzlOS21sbVRoQS1GUWdYZG5vb05rMjBR?oc=5",
-   "source": "The Globe and Mail",
-   "date": "2026-10-17T05:14:00+00:00"
-  },
-  {
-   "title": "CMB.TECH Shares Go Ex-Distribution for USD 0.64 Across Multiple Exchanges",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdUhBaVhQQmRuejNmRTJaTnY3bTlPZXdGaG5zc3VBUk10S2NLSlAxZmtqaGM1bnBJZk9zemhHRnltZ0EyalNDRW5XLWVScDE0R2NraFFLb0pra19RTkwzbVBGRi1zTEpkTU1uanJMTWVDXzllZmhJLUVoZXFkU3RxS2VldmZKSGl0VUU3OTgwNS14SVotX2hiUWFMZGZrLU1LNEsyek9VMGJpODdMMU9aODQ4eDU2MndQOHJudW84RlFRMk5jMHZpTHJ5YW9FbzZCaHZIOVFJQjlDY2lIZVlqc1RCMUdLVnRydHhMNw?oc=5",
-   "source": "The Globe and Mail",
-   "date": "2026-10-16T06:35:00+00:00"
-  },
-  {
-   "title": "Mowi reports accidental sale of 6,002 shares of Mowi stock",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa1FYUHZJY091QTh1UmUtTXlpekZQRmwyaTN4UWJwNnFYS09IS2Jsdl9HNDZnakdaVkVGcFpPd0d1UzhIQWJVTnl4LUk3d2xETzIxNTFzSEJERlJIZmV2QWlRUlczWDZWQ3pqMmZRRV9xWHduQ1BqeHU0UjZwWklYaVFNWEFqcWM5QTY5eWtMZm5ydEtTM2FDVEdZYzUwRGE0cjNzS1dFcUMwblJPRlRwb3AwSnFzaEFp?oc=5",
-   "source": "ad-hoc-news.de",
-   "date": "2026-10-15T11:15:31+00:00"
+   "title": "\u00abBull p\u00e5 gull\u00bb: Ser vendepunkt etter prisfall",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTjllS3RMaXVIaHA4eWhPTjF5RG0zMi1fclZLZi1kWVBxa2NSUlFKMTY2M3QtblhxUkRLU01qblZtMzRDa3l5QlBfeWlIRE1tQ3lzX1pBWVd0R25DUHFIeDVwY3hLY1pXelUzMHU1SURPaWdjODFzYld3dUdBWWx0SGMzRHh2WHJENEdN?oc=5",
+   "source": "E24",
+   "date": "2026-10-14T04:05:21+00:00"
   }
  ]
 }
