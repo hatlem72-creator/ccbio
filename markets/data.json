@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-21T05:52:53.775583+00:00",
- "usdnok": 9.400449752807617,
+ "updated": "2026-10-21T06:34:43.099024+00:00",
+ "usdnok": 9.395759582519531,
  "btc": {
-  "price": 82578.59375,
+  "price": 82806.703125,
   "prev": 81853.5390625,
-  "chg": 0.8857951602390335,
+  "chg": 1.164475077579974,
   "currency": "USD",
   "asof": "2026-10-21T00:00:00+00:00"
  },
  "silver": {
-  "price": 57.380001068115234,
+  "price": 57.3650016784668,
   "prev": 57.70600128173828,
-  "chg": -0.5649329469761932,
+  "chg": -0.5909257195046647,
   "currency": "USD",
   "asof": "2026-10-21T00:00:00-04:00"
  },
@@ -69,12 +69,6 @@
      },
      "news": [
       {
-       "title": "IWS Fleet Hires Kongsberg Maritime to Equip Four CSOV Newbuilds",
-       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTDE1eXpSbGFTMWxVWnlYVy13TVI0NUVkakhrZXhxYlV5am9RMW5UanIxODJyV25CQ0FKLVBLRzI4Q2JNdnpZRWh5WF8ybk03UmI4UGV1dmM5MEVJcDR5aERBRFZHWm1NbTBSblRfM05KbVd1Yk5LUURjZThXZlA5TG1uQVo2U2VBQTdfM1JzYlZVVWlDek5FRjJ6MXJJLUhTV0Nj?oc=5",
-       "source": "Offshore Engineer Magazine",
-       "date": "2026-10-13T12:08:11+00:00"
-      },
-      {
        "title": "Kongsberg signed up for 4 new CSOVs",
        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pQlFxazVUcEJ0ZzRfLWRoNjR5am9XZW9aaEdwWS1ZX3JtdFRERTNwdXRld0NBZzdHR1c3LXZ6LXRmaHdmVGlNM015U3NRaEx4WlF6ZXdTOGxRV3BET0lNMTd1TEI1Wmw2RVFWZA?oc=5",
        "source": "Seawork",
@@ -90,6 +84,12 @@
        "title": "Marine Battery Maker AYK Energy Lands Kongsberg Maritime Electric Tug Deal",
        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUDBBMW0wMWRDYl9HZ21IVjliT2RmOTNLMFY5RnU5U2s4SW1hdzI1U24wZ0doMkJoQjdDT2R6YVFnSS1neEpxc0hoN05MZkYtcEp6UVpLM3lyUHNvWi1PaUJkdURaLW9fMjlyWFJTXzhmNnVSU3h6bXBOc2lFcVFzZ1RMUU5RS0pZVDFfbXZEYWtuSHYwcWJwOWJ4a3EtU2FCUFNyVE90SmRQNGJIeVRNSWlkQjgtUQ?oc=5",
        "source": "The Maritime Executive",
+       "date": "2026-10-09T07:00:00+00:00"
+      },
+      {
+       "title": "AYK Energy to supply batteries for four electric Svitzer tugs",
+       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMWRuX0ZlYjRFOGhMaGl4SDZMNFJjUDBMd0N3NmN3Y21kWmZtZURIZm44SS1rWS1CbDJRRGl3N2p6MnptOVJGcWM1b0thUlFUbXgxQmU2TWFzSlRrakpaM2VQdjRmX3VWZFJaNTloTERWekhqMlVMbko5ZUJQSUFmdkIwOFJjeWEzTGkwR3VhbUpCYllXdmswcm8yMzJfWWFfTmt3SWNsbHFJNkdEc2FQbldkX1J3ZnBQRW91cDRn?oc=5",
+       "source": "Maritime Journal",
        "date": "2026-10-09T07:00:00+00:00"
       }
      ]
@@ -148,6 +148,12 @@
       "asof": "2026-10-20T00:00:00+02:00"
      },
      "news": [
+      {
+       "title": "ETFs Investing in Metso Corporation Stocks",
+       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsN0dJX0ZkRS1GRFZtaDhVOW9wbHMyTDF4U0hiVlFtM0d4RGFpbG9XUE1zdE9DdzQ3Y3NTU0RMODVERGg3M2NjRkdMbkVRcmg0T1V3NEFJdE1wX21jdjBR?oc=5",
+       "source": "TradingView",
+       "date": "2026-10-20T14:17:40+00:00"
+      },
       {
        "title": "The Best AI ETFs to Buy in 2026",
        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lUkkzNXg4cjVYR3lSLXVMZ2pyVTh1aXFJNHA3ZVpZTk5nZzUwZllhZnFZaEJoTVR1cF9EWFF4VnhFbjVsMEFzSUkzRUNPeGNuMWRjcTBZd1JuS19sUUpPXzlPSjRqbVRCRy1LUg?oc=5",
@@ -299,16 +305,16 @@
      },
      "news": [
       {
+       "title": "First Majestic Silver Corp. (TSX:AG) Climbs 5.02% as Positive Momentum Lifts Investor Interest",
+       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNmNSTThiNC1ydHBoNVd1S2pzaDNFSHF2NWxSY3p5VTRSTmZJUEdJZ2FweGd2M2g2X1lEUzJKcUtGdXdRYjlaRlVfWTNxdWNQY1VyZzV3aTNRdWMzam8zRm04eHRuRENuRlN2eFhzLVhjZ3R1VVFhNURlNVNaUXRfQnVGdEZVQTBQcWJKRjBkbTAxNjY1eUQ3aW55WkNtNUVlWUUyS3draWRpQTZyLS1tOS1GbWpDYlhFSnZr?oc=5",
+       "source": "kalkine.ca",
+       "date": "2026-10-16T14:17:00+00:00"
+      },
+      {
        "title": "First Majestic Silver (TSX:AG) After Production Disruption, Does The Undervalued Story Still Hold",
        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNThYVFFDSjh5bVNyZWlscUFVakhfYmFPN0ZrZ3JYc1hCdTdLSURXRWYwdHQ3TTBYNkFIVkdObWhvZVVSZnN4V0FUOVhJT2IyeTV2ckFVNVJvZDFpT3NsNzhiQUxWeWlRNl9VcGoxNnVpcDg0QnRpNk52VFFpUVhkN21sZ3Q5S09ZNmNTYjB5NkpoY1kyX0hYd1RWY3REeDVRRWNpN182OHB3MXhuekhDMTJaZWx2MDNCXzhzek5YRlJDdmYtTzc2by1YaENJNVoyelZIa1lxaGdKZ3fSAeABQVVfeXFMUGZuT2pDdE8yRjlaUWJQYjY5Sm1nako3M3hZcDkySHF6SWJucm1zc05FcDd6ck9xQVpMa2lHRE9lSkZPNXliT1NraE1NOEF3cll1ZFB2UnF4Umw1a2tDclNRMm5heWgxYWdpdXl3Z3QwWS1VMDAwSEJJTzl5VVktZXdpV3hnTUY4S3pJcDBMMHRoZ01iQUFxOFNOaUtBbTluS2dUS0RCUGtNVER2eDZ2WEh5TjNqeFlyc3cyRTZWX2JUMjl4YUZWZnVjLTUyVTJpQ1NINVBpV0syS0pTdzBsSkc?oc=5",
        "source": "Simply Wall Street",
        "date": "2026-10-16T12:54:29+00:00"
-      },
-      {
-       "title": "First Majestic Silver: Buyback Kicks Off as Mexico Tax Truce and Output Hit Collide",
-       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNcEUwRzRBc3lBZTMzSHhrQWZ1WEVrNDhJZW9KeWZyY2FyMDA0NmdIU1VISHQ4bnNXcElCS0tqeEdnLUxHMUwyRW56TWxhWUhmZF9PS0JtbS1jc1gyZFFKUk01b3RuTzdMSkoxT0Z0Z1dndlJJOEVTSmsxWF91NnFDbUdESTFSYnRJbUlxWmp6dW03SFdsY3FfajJtaER3ek50X1pfMkNKblluTUEwcXZmLS03dVFmbGw4d3pyVFRrWnY5UmxFaENjT2JNalNpV0ZwYUYxeE5tb3hNWVFfQmtudzNHeU9EQVI1SHc?oc=5",
-       "source": "ad-hoc-news.de",
-       "date": "2026-10-16T00:40:58+00:00"
       }
      ]
     },
@@ -374,16 +380,16 @@
      },
      "news": [
       {
+       "title": "Guanajuato Silver Company Q3 Silver Equivalent Production Jumps 49% Year over Year",
+       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZWs1VVlDcWxlWWtUaWUxZGpxTWVyTFJ1Qm1OQTJfRGljV2hIUl9wUU1RNFllc1hEbFNGM1M4dk4wLUhwRkVOenlBdTloSFNISHpKSG84eVNvSi03QTBMOXdaQUVRMVk1c2cyWG9uWGoyN2V0WXlrTkQ3dGJZV0hMUmpqV1VzdFp0dE1FU2NNS0xuVG0tZHJSNkdEOFNmWF8xQ0NDR1VYbEQ?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-16T15:41:20+00:00"
+      },
+      {
        "title": "Guanajuato Silver Provides Q3 2026 Production Results",
        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZmtzOFpsUmx4SkdneVZtTDd4cUtGaVlIalhlMjl4UDRJTE11bnd5bWZDXzl5MUpFZjNRaWlWcHVnV0hRQjNVbGZLWmZHcGVjMVFDblRDXzlFMUpkYlpHUTZYNzhIWTNaajE5TXotWnZ6X1Q0ZzJ3YUhGTUloM0YyQVFHQ19YaGUtNm5fb3Q5eFRRTUtpTlVJM0dxTmo1bmpXcVFtVlB5SQ?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-10-16T11:30:00+00:00"
-      },
-      {
-       "title": "Guanajuato Silver completes tunnel linking San Ignacio and Bolanitos mines",
-       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTGo3S0R1UVMyOGNoa0R0VEtGcVlOM0hjZEhTRTNnV2lyRGU4QmJydTNfU3hBRzN5VHRldzR4OVExNDc2WFJMU2swU0FJaVI3anFBMU5KbW14MGRlVHZndk9GVF8xQm93TDBOMGprYlJoSGJrM09yM1o5SmIzZkRmc05tM2twWnJBR0lTWVRtQ2pPQQ?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-09T14:57:56+00:00"
       }
      ]
     },
@@ -494,9 +500,9 @@
      "symbol": "GC=F",
      "name": "Gold (USD/oz)",
      "quote": {
-      "price": 4136.5,
+      "price": 4131.39990234375,
       "prev": 4142.60009765625,
-      "chg": -0.14725287289258926,
+      "chg": -0.27036631701033986,
       "currency": "USD",
       "asof": "2026-10-21T00:00:00-04:00"
      },
@@ -518,9 +524,9 @@
      "symbol": "USDNOK=X",
      "name": "USD/NOK",
      "quote": {
-      "price": 9.400449752807617,
+      "price": 9.395759582519531,
       "prev": 9.421950340270996,
-      "chg": -0.22819678184337056,
+      "chg": -0.2779759689405359,
       "currency": "NOK",
       "asof": "2026-10-21T00:00:00+01:00"
      },
@@ -569,16 +575,16 @@
      },
      "news": [
       {
-       "title": "Should You Buy This Trump AI Stock Ahead of Earnings?",
-       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZ1RaSDMxTXc1SUZxWndBd29ZWGZ4NU1femZsd0dXd3Q1bURPS20zSERaVDRFSHhIYmJzaDVZVUhObzZQWjIzOUZrd1dtdDFrOGV3ZkRsM04wdDJlWGpQeWlLNlRJcWwweG12YnBBODZOek13TE5PNXFySVdHYVpibU1nbUxYenlOMXNKTzBiRGtneU0?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-19T17:11:00+00:00"
-      },
-      {
        "title": "Microsoft Cost Cuts: What a 20% Reduction at Azure Could Mean for MSFT Stock",
        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYUwyVi1YdHY0cE90Zzg0NmhUZ2pIMHRsS0IybFFwazZKNFNsT3FnRnNaZUd1bC1ucHVUVWlmd05DUEl0M3NUU25fN0VUQXV1T1dfQm1VNUduNGUzODd2VERaVi1lbjdPcU14emZZNC1RcThieFJxQS1xeG94THI0LTRQZ1A5dHJCcjJqalJscXBOSlVyQ21tUUE1cHpxdw?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-10-19T17:08:05+00:00"
+      },
+      {
+       "title": "Prediction: Microsoft Stock Is Going to Soar After Oct. 28",
+       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ2pCWnV6aGpTNWxxQnF6MWlFbEpaNXkwVkVERU5UNFRDV0NRWmdranFRUzhvMkJqdi0tVVgxTm5XSWlTMUlpZGF5SmNkbi1TUjVERWhFY0N4YVlwRXVHc0k5WUJrUmJCRmt3ZzhXREJNMDB4MEJfRnFfRDRXdWlkVUg2d21CMFBWRXlUZ2haX1RKQW5PelFIekk3azRmd0NsYUluZw?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-19T09:55:00+00:00"
       }
      ]
     },
@@ -669,10 +675,10 @@
      },
      "news": [
       {
-       "title": "Will Higher Ad Revenues Aid Meta Platforms Stock in Q3 Earnings?",
-       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSS1IR0hGR085c3Vfa3NfZXVxQUEzUG1JVDJFNG0xRnhPSmhaSl8wZ1BwZHRCTUhZNURSRVVMV29zNVlrU2lfSUtZYVRqLWNoUVNTLUY4ekNCSXlUWm1TVFBGMlVrY2RWOXhvaEpxcGpBR1VpVXVfc3pEMEMxd1JYbGhZQkJZMjl6SmdXejhNQkVwSldUZndNZWNYNA?oc=5",
+       "title": "Should You Buy Meta (META) Ahead of Earnings?",
+       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObHAxelFtNmtsWHhTNmJFY1BzdHlJTVktNzFYQkRqdGREcUpybjllbFozSXQ5VWJSaFJQTXJ4VHYtVU05VWxUaURTYU9malBuVVBQUWhDSFZtRXdDNEgtdUpXX2NNMVhiLThKYnF1TUZ5UGVBRi1qSGFJc2Zzb2lWbXRTLTl3WktYS2RNZkYxNGFCWXJmbk9XUw?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-10-20T13:38:00+00:00"
+       "date": "2026-10-20T12:42:01+00:00"
       },
       {
        "title": "Mark Zuckerberg Called AI Agents Meta\u2019s Next Revenue Engine: Will Muse Deliver When Q3 Earnings Land",
@@ -713,22 +719,40 @@
  "failed": [],
  "general_news": [
   {
-   "title": "Supermicro stock surges 12% after raising revenue outlook on AI demand",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLWo3bVBrclBqYVBFZzZ4X1RoTmY4ZGNJQW94c1FzbUNZRWl6cXJLUHNMZ3prN3V6WWNkWWgxdjAzVUoza002Nlp3bHFCVklaSmtKbUJUR1JFb2JrSkxsU3AxZzY4MTlwRkJXQ2NmN3ZyenBkMU1IQzZwQWx0Q3c1MHpMb1N1bE9OTE9jQVB2bVlLZlRZaXNNWkpWeHhlOWZEX0o3RTRDWnlId2lvTHlzWU13c3dfUm9wb3p6eHVBd0loNDZR?oc=5",
-   "source": "Investing.com",
-   "date": "2026-10-21T01:49:06+00:00"
-  },
-  {
    "title": "Stock Market Today, Oct. 20: SpaceX Stock Gains After Market Close on Q3 Earnings Report",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWWx3TEtBdUl3UVFXckhKQlE5QXpfT1lfRDE4RUtlZXAzSjhyb3pHNjRsNm9CZWYtUkpUQlRGcUl5Ni1aVGRjTG1wYU5felpZMVBaeFZXa0Z2dzE4aXdxd21HYUNtaVRxR3ZCNWsyNzFrcU9sdUg3bkdobmtJTXJUcVdmQVpibUlhNTdyZHZMUWd6cG4z?oc=5",
    "source": "Yahoo Finance",
    "date": "2026-10-20T21:38:35+00:00"
   },
   {
+   "title": "Supermicro stock surges 12% after raising revenue outlook on AI demand",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY3JWdGpUdzh1OG91NHdUdGVYMkxfelFGX0RlSm13WDV6ZXdPTEVmMDE4NWJkYTc4TXlfeU9wZU1EZnhxYXpqRm9wNUY1dDVnaTlGSmhTcVJnQTh5VlZFQ2wtNGJ0cHBHR09iemZwR0ZCUDFBOVJEbE5XeXNNdGFlS2RFMEk0MDI1ZkNwcThPdG5ENkFVYzU0RldJZ0Q3S1Vp?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-10-20T21:09:04+00:00"
+  },
+  {
    "title": "Netflix stock sinks after announcing Q3 earnings, Q4 revenue forecast falls short of estimates",
    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQNEJkYUJaMXNVbEhiRTVINEhQZEptTkdWWFpkQkhDc2hDMkREQVRteGxITEZGVlYwcnZzSUdmd1ltclFkM2hBTnp2OGVWSVJEaWlub29QdHVMVC15eTRISWRPUGZLT3NaS2FiZHhwNGxtOExtUDBQUUpHejhDOFRmQ2pFQXhKRUNuN1JnM3RiR281VjlfT1ZvS1IxX2FWZ0tZQ3VjMTAzRERHQnowczhMNGJRUU1YeUFPdGNxVDNOWFFrZ0FOckdkNDdZNDFwaXhtaF81VXhJSzRLb1hVVW5JVks2Q09vVVViQ3dVN21n?oc=5",
    "source": "Yahoo Finance",
    "date": "2026-10-20T20:35:25+00:00"
+  },
+  {
+   "title": "Data Center Air Filtration Market to Reach USD 1.19 Billion by 2035 as Replacement Filters and Gas-Phase Media Drive Recurring Spend - DC Market Insights",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNS0VqQmdGYkYtNFR3ZU85YmNldnVYcDVnRGt1WTFySVpKYU9sOEtZV1U4bmV5UUhkUUpXYjVsT3d2TnZLM2U4Um9OUlp6dDFNVE8wbWtTTm05R2tBSVZjV0FqaUk3cU11WlVpT2twM0g1TjZNSTl1d2hCY0dOOTQ4UFpIVUpvMElJRnJvS3owMnA1WjlxRGZoUjJB?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-10-20T20:15:00+00:00"
+  },
+  {
+   "title": "Stocks are 'heading for a major fall' that will boost bonds, says Capital Economics",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNHlEQ1gyZlBNU2JaVUpDX09PQnlUWFA0Q05iV1Ixa01QcDlPY3Z5cHJ4TmNVLURQQmNQbVVtR3dYbWUtTlowMERYOUlaUW5JQzdZaWhMQUdyT3BTTlhDTl8wR0VIaFdkNUc4ZlNwSDlkYTlXcFZKQnpwQjVJeGxnMV9DVTMzVnpQT3NUWFptTExsNWg2eldGRkpmT1NlbGg0VFhzSVFIckJhenU4elVTaFV2cWVvSldf?oc=5",
+   "source": "CNBC",
+   "date": "2026-10-20T19:58:32+00:00"
+  },
+  {
+   "title": "U.S. Equities: A Rising Index Masks An Unusually Divided Market",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZFhta3JlbzNVaGhtZHJVR1R4MVNXZnJwempKbWRDUS1SQjJGRGd2VU5haFpVWTVaQXlpaGhibGgzNGlkZXdrNDdfU3hpM1Z5Y1hKbmdoUTJPMkVlWlJPcktJMm51WVZzTHVwUk1aRVhOcEtaWERlR05felNlc05KcFZaZW44RFg5akZPUHRrTGNjNUtLRmIwa2lyRnE?oc=5",
+   "source": "Seeking Alpha",
+   "date": "2026-10-20T16:41:00+00:00"
   },
   {
    "title": "Will the housing market crash? Take a look at the data",
@@ -743,34 +767,16 @@
    "date": "2026-10-20T15:55:00+00:00"
   },
   {
-   "title": "RTX stock climbs on strong earnings beat and raised outlook",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdDltWG5qd2c0R1BtMGlNQzE5azhWVWh1SUZLY01LYmIzdjhWRXJFVDF3R3IxcUNDWlFQNURQOS1hLUREYmh2aXU0cDROVVhZRFRzcW51dGp5US1ab3NkQThXeUpOWHpVc2tYY095QThpNERVbHdIZGdLVXNLcjdTUTRTUXp6YlU5V29VX0JsN3hSREJYN0dGWThsd2R6QQ?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-10-20T12:44:09+00:00"
-  },
-  {
-   "title": "JPMorgan Bitcoin Forecast Gives BTC a Major Edge Over US Stocks",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVDBvUlpIempQYmNrZUxqeE11cE14cWcyalZ4cnQzM3NtT2VRdjhRRWxVR3R6SWZxaWFicmVUNGIzTTFpMnJlYUVoWl9BZ2QwZnJENmtjbjhULXZnOGJkSFpwMmdKSFBHeW50RnRlbnE4cUgxUFNaWkNUMEZoV1JhOEFpR0I4SXdPX0Q0OHlVX0xKTEFseVpBcXNXYW9NcTNOZXc?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-10-20T07:22:46+00:00"
-  },
-  {
    "title": "Explainer: MSCI's case against Indonesian stocks and the $65 billion fallout",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOV0hicmI2MG4yeTRybTVNaHJFSWhnS2VxY0FUUVl0YUtCVmE5NHRjdEZ1cmhYTU9iNFlScnlFb2pKT1Fra2lnLWdHTzFyUW9aZy1tM0xoVkRjckI2Nk1jUFlwbjQ0SVlMdURDUmluQmNaQTdEVDlrbDlvSUN1WVlhd1lsZ2FVVXhzTjB6Q05VYXlzZGpPajFwWjlCYjdBREtCS2VoZUQ5M0pVb2p5cDVN?oc=5",
    "source": "Reuters",
    "date": "2026-10-19T10:41:11+00:00"
   },
   {
-   "title": "Could Bitcoin Price Drop to $10,000? Bloomberg Analyst Gives Grim Warning",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVThPTjZldzBoLXU2VzdSZUdKRnpZNVJCSVBfTzdyMERWWjBEZll3STVjWVJUV0tfN0JXZUUyMk1JVHA3TDJObTlMRTE4UHh6SzM3ZHIwY3FTQWktOG5FRGZ6Y05NcF9DRS1yU084YVIteEVEeU1JbzZkaWlkMmstT1hGaFhiSWNDaFpBRGZLMTVTdUdqRExB?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-10-18T14:39:53+00:00"
-  },
-  {
-   "title": "Michael Burry Warns Stock Market Could Be Months Away From A 2000-Style Reckoning \u2014 \u2018The Preconditions Seem Set For Fireworks\u2019",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaFZJeXlDdUw0YWZkS1FydWpoWWx2VWo2cWN2Wmw0VXM5YjE4Ym82a1RpdTNkOG1INUU0VkNoX01RNHFZR2lIakUzS0UxRDFhZkUydzN0Rnhlb1pNUUVxNm1mQm5IY3R1ZDJ6YWFmUmpHdWQ1cVdJNmE1a000YkFhYXdpNkp5UFhIUUZXdG9OeUx0cDNlajJDakZvZVhNQQ?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-10-18T13:04:04+00:00"
+   "title": "If a Stock Market Crash Is Coming, History Says This 1 Strategy Has a Perfect Track Record",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOeGk1Y05JYVRHZ1pMOFRGWGQ2QmdoQ1NnbEFpSjlxbTRtWjRUNFFTT0RUaGh1dEMtZUUwMzBmSFNibWtBUzVoaEtRSjJWWTg3N0g4RkNiOGtwb3FFVy1hQWlHVVUxaXBmMU1qUjhFR1B4ZlhjdXk0SjZLMFd1OWZPWTBnd2I5U3NXTWlqS2JRaFdFVVBGWFFtcEc5WEhNcUtSTHkxTnRVN3ZvemlGVzEtUUVvX2dwR21iTXZSck1nOTJMQmU4WHdfRU1OX05mWWx0cWxKanVVbG1xSDhkaFFCSWROdVJmOGhrQkFaREJwbmVrbVdmaWlhV1RGNWY?oc=5",
+   "source": "The Globe and Mail",
+   "date": "2026-10-19T09:31:53+00:00"
   },
   {
    "title": "Insider-Linked Entity Buys 500,000 Shares in Borr Drilling",
