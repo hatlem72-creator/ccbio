@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-21T20:26:47.857660+00:00",
- "usdnok": 9.362090110778809,
+ "updated": "2026-10-21T21:09:49.463443+00:00",
+ "usdnok": 9.35303020477295,
  "btc": {
-  "price": 84462.5078125,
+  "price": 84640.9921875,
   "prev": 82941.0,
-  "chg": 1.8344459465162055,
+  "chg": 2.049640331681557,
   "currency": "USD",
   "asof": "2026-10-21T00:00:00+00:00"
  },
  "silver": {
-  "price": 58.05500030517578,
+  "price": 58.1150016784668,
   "prev": 57.70600128173828,
-  "chg": 0.6047880908149894,
+  "chg": 0.708765791501742,
   "currency": "USD",
   "asof": "2026-10-21T00:00:00-04:00"
  },
@@ -155,16 +155,16 @@
        "date": "2026-10-21T13:29:34+00:00"
       },
       {
-       "title": "ETFs Investing in INFICON Holding AG Stocks",
-       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LWjhyZ2h2T2dNa09zbWhwSXN4Tkt6Y3Y3TEw3dDNDSVJlVGRESXY4M2pWTGpBajJITHFuRmNzc3hwdkZmX0M1VF9ZR1hOc1dBVkxDcDljbUVsZXktOE1J?oc=5",
-       "source": "TradingView",
-       "date": "2026-10-20T20:43:03+00:00"
-      },
-      {
        "title": "ETFs Investing in Metso Corporation Stocks",
        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsN0dJX0ZkRS1GRFZtaDhVOW9wbHMyTDF4U0hiVlFtM0d4RGFpbG9XUE1zdE9DdzQ3Y3NTU0RMODVERGg3M2NjRkdMbkVRcmg0T1V3NEFJdE1wX21jdjBR?oc=5",
        "source": "TradingView",
        "date": "2026-10-20T14:17:40+00:00"
+      },
+      {
+       "title": "SNOW Stock Price and Chart \u2014 NYSE:SNOW",
+       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SUXprNzdIanA1N0duTExYdE11ME80MTFvcFVaOEJyZ2pOTWFoMEtldUZHWHJHSWdVQS1yWUZ5OGtrbnNaVWhZaUVnTFBsQkxmb3dNWTM1V0tDUQ?oc=5",
+       "source": "TradingView",
+       "date": "2026-10-18T19:09:06+00:00"
       },
       {
        "title": "The Best AI ETFs to Buy in 2026",
@@ -361,16 +361,16 @@
      },
      "news": [
       {
+       "title": "Kuya Silver Announces Grant of Stock Options",
+       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdHlFblFEYmZBODRBTEU1ZjVnQlR4bHRhcU5MSlRmd2FmcUZoR21fZk9rVlVQMzBBRDJTZkJ1cDg2MHRzUnNyT1BDcm9CNHpFU0VLNjZ0TTNrc1VidGxXXzdiREQzT0V0cXhrTVVHRjYyVTJBMXJsME1mOGlHRV9hZUp5eUxKR2dXREtOeVFWZzBpOGhoclRQYjE5cTZFUkU?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-19T21:08:00+00:00"
+      },
+      {
        "title": "Gr Silver Mining Ltd (GPE.HA) stock price, news, quote and history",
        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jekNGTmNwS1JwU3JpM2ZoUDRVdkoyRUIxNXBUMTd5VjF6TXdxRm9oLTBHRWNocnFsUElhQmRBMDMybWkwaHRxVEZPQWRoN25rVlV3LQ?oc=5",
        "source": "Yahoo Finance UK",
        "date": "2026-10-16T02:23:36+00:00"
-      },
-      {
-       "title": "Red Cloud Webinar with GR Silver Mining | Latest High-Grade Silver Discoveries",
-       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9kZ0IxcXktSU5KWmRiQ05hNjFiRlRmbjQ4NVFxa1BNbEFMc2ROTEZQQjRPMERNd205eEUxTG5uaFY2VUU3SmdJeHVzQUIwV2dmSUVlbTMwaF9ac2ZR?oc=5",
-       "source": "YouTube",
-       "date": "2026-09-22T07:00:00+00:00"
       }
      ]
     },
@@ -494,9 +494,9 @@
      "symbol": "^VIX",
      "name": "VIX volatility",
      "quote": {
-      "price": 16.670000076293945,
+      "price": 16.68000030517578,
       "prev": 17.309999465942383,
-      "chg": -3.6972813945352456,
+      "chg": -3.639509995399659,
       "currency": "USD",
       "asof": "2026-10-21T00:00:00-05:00"
      },
@@ -506,9 +506,9 @@
      "symbol": "GC=F",
      "name": "Gold (USD/oz)",
      "quote": {
-      "price": 4152.7998046875,
+      "price": 4159.39990234375,
       "prev": 4142.60009765625,
-      "chg": 0.2462151014050562,
+      "chg": 0.4055376886850537,
       "currency": "USD",
       "asof": "2026-10-21T00:00:00-04:00"
      },
@@ -530,9 +530,9 @@
      "symbol": "USDNOK=X",
      "name": "USD/NOK",
      "quote": {
-      "price": 9.362090110778809,
+      "price": 9.35303020477295,
       "prev": 9.421950340270996,
-      "chg": -0.6353273720445585,
+      "chg": -0.7314848095035131,
       "currency": "NOK",
       "asof": "2026-10-21T00:00:00+01:00"
      },
@@ -562,10 +562,10 @@
        "date": "2026-10-21T14:19:00+00:00"
       },
       {
-       "title": "Apple\u2019s $1,999 foldable phone is set to hit stores Friday, are you buying one?",
-       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQ2VBc3p0RWs3VGcyTC1zTVBSX3pJYkdjMk5ndFZnMVJkSXFIWWwyOU5MTzlTOWxHcDdXWGhvRklUX293ZkZnNS05cDV0TkItMVhYdXNlUUNSUmlLQmxDeFJwR1VtenVtZkJMaXRITVRFMzlxZGZjSmtKSUdheUF0d05nMllCTVg3RXEyLTYySWlDZFBJMmc?oc=5",
+       "title": "Prediction: Apple Will Soar After Oct. 28",
+       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTnR3a3hSZXhqc0RvbzZhNHJqWkVFbTlwUExXalBycFA0SWt2dHZCUXZBcW15blI2dGdPN3ZqYmF4dFhDc2tBTWdVaGJVYmZnQmdPZkx4VHdFVmNnRm01ZGNfNVoySW9vcmtMYko2UmhsdFlJWDkzWTNSQWg0RXpaUmQwS2wyaGloamJyaG9DNjRDWVprOWQ3Uw?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-10-20T21:05:36+00:00"
+       "date": "2026-10-21T11:30:02+00:00"
       }
      ]
     },
@@ -581,10 +581,10 @@
      },
      "news": [
       {
-       "title": "Jim Cramer and Ken Fisher\u2019s AI Pick: Microsoft (MSFT)",
-       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOb1pmemlxTW5xT1NRanZxNjRjNG04bF9iSnEwQzV1enVSSWNoR1ZZQVB4QjA3MWFrSnJXTllUTU5fbmUzUDhHZXdSQ3d6LWo3c0Z2Ukp4UFhHUldSUXVsVjdqcWUxczg3X1dfUVFUU2VHR1ViNzd5dHFFODMycEdtdXBDbTUxUHFMU2FfaTlvaEJuYms?oc=5",
+       "title": "What Will $5,000 Invested in Microsoft Stock Be Worth in 5 Years?",
+       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcGlUcUNreWpmMEt2RTJRUDQtenI1dFhLMzNGY01JdVFtaDl2ek9La29wOS0yX2xYdEZoRnRNeEFBYWFrM3FWQUxuMnRwbDh1bzVuN0FUZ3lBbG5SOGs5R1NYbXNVX0I2d1MtNy1Bdk9vemNmY2tReUwyV1dzc0d4b1h4Vm5VUkk1LXZyWm9TQXd3LWdJSG1LakNTOA?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-10-21T13:23:54+00:00"
+       "date": "2026-10-21T15:00:11+00:00"
       },
       {
        "title": "Earnings Preview: What to Expect From Microsoft\u2019s Report",
@@ -606,16 +606,16 @@
      },
      "news": [
       {
-       "title": "Nvidia (NVDA) Is Trading Like Growth Will Stop. The Numbers Say Otherwise.",
-       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWmZRM3VWRTlhU2ZBMW9Gek9TdDhFdEN3b3hra3JpYmdEcjJHTFdVdE9vX1N6M1N6RGhIbFo2TVVweldTV1hCVDBBelFlZHREODVud0ZRODlvRzlyT1JfV3BVYUh2S1hnMjNTSDdFamc3dHp5MGt0QWl6T3pGMkxCb3o4bTMzNEVFNV9COEYyajUwb0hfODJZZEZwT2c?oc=5",
+       "title": "Nvidia Stock Rises in Wednesday Premarket as Elon Musk Says SpaceX Is Adding 200,000 Chips a Month \u2014 Daniel Newman Says NVDA Is 'Ripping' (UPDATED)",
+       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNlJ3a3BoVTJkcVB3c2V6LWg1RU53V3FOeEZkUXNNYXNEVUF2NXJZb18yZ1JFSTR6djVzX2hScnNBdG4tcEQtdjRBMUJ4cjJJYVN4OExVMXBDU0pfaTI5ZXc2MXhuSU54ZXRjZDNabFNLNUYzbGZRNno1YU1DVnFvNmIxbVZhVnAzeXZYaDk3clY4OUtDMEdsNg?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-10-21T15:14:52+00:00"
+       "date": "2026-10-21T12:20:26+00:00"
       },
       {
-       "title": "Pok\u00e9mon Cards Could Soon Overtake NVIDIA as the World\u2019s Best-Performing Asset",
-       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYmlIMjNnYlg2SDQza1l0Qk01aXJvRnlqSV8xd0V5TFdRU0V0TzRxWWlXNXYyelhTazV5amFEYlBwVGpMcHdTQTI0SklldXRNQ2pMWkMtbnhMN3J0blpJTEc4TTlrQkFXQk1MYTBXRHE3amdXUVhBaUhhajFkRlpDN0xrcVgwWVNZUXl3aXVNR0lxOW5QTXotVmV3?oc=5",
+       "title": "Dan Ives Calls the Selloff in NVDA Stock a Buying Opportunity as Analysts See 53% Upside",
+       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaUZUTjRrMXpoYXFnZlNiQlpkZEVwMllWMXB2akU5MXY1bDJES2h6SURONkZsYVdqUmxZcGNsc3BOWHBmTUJrR01IN1FPRS1QZjBIaDBaWURsTlZncy0xdFV1SzFRWUphTkRNTHRyS2ptRG5kSFNhaGVPYzFFYTVDLXVNNVcxQk5HamlkMGgyU2Q3TS11bGs0?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-10-21T15:00:00+00:00"
+       "date": "2026-10-21T11:26:07+00:00"
       }
      ]
     },
@@ -631,14 +631,14 @@
      },
      "news": [
       {
-       "title": "Alphabet Inc. (GOOG) Stock Drops Despite Market Gains: Important Facts to Note",
-       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNM1Q4Q2dxWUNxWW9TRlJkY3hFMTlLRkYweGlKVUZpOC1yWWpvYUlleUFYQjdpVEE4YW16S2ZWYmowVzliRmJjelpzTGhRRTc5ZkM0SVd1bnZhUmVleW9pOGU2R1lDWll5VTlTNk1WVjBldmw0UTdaMUxZZ0pBWU9SS2l3NzU?oc=5",
-       "source": "Yahoo Finance Australia",
-       "date": "2026-10-20T20:45:04+00:00"
+       "title": "Alphabet Inc. (GOOG.SW) interactive stock chart",
+       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBLZHBBQTNEMzdRU3hQLVdXTkx6S3lTZzhjUVNmbmUyaHNhLXlHZTR3a2FyTC14YVlGVm5IallPOXVfTXdDdEFEX3dZUzVqNUNTSnVfQUs3cjJTaTVNNHc?oc=5",
+       "source": "Yahoo Finance UK",
+       "date": "2026-10-21T03:41:11+00:00"
       },
       {
-       "title": "Alphabet (GOOGL) Stock Declines While Market Improves: Some Information for Investors",
-       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVzQ3LW5QS3JVcUV0cUZfLTBaamkybGZtRzVnOGRtSl9UTEVkam96ZWM3cjgzV2RiS3czS3U5UHY4RERqNEpNM25qM1JWUk4wWW1vS2pWWmxYN25WOVVsM2Y5Um9oSHo1QlpZazBqTGFrWVFRR3RtM3ViM0dmTGNmek5McXFtdDZydEx6dA?oc=5",
+       "title": "Alphabet Inc. (GOOG) Stock Drops Despite Market Gains: Important Facts to Note",
+       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNM1Q4Q2dxWUNxWW9TRlJkY3hFMTlLRkYweGlKVUZpOC1yWWpvYUlleUFYQjdpVEE4YW16S2ZWYmowVzliRmJjelpzTGhRRTc5ZkM0SVd1bnZhUmVleW9pOGU2R1lDWll5VTlTNk1WVjBldmw0UTdaMUxZZ0pBWU9SS2l3NzU?oc=5",
        "source": "Yahoo Finance Australia",
        "date": "2026-10-20T20:45:04+00:00"
       }
@@ -681,16 +681,16 @@
      },
      "news": [
       {
-       "title": "Zacks Investment Ideas feature highlights: Meta Platforms, Bloom Energy and Western Digital",
-       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZWZtRDZQQVNseXhZTTNzREliUERwTkdNVVR2QmJYTk9lcnB1Zld3Q2V5WlFzS2NHRzZESzZmVjhaMThteXQyd2ZPUy1pSHNpem00VndkMmtIR3g5YlFZck9lS1plSWdFdEVzYjZBdW1LVFJCVHYyWlJobDVFWTJaMjYzRVQzMmRZLWg4akZqM2dfbWFVOUp6Nk0tekFUTzdMTkZERW5KUkU4QQ?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-21T12:32:00+00:00"
+       "title": "Meta to issue new class of shares as it tightens AI spending forecast",
+       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRFFieGdGQjNVTEpWeTlmUG5ZOW5rRjgwSmpnV1RWdTUzRG5fZW1BQmxBdElRdEtfOVYzcWlaMjR1SGJqZWdPR200RzJuV2JZajJMYmhiSmh4VFdYVjdLQXNxRWo1ZEprRWpKQW1vQkhoMm5jT1RKNzJVczV4aUxHdDNWQ0JoSXVOYzN0WDhFMmh4cjg5RWNmZFhtaHlQTlJ0NmVnRlNpQjg?oc=5",
+       "source": "Reuters",
+       "date": "2026-10-21T20:38:08+00:00"
       },
       {
-       "title": "Meta and Google are about to have a consumer AI showdown",
-       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdWtaMlZZdjN6cUdfWnBpdFJUdDQyeTJLZ2RTUnRvR1E3MW9CYUUtWjhxcFJPRkxEU2tjdTk3LWZXM0UxRVNoanoxTnJvenFHdUhoRXRHUS1jSzA2OGxKeV9PX21HdzRqS2MtYklVUDJYLWQ2RjVpQjlLUURkeEluUlM3WHpSVm5QT3pCMGxtY0tTbkY1TGRubFd2T2duNlNUcy0zR3hVNnNPX1VYLWNDaDhSdmk5Rms?oc=5",
+       "title": "What It Will Take to Get Meta Above This New Plateau",
+       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVkpYMkhzbi1PeE1JSm84NWdleDRhd1lvVnc4ck11ZXBWRWhhMG1JdlNoSmNoM01Id1dINnhjOFRUQjQyazhuOW9VUmhJTmIxSHowQjBxdU9CcklHOEhsUk9SeHF6TmVvaktxWDNjMUtVM01ibU0yc1NjYTB6eE92UDhhTzZkbVlPUDV3?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-10-21T10:00:00+00:00"
+       "date": "2026-10-21T12:45:31+00:00"
       }
      ]
     },
@@ -712,10 +712,10 @@
        "date": "2026-10-21T18:44:45+00:00"
       },
       {
-       "title": "Tesla earnings are out \u2013 here are the numbers",
-       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1rRTRZdEQyQ0tYemI0R0tuYi04TWhxWEVoRGx6M3h3MWpWTzhRdnpvZTk4R2tSV09GX2dNS0p6ckxOMkpDd3NCbEViY1ZtOUNOU0JjejU5VjhoVTRIRjZ2SHBiOG0wbXY0NmVBUmFUTDFWZ01LSmZraHN4TdIBgAFBVV95cUxPdzZSSklMOG1fb1hCcUpGSmpyVDAxVlZuXzZ4ZDEwdkJhX2xoWXdVb1V5Vkp0b0tkekhaVHhoa2szSC0tejZ6aTYtb1JJUWo4aG90ZTN5UURiS19sMGhCUHFxZUdhdk9rd3JaN0xRVVk3OGZ0VkhZSjFDMU11dUJIVw?oc=5",
-       "source": "CNBC",
-       "date": "2026-10-21T16:00:01+00:00"
+       "title": "Here's What $10,000 Invested in SpaceX and Tesla Could Be Worth in 2030",
+       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSGVBeXhGdlRNbi0wcnRIdy15eHdnZ1ZaWGxnQTMwem42RDZuR084SlVkSjJlMXhyRmRmNFhTcnVrY0RFeXJKaklOaHd2TGJJSnNRc3MwNDVGVHJJLWpyOEptR0duVEVOcVVaRkNlNWgxMi1aLTN0YUU3UEwyeVlsVWoyNlpaSXhfamdMRkpIblludHFjRFFIaA?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-21T18:06:00+00:00"
       }
      ]
     }
@@ -749,6 +749,12 @@
    "date": "2026-10-21T14:16:25+00:00"
   },
   {
+   "title": "Netflix slides as weak outlook deepens worries on viewership, revenue growth By Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYVhjTlR0THVKNGlpR2lZZWdHRnBhcWNTeFVCeDdVTjVETHFZZ0l2VEwxOXdHTFhSM1JDRnpWUjlvRThMSmdjUXdFY1hKWFlBcS1JVXQ2SzJxcmx0ZUhyMFVlOU50Sm80V1NJRG1GeFdrcEZwYjZxUHJtUWtJQmpOVjRkTHotb09HOWhUaEhucGtqSjNfOVlwdWU4SkhRdFQ5amhuNDlTOUhxbWZHNHFra0M2LVhLM3V3STdlN0tadDZYZw?oc=5",
+   "source": "Investing.com",
+   "date": "2026-10-21T14:07:05+00:00"
+  },
+  {
    "title": "Netflix stock sinks as Wall Street lowers price targets following Q4 revenue forecast miss",
    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQNEJkYUJaMXNVbEhiRTVINEhQZEptTkdWWFpkQkhDc2hDMkREQVRteGxITEZGVlYwcnZzSUdmd1ltclFkM2hBTnp2OGVWSVJEaWlub29QdHVMVC15eTRISWRPUGZLT3NaS2FiZHhwNGxtOExtUDBQUUpHejhDOFRmQ2pFQXhKRUNuN1JnM3RiR281VjlfT1ZvS1IxX2FWZ0tZQ3VjMTAzRERHQnowczhMNGJRUU1YeUFPdGNxVDNOWFFrZ0FOckdkNDdZNDFwaXhtaF81VXhJSzRLb1hVVW5JVks2Q09vVVViQ3dVN21n?oc=5",
    "source": "Yahoo Finance",
@@ -765,12 +771,6 @@
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVTJ0WjBJdWNOa0U5ZFRiNGFSUlg1Y3MxLVZmTGtRS1JWNUpaMFVEWGtQNTdCS29qeVltTXJ4ODg4a1V2OGtDd2tsWlJOdmQySjZfQVdlalJsNkRPQjdqVU52WE5ZM09KUDVyVy1LenlWSkV6elhGcl9DR2c0WE5uVzllVEc5WXpDTVV3WUhHczNVdC1tVllOV2tsSzNucE9ERmRYUFhFc28?oc=5",
    "source": "Yahoo Finance",
    "date": "2026-10-21T05:50:00+00:00"
-  },
-  {
-   "title": "Super Micro surges 13% after raising revenue outlook on AI demand",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLWo3bVBrclBqYVBFZzZ4X1RoTmY4ZGNJQW94c1FzbUNZRWl6cXJLUHNMZ3prN3V6WWNkWWgxdjAzVUoza002Nlp3bHFCVklaSmtKbUJUR1JFb2JrSkxsU3AxZzY4MTlwRkJXQ2NmN3ZyenBkMU1IQzZwQWx0Q3c1MHpMb1N1bE9OTE9jQVB2bVlLZlRZaXNNWkpWeHhlOWZEX0o3RTRDWnlId2lvTHlzWU13c3dfUm9wb3p6eHVBd0loNDZR?oc=5",
-   "source": "Investing.com",
-   "date": "2026-10-21T03:40:34+00:00"
   },
   {
    "title": "Will the housing market crash? Take a look at the data",
