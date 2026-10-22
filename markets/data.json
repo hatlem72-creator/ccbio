@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-22T22:26:27.240899+00:00",
- "usdnok": 9.361729621887207,
+ "updated": "2026-10-22T23:07:41.754921+00:00",
+ "usdnok": 9.32721996307373,
  "btc": {
-  "price": 81231.703125,
+  "price": 81300.0,
   "prev": 84011.96875,
-  "chg": -3.309368493998066,
+  "chg": -3.2280742736433,
   "currency": "USD",
   "asof": "2026-10-22T00:00:00+00:00"
  },
  "silver": {
-  "price": 54.724998474121094,
+  "price": 54.665000915527344,
   "prev": 57.422000885009766,
-  "chg": -4.696810228347048,
+  "chg": -4.801295543503336,
   "currency": "USD",
   "asof": "2026-10-22T00:00:00-04:00"
  },
@@ -87,10 +87,10 @@
        "date": "2026-10-09T07:00:00+00:00"
       },
       {
-       "title": "AYK Energy to supply batteries for four electric Svitzer tugs",
-       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMWRuX0ZlYjRFOGhMaGl4SDZMNFJjUDBMd0N3NmN3Y21kWmZtZURIZm44SS1rWS1CbDJRRGl3N2p6MnptOVJGcWM1b0thUlFUbXgxQmU2TWFzSlRrakpaM2VQdjRmX3VWZFJaNTloTERWekhqMlVMbko5ZUJQSUFmdkIwOFJjeWEzTGkwR3VhbUpCYllXdmswcm8yMzJfWWFfTmt3SWNsbHFJNkdEc2FQbldkX1J3ZnBQRW91cDRn?oc=5",
-       "source": "Maritime Journal",
-       "date": "2026-10-09T07:00:00+00:00"
+       "title": "Kongsberg Maritime secures Extended Thruster Coverage agreement",
+       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeWFRczlOdDNxT3JRMUxZSFpvTlJaZlpDa3h2aExmTl9nU3JQc1lTaG5TM0FkNDJVNmMycVIyaEhZNjBmT0twN1U3cnB4NktaOUI4alNrQU1sY1NiV0tPc0Zad3Z2cGdvT0Z4am4zWTlVQkpBUjVfc3FLajRPOV96R0FLQUZ6Nmw0ZWF2MzJnTXRfQQ?oc=5",
+       "source": "Maritimt Magasin",
+       "date": "2026-10-07T07:00:00+00:00"
       }
      ]
     }
@@ -211,16 +211,16 @@
      },
      "news": [
       {
+       "title": "U.S. Small Cap Portfolio (DFAS) Buys $12.3 Million More Hecla Mining on Thursday",
+       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTnA4WjZXTWQwVDlyeFd1ZVFYNy1JNDdjTHBlVzlZRkxlbUhrVEVEQjdlM09pU2xOdWloSUM2OXZvYVNGb1RrZDl2QnMwM2dtYXloLWc5b2d6X2J5S0RSbW1DUnF2RHhsbFhaQ3drQ2xqdFNSVVd5b3RaaWV6REdfNWpleXFyUGJlTl82TWdYTnhSR2FFMXc?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-19T11:04:02+00:00"
+      },
+      {
        "title": "24 ETFs Add to Hecla Mining (HL) on Oct. 15",
        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNlUxV045SE5Ubi1FakNEYjV3SkRnT3ppNVlPVGF5dzRma2NYM3N2UmQ4RTJCZkctNURlWWdKdVBFVjlxa0JEYWJiSzk3UzlXWnFEVHRUUDVOY0pCemQ3ZThGRHhwaHVYaDRFUVFIeHZkZGlOcm9wZVJMdzZmOE1TWUI5anpHNFo5ZXNPaWVOQTRNZEE?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-10-19T11:01:38+00:00"
-      },
-      {
-       "title": "HECLA MINING CO (HL.SW) Q1 FY2026 earnings call transcript",
-       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZFVJbE9SVm5yTXBGMDhOZEpTOHFwUGNGWDkteUdRaTN4WjRNNTBaQ1pKNy1NS0FSU2V3b0JwR2xZbGtHbmRvbXRDVFRncjFSMS14RjlXdFRMd3VZUTBzMmxxTksycXk1QlhKNmx2RmgtQXU3WkNXS1k3VGVDZEc5UXFJdDRNdkVrazl4VmFlbHA?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-16T04:33:00+00:00"
       }
      ]
     },
@@ -417,10 +417,10 @@
        "date": "2026-10-09T07:00:00+00:00"
       },
       {
-       "title": "Silver X Mining Corp. (TSXV: AGX) Gains Momentum as Resource Expansion and Silver Market Strength Support Investor Interest",
-       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQQ0tuM0xqSXRnQWVBaUxoVTN1UDVWMVhaaDFPemZQQUJqVURtVXh2VjBvTFZ0RVF4NEZmWC1qT21iQWxXcHVfUmkzb011bXoyQ2lnVzBlaHBUY3VBUHdUYkNhQmtCOGNhVTJsMDNvMGl3QXR2YlRxcm5CeGdGRE5WcEdmaElSS1VON1JGNTJnTER3R2R6V25wYVJXeTJKaGNkRlB5OVZOcGlRbFBnZVJrWHJkelk5VWl4b2I2Yld2MUFHSThRLTVzcVdvcTE2ellGZzBUVncxZnRKUTFramFLNndFaXY?oc=5",
-       "source": "kalkine.ca",
-       "date": "2026-09-23T11:41:00+00:00"
+       "title": "Silver X Grows the AgEq Processed by 42% and Gold 119% YoY As Nueva Recuperada Plant Expansion to 1,000 tpd Advances",
+       "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPUGFwNmtfUmdtMlBPRTgtRGpQTjNGQTA2U3ZEenNyZ0dnUlNRNVFhNGZQVjBNVFROUm8tWjdURUxQMUpRdjJtMmJwYmw5alJDb0hGRmhYRUpSTk1fUkY5dVRBcnB2OUF1SU5KaklqaW5Ea0tDZlhsQlp3eVYtbzR5N0d6bl9MaWNpdnNfelJOWVBFZmJQT1ZGM1c0SThMczFSTnJSV21VY08xUmU0ZkpsX0tGX1pEVUhxYW52TmY5UDZtNXhsSVhnWjR6QkRIYmNfT2szN2NXLWdVcXBJUGlCMUJpQWdBTmFCWS1wS1RJcVpBQXc2R25sOS0yWklpZG9ZSUJjV250X2FWVE84eDVjRzRGX1BIbkZkMGN2V1dqenBpVi1SVkE?oc=5",
+       "source": "The Globe and Mail",
+       "date": "2026-10-08T07:00:00+00:00"
       }
      ]
     }
@@ -506,9 +506,9 @@
      "symbol": "GC=F",
      "name": "Gold (USD/oz)",
      "quote": {
-      "price": 4043.300048828125,
+      "price": 4043.0,
       "prev": 4150.0,
-      "chg": -2.571083160768073,
+      "chg": -2.5783132530120434,
       "currency": "USD",
       "asof": "2026-10-22T00:00:00-04:00"
      },
@@ -530,11 +530,11 @@
      "symbol": "USDNOK=X",
      "name": "USD/NOK",
      "quote": {
-      "price": 9.327859878540039,
-      "prev": 9.402509689331055,
-      "chg": -0.7939349520237116,
+      "price": 9.32721996307373,
+      "prev": 9.361729621887207,
+      "chg": -0.36862481835402416,
       "currency": "NOK",
-      "asof": "2026-10-22T00:00:00+01:00"
+      "asof": "2026-10-23T00:00:00+01:00"
      },
      "news": null
     }
@@ -612,10 +612,10 @@
        "date": "2026-10-22T09:30:00+00:00"
       },
       {
-       "title": "ASML Has Incredible News for Nvidia Stock and Micron Stock Investors",
-       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZTk2bk5OR04zTEswTm94YUMzejFSRmk0aUJhRHdITjJGcWVMVm5LR0RtZ2F0aHEzdUR6N0t6TVFxOFBtNTZPUHY0Q0VOWC1PMmNmRk5BcjhDUUZOUFEzdUhzbS01VDFFQ3VYQUhBZG9xS0xxcVNMeDJPbmNVUFhYR0pCQVB0dG1GeEtmN0owWmM4YjI3OHFLTm5R?oc=5",
+       "title": "Does Super Micro's Big Quarter Make Nvidia Stock a Buy?",
+       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ3V6aUZOWGNBZGQwMjhrR3EwQmVJVi13V3dxMXZjYnprNDVPU2RVUXJkaVRjZTlyVUxaQzVOR0ltN1d6WURIYTktMzd5U0Q2Uk5Lb2hBTkxkSm1mV245cU51dVRVVzF3QWlMVDlEUTRkM1hUeDI1TjQxTWNYdlVUMVJDRmY2enBhd2g4Z2JLUXBXQVNnZl9LRGdB?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-10-21T18:52:02+00:00"
+       "date": "2026-10-22T07:32:01+00:00"
       }
      ]
     },
@@ -631,16 +631,16 @@
      },
      "news": [
       {
-       "title": "Prediction: This Artificial Intelligence (AI) Stock Will Be the Biggest Winner of 2027",
-       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQY25DZ0FlNTJMTFBwRkNKV2p1Skg2dFN1djd2ejlTOTE1U1RraXhadzV0NFotcXlLTlhhRXpiWGRwR1otaTAtNWtNY3JxN0lQa2NEc0RaMWxFb2xXV0gwbS1VdmJWSU1pc2ZaNlZuMEMwTmE1ZW12RFlldTEtZ1lZSWpTbVdyTDdNcGNSTW9mdV8xY2tHLUFlX2tMNDZwTEtSb1M3ZjcyMlh2ZnBp?oc=5",
+       "title": "Better Buffett Stock: Alphabet vs. Apple",
+       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQ0dHQ083d3V3YUh2VG9tZGFnX25EZU9GNWE3bHFscEtXbmFJOGNOUFB0YkJRajhNNDJwVGlzbXZXTGp1OGN2VV9vTGREMWNoRTBBOFI4RURfeVhnLV9ZaDNMRFlvTkFsUFp6NE9ocXlhNDV2czduWVhtMVhMZ0hoMzBEQVhQaXVuWGNJN2FKalVqal82ekhVSUViUHY4Zw?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-10-21T21:36:00+00:00"
+       "date": "2026-10-22T19:05:00+00:00"
       },
       {
-       "title": "Bank of America sees a $300 billion test for Google stock",
-       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTkZrLUtON3kxMXgzWjFkNFVOS29HQlF0WDduT1RGODBNVHBNek1rTUNCak1oWGZjcVlkdTR3a0YtRlVpb3QtTEhGQmFQV3dmOWsyTDZyZElvVFh5ZUpBZDRiVlNPYUpZQXVKamtlUzNuVVEzQjBfa29vaTh1RVRLbW5zMmdIVzFJRmkwVHNVSlVKNDZpYm1mNA?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-21T20:07:00+00:00"
+       "title": "Citizens cuts Alphabet stock price target on search competition risks",
+       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc0R4MEZRaTZneDBGM3U2TW11Z29RaHNSMWNPLVFQWk5vaUlQVVJ6bC1zVWVaRGI0WDB2RzdxcDdxVUJ3WWp3R29WeVgwVEE2dktqSHdUWWdHcjJYRnhRYzRpMkVCc2swcFcwdkV3MkZUSDVmd3VVZWVhRlNOV0xNbFJzQ3NOc3NHdVNJQXpGc19GLUQ2WXdzTC13bWNqclBXbm1ySGI5YVNxaUtnYjZhdUI3WWk2M2tFMTFfTHRLZWtDbThFYThlcw?oc=5",
+       "source": "Investing.com",
+       "date": "2026-10-22T10:02:14+00:00"
       }
      ]
     },
@@ -712,10 +712,10 @@
        "date": "2026-10-22T20:16:00+00:00"
       },
       {
-       "title": "Tesla Is Just A Car Company",
-       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTi13X1dERlE3VEJBQUpsOWViaHFYV1BHYU95TnlJWkRsdkZBWS1BMmlTN1hIdjRITjdlOHZlOVY5bUpkRHFiMTktc2Z2NjFpcFNVNEc2UUhrVzdSeXVZQVB1clpka3AzdGNoWjk5a1l6S0JPUUZ1cFFrU0t6bXU5ZHVWOEJSNGpPVTBfMTAzSm4?oc=5",
+       "title": "Elon Musk: Tesla Will End Up With \u201ca Majority of All Passenger Miles on Earth\u201d",
+       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRGZQYTFCWjBpSHAzaEY5X2hjUHZ5WDRjRHJlamZVWmU5Nm9DeHk3akRNTGdqWEtJbjhieDNBMUk0eEtDX0VNZHNuVDV2M3hhQXpZVDdla09wSTdPeThlbGc4dTJlVWQxYjdjc3FSbnhzQ3FlN1pJMXJvdXZ6aHNCeXlUdURXOGVGODhfZXVzS3dUOVByS3VmNA?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-10-22T15:51:00+00:00"
+       "date": "2026-10-22T14:33:15+00:00"
       }
      ]
     }
@@ -735,6 +735,12 @@
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZVNkUmFEakZhOG5VbGljekRJZDJwYUVmNnFIR3pOTjQzR21IUk9FY2NRSmN2NDNvUGVCX252SVFGNU9SZmJrSzBvYzVxdHpuTmlrV2dUZ1lNSFZ2MmhtRGVVaEVnd0dJLTAzVVRyR05WdHVoMTA4cV9TaEZnV1dFczhRYW8yOXJnNzFKSUR5VVo5WFJvSHJudlNrNU9pQmFJVktsQnRDbkZiOFJFaHozXzdTNFp6eE5Ed1E?oc=5",
    "source": "BNN Bloomberg",
    "date": "2026-10-22T16:25:37+00:00"
+  },
+  {
+   "title": "Prediction: Sandisk Stock Will Soar After Oct. 29. Here Are 379 Billion Reasons Why",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQWxkdjF6dHpsUFVfMGNEWUJ1X1JfUmhreVRrU3poenNDSWlsbTZHbDJyMDc2UGZRSTIzRGJwanBoWUpCcExWclY0czBHTkY2X0J2TkVJcngxQmx6WGJfdFRzQ1BfQ3ZKRmRkSWI2VXNVR2VuUlMtbXR0eXpoVU5zNVdnZDF5OEFxcXRZZ2xYQ0tzWGV4YmlOWGdWRmFLQ2c?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-10-22T15:36:01+00:00"
   },
   {
    "title": "Gold and silver are not the best inflation hedges; investors should diversify into the commodity supercycle \u2013 Auspice Capital",
@@ -789,12 +795,6 @@
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdkR1eTJYRm9BOUZpazNjTnotZktHcmpObVk3OU5HaG1WRnFsMVMtRndndXRGbzJDVG85U3hJUGJWSllZRFVoUjhoeGItcjVqVGNOVm5uNGdZUzZ4UmF6YzJFbF9OdGw4Z1NyYjJtNHpmRXprS05POXcyTW9wcndFbXR3TURMQl9WSEw2cVJKODU5M2xud1E?oc=5",
    "source": "The Motley Fool",
    "date": "2026-10-21T16:45:00+00:00"
-  },
-  {
-   "title": "Turn People data and technology into insights that support Nammo\u2019s growth.",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01QXpxRHpQVHBHVnFhclZJaGhlcGFTSEd1MWdlV1BOMWlNWTBPRVFoTk8yaVQtTzByRzFwcVBoLVBPWnUzN3NZazFMOTFpeXVlTUM5R1F3?oc=5",
-   "source": "E24",
-   "date": "2026-10-21T16:25:55+00:00"
   }
  ]
 }
