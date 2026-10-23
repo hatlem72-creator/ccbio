@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-23T09:55:21.447594+00:00",
- "usdnok": 9.337690353393555,
+ "updated": "2026-10-23T10:29:26.043413+00:00",
+ "usdnok": 9.33368968963623,
  "btc": {
-  "price": 81539.7890625,
+  "price": 81618.109375,
   "prev": 81311.890625,
-  "chg": 0.28027688908507375,
+  "chg": 0.3765977492913519,
   "currency": "USD",
   "asof": "2026-10-23T00:00:00+00:00"
  },
  "silver": {
-  "price": 53.84000015258789,
+  "price": 53.935001373291016,
   "prev": 54.763999938964844,
-  "chg": -1.6872394043655703,
+  "chg": -1.5137655514530612,
   "currency": "USD",
   "asof": "2026-10-23T00:00:00-04:00"
  },
@@ -24,9 +24,9 @@
      "symbol": "KOG.OL",
      "name": "Kongsberg Gruppen",
      "quote": {
-      "price": 303.5,
+      "price": 303.1000061035156,
       "prev": 301.5,
-      "chg": 0.6633499170812573,
+      "chg": 0.5306819580483069,
       "currency": "NOK",
       "asof": "2026-10-23T00:00:00+02:00"
      },
@@ -61,9 +61,9 @@
      "symbol": "KMAR.OL",
      "name": "Kongsberg Maritime",
      "quote": {
-      "price": 58.540000915527344,
+      "price": 58.58000183105469,
       "prev": 58.5,
-      "chg": 0.06837763338007896,
+      "chg": 0.13675526676015792,
       "currency": "NOK",
       "asof": "2026-10-23T00:00:00+02:00"
      },
@@ -104,9 +104,9 @@
      "symbol": "G2X.DE",
      "name": "VanEck Gold Miners UCITS ETF",
      "quote": {
-      "price": 82.12999725341797,
+      "price": 82.16000366210938,
       "prev": 83.06999969482422,
-      "chg": -1.1315787225948615,
+      "chg": -1.0954568870325199,
       "currency": "EUR",
       "asof": "2026-10-23T00:00:00+02:00"
      },
@@ -141,24 +141,24 @@
      "symbol": "2B76.DE",
      "name": "iShares Automation & Robotics UCITS ETF",
      "quote": {
-      "price": 18.799999237060547,
+      "price": 18.777999877929688,
       "prev": 18.79400062561035,
-      "chg": 0.031917693149496884,
+      "chg": -0.08513752872212343,
       "currency": "EUR",
       "asof": "2026-10-23T00:00:00+02:00"
      },
      "news": [
       {
+       "title": "ARK Space & Defence Innovation UCITS ETF A USD Acc (ARCX.L) stock price, news, quote and history",
+       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9DUkUwbDZMUHZCMFdXYkczLWwyWGtVOVJzZkxlRGZlRWRDZU9YU0luVkwyaEhub1dBM1pycTk4T2NHank1Q1dUN1dwS0o3VG9DYjFCQw?oc=5",
+       "source": "Yahoo Finance UK",
+       "date": "2026-10-22T07:56:40+00:00"
+      },
+      {
        "title": "Symbol lookup from Yahoo Finance",
        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8tNExNWnBFaTY2TWdwdzc2X29VeW1pUWRfMElkTnJWODNVRUs4SW04YzZidURmOGJDb2FpaWtkTE83R1hZa2VGX3NJVEtiXzRrdHc?oc=5",
        "source": "Yahoo Finance Australia",
        "date": "2026-10-21T14:29:34+00:00"
-      },
-      {
-       "title": "ETFs Investing in Metso Corporation Stocks",
-       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsN0dJX0ZkRS1GRFZtaDhVOW9wbHMyTDF4U0hiVlFtM0d4RGFpbG9XUE1zdE9DdzQ3Y3NTU0RMODVERGg3M2NjRkdMbkVRcmg0T1V3NEFJdE1wX21jdjBR?oc=5",
-       "source": "TradingView",
-       "date": "2026-10-20T14:17:40+00:00"
       },
       {
        "title": "SNOW Stock Price and Chart \u2014 NYSE:SNOW",
@@ -470,9 +470,9 @@
      "symbol": "OSEBX.OL",
      "name": "Oslo B\u00f8rs (OSEBX)",
      "quote": {
-      "price": 2091.3701171875,
+      "price": 2088.9599609375,
       "prev": 2085.659912109375,
-      "chg": 0.2737840932249602,
+      "chg": 0.1582256440259,
       "currency": "NOK",
       "asof": "2026-10-23T00:00:00+02:00"
      },
@@ -482,9 +482,9 @@
      "symbol": "^GDAXI",
      "name": "DAX",
      "quote": {
-      "price": 25156.849609375,
+      "price": 25184.619140625,
       "prev": 25371.75,
-      "chg": -0.8470065747337108,
+      "chg": -0.7375559800762654,
       "currency": "EUR",
       "asof": "2026-10-23T00:00:00+02:00"
      },
@@ -494,9 +494,9 @@
      "symbol": "^VIX",
      "name": "VIX volatility",
      "quote": {
-      "price": 19.579999923706055,
+      "price": 19.530000686645508,
       "prev": 19.030000686645508,
-      "chg": 2.890169296980183,
+      "chg": 2.627430278291487,
       "currency": "USD",
       "asof": "2026-10-23T00:00:00-05:00"
      },
@@ -506,9 +506,9 @@
      "symbol": "GC=F",
      "name": "Gold (USD/oz)",
      "quote": {
-      "price": 4037.5,
+      "price": 4039.0,
       "prev": 4060.39990234375,
-      "chg": -0.5639814524311171,
+      "chg": -0.5270392783577216,
       "currency": "USD",
       "asof": "2026-10-23T00:00:00-04:00"
      },
@@ -530,9 +530,9 @@
      "symbol": "USDNOK=X",
      "name": "USD/NOK",
      "quote": {
-      "price": 9.337690353393555,
+      "price": 9.33368968963623,
       "prev": 9.361729621887207,
-      "chg": -0.25678234113331033,
+      "chg": -0.29951657849016655,
       "currency": "NOK",
       "asof": "2026-10-23T00:00:00+01:00"
      },
@@ -612,10 +612,10 @@
        "date": "2026-10-22T09:30:00+00:00"
       },
       {
-       "title": "ASML Has Incredible News for Nvidia Stock and Micron Stock Investors",
-       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZTk2bk5OR04zTEswTm94YUMzejFSRmk0aUJhRHdITjJGcWVMVm5LR0RtZ2F0aHEzdUR6N0t6TVFxOFBtNTZPUHY0Q0VOWC1PMmNmRk5BcjhDUUZOUFEzdUhzbS01VDFFQ3VYQUhBZG9xS0xxcVNMeDJPbmNVUFhYR0pCQVB0dG1GeEtmN0owWmM4YjI3OHFLTm5R?oc=5",
+       "title": "Is It Time to Sell CoreWeave Stock? Nvidia CEO Jensen Huang Doesn't Think So.",
+       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZUtzb3dyanFKWVp6WFdCYm1Od0RtQXM4b0wtM3BuazVPLTAxUUVLYlFkWTRwaGZqT1ZPZFAyMDJOWGcweTk2amxWTjR6SGVsaTk1LWxTSTVDNXNhYndjOWtjNFoxbHk5TmZaMVVfdzVBdUpkRlc3dkJ6cndZUUd2OXhwLU8xdGlGY0I5aG9hMTdjYnJCdGxaODNoYW1kdw?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-10-21T18:52:02+00:00"
+       "date": "2026-10-21T18:35:00+00:00"
       }
      ]
     },
@@ -656,16 +656,16 @@
      },
      "news": [
       {
+       "title": "Wall Street Firm Names Amazon Its Top Pick With More Than 30% Upside. Is the Stock a Buy?",
+       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMkFKQVp0eHF3SEgzazdtTEI0bVEzYllCem5NcnhQUm5DR195QUc1X3BuUmxLNlRDdEkycU5rYVk0Z0trOVNyVGlEVXRwSHZwLXZoWEtHZWtLeER6U2VyaTR5OURiNktWRHhaRGFQcUNjVGNtRmQ2RW9NX1NMd0hzLUZackM2N0lCbnFRQldDck1QWDltV3FNUm5R?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-22T07:25:00+00:00"
+      },
+      {
        "title": "Amazon Stock Could Climb Higher as AWS Becomes an Even Bigger Growth Engine",
        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTE5Td1pFX1lqRVkwTVgzUE9pcnZROEZ0VGtuckRxUzZKbHZWVUpWU2RHRWZNc0FDazQzZVVoam9zcE5FYmlqWkU0dloxcFFFVXlQU1dTdl9uSGRLQnhiYlBaTTgwVFRKQnFXOV8wa3VYaTNZbHdReU5Ncjl5VXlBYjFPSXUxM0NlckdYa3hKV1I1bG92TlhyMXdsLUg?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-10-21T16:00:12+00:00"
-      },
-      {
-       "title": "Amazon (AMZN) Trades at 24 Times Forward Earnings. Can Its Cash Engines Fund the Robotaxi Bet?",
-       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdHNyTEhCeThPa0lFMXQxQlhZaHBCbjdnX2ZtT3BRQkd2OFYxNGpiZzhHYVZHWXNuVjYwYXc1NjlXUEc2a0NMbTVuNDVwS3NpRXRrMjM0R1d4TWp3Zk9CMFlHb0gxRXZtTEJpQmVSdVc3ejZFMXJjTjc0QnowWGVaSXE0ZFBJWVY5bXlieVN5SDE2YmpfMEVN?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-21T15:30:07+00:00"
       }
      ]
     },
@@ -712,10 +712,10 @@
        "date": "2026-10-22T20:16:00+00:00"
       },
       {
-       "title": "Tesla Stock Seen Trading With Evolving Views on Potential SpaceX Merger, UBS Says",
-       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZ3pMbVhuNkQ5MWNkQTNaeDNJNnJfS2lzY1FZWk9aeHU3UFE3N1pkczBQa1lFR2hGU0xESklzamRsd0FXNmVlZzFHZGpEMlJVU1ZBYmE0RDhwVndQZkpqMnpNSS1udmNGLVhlYkhUMnFyaDQ3TDZZSUdoQUxkb0Nuak1fVEY2ak9kd0xIajVwV09IZ2VyeFpMVWpYbFlEc2M?oc=5",
+       "title": "Ellison Pledged Oracle and Tesla Stock Before Son\u2019s Warner Deal",
+       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ25oc2V3d1JDZkNpNU95ZGszdUpTcHVWUUtJeHg0ZEVrYkRxRkFUQUIxUlVZRDZjRmVJN2Q4eVZsa3RPRzZEZ1VCLWVTaTRWWW9pc2Z3cWRRUWdzNUtIWmxuWXRnVGdwZEtnX0xGaWozUHlyMlZidnNEbW5JVWlXTmZoX0RBMnZHYWxCYnBkOEtYTnh2LTdDUEJGX3J0QjRH?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-10-22T18:55:31+00:00"
+       "date": "2026-10-22T19:28:46+00:00"
       }
      ]
     }
@@ -729,6 +729,12 @@
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQS2Y1VTVMalZfeGdpLS1zNHo2Y0hHUHA5bjZPWjlTbFVQV05EcThNOHNxQy1teXR1N2lUM25rUmVFaG1ib3QybVdOdW02Z2RBamh3VkFGbWRvZ0FRc2Zrcm5BY1l2ZUtNRzNrdlpkQVpwU2Q2QWlybTJFMHFNT0dVc3NpVHhEQ0E5VWQ4RWpwcmhiRHZLdGJJRUpR?oc=5",
    "source": "Seeking Alpha",
    "date": "2026-10-23T08:05:00+00:00"
+  },
+  {
+   "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYjBnQkU3ZVEtNmhsYnNWWUd4NklTNjJNLU5LVGxaeS1iODcyYlRqMG1xWVB2UXBTU215bnlza01ORzRBellFQkppbl9WZTNLeFlPMl9zRW5jckFrUEFNOG14WFVXYnktcnZlRTRPaUN4Z21kemd2VGh5Uy1WNm9LR0V3YVNybDlwVVZveGdSbUJ4UQ?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-10-23T06:36:08+00:00"
   },
   {
    "title": "Tech stocks are being repriced, not headed for a dot-com-style crash: Strategist",
@@ -773,28 +779,22 @@
    "date": "2026-10-22T16:00:00+00:00"
   },
   {
-   "title": "Gold and silver are not the best inflation hedges; investors should diversify into the commodity supercycle \u2013 Auspice Capital",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbW8xSTBQZHZKLUxPa2JDcG5oVkw2c3lUa0RiLXJXemhqdHZIRXYtLWFWQVVsUjRmTkFucl9DbS14T1F5dnk3VFZPcFdjZk54UGhkVi14dTRhUkFtYkUzUkpubzQ4VjlEVGlzNnJBcENDeVBDWklXWVFnZHBpTUZZeXJqaUFBQThiR2I5QXJyZ1RqOFZTMDZiRTJfQXVSV0N3dGZTeFRybVFHS1hPMGsySFY0NGRKc1JJeUE?oc=5",
-   "source": "Kitco",
-   "date": "2026-10-22T15:30:31+00:00"
-  },
-  {
    "title": "AI Stocks Could Crash in 2027: 3 Ways to Protect Your Money",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbV85ajQ2aXg3TkcxRzhGbnhPMkdvOTE0Tk9VaElPQ042bXF2MGN5eUx2dHhTckVhMXMxSEN5NGlBUGJyc3BlSW9rcDBZaXVfRFFwb2FlUFR6VXhQTTBMWjFsMEtlSUZsVnp3M2NnUE13dmJTMERWZXFvY2g3b04tUGJVaFdELTdkYzhWWGtsa2tvdHhLY3c?oc=5",
    "source": "Yahoo Finance",
    "date": "2026-10-22T09:26:48+00:00"
   },
   {
-   "title": "PPI Public Property Invest AB: Transactions carried out under the share buy-back program",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQc0FHc0JsUi1LX0JLb1JDSWJXN1paY0Q2bmhmaWp0TVFEZ2ZFRXNBMTJtSHZyQktnd3h3OHlVMjNKZF8wRlJmVVlTYW00UHJCVmdnai0yaGt1Z096bWhkRU1MUmhfdkMxWVRkMTQxRTdkOHltRjF2N2tUNUhrOGo4NG4zNlFNMXFjOHpTX1JIUzZMNFI1U1R1MU1wdVVKSktSeDdDQ1RhYXZvZUgzQVhhN3Q5YV9tUWo1R1EwaThkSXFUcldiVExxYjQ4X1I5YXF4SWgyS2JJYVFSRzVheW9DTy1Pd2xJZ0NT?oc=5",
-   "source": "TradingView",
-   "date": "2026-10-21T05:00:00+00:00"
+   "title": "How the \u2018Walmart effect\u2019 is major warning sign for the American economy",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNelhjd3g1akJsSGhUWEJWWGlDR29wTWV0a3BzbFZncjFhd3JoSU1HTDVWWkV0cEVWd044eUJwUkdXaUpMTkY3QmNodml0RWplOHB6akdBSTNRWFhCUHQ3LUp3Nmg3RjhtMDJpcGFmaTZuVnI2SUdickV2R2Jib1pzcE1YaUlkbXZyNDJaMzZUNkxOcDZSdFE?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-10-20T14:15:37+00:00"
   },
   {
-   "title": "Kurdistan-focused Oil Firms Gulf Keystone, ShaMaran Agree $601 Million Merger",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KNEJ0OExrS2JTZFFveVcwWXVyZU9YQXRHbFRPRmdUeldFQmx6bkI3MjFNaTFsMS03YlVteUI0WWUwcEphaDlzSU5lTERsRzZlNzln?oc=5",
-   "source": "\u0634\u0628\u0643\u0629 \u062a\u0648\u0627\u0635\u0644 \u0627\u0644\u0625\u062e\u0628\u0627\u0631\u064a\u0629",
-   "date": "2026-10-20T10:29:36+00:00"
+   "title": "RBA's extreme interest rates push economy towards potential recession",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNmtRbzY0UnU5MGprX3lQcUtId0Jsd09GeVpWR0FpbWdpeG1kdUlSRUw0TVdCV29yT2dRUUplSmotZzB1QzFfbkRaUkg2cnVOQVp6QmVTbW5tT2c0Zm10d1FzMTVJbkpxdl93SUdodGtzdXFBMjB6MUdJdTV6elI5MWtIZ1Vpa2JWSUVwbURnUlprb0haNWVyVU5tbk9nQkNUNGtkSVJDVXdIRUJqWGFHemVGQ1ZCNHhLc05VYlVwVk9ma29DZkpKUzdLc3dtZw?oc=5",
+   "source": "Independent Australia",
+   "date": "2026-10-20T06:12:17+00:00"
   }
  ]
 }
