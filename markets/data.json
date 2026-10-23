@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-23T22:26:34.484587+00:00",
+ "updated": "2026-10-23T23:06:36.171064+00:00",
  "usdnok": 9.316200256347656,
  "btc": {
-  "price": 81230.1015625,
+  "price": 80727.5234375,
   "prev": 81311.890625,
-  "chg": -0.10058684144634844,
+  "chg": -0.7186737179621483,
   "currency": "USD",
   "asof": "2026-10-23T00:00:00+00:00"
  },
@@ -112,6 +112,12 @@
      },
      "news": [
       {
+       "title": "Price performance",
+       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lZ2Q1OWk4Vl9UcmlWTDBsVzZIWkdZdi1idVpwN2NiZWRoZVNlN3JvdlJ0ZlJyMG5BS2tqX0FVQ3Z3dWFFYzBXQ29PZlgwNWNqVG5ENk9BcHA?oc=5",
+       "source": "Yahoo Finance Australia",
+       "date": "2026-10-20T18:13:59+00:00"
+      },
+      {
        "title": "Form 4 VanEck Gold Miners ETF For: 18 October",
        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc2xwV2VMMWN1RmM2TmhRNFpwajhQaTlZTHg3UkxxWDJWU0V6cjJ0MjQzaWlFcC0ySmtkUm9xck9RcURXVURhM0FCZGdSWmlVbDl5T3BlUDVzRE83R1ZHMWlUQ1ZYNktCSmFfdEVSNjFvdDhieWY0WXBmbnllWkpiNGlyeXVVYzRZUXM1SUI4RnRDUHllX3RENmdYV3J4NWltQzlqOE5ZZFE?oc=5",
        "source": "Investing.com India",
@@ -127,12 +133,6 @@
        "title": "GDX Vs. SGDM Is A Draw, Gold Miners Are A Buy (NYSEARCA:GDX)",
        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd0pJYktfcjZ0Z3gwNjBJeV9aTE5ESjczNXU5S1Ftanltdm9RY2dVbkdHbEtvSWpEdEVNWXFtaXlaU0V4UVNneEt4UGYxYmQxa1IxMmwxcndGM19zOXh6NTFqQ1ZoTzdEMHBUOS1FTUJCMmdUQ1ZYQlJwTlRkWGJtN3VBN0xtc2ZTZjJZVw?oc=5",
        "source": "Seeking Alpha",
-       "date": "2026-10-11T07:00:00+00:00"
-      },
-      {
-       "title": "Which Precious Metals ETF Is the Better Buy: abrdn\u2019s Silver SIVR or VanEck\u2019s Gold Miners GDX?",
-       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNEFjU3hkT3hGM2hNcWtZaXNhV3g4N3B3QzY4WjVuMHVnckZGcHZqa0h1dzJjbVpta1AzWGp0Mmdva2ozWTdjV2xjX0w3X0pGd3FNajhiMklyUWEwbXl4cHAtUDBaNUlncFVvaElrN21QS0ZhMDF4d2VWek1LVGFFRWFBQ1h5MVE1SlUxV3ZlVlY0bWc1ck1DaTYtTlBlbHpEb09hcm5oa3ZMYm12Q1dsem4tV1RzTjFwX2xEdU5mYUxDNGFfS0dQWWNGNUNVN3hSSERUSw?oc=5",
-       "source": "The Motley Fool",
        "date": "2026-10-11T07:00:00+00:00"
       }
      ]
@@ -236,16 +236,16 @@
      },
      "news": [
       {
-       "title": "Hycroft Mining Holding (HYMC) Hits Record Drill Results On Questions Over Whether Value Is Already Priced In",
-       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRm8xbUV6TGk2eW1CU2J5VnlkTmxicFUzeHk5eU81eUlrN21ROUhVOVVOcUplM1pMdUdBazBiSDF4R1JMeTNBRnBtQ3laM1R1cWNwRHlQU0NWZjEtN2l6X2xvTGdXcmhYajFXbXBjWkZSdnRSWXp6LTB5TFVPT3BPVlc1OHlKR08zUDhBUDlMamNncE9UdXNDZGRjSGxRUQ?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-14T07:00:00+00:00"
+       "title": "How InvestingPro spotted Hycroft Mining\u2019s 48% decline in advance By Investing.com",
+       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOM3g3Z09MR1dCUTZES3gyX0ZmYlZHYnFNMllWSVY0WDJPZEY1LXhwb20zWDBYUW10WndRbWJ5VnFZM3o1NnRfUFgzOVkwUlNEZDYzMG9lQ3UzaUNidWFEcTdOTGN0YV9lc2dGWC1PQmtCTVZMQ2ROU0NxMllYc2FERWo2RXl4cDlRR1VwR1R1NGRXRTI3S3dTaEhfUUVnbXI0c2hDWDlYNWdreWVfVUVJNm9HQWpmT2ZIdU1nY3JnUmo?oc=5",
+       "source": "Investing.com",
+       "date": "2026-10-16T11:17:35+00:00"
       },
       {
-       "title": "Hycroft Mining (HYMC) Stock Looks Above Fair Value On Its 494% Run",
-       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUEFMNnBSaV9FNkFEcld0ZmVKMzAyTlFhMEhYTEpBdUVZVkhQaElJdEpEaXB2YkxtTWVOSWJQQmxRZ3dSQmtLdTVsMGZCZkpENVc4Q3pyaHJMXzlNcVFoTjVLUTFhZTAtQndtSUpJLUg2MEFRTEsxYjNLdTZheHNkeHl5WjNYeDJXODZDRWdsVF85YjdILW8xRVJTUXU?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-14T07:00:00+00:00"
+       "title": "Hycroft bonanza grades at Vortex: underground start-up lens for mine planners",
+       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNTFrOElxaFViZUJYNk5PaHZ5Q2dGVGZzeGN2RTJwV0daaDlqNlRXYVNIN0t1bTktYmR0Q0lvYndtQ1BweWNGOVpUeGZBUVNVYTkxR0JqNldqMXFuZXdyWGNLR3dYdUJMWWJjZjNCYmZNUnctSVBQRkxqWXViSTNRTi04bUZVeUY2aDBfakFhLUFfNjQ3X0pfNWliX0FWekFtNXJQZGlONGJiVzh6dnZTd1V4NF9wd0hm?oc=5",
+       "source": "Geomechanics.io",
+       "date": "2026-10-15T07:00:00+00:00"
       }
      ]
     },
@@ -261,10 +261,10 @@
      },
      "news": [
       {
-       "title": "Price performance",
-       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5lX0JxWW9TdEptRUhxZ2hnWW1Kc1NDdG55VlJ6MlM4SUFPSUI4cHZlVVo3ckE4WmMwYU5PWFV6czczRU1xZ25sTDBKMGFLMFFmVjFISE5WYw?oc=5",
-       "source": "Yahoo Finance Australia",
-       "date": "2026-10-17T16:03:13+00:00"
+       "title": "Weekly Video (10/18/2026) (Aris Mining, Avino Silver) (NYSE:ARIS)",
+       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOG9OcDFXUmxUanJJZUFpUTFVaGdlclQyT1NBYjRheFFyaHUtZmRTMFRqaVNXSlFMdFd4SjZVTlNEWS1LR3dqYzlhZE83T05FQ3pYdjBNWnVmTE9Xc2FEYU1rdFRXRmZYNkh4aVZKTlhaLTVsaWJGR3ZHMWd4ejBhbXZCcnU1S2hwb0o4bVdzWmhRbmMxY0IzZEUtd0RNeFF3Z3hFUUJOVXVaMHVpbjhMTkw0YjQ5ZHNuQ1JVNXNfZGY?oc=5",
+       "source": "Seeking Alpha",
+       "date": "2026-10-19T00:06:32+00:00"
       },
       {
        "title": "Avino Silver (ASM) Rises As Market Takes a Dip: Key Facts",
@@ -286,16 +286,16 @@
      },
      "news": [
       {
+       "title": "Coeur Mining, Inc. (CDE) Stock Forecasts",
+       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcjlHRE5Xbmo1Qy1HSU1PUHFHQ1M4aWpLM25WeFNrWFV0dGZ5UTQ3T3V1anBPalNaaVgwTzhqelZpc0lWbjVoZEtQZDd1c1ZMd3NNYzVibEdlU19CaUFRaHN4SEJZWWdGV2VkUjlWZndjWjB4RkhyV1dlanpHZGJ0WHhZNFBqYzBPSTVRZ3M3NA?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-21T21:44:26+00:00"
+      },
+      {
        "title": "Coeur Mining, Inc. (CDE) latest stock news and headlines",
        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE03RlVCaGVkUW8tSTlEMm4wc1YxM1pNd2pxMENSSFNlZkZzWmw1X2VTT2tqWVdnWkUySmJRMWZlWWMwemV4b2FSZ3ZadHZKZzJCd0R4M2hDVQ?oc=5",
        "source": "Yahoo Finance Australia",
        "date": "2026-10-20T07:47:07+00:00"
-      },
-      {
-       "title": "Coeur Mining (CDE) Stock Looks Undervalued Despite Recent Market Pressure",
-       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMk9lTGVNRzROWUY4UDNfNVhkbDg3SVFZM2VuVXY3dEZlUUEzQnFCamdlTVo2UEpwY3dpd2RCM0VldTQ4RXg0dlR5a0RPQXdwZnlKbW5VdzByYmJsYnVIa2N2NEgtRHdnbl9BVjhOMHlMNnhCY1N0RXgyUFlnOGQ5VDR5UVV5OHU3R2hsZjNwSUxIVldjUjZ2Rg?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-19T22:19:48+00:00"
       }
      ]
     },
@@ -311,16 +311,16 @@
      },
      "news": [
       {
+       "title": "First Majestic Silver Hits Pause on NAFTA Fight as Mexico Tax Deal Takes Shape",
+       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYkdWMWdqNGhTcHQ1dFVvWHRGNlNoZWVfcGRTbG55TjBZUzRGT2thNmo3RDVHYmxqNFNmSEhDM0t1TExkYnhuaDRYbmFwNXppR0dZaC05UWZwN0RVWVFYaTJhRHNjS05qMW1iN3d5UEF1bERyeWVJbXFsd29ERU1uQzhKRlhnRVRsRXcwRG1qaFhHM0RUbEw3LW5qek11cGlQa0preWdvUUtzMzJYYVJEang1aHlBSmYydmNZQ1M5dlppcGlqOHVTVTdacFo0YjJ4eFE?oc=5",
+       "source": "Streetwise Reports",
+       "date": "2026-10-17T08:08:18+00:00"
+      },
+      {
        "title": "First Majestic Silver Corp. (TSX:AG): S&P/TSX Silver Watch Turns to Production and Mexico Settlement",
        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMXAzX3hlREVqVWpwVGVCT0FHZncwaHhVTmdHN2lKLWJHLXdlUUtSeklwenBNVm9nbENVQnZfMWVfdTBmUHNnUGFTVmw4clo1cTJtMnZHcFdhWHRuUkk4eUVKTno2Q2lhWk5xT0NYSXc3UUZpZVVOcFdPTVNpX0pWOWJJN2dpNzVyTzBLUzI1Zm5MZG5FMUl3YnhfcUxjZFB0Rk9pRUQzN2ktSE5JWVB4TzBpNktCSjNNdU03UDFCX0pVdw?oc=5",
        "source": "kalkine.ca",
        "date": "2026-10-16T18:52:00+00:00"
-      },
-      {
-       "title": "A Tax Dispute Pauses in Mexico: What First Majestic Revealed",
-       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTGhyX0dMTWVUWUVjblIyM2doa1ByYmNlZ2tHcmNObEVQV1JDanM5aGpIU1ZOa1lCSGxVMXluWUxzRWdBSmdDY0RKWC1vUjhwRktMYmp3b2tNbWxaNU5jeGtod21CQjV1ZHAyQU9CcXktTHl2SFJKWWllOUVzVmZyUC1mdXBBUjY1QXozQzB2Y09VTDFJT1Q4ci1lY0EyWE8yS1AzdlVQQ3NTeU9qVVUwbw?oc=5",
-       "source": "Kalkine Media",
-       "date": "2026-10-16T16:58:00+00:00"
       }
      ]
     },
@@ -336,9 +336,9 @@
      },
      "news": [
       {
-       "title": "Defiance Silver reports strong silver and gold assay results from Zacatecas drilling program.",
-       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQalExcFZXR0hjXzJnbDY1YmFJRkRRNGdlX1pJTnByb0UyU0pxRUU5eFhiVm5ianVvSVgwV1lud093Y3JmZVN2SmFfaTJMQ21aOURWXzdlMkxUQjNSLUs5dUIyZDBkR0RnSHc1U3N2SkZHZ0liQUl1YjZacGx3ZDNpZjh0eWpGQUJBTnhMd25SUjZrRkp5aHFvcjEwWlVjelE?oc=5",
-       "source": "Pluang",
+       "title": "Defiance Silver Corp.: Defiance Silver San Acacio Drilling Returns High Grade Silver; Additional Holes Pending from Lucita Drilling",
+       "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPelpFQ3ZQTkVBaWdVc0UyZ3g3MGNkUWRPVDM3ekV0VUh6TjdmZV9IODRvdkhORENZSFhGUzM2ZWpQa0szLXBfSEt5UUc4TnRGcUFYekZQOTI3V3JDUlBscXVQd1BPRkNzdk1nZU5tQTZTaDFmNUJXSDUwN2dfVFdmM2dLaWwzaGctTzRNNEFPbEx6cFJ1SmQ4UFZibkQ1UWdjRm9CdWNxSl91WUViNEwzTV95cEtMS0hQbHNnRTg4ZWVCU0NCZTFNUFBIODc0VkxIZWVVd2s3UDE1bEt3QlYtUVZVb2RjLUpaNjN0VjlQaVljUkFCQlQxaUFXRHAtTkFjYTBmV0Q3Z1d1bjF4cXM4Sm9PSXJkZk5PTjJmZDVKNlFocFlQ?oc=5",
+       "source": "FinanzNachrichten.de",
        "date": "2026-09-09T07:00:00+00:00"
       },
       {
@@ -656,16 +656,16 @@
      },
      "news": [
       {
+       "title": "Amazon\u2019s Bee AI Wearables Could Be a New Growth Driver for AMZN Stock",
+       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNEFZWklmV1BYT19HSERSSDZSTXF2ZXlrS0VHMU4ta3ZmdzdJZDBvNVBDb3o5Yk5mMGlmQk53SXBqR1d2YTFheHVVUHVJdUNLazd5Q19RZl9pQWhMTlRialo4MG9fNEhIS2wtdmY5WEgtbnYwZGk2RERsZ1VNYThiMHlyaXBGR0trekhMWDJPWnotMFMzNXJZYw?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-22T10:51:33+00:00"
+      },
+      {
        "title": "1 Analyst Says Amazon Stock Has 30% Upside. What's the Bull Case for Buying Amazon Right Now?",
        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOU0czVk1IZjJ6VUkyT3d3Y1cxSlhGVXVHSHl4Wi1UMWtuYW85ZnZEeVJVc280Nmc0SVFBaG85Z28yRVhWWjhGUFhycFVNN2VWaG90RXB5dkwxdFhfU3JOZVI5akVEdmtQTXZ4MlNJX0NONXhXMVFYM2g3SkV3YzA4N00yaUg5bVFGOXoyYXBQblFFUUhoREU0?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-10-22T08:47:00+00:00"
-      },
-      {
-       "title": "Wall Street Firm Names Amazon Its Top Pick With More Than 30% Upside. Is the Stock a Buy?",
-       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMkFKQVp0eHF3SEgzazdtTEI0bVEzYllCem5NcnhQUm5DR195QUc1X3BuUmxLNlRDdEkycU5rYVk0Z0trOVNyVGlEVXRwSHZwLXZoWEtHZWtLeER6U2VyaTR5OURiNktWRHhaRGFQcUNjVGNtRmQ2RW9NX1NMd0hzLUZackM2N0lCbnFRQldDck1QWDltV3FNUm5R?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-22T07:25:00+00:00"
       }
      ]
     },
@@ -737,6 +737,12 @@
    "date": "2026-10-23T18:43:00+00:00"
   },
   {
+   "title": "The Cracks Are Spreading: The Recession Trade Is On (NASDAQ:TLT)",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdUVteUtobGEzcUY1dDdia3BXazJoYjV5clBvWHdTT2lqV1BLY0U5Qkp1bE0yYnhTRVhvVVRWd0tOYVpsTVBVeHBHeGFPMEQtV2JLZzF0cFg1VXBQV204TUVGV3RTSzFHWWVBS2FYM1ZNTk5UbXRZdVRMMGVnWTd1akpIMnlPcmVRd184V0cxbGFKRFlzRWc?oc=5",
+   "source": "Seeking Alpha",
+   "date": "2026-10-23T17:25:23+00:00"
+  },
+  {
    "title": "The IMF Just Raised Its Economic Growth Forecast. Buried in the Report Is a Warning for Stock Investors.",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYmJyX2tYZ3VPOV9qWlU2NFlOZFZqZTZWRVBpNlNrZUxEd1pvUk9sM0k5cEI0cENES2xsR2QzNks2Nk1xZVEwSFhVREtmMlJwVXJYcE54dHd4TENHcklWdVdoSGxhZFFvbkE1WlB0OGVyWUZ5UXlZUnVnZlpUanhGM0MySEhuS0I5TjFpODQ4RjJuczFtTkhJ?oc=5",
    "source": "The Motley Fool",
@@ -773,28 +779,22 @@
    "date": "2026-10-22T16:00:00+00:00"
   },
   {
-   "title": "BlackRock CEO Larry Fink Thinks This Midterm Election Issue Could Lead to a Recession",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPd3FKT3U1UVVQOC1xMmFhX0dlMWUzckNpdFZfOEFvVWVVeng3LUZmVTV6em5JM3pRelc0eGRmYVMyc3lGMFJtRUk2eEI0Z0I3Z2F6UmE5ekktVjRPV3JESDlycXFvTll2VFVFa1ZMWVkxbTFHOFJfVVRtN2hrRUloOA?oc=5",
-   "source": "AOL.com",
-   "date": "2026-10-21T09:20:02+00:00"
+   "title": "Gold and silver are not the best inflation hedges; investors should diversify into the commodity supercycle \u2013 Auspice Capital",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbW8xSTBQZHZKLUxPa2JDcG5oVkw2c3lUa0RiLXJXemhqdHZIRXYtLWFWQVVsUjRmTkFucl9DbS14T1F5dnk3VFZPcFdjZk54UGhkVi14dTRhUkFtYkUzUkpubzQ4VjlEVGlzNnJBcENDeVBDWklXWVFnZHBpTUZZeXJqaUFBQThiR2I5QXJyZ1RqOFZTMDZiRTJfQXVSV0N3dGZTeFRybVFHS1hPMGsySFY0NGRKc1JJeUE?oc=5",
+   "source": "Kitco",
+   "date": "2026-10-22T15:30:31+00:00"
   },
   {
-   "title": "Property giant\u2019s grim recession warning as Aus economy faces \u2018hard landing\u2019",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSzR3WlNqc2RzYmtuelR4M2s5dXFDTUcweFBGM1Z1YzdTUS1YZzdWNkxQU0lCODljbEFDNHBBSlprNVBMcVBYYWF3NUx3clpYRy1oaGVyU3dIR1NyUmhTQThKaFExdGtzUlY1eXUxUXUxRVhFLVpZWmU2cEdsUWxJY2NuQmY2OXVoZXdYUlVOSzRxeDVNaklocTZXdkxqTUJoMHYtenVBdWxyQTJn?oc=5",
-   "source": "Real Estate",
-   "date": "2026-10-21T02:39:22+00:00"
+   "title": "Andfjord: expands nanobubble oxygenation to two more production pools",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOS0JUOEx0b2UtcGFzTkdqX3ZlaTR1bml1dXU4eFdsS3EwdHVWQnltMnBaSFBEcVVQTWx5OG11SGItZ0I5V3ctc0g4Vk13WXZFQ0JjNllRaFFRcENQdHVWRVhNQmRCT3Jla0RLM3UtOHUwdl9CM2R3blhOSVBndFd1RWQ2eFAyaUdSOFBIWHozbTlONjYzVk1UYXBfTFFZVERxN0E?oc=5",
+   "source": "Salmon Business",
+   "date": "2026-10-22T09:18:50+00:00"
   },
   {
-   "title": "Rate rise bets jump after RBA warns of \u2018materially worse\u2019 inflation",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdXNNRmxDbWVKX0tGT2RDYll1OEpfckRlSTBPRFdkTHo0eGhzOS04a0hJSTh5R1B4M2VLZTY0VGpzbUR1MVhPcDc3R2h3UW01WXMxSzVkdm1VaFBXQ0xjZm5wQ3JhLWV6eFZvTFI2N1c2Sm5OLWh0bnpzMU5tRlF6TFZ5cU81TTRiU1lFSkhNX1hrWHc2RW5sb3U3M3ozcjF4WHlEcUptZ3F3QUVr?oc=5",
-   "source": "AFR",
-   "date": "2026-10-21T00:31:00+00:00"
-  },
-  {
-   "title": "Big Australian companies accelerate job cuts as recession risk rises",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNEpickt2ODl1ZkNQNzN1bFJaakVZU01VZnBNN0FzUC1VUHBoaDNBTmd5UWlTRDF4ZVRmQ29jdWhvU3JFdzJwT1M0VWhOVG1KTGNtbGdYbzNrUEpndnJXNjJnRmZpYU1xRnpnU2RmZ1FIOXhfU0ltNS1ESEdBdEVQM2c3enM5YXlQajM2ZTRwUXoyel9KLUhwNFZaMEk5V2M2MnNCT3FzV04tTkNMQjd2Q29Za19GcjZO?oc=5",
-   "source": "Proactive Investors Australia",
-   "date": "2026-10-20T23:43:30+00:00"
+   "title": "Elopak ASA (0AB3) Declares NOK 0.6884 Dividend Per Share for H1 2026 Using Norges Bank Exchange Rate",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNFdDenVWM1NjQnRObmNZVGpjSWxtTDJNUmtwcVUyb0d3cF93SGxKVnVhSDdJZXJLT0FTSlZiNThOUnVZMXNGZWhrMXg3Y3cwMzRnM0RhX3hlT21vbUstNHJ0VnNnc05kNjh4VFdnckdvaG5veG1ZQ1dwUnM0a2hlUl81NHZVbmo4cFpJMGZ0OFkxRlBSdjRNMFV4OE90M3IydzV5ajJ1WE4wQmV5Wmd5MXlxeG1HTnBJa05ZUXdkRzhPeVBFQzJLd0ZxSkJRWWk3TVZndUJyY01mdW51?oc=5",
+   "source": "Kalkine Media",
+   "date": "2026-10-22T09:12:59+00:00"
   }
  ]
 }
