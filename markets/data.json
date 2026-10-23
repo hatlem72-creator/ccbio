@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-23T09:15:16.272284+00:00",
- "usdnok": 9.361729621887207,
+ "updated": "2026-10-23T09:55:21.447594+00:00",
+ "usdnok": 9.337690353393555,
  "btc": {
-  "price": 81669.5,
+  "price": 81539.7890625,
   "prev": 81311.890625,
-  "chg": 0.43979960649205285,
+  "chg": 0.28027688908507375,
   "currency": "USD",
   "asof": "2026-10-23T00:00:00+00:00"
  },
  "silver": {
-  "price": 53.994998931884766,
+  "price": 53.84000015258789,
   "prev": 54.763999938964844,
-  "chg": -1.4042089838893101,
+  "chg": -1.6872394043655703,
   "currency": "USD",
   "asof": "2026-10-23T00:00:00-04:00"
  },
@@ -24,9 +24,9 @@
      "symbol": "KOG.OL",
      "name": "Kongsberg Gruppen",
      "quote": {
-      "price": 302.70001220703125,
+      "price": 303.5,
       "prev": 301.5,
-      "chg": 0.3980139990153342,
+      "chg": 0.6633499170812573,
       "currency": "NOK",
       "asof": "2026-10-23T00:00:00+02:00"
      },
@@ -61,9 +61,9 @@
      "symbol": "KMAR.OL",
      "name": "Kongsberg Maritime",
      "quote": {
-      "price": 58.5,
+      "price": 58.540000915527344,
       "prev": 58.5,
-      "chg": 0.0,
+      "chg": 0.06837763338007896,
       "currency": "NOK",
       "asof": "2026-10-23T00:00:00+02:00"
      },
@@ -87,10 +87,10 @@
        "date": "2026-10-09T07:00:00+00:00"
       },
       {
-       "title": "Kongsberg Maritime secures Extended Thruster Coverage agreement",
-       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeWFRczlOdDNxT3JRMUxZSFpvTlJaZlpDa3h2aExmTl9nU3JQc1lTaG5TM0FkNDJVNmMycVIyaEhZNjBmT0twN1U3cnB4NktaOUI4alNrQU1sY1NiV0tPc0Zad3Z2cGdvT0Z4am4zWTlVQkpBUjVfc3FLajRPOV96R0FLQUZ6Nmw0ZWF2MzJnTXRfQQ?oc=5",
-       "source": "Maritimt Magasin",
-       "date": "2026-10-07T07:00:00+00:00"
+       "title": "AYK Energy to supply batteries for four electric Svitzer tugs",
+       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMWRuX0ZlYjRFOGhMaGl4SDZMNFJjUDBMd0N3NmN3Y21kWmZtZURIZm44SS1rWS1CbDJRRGl3N2p6MnptOVJGcWM1b0thUlFUbXgxQmU2TWFzSlRrakpaM2VQdjRmX3VWZFJaNTloTERWekhqMlVMbko5ZUJQSUFmdkIwOFJjeWEzTGkwR3VhbUpCYllXdmswcm8yMzJfWWFfTmt3SWNsbHFJNkdEc2FQbldkX1J3ZnBQRW91cDRn?oc=5",
+       "source": "Maritime Journal",
+       "date": "2026-10-09T07:00:00+00:00"
       }
      ]
     }
@@ -104,9 +104,9 @@
      "symbol": "G2X.DE",
      "name": "VanEck Gold Miners UCITS ETF",
      "quote": {
-      "price": 82.25,
-      "prev": 87.2699966430664,
-      "chg": -5.752259466215126,
+      "price": 82.12999725341797,
+      "prev": 83.06999969482422,
+      "chg": -1.1315787225948615,
       "currency": "EUR",
       "asof": "2026-10-23T00:00:00+02:00"
      },
@@ -118,22 +118,22 @@
        "date": "2026-10-18T07:37:34+00:00"
       },
       {
+       "title": "iShares SLVP vs VanEck GDX: Which Miners ETF Wins",
+       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU2Y2Z1M4c3l5RXc2RTRGMVl1YUtVY0Znb3Y0ZnNkVE5IaVE1LXF3UG01a0pCNjZfRTZwWUZhR0dEWnc3WFFUbWRnY0M3bk9WdlRhMFBFcXBIMVhtZlpvb0U1VGRrMWtaal9jWTVqMXJSdlJQekNPVmZTcTV5RDh3b3hGenZRMUNBY1VLUzJnRUxiS0dSQ2w5cWtlNl92UFBDdjhiSVJ0UXFTSDl0N2VmNlgyZ2Z1dWVyRTlzQmlIWlgtT3FqblE?oc=5",
+       "source": "The Globe and Mail",
+       "date": "2026-10-14T10:21:05+00:00"
+      },
+      {
+       "title": "GDX Vs. SGDM Is A Draw, Gold Miners Are A Buy (NYSEARCA:GDX)",
+       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd0pJYktfcjZ0Z3gwNjBJeV9aTE5ESjczNXU5S1Ftanltdm9RY2dVbkdHbEtvSWpEdEVNWXFtaXlaU0V4UVNneEt4UGYxYmQxa1IxMmwxcndGM19zOXh6NTFqQ1ZoTzdEMHBUOS1FTUJCMmdUQ1ZYQlJwTlRkWGJtN3VBN0xtc2ZTZjJZVw?oc=5",
+       "source": "Seeking Alpha",
+       "date": "2026-10-11T07:00:00+00:00"
+      },
+      {
        "title": "Which Precious Metals ETF Is the Better Buy: abrdn\u2019s Silver SIVR or VanEck\u2019s Gold Miners GDX?",
        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNEFjU3hkT3hGM2hNcWtZaXNhV3g4N3B3QzY4WjVuMHVnckZGcHZqa0h1dzJjbVpta1AzWGp0Mmdva2ozWTdjV2xjX0w3X0pGd3FNajhiMklyUWEwbXl4cHAtUDBaNUlncFVvaElrN21QS0ZhMDF4d2VWek1LVGFFRWFBQ1h5MVE1SlUxV3ZlVlY0bWc1ck1DaTYtTlBlbHpEb09hcm5oa3ZMYm12Q1dsem4tV1RzTjFwX2xEdU5mYUxDNGFfS0dQWWNGNUNVN3hSSERUSw?oc=5",
        "source": "The Motley Fool",
        "date": "2026-10-11T07:00:00+00:00"
-      },
-      {
-       "title": "7 Best Gold ETFs for 2026 and How to Invest",
-       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOTgxMENUUWpxcm9UUmYtSW5HZDVla3NBTU1VZ0Zva3hXcVIzaWhSaE5OaGFITnJhdFIxTUxPWUhwTm9LMjRScFNOSExOTldPRE9tcmthdVhnRmQ5ZXN0OXktNGdNMzAzbkxwa00tOFgxY1U0RDM2UzI1QnRQaUlLd3pYa0stRGxpTW5vSXBNYkhkQ1ludVE?oc=5",
-       "source": "The Motley Fool",
-       "date": "2026-10-02T07:00:00+00:00"
-      },
-      {
-       "title": "Form 4 VanEck Gold Miners ETF For: 28 September By Investing.com",
-       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNakFTN2x5OUQ0ZzdLZFVnQVFtUnpSUlBHenJWNXlFcWxoVHJpakY4eXNNSVpQd0NlcFlQdE9oSVMzckZKMHlmZXBTY2JQVzR6ZWpTMzNibGlaZzBzTHJIRXFia01ZTFJZZjBZV2k2VHU4VlZ1VkQ1TjBZNjhyZlZsUXRfRWkwZFVjSUNLVGJfbGhWb0FlRXZyT0VoNDdxRHczQXJtdW92QTk4VU0?oc=5",
-       "source": "Investing.com India",
-       "date": "2026-09-29T07:00:00+00:00"
       }
      ]
     },
@@ -141,24 +141,24 @@
      "symbol": "2B76.DE",
      "name": "iShares Automation & Robotics UCITS ETF",
      "quote": {
-      "price": 18.881999969482422,
-      "prev": 19.270000457763672,
-      "chg": -2.0134949614125652,
+      "price": 18.799999237060547,
+      "prev": 18.79400062561035,
+      "chg": 0.031917693149496884,
       "currency": "EUR",
       "asof": "2026-10-23T00:00:00+02:00"
      },
      "news": [
       {
-       "title": "ARK Space & Defence Innovation UCITS ETF A USD Acc (ARCX.L) stock price, news, quote and history",
-       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9DUkUwbDZMUHZCMFdXYkczLWwyWGtVOVJzZkxlRGZlRWRDZU9YU0luVkwyaEhub1dBM1pycTk4T2NHank1Q1dUN1dwS0o3VG9DYjFCQw?oc=5",
-       "source": "Yahoo Finance UK",
-       "date": "2026-10-22T07:56:40+00:00"
-      },
-      {
        "title": "Symbol lookup from Yahoo Finance",
        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8tNExNWnBFaTY2TWdwdzc2X29VeW1pUWRfMElkTnJWODNVRUs4SW04YzZidURmOGJDb2FpaWtkTE83R1hZa2VGX3NJVEtiXzRrdHc?oc=5",
        "source": "Yahoo Finance Australia",
        "date": "2026-10-21T14:29:34+00:00"
+      },
+      {
+       "title": "ETFs Investing in Metso Corporation Stocks",
+       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsN0dJX0ZkRS1GRFZtaDhVOW9wbHMyTDF4U0hiVlFtM0d4RGFpbG9XUE1zdE9DdzQ3Y3NTU0RMODVERGg3M2NjRkdMbkVRcmg0T1V3NEFJdE1wX21jdjBR?oc=5",
+       "source": "TradingView",
+       "date": "2026-10-20T14:17:40+00:00"
       },
       {
        "title": "SNOW Stock Price and Chart \u2014 NYSE:SNOW",
@@ -286,10 +286,10 @@
      },
      "news": [
       {
-       "title": "Coeur Mining, Inc. (CDE) latest stock news and headlines",
-       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE03RlVCaGVkUW8tSTlEMm4wc1YxM1pNd2pxMENSSFNlZkZzWmw1X2VTT2tqWVdnWkUySmJRMWZlWWMwemV4b2FSZ3ZadHZKZzJCd0R4M2hDVQ?oc=5",
+       "title": "Coeur Mining, Inc. (CDE) stock price, news, quote and history",
+       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wa3oxQ09fQWxNeWkwUVNiS1JGQWhYeU9EcDdlZ01YZmdIX29nSGtXcGRjaXVENTdoWlFSR1dUWFJxTmw3X0hOY0R4ZHEyZUlaVTYzV3ptYTRHdGRCQmFmbg?oc=5",
        "source": "Yahoo Finance Australia",
-       "date": "2026-10-20T07:47:07+00:00"
+       "date": "2026-10-20T15:34:54+00:00"
       },
       {
        "title": "Coeur Mining (CDE) Stock Looks Undervalued Despite Recent Market Pressure",
@@ -470,9 +470,9 @@
      "symbol": "OSEBX.OL",
      "name": "Oslo B\u00f8rs (OSEBX)",
      "quote": {
-      "price": 2088.93994140625,
+      "price": 2091.3701171875,
       "prev": 2085.659912109375,
-      "chg": 0.15726577846326695,
+      "chg": 0.2737840932249602,
       "currency": "NOK",
       "asof": "2026-10-23T00:00:00+02:00"
      },
@@ -482,9 +482,9 @@
      "symbol": "^GDAXI",
      "name": "DAX",
      "quote": {
-      "price": 25209.109375,
+      "price": 25156.849609375,
       "prev": 25371.75,
-      "chg": -0.6410303782750537,
+      "chg": -0.8470065747337108,
       "currency": "EUR",
       "asof": "2026-10-23T00:00:00+02:00"
      },
@@ -494,9 +494,9 @@
      "symbol": "^VIX",
      "name": "VIX volatility",
      "quote": {
-      "price": 19.139999389648438,
+      "price": 19.579999923706055,
       "prev": 19.030000686645508,
-      "chg": 0.5780278456853694,
+      "chg": 2.890169296980183,
       "currency": "USD",
       "asof": "2026-10-23T00:00:00-05:00"
      },
@@ -506,9 +506,9 @@
      "symbol": "GC=F",
      "name": "Gold (USD/oz)",
      "quote": {
-      "price": 4040.800048828125,
+      "price": 4037.5,
       "prev": 4060.39990234375,
-      "chg": -0.4827074669249143,
+      "chg": -0.5639814524311171,
       "currency": "USD",
       "asof": "2026-10-23T00:00:00-04:00"
      },
@@ -530,9 +530,9 @@
      "symbol": "USDNOK=X",
      "name": "USD/NOK",
      "quote": {
-      "price": 9.350119590759277,
+      "price": 9.337690353393555,
       "prev": 9.361729621887207,
-      "chg": -0.12401587737361774,
+      "chg": -0.25678234113331033,
       "currency": "NOK",
       "asof": "2026-10-23T00:00:00+01:00"
      },
@@ -737,12 +737,6 @@
    "date": "2026-10-23T04:25:21+00:00"
   },
   {
-   "title": "Raymond James cuts Knight Transportation stock price target on truckload market outlook",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaGhtRmtLc2hscy1nSV9udUhwVHg1ZkoxanVBTTJ2MDZIV054a3lpeklkdWZ3Sk5aTXpnTnBqZWgwaUJ3NnB0TkJ6Rld3MzBDT293U1hyUl9zVXo5MkZwX3pEd2NNdDc5NVNya0gtbzJucUpoQS0yUnRTMWFweXI1Q3FDOVVpcTNwRzFXcG50VGl5VEFGcHB4Si0tUEpHQ0N2RjI3Q2F2eTJSckJLRFVsZWs4NkRMRzhUYUR4aTczck9OM2lKOWgza2x1VVFubG5WaFJibGZ0SmVKT0YxQy1pZjJB?oc=5",
-   "source": "Investing.com Nigeria",
-   "date": "2026-10-22T21:34:41+00:00"
-  },
-  {
    "title": "Sharp drops for AI stocks overwhelm markets worldwide as oil prices jump",
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPX3E5RERKVHVqRmI5blM2WWs0aEVGOS12dHBranpVVVdWZUJaTFRYUFNOalJZVGt6a3RFLU9kblZPWWhrQVNYWWp4cjV6MkowWm1nVmpxcW5lUktiNHRTVGlkY0VoREYwOWVUQk1pZjFteFVPRVlrVzRIVlJVVkczVU9QaXAxSVUySWZkSUFBZU44bDRVZXlFazh4QW8zdmZWVTMxc2ZzN0tqYUNZWXNxWWs4ZURWem5qSlRuSlBocDVRV3dVSmN1aXB6aEg?oc=5",
    "source": "BNN Bloomberg",
@@ -791,10 +785,16 @@
    "date": "2026-10-22T09:26:48+00:00"
   },
   {
-   "title": "Gulf Keystone and ShaMaran agree $601M all-share merger in Iraq",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWGoxNkh1cWxpaXZOTkNNTkRoX3ZVRmtzQXZ2Z0lObXphbk9maURocjk1MnJLTjU0Y2VfN0xkVWpuUFpoNU1IUjJ0bkRlZ1FaMlR5M3JoWXQzS2d3X2hrUFJyVUxIVDZNZmJpU3VkRmlUTFQzN3AydnZmRENkNm91dkdOTmJYdTdwaml2TnNPRURSc0dldVZWMHkwS0Y?oc=5",
-   "source": "Dealroom",
-   "date": "2026-10-20T06:45:40+00:00"
+   "title": "PPI Public Property Invest AB: Transactions carried out under the share buy-back program",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQc0FHc0JsUi1LX0JLb1JDSWJXN1paY0Q2bmhmaWp0TVFEZ2ZFRXNBMTJtSHZyQktnd3h3OHlVMjNKZF8wRlJmVVlTYW00UHJCVmdnai0yaGt1Z096bWhkRU1MUmhfdkMxWVRkMTQxRTdkOHltRjF2N2tUNUhrOGo4NG4zNlFNMXFjOHpTX1JIUzZMNFI1U1R1MU1wdVVKSktSeDdDQ1RhYXZvZUgzQVhhN3Q5YV9tUWo1R1EwaThkSXFUcldiVExxYjQ4X1I5YXF4SWgyS2JJYVFSRzVheW9DTy1Pd2xJZ0NT?oc=5",
+   "source": "TradingView",
+   "date": "2026-10-21T05:00:00+00:00"
+  },
+  {
+   "title": "Kurdistan-focused Oil Firms Gulf Keystone, ShaMaran Agree $601 Million Merger",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KNEJ0OExrS2JTZFFveVcwWXVyZU9YQXRHbFRPRmdUeldFQmx6bkI3MjFNaTFsMS03YlVteUI0WWUwcEphaDlzSU5lTERsRzZlNzln?oc=5",
+   "source": "\u0634\u0628\u0643\u0629 \u062a\u0648\u0627\u0635\u0644 \u0627\u0644\u0625\u062e\u0628\u0627\u0631\u064a\u0629",
+   "date": "2026-10-20T10:29:36+00:00"
   }
  ]
 }
