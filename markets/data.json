@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-23T02:55:30.828019+00:00",
- "usdnok": 9.324150085449219,
+ "updated": "2026-10-23T03:30:10.320179+00:00",
+ "usdnok": 9.322649955749512,
  "btc": {
-  "price": 81876.7578125,
+  "price": 81678.78125,
   "prev": 84011.96875,
-  "chg": -2.5415556488789015,
+  "chg": -2.7772084557892263,
   "currency": "USD",
   "asof": "2026-10-23T00:00:00+00:00"
  },
  "silver": {
-  "price": 54.279998779296875,
+  "price": 53.974998474121094,
   "prev": 57.422000885009766,
-  "chg": -5.471773984339023,
+  "chg": -6.002929813942659,
   "currency": "USD",
   "asof": "2026-10-22T00:00:00-04:00"
  },
@@ -242,10 +242,10 @@
        "date": "2026-10-16T11:17:35+00:00"
       },
       {
-       "title": "Hycroft Mining Holding (HYMC) Hits Record Drill Results On Questions Over Whether Value Is Already Priced In",
-       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRm8xbUV6TGk2eW1CU2J5VnlkTmxicFUzeHk5eU81eUlrN21ROUhVOVVOcUplM1pMdUdBazBiSDF4R1JMeTNBRnBtQ3laM1R1cWNwRHlQU0NWZjEtN2l6X2xvTGdXcmhYajFXbXBjWkZSdnRSWXp6LTB5TFVPT3BPVlc1OHlKR08zUDhBUDlMamNncE9UdXNDZGRjSGxRUQ?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-14T11:09:10+00:00"
+       "title": "Hycroft bonanza grades at Vortex: underground start-up lens for mine planners",
+       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNTFrOElxaFViZUJYNk5PaHZ5Q2dGVGZzeGN2RTJwV0daaDlqNlRXYVNIN0t1bTktYmR0Q0lvYndtQ1BweWNGOVpUeGZBUVNVYTkxR0JqNldqMXFuZXdyWGNLR3dYdUJMWWJjZjNCYmZNUnctSVBQRkxqWXViSTNRTi04bUZVeUY2aDBfakFhLUFfNjQ3X0pfNWliX0FWekFtNXJQZGlONGJiVzh6dnZTd1V4NF9wd0hm?oc=5",
+       "source": "Geomechanics.io",
+       "date": "2026-10-15T00:01:56+00:00"
       }
      ]
     },
@@ -311,16 +311,16 @@
      },
      "news": [
       {
-       "title": "First Majestic Silver Corp. (TSX:AG): S&P/TSX Silver Watch Turns to Production and Mexico Settlement",
-       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMXAzX3hlREVqVWpwVGVCT0FHZncwaHhVTmdHN2lKLWJHLXdlUUtSeklwenBNVm9nbENVQnZfMWVfdTBmUHNnUGFTVmw4clo1cTJtMnZHcFdhWHRuUkk4eUVKTno2Q2lhWk5xT0NYSXc3UUZpZVVOcFdPTVNpX0pWOWJJN2dpNzVyTzBLUzI1Zm5MZG5FMUl3YnhfcUxjZFB0Rk9pRUQzN2ktSE5JWVB4TzBpNktCSjNNdU03UDFCX0pVdw?oc=5",
-       "source": "kalkine.ca",
-       "date": "2026-10-16T18:52:00+00:00"
-      },
-      {
        "title": "A Tax Dispute Pauses in Mexico: What First Majestic Revealed",
        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTGhyX0dMTWVUWUVjblIyM2doa1ByYmNlZ2tHcmNObEVQV1JDanM5aGpIU1ZOa1lCSGxVMXluWUxzRWdBSmdDY0RKWC1vUjhwRktMYmp3b2tNbWxaNU5jeGtod21CQjV1ZHAyQU9CcXktTHl2SFJKWWllOUVzVmZyUC1mdXBBUjY1QXozQzB2Y09VTDFJT1Q4ci1lY0EyWE8yS1AzdlVQQ3NTeU9qVVUwbw?oc=5",
        "source": "Kalkine Media",
        "date": "2026-10-16T16:58:00+00:00"
+      },
+      {
+       "title": "First Majestic Silver Corp. (TSX:AG) Climbs 5.02% as Positive Momentum Lifts Investor Interest",
+       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNmNSTThiNC1ydHBoNVd1S2pzaDNFSHF2NWxSY3p5VTRSTmZJUEdJZ2FweGd2M2g2X1lEUzJKcUtGdXdRYjlaRlVfWTNxdWNQY1VyZzV3aTNRdWMzam8zRm04eHRuRENuRlN2eFhzLVhjZ3R1VVFhNURlNVNaUXRfQnVGdEZVQTBQcWJKRjBkbTAxNjY1eUQ3aW55WkNtNUVlWUUyS3draWRpQTZyLS1tOS1GbWpDYlhFSnZr?oc=5",
+       "source": "kalkine.ca",
+       "date": "2026-10-16T14:17:00+00:00"
       }
      ]
     },
@@ -506,9 +506,9 @@
      "symbol": "GC=F",
      "name": "Gold (USD/oz)",
      "quote": {
-      "price": 4032.89990234375,
+      "price": 4028.5,
       "prev": 4150.0,
-      "chg": -2.821689100150604,
+      "chg": -2.927710843373499,
       "currency": "USD",
       "asof": "2026-10-22T00:00:00-04:00"
      },
@@ -530,9 +530,9 @@
      "symbol": "USDNOK=X",
      "name": "USD/NOK",
      "quote": {
-      "price": 9.324250221252441,
+      "price": 9.322649955749512,
       "prev": 9.361729621887207,
-      "chg": -0.40034696737172304,
+      "chg": -0.4174406623144611,
       "currency": "NOK",
       "asof": "2026-10-23T00:00:00+01:00"
      },
@@ -581,16 +581,16 @@
      },
      "news": [
       {
+       "title": "Microsoft Must Say This on Oct. 28 or the Stock Will Go Into Free Fall",
+       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOa3VxRTBKT2lyc3dYSXFhN3dUVnNpd3otam5DTThZYXh3NFFaNEJ2MGJIeHpsNkRUYUM4VUZBNUw2VEt0UjgxdVdSbFR2X08zd01IZERQSmRIYU9DTkwtLVgtUnpUSzlfMTVMYUVHbHhRTzVYaU85YW1IaG5fY09Edmt4N2FnWnF1dVlYeWwtYTRnR1c4TlVZ?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-21T17:17:00+00:00"
+      },
+      {
        "title": "What Will $5,000 Invested in Microsoft Stock Be Worth in 5 Years?",
        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcGlUcUNreWpmMEt2RTJRUDQtenI1dFhLMzNGY01JdVFtaDl2ek9La29wOS0yX2xYdEZoRnRNeEFBYWFrM3FWQUxuMnRwbDh1bzVuN0FUZ3lBbG5SOGs5R1NYbXNVX0I2d1MtNy1Bdk9vemNmY2tReUwyV1dzc0d4b1h4Vm5VUkk1LXZyWm9TQXd3LWdJSG1LakNTOA?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-10-21T15:00:11+00:00"
-      },
-      {
-       "title": "Jim Cramer and Ken Fisher\u2019s AI Pick: Microsoft (MSFT)",
-       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOb1pmemlxTW5xT1NRanZxNjRjNG04bF9iSnEwQzV1enVSSWNoR1ZZQVB4QjA3MWFrSnJXTllUTU5fbmUzUDhHZXdSQ3d6LWo3c0Z2Ukp4UFhHUldSUXVsVjdqcWUxczg3X1dfUVFUU2VHR1ViNzd5dHFFODMycEdtdXBDbTUxUHFMU2FfaTlvaEJuYms?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-21T13:23:54+00:00"
       }
      ]
     },
@@ -612,10 +612,10 @@
        "date": "2026-10-22T09:30:00+00:00"
       },
       {
-       "title": "Does Super Micro's Big Quarter Make Nvidia Stock a Buy?",
-       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ3V6aUZOWGNBZGQwMjhrR3EwQmVJVi13V3dxMXZjYnprNDVPU2RVUXJkaVRjZTlyVUxaQzVOR0ltN1d6WURIYTktMzd5U0Q2Uk5Lb2hBTkxkSm1mV245cU51dVRVVzF3QWlMVDlEUTRkM1hUeDI1TjQxTWNYdlVUMVJDRmY2enBhd2g4Z2JLUXBXQVNnZl9LRGdB?oc=5",
+       "title": "ASML Has Incredible News for Nvidia Stock and Micron Stock Investors",
+       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZTk2bk5OR04zTEswTm94YUMzejFSRmk0aUJhRHdITjJGcWVMVm5LR0RtZ2F0aHEzdUR6N0t6TVFxOFBtNTZPUHY0Q0VOWC1PMmNmRk5BcjhDUUZOUFEzdUhzbS01VDFFQ3VYQUhBZG9xS0xxcVNMeDJPbmNVUFhYR0pCQVB0dG1GeEtmN0owWmM4YjI3OHFLTm5R?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-10-22T07:32:01+00:00"
+       "date": "2026-10-21T18:52:02+00:00"
       }
      ]
     },
@@ -687,10 +687,10 @@
        "date": "2026-10-22T21:00:00+00:00"
       },
       {
-       "title": "Meta's new nonvoting shares create an overhang \u2014 and Wall Street wants it gone",
-       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZVNpWjBTNHNYeEllV1pjUDVEV0otck9RUUxSWjJrUHBhTXJCR3pCa21PY1ZxdmtUSTlaejJ6YVVmWnhIZkZyQlJrZ2tOTFpfalRQQ2pDYVI2QldWMm9wVUxMS250M08xZHprS0twNDQtS2lTWGhQRG5RX3RUUEs4N1RHdlJmRTJjUUFHa1pqRlRFVVNNSjcxSng5NklSeTNFdXhoc20ycjltYmdfcXZPUGpBVzFoNWE5eGsyOUJNTVI1dEZCSmNEZlNVUXBzeF9pZmNKdHBEVQ?oc=5",
+       "title": "META Stock Alert: What to Know as Meta Platforms Announces Stock Split",
+       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONWFuVTIxNVBnUUVjNTUxT2N4Ri1GNXMtYlpxX2NOZThVSEktWVk0N0NYcW0tLVpUTEFaeDVZNlR3aVpuTS1oRWxRd281MmxIYXRnelVaVmR2X1lnVC1SMDBDd1B6aGphZVRzd1JncTAzYnBnOUlLSEFNUUVaM25uUU9XYUlRbG9KNElXSmhVemlwUkc0c0E?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-10-22T18:59:41+00:00"
+       "date": "2026-10-22T18:51:54+00:00"
       }
      ]
     },
@@ -731,12 +731,6 @@
    "date": "2026-10-22T20:33:35+00:00"
   },
   {
-   "title": "Nasdaq Leads the Selloff: Critical Stock Market Levels to Watch",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOemFtQ2lUNTc5VDVjeXFLMFRXR0RmMEVUSUZSZWVLcEwxcElabFBXMGdGRXhGZU9ZaHo3Z3dJWU9xTFNtY212Q3lYNDZLM3BnbzBQMmlSSkw1N2FJYlFrZVlyMXBrZlVSelhDMnpzSDJiN1ZRTm9uLXlmUFgzYVFHVWFlZWkzQUhRS0FHeTBXVkFsb2xkZTBQdDVGdHJndGlhYS1QZTZ3VXBGRUU?oc=5",
-   "source": "Investing.com",
-   "date": "2026-10-22T20:19:06+00:00"
-  },
-  {
    "title": "The Stock Market Sounds an Alarm for the First Time in Nearly 27 Years. Here Is What History Says the S&P 500 Will Do Next.",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMkUyMVRhLXlTVkVnYi0xRC04MHRhWG9qa1Y1MHppMHZGZ081bzJkNjdBUWUxUDlMblB1UTNrdTl0LVRhdjIxQ2NVTWJ3TDU0a3V6U1U2V3NSYXdCWlppMlYtellKaDhTbW1qYzM4Y1NSanhiNzVwMWhkS1V6d21nalppaFdqRExrS1dmb2NGVURGelo2RjJiaXB2dGo?oc=5",
    "source": "Yahoo Finance",
@@ -767,10 +761,10 @@
    "date": "2026-10-22T15:30:31+00:00"
   },
   {
-   "title": "A $2 Trillion Deficit, Soaring Debt, and an AI Bubble: Is a Market Crash Coming?",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNU2k2QzRraUVCZTNhMWhDNHZ1cjc1R0JUVTBOaGJzTUFOWGV5UlcwVjdsb2JZSTFRMGZsN2YtZ1VNWmROUmpyT1ZsRnU1X0RkN0hRX3JqNDZ2N284WXBPdFpIYXMtaW9xc0hqUDl0eExCV19uX2FkUmdZVDV6SE1HdmlIZks0X1hRUXlvYk83eWVvOXJTalBXNjBFYzNVdHQxSkJveFNXX1VMcnFwWWFKQlhSTktYeEstLTZFVg?oc=5",
-   "source": "Investing.com",
-   "date": "2026-10-22T14:50:08+00:00"
+   "title": "Raymond James cuts Knight Transportation stock price target on truckload market outlook",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNeW1HZm55NmhZaHhfSmRVTGFfUGViNkc1NjFsZExmVzlnNUdtWnNwekZldnFQYy0zTTJ4M0JZTDZZSU1lNFltcnMtTmlQanh1VXVjMFlNVFRYRDljd3B1M0RFRDhwSjA4N290ZXRvWFJSMFFqekl2QU54WG00WWczZ3ZYRmhqR1B6MEFkUnpwWGQ5cHh2R01vMHBZMTQ5RDNqZENRdExjak10UlF3THMwbWoyMXBSOFB0dGNVaG1DSmx1LUMtNXdGQWdtdzA5d21xS3VTVWFNZXI0MTMtWFFNMV9B?oc=5",
+   "source": "Investing.com India",
+   "date": "2026-10-22T12:54:41+00:00"
   },
   {
    "title": "Nebius Stock Alert: I\u2019m Watching This 43% Crash as AI Bubble Fears Return",
@@ -791,10 +785,16 @@
    "date": "2026-10-22T09:26:48+00:00"
   },
   {
-   "title": "Billionaire Warren Buffett\u2019s Warning Before the Dot-Com Crash Offers a Lesson for Today\u2019s Investors",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNGtaUlJHWl9xV2lLVDdxUVpmODZLMk9yQWY4OFk0T0tFeS0xNDZSTDR0NG1lS01uRGQxblZ4UzRrdmJsb3pXcFZNYUl4MWlZaktHaDRka1pGenRta1FDVlRYNTI2T3NtRDlYX041Q1VYNVVlc1BxVGxRQ3gwLTg5b3ZSQlNtU2c0Wm5VWGt5QUM?oc=5",
-   "source": "Yahoo Finance Singapore",
-   "date": "2026-10-21T17:35:04+00:00"
+   "title": "Gulf Keystone and ShaMaran agree to $601m all-share merger",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYjlUWU5FNjgxMTVfVFZJaWpYeHRZODBnMEpDX0IyUVpUZHQyV0IzbEYwc09Wd2tCMlNKNmp2SzRKbVd1S1l2T3dGbFRpQlRjRTJYSERoc0d3VTl5UUZrWktBNW9RRXdQUEJ5S3ZHLURKR0dwSXZiNUo2c2dhczBpTU9hWDFUUQ?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-10-21T09:13:30+00:00"
+  },
+  {
+   "title": "Gulf Keystone Announces $601 Million All-Share Merger With ShaMaran Petroleum",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMF9VMXA1akJZNkNzRG52Q1ZJT0t5RHQ3eGZHZUg1R3VmczhlNTl2UVJ3b1VkcmhWTXlJMWR2UmQ1MXIwVzlSYXNfV1hPS1Axd25QLXJMTnlReHdSMVBGQnRkR1V2R1p2Tm5peW03ZG1ldHlWSVpvc3VIaWE3aHM1eDh3eWZLZUY0MThZWQ?oc=5",
+   "source": "Yahoo Finance UK",
+   "date": "2026-10-20T09:11:08+00:00"
   }
  ]
 }
