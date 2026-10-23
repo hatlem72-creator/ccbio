@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-23T23:06:36.171064+00:00",
+ "updated": "2026-10-23T23:47:09.039211+00:00",
  "usdnok": 9.316200256347656,
  "btc": {
-  "price": 80727.5234375,
+  "price": 80932.078125,
   "prev": 81311.890625,
-  "chg": -0.7186737179621483,
+  "chg": -0.46710572965477093,
   "currency": "USD",
   "asof": "2026-10-23T00:00:00+00:00"
  },
@@ -112,12 +112,6 @@
      },
      "news": [
       {
-       "title": "Price performance",
-       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lZ2Q1OWk4Vl9UcmlWTDBsVzZIWkdZdi1idVpwN2NiZWRoZVNlN3JvdlJ0ZlJyMG5BS2tqX0FVQ3Z3dWFFYzBXQ29PZlgwNWNqVG5ENk9BcHA?oc=5",
-       "source": "Yahoo Finance Australia",
-       "date": "2026-10-20T18:13:59+00:00"
-      },
-      {
        "title": "Form 4 VanEck Gold Miners ETF For: 18 October",
        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc2xwV2VMMWN1RmM2TmhRNFpwajhQaTlZTHg3UkxxWDJWU0V6cjJ0MjQzaWlFcC0ySmtkUm9xck9RcURXVURhM0FCZGdSWmlVbDl5T3BlUDVzRE83R1ZHMWlUQ1ZYNktCSmFfdEVSNjFvdDhieWY0WXBmbnllWkpiNGlyeXVVYzRZUXM1SUI4RnRDUHllX3RENmdYV3J4NWltQzlqOE5ZZFE?oc=5",
        "source": "Investing.com India",
@@ -125,14 +119,20 @@
       },
       {
        "title": "iShares SLVP vs VanEck GDX: Which Miners ETF Wins",
-       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU2Y2Z1M4c3l5RXc2RTRGMVl1YUtVY0Znb3Y0ZnNkVE5IaVE1LXF3UG01a0pCNjZfRTZwWUZhR0dEWnc3WFFUbWRnY0M3bk9WdlRhMFBFcXBIMVhtZlpvb0U1VGRrMWtaal9jWTVqMXJSdlJQekNPVmZTcTV5RDh3b3hGenZRMUNBY1VLUzJnRUxiS0dSQ2w5cWtlNl92UFBDdjhiSVJ0UXFTSDl0N2VmNlgyZ2Z1dWVyRTlzQmlIWlgtT3FqblE?oc=5",
-       "source": "The Globe and Mail",
-       "date": "2026-10-14T10:21:05+00:00"
+       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVC1nWXNrZXc5N2xqdnZ5MzdueXd4T3h5OUVKcXE3Zl9vaU52clZabGloNjc5cF94eUJ3TGhzMER5WEJ6THllQm1wTnVpbzhLOExieDg4Q2Qyb0RYcTR4dFJfMU5VRmZMd1NoWFZuUjBiTU4zc1l3RU5WaVJQZmF4bmttOXlmWWRjVjBxcXNtUjVUQWZKODVuc29oaw?oc=5",
+       "source": "The Motley Fool",
+       "date": "2026-10-14T07:00:00+00:00"
       },
       {
        "title": "GDX Vs. SGDM Is A Draw, Gold Miners Are A Buy (NYSEARCA:GDX)",
        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd0pJYktfcjZ0Z3gwNjBJeV9aTE5ESjczNXU5S1Ftanltdm9RY2dVbkdHbEtvSWpEdEVNWXFtaXlaU0V4UVNneEt4UGYxYmQxa1IxMmwxcndGM19zOXh6NTFqQ1ZoTzdEMHBUOS1FTUJCMmdUQ1ZYQlJwTlRkWGJtN3VBN0xtc2ZTZjJZVw?oc=5",
        "source": "Seeking Alpha",
+       "date": "2026-10-11T07:00:00+00:00"
+      },
+      {
+       "title": "Which Precious Metals ETF Is the Better Buy: abrdn\u2019s Silver SIVR or VanEck\u2019s Gold Miners GDX?",
+       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNEFjU3hkT3hGM2hNcWtZaXNhV3g4N3B3QzY4WjVuMHVnckZGcHZqa0h1dzJjbVpta1AzWGp0Mmdva2ozWTdjV2xjX0w3X0pGd3FNajhiMklyUWEwbXl4cHAtUDBaNUlncFVvaElrN21QS0ZhMDF4d2VWek1LVGFFRWFBQ1h5MVE1SlUxV3ZlVlY0bWc1ck1DaTYtTlBlbHpEb09hcm5oa3ZMYm12Q1dsem4tV1RzTjFwX2xEdU5mYUxDNGFfS0dQWWNGNUNVN3hSSERUSw?oc=5",
+       "source": "The Motley Fool",
        "date": "2026-10-11T07:00:00+00:00"
       }
      ]
@@ -261,16 +261,16 @@
      },
      "news": [
       {
-       "title": "Weekly Video (10/18/2026) (Aris Mining, Avino Silver) (NYSE:ARIS)",
-       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOG9OcDFXUmxUanJJZUFpUTFVaGdlclQyT1NBYjRheFFyaHUtZmRTMFRqaVNXSlFMdFd4SjZVTlNEWS1LR3dqYzlhZE83T05FQ3pYdjBNWnVmTE9Xc2FEYU1rdFRXRmZYNkh4aVZKTlhaLTVsaWJGR3ZHMWd4ejBhbXZCcnU1S2hwb0o4bVdzWmhRbmMxY0IzZEUtd0RNeFF3Z3hFUUJOVXVaMHVpbjhMTkw0YjQ5ZHNuQ1JVNXNfZGY?oc=5",
-       "source": "Seeking Alpha",
-       "date": "2026-10-19T00:06:32+00:00"
-      },
-      {
        "title": "Avino Silver (ASM) Rises As Market Takes a Dip: Key Facts",
        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNM0VMeUNmRGhBaWZZd21tV1E2YlczaWRndkpCY0ZnTk40c0FWeC05aExqNEdldmgwOXBrNjlld2RlUHhFU2drbk9BZWU3TmxUZnhwUE5VSy1hRU9yb1o1ZWQ3RS1Qc0ZfZjlMUV9XUlBnRE14dVZNZ1VvMm5iU1ptWVotMHkxUFdrR0VCb29FcUJtdlIwNGtpeGtB?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-10-16T21:15:05+00:00"
+      },
+      {
+       "title": "Avino Silver & Gold Mines Shares Rise After Roth Capital Upgrade",
+       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS0dieXNtMEV1X0NVMWV0bTI4elo5cGhTVjllMWxYZFRuRlBXY19ZT3R6N0pQRlZiRXdRYzh4azlLRDVDRmROa192MElyb2xXT1pBRGlOT3V1NmxIN3RCeU1xZ2IyLVJya0NKSHVBMzhZNkZuak9CWkF6b0tkS0w3TC1uZmxuWmc4Z2VjWlExQmxIV3JWZDBCYktQYw?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-16T18:54:13+00:00"
       }
      ]
     },
@@ -311,16 +311,16 @@
      },
      "news": [
       {
-       "title": "First Majestic Silver Hits Pause on NAFTA Fight as Mexico Tax Deal Takes Shape",
-       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYkdWMWdqNGhTcHQ1dFVvWHRGNlNoZWVfcGRTbG55TjBZUzRGT2thNmo3RDVHYmxqNFNmSEhDM0t1TExkYnhuaDRYbmFwNXppR0dZaC05UWZwN0RVWVFYaTJhRHNjS05qMW1iN3d5UEF1bERyeWVJbXFsd29ERU1uQzhKRlhnRVRsRXcwRG1qaFhHM0RUbEw3LW5qek11cGlQa0preWdvUUtzMzJYYVJEang1aHlBSmYydmNZQ1M5dlppcGlqOHVTVTdacFo0YjJ4eFE?oc=5",
-       "source": "Streetwise Reports",
-       "date": "2026-10-17T08:08:18+00:00"
+       "title": "First Majestic's Silver Production Decreases 11% Y/Y in Q3",
+       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbXpqRklqQzl1Q0JxX2x5cHM1R040Vk5WemNWSWVxOTBuaU1JeGFLbzFmaWk4alFMS3dfVHlQWlBMZC1oa0M4dEhvaGhmVjZDYmp6RWJCbl9RT1hpUk9aN1JZSFlxMkpHOUlNSXRQLWZaMkxhTVEzTEZBcDVEdHhyYVlRN2R6UGRfTzZyVllSbGZyX0NFeG50ZEFqS1Y?oc=5",
+       "source": "Zacks Investment Research",
+       "date": "2026-10-12T07:00:00+00:00"
       },
       {
-       "title": "First Majestic Silver Corp. (TSX:AG): S&P/TSX Silver Watch Turns to Production and Mexico Settlement",
-       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMXAzX3hlREVqVWpwVGVCT0FHZncwaHhVTmdHN2lKLWJHLXdlUUtSeklwenBNVm9nbENVQnZfMWVfdTBmUHNnUGFTVmw4clo1cTJtMnZHcFdhWHRuUkk4eUVKTno2Q2lhWk5xT0NYSXc3UUZpZVVOcFdPTVNpX0pWOWJJN2dpNzVyTzBLUzI1Zm5MZG5FMUl3YnhfcUxjZFB0Rk9pRUQzN2ktSE5JWVB4TzBpNktCSjNNdU03UDFCX0pVdw?oc=5",
-       "source": "kalkine.ca",
-       "date": "2026-10-16T18:52:00+00:00"
+       "title": "H.C. Wainwright lowers First Majestic Silver price target on production miss",
+       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNekRpSWxSd1Q0RVVZN3hBT1J4OEtJaVJRTEpGVnJ6WWNRZTlzTHo5U19Tdm1wT2Ywa0NvWVRYbVdLWFFUbzhjUWlBTFRMdDU4Nkg3WnFkNldZdF9Zakc4WGo1ajItV3VabmJteTI4cm5JTjdWdVdKVEFtXzByU0lKMi1SMUNUNkd3eXE3U3dWWWs1Q0JpVExiZ2JuRl8tQ0F1MlY2ZUJqVExtSW5aQmJibTZsZEFjM2pzOTRwNERMaDJUMTZHZS1sNW9Vci1jcE45?oc=5",
+       "source": "Investing.com India",
+       "date": "2026-10-09T11:35:52+00:00"
       }
      ]
     },
@@ -712,10 +712,10 @@
        "date": "2026-10-23T14:25:00+00:00"
       },
       {
-       "title": "Buy, Hold, or Sell Tesla Stock After Q3 Earnings & SpaceX Merger Talks?",
-       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nUFdocnZoM3U3ZXQtSFQxc3h2bHJFX1JMVGUwRk1xbzMtUHZQQmt3Yzl0QU1lbEJvTjI5dkVIc0NZUlJJMnBBbXRTUVNhVWJ6bGE2VWFDaXZxTGJfX3FHMnBVX0NLU0ZqNEhNMDY0cUxVWDdscm9JbmlNa3hiS0E?oc=5",
-       "source": "Yahoo Finance UK",
-       "date": "2026-10-22T22:17:00+00:00"
+       "title": "Ellison Pledged Oracle and Tesla Stock Before Son\u2019s Warner Deal",
+       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ25oc2V3d1JDZkNpNU95ZGszdUpTcHVWUUtJeHg0ZEVrYkRxRkFUQUIxUlVZRDZjRmVJN2Q4eVZsa3RPRzZEZ1VCLWVTaTRWWW9pc2Z3cWRRUWdzNUtIWmxuWXRnVGdwZEtnX0xGaWozUHlyMlZidnNEbW5JVWlXTmZoX0RBMnZHYWxCYnBkOEtYTnh2LTdDUEJGX3J0QjRH?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-22T19:28:46+00:00"
       }
      ]
     }
