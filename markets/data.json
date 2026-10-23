@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-23T11:55:04.473461+00:00",
- "usdnok": 9.354459762573242,
+ "updated": "2026-10-23T12:31:41.474489+00:00",
+ "usdnok": 9.349650382995605,
  "btc": {
-  "price": 81615.921875,
+  "price": 81614.7109375,
   "prev": 81311.890625,
-  "chg": 0.3739074908516882,
+  "chg": 0.3724182406440013,
   "currency": "USD",
   "asof": "2026-10-23T00:00:00+00:00"
  },
  "silver": {
-  "price": 53.97999954223633,
+  "price": 53.915000915527344,
   "prev": 54.763999938964844,
-  "chg": -1.4315981257802424,
+  "chg": -1.550286729208461,
   "currency": "USD",
   "asof": "2026-10-23T00:00:00-04:00"
  },
@@ -61,9 +61,9 @@
      "symbol": "KMAR.OL",
      "name": "Kongsberg Maritime",
      "quote": {
-      "price": 58.68000030517578,
+      "price": 58.619998931884766,
       "prev": 58.5,
-      "chg": 0.3076928293603176,
+      "chg": 0.20512637929019917,
       "currency": "NOK",
       "asof": "2026-10-23T00:00:00+02:00"
      },
@@ -104,9 +104,9 @@
      "symbol": "G2X.DE",
      "name": "VanEck Gold Miners UCITS ETF",
      "quote": {
-      "price": 82.38999938964844,
+      "price": 82.41000366210938,
       "prev": 83.06999969482422,
-      "chg": -0.8185871044587789,
+      "chg": -0.7945058807505512,
       "currency": "EUR",
       "asof": "2026-10-23T00:00:00+02:00"
      },
@@ -141,9 +141,9 @@
      "symbol": "2B76.DE",
      "name": "iShares Automation & Robotics UCITS ETF",
      "quote": {
-      "price": 18.777999877929688,
+      "price": 18.757999420166016,
       "prev": 18.79400062561035,
-      "chg": -0.08513752872212343,
+      "chg": -0.1915569024472541,
       "currency": "EUR",
       "asof": "2026-10-23T00:00:00+02:00"
      },
@@ -242,10 +242,10 @@
        "date": "2026-10-16T11:17:35+00:00"
       },
       {
-       "title": "Hycroft hits bonanza gold grades at Nevada mine",
-       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9vWlJFNXByS05HcWxpUUpNemZudEtnNXo3ZjRjVS0wMzctNTMxWmJqNFRLVVl1RUtPbUg5N2YtZ1Q4MXptYy1nTlhNdkhqOGVVM0k0ZVhHNzRfUnVqb2ozTmxNdjJBSUVpVDFVbVM1M1Z1bnAwN2pCQldCTQ?oc=5",
-       "source": "Mining.com",
-       "date": "2026-10-14T20:54:47+00:00"
+       "title": "Hycroft bonanza grades at Vortex: underground start-up lens for mine planners",
+       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNTFrOElxaFViZUJYNk5PaHZ5Q2dGVGZzeGN2RTJwV0daaDlqNlRXYVNIN0t1bTktYmR0Q0lvYndtQ1BweWNGOVpUeGZBUVNVYTkxR0JqNldqMXFuZXdyWGNLR3dYdUJMWWJjZjNCYmZNUnctSVBQRkxqWXViSTNRTi04bUZVeUY2aDBfakFhLUFfNjQ3X0pfNWliX0FWekFtNXJQZGlONGJiVzh6dnZTd1V4NF9wd0hm?oc=5",
+       "source": "Geomechanics.io",
+       "date": "2026-10-15T00:01:56+00:00"
       }
      ]
     },
@@ -311,16 +311,16 @@
      },
      "news": [
       {
-       "title": "A Tax Dispute Pauses in Mexico: What First Majestic Revealed",
-       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTGhyX0dMTWVUWUVjblIyM2doa1ByYmNlZ2tHcmNObEVQV1JDanM5aGpIU1ZOa1lCSGxVMXluWUxzRWdBSmdDY0RKWC1vUjhwRktMYmp3b2tNbWxaNU5jeGtod21CQjV1ZHAyQU9CcXktTHl2SFJKWWllOUVzVmZyUC1mdXBBUjY1QXozQzB2Y09VTDFJT1Q4ci1lY0EyWE8yS1AzdlVQQ3NTeU9qVVUwbw?oc=5",
-       "source": "Kalkine Media",
-       "date": "2026-10-16T16:58:00+00:00"
+       "title": "First Majestic Silver Corp (AG) Stock Down 3.9% but Still Overva",
+       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZHhIdmRLazlqNG5tZGlFa056TVRGbjNqWnltd2NteDB5Z05QclJIUTBwQ3dTRmJyRnJiV19vdWx5VHNfNy00TWRfamJpMENTRkk2VWp3RHR5em4tYlFvbFI0dGdhOUVVbzZEQ1hvRzk1b2U5NjRlT010WURNNEVqdFl4aWJscGo4RC1rcHJXS2wzWEtsQVJ0SUxqeTVmOEoxeGk2VllhYzFtejVuUXYwNUkySVM1VklwUHc?oc=5",
+       "source": "GuruFocus",
+       "date": "2026-10-13T22:02:18+00:00"
       },
       {
-       "title": "First Majestic Silver Corp. (TSX:AG) Climbs 5.02% as Positive Momentum Lifts Investor Interest",
-       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNmNSTThiNC1ydHBoNVd1S2pzaDNFSHF2NWxSY3p5VTRSTmZJUEdJZ2FweGd2M2g2X1lEUzJKcUtGdXdRYjlaRlVfWTNxdWNQY1VyZzV3aTNRdWMzam8zRm04eHRuRENuRlN2eFhzLVhjZ3R1VVFhNURlNVNaUXRfQnVGdEZVQTBQcWJKRjBkbTAxNjY1eUQ3aW55WkNtNUVlWUUyS3draWRpQTZyLS1tOS1GbWpDYlhFSnZr?oc=5",
-       "source": "kalkine.ca",
-       "date": "2026-10-16T14:17:00+00:00"
+       "title": "Will Lower Q3 Production Change First Majestic Silver's (TSX:AG) Narrative",
+       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUUtfR242WFNfRGhic2JHYWNNNmd4MlJ6OTZTZzlpS1Q5S0pyRkZiRElGNnFLM0ZZX25fZHVXX0p0eEtIR2MtYkVJQ0otYkJsa2RudTFzUU5WMzN6blJMUlhoSnhvZF9WU2NpVzZPcmwxUnl6UlJoN1Z1V1FnN3lWdW96aXpwR3RNNWphaExZVVlCVkF6Qlo3eXd5UzlvUkJpc2FoTkVRNFVrZUpzRlk1ajZNelZ0WGVyc0loc2doY2wzSGhLeUtGdnRIdGJxNHI5V3IyV1RMaVJMNDDSAeABQVVfeXFMTzFrcm05Sk5mNnIxT044YVBFX25WZThSZnk1N1hvOWRETW10Nnc3WE44eXFISXVXOHYzS3VxLXFtZUhjTzdJc2RpdHdzZU9EbEVQRnJ3Qkk2cHJUZlR2UnhMNjdGYUxjMF9Qdzl6cUNscjhsQWNyb3V6ckk4OHVnb2EyS1dmbXRfd051ZmtuWkZWU1h6TmVEX2EzdnlQQldzYVAzeFBpN2YxMFlVcXlaRlB1eVNNaUJmSUkxMjdMRFFaTDVDMHYxVllmUmJmMWptZFZ4blI2Zk40Y0t1SmtVaWI?oc=5",
+       "source": "Simply Wall Street",
+       "date": "2026-10-13T07:00:00+00:00"
       }
      ]
     },
@@ -470,9 +470,9 @@
      "symbol": "OSEBX.OL",
      "name": "Oslo B\u00f8rs (OSEBX)",
      "quote": {
-      "price": 2088.52001953125,
+      "price": 2089.489990234375,
       "prev": 2085.659912109375,
-      "chg": 0.13713201300313838,
+      "chg": 0.18363867008051038,
       "currency": "NOK",
       "asof": "2026-10-23T00:00:00+02:00"
      },
@@ -482,9 +482,9 @@
      "symbol": "^GDAXI",
      "name": "DAX",
      "quote": {
-      "price": 25182.890625,
+      "price": 25149.779296875,
       "prev": 25371.75,
-      "chg": -0.7443687368825613,
+      "chg": -0.8748734443820405,
       "currency": "EUR",
       "asof": "2026-10-23T00:00:00+02:00"
      },
@@ -494,9 +494,9 @@
      "symbol": "^VIX",
      "name": "VIX volatility",
      "quote": {
-      "price": 19.719999313354492,
+      "price": 19.790000915527344,
       "prev": 19.030000686645508,
-      "chg": 3.6258465675894413,
+      "chg": 3.993695225745175,
       "currency": "USD",
       "asof": "2026-10-23T00:00:00-05:00"
      },
@@ -506,9 +506,9 @@
      "symbol": "GC=F",
      "name": "Gold (USD/oz)",
      "quote": {
-      "price": 4038.10009765625,
+      "price": 4038.60009765625,
       "prev": 4060.39990234375,
-      "chg": -0.5492021777123046,
+      "chg": -0.5368881196878283,
       "currency": "USD",
       "asof": "2026-10-23T00:00:00-04:00"
      },
@@ -530,9 +530,9 @@
      "symbol": "USDNOK=X",
      "name": "USD/NOK",
      "quote": {
-      "price": 9.354459762573242,
+      "price": 9.349650382995605,
       "prev": 9.361729621887207,
-      "chg": -0.07765508733523774,
+      "chg": -0.12902785467506783,
       "currency": "NOK",
       "asof": "2026-10-23T00:00:00+01:00"
      },
@@ -749,6 +749,12 @@
    "date": "2026-10-23T02:17:00+00:00"
   },
   {
+   "title": "Raymond James cuts Knight Transportation stock price target on truckload market outlook",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaGhtRmtLc2hscy1nSV9udUhwVHg1ZkoxanVBTTJ2MDZIV054a3lpeklkdWZ3Sk5aTXpnTnBqZWgwaUJ3NnB0TkJ6Rld3MzBDT293U1hyUl9zVXo5MkZwX3pEd2NNdDc5NVNya0gtbzJucUpoQS0yUnRTMWFweXI1Q3FDOVVpcTNwRzFXcG50VGl5VEFGcHB4Si0tUEpHQ0N2RjI3Q2F2eTJSckJLRFVsZWs4NkRMRzhUYUR4aTczck9OM2lKOWgza2x1VVFubG5WaFJibGZ0SmVKT0YxQy1pZjJB?oc=5",
+   "source": "Investing.com Nigeria",
+   "date": "2026-10-22T21:34:41+00:00"
+  },
+  {
    "title": "Sharp drops for AI stocks overwhelm markets worldwide as oil prices jump",
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPX3E5RERKVHVqRmI5blM2WWs0aEVGOS12dHBranpVVVdWZUJaTFRYUFNOalJZVGt6a3RFLU9kblZPWWhrQVNYWWp4cjV6MkowWm1nVmpxcW5lUktiNHRTVGlkY0VoREYwOWVUQk1pZjFteFVPRVlrVzRIVlJVVkczVU9QaXAxSVUySWZkSUFBZU44bDRVZXlFazh4QW8zdmZWVTMxc2ZzN0tqYUNZWXNxWWs4ZURWem5qSlRuSlBocDVRV3dVSmN1aXB6aEg?oc=5",
    "source": "BNN Bloomberg",
@@ -789,12 +795,6 @@
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbV85ajQ2aXg3TkcxRzhGbnhPMkdvOTE0Tk9VaElPQ042bXF2MGN5eUx2dHhTckVhMXMxSEN5NGlBUGJyc3BlSW9rcDBZaXVfRFFwb2FlUFR6VXhQTTBMWjFsMEtlSUZsVnp3M2NnUE13dmJTMERWZXFvY2g3b04tUGJVaFdELTdkYzhWWGtsa2tvdHhLY3c?oc=5",
    "source": "Yahoo Finance",
    "date": "2026-10-22T09:26:48+00:00"
-  },
-  {
-   "title": "Kurdistan-focused Oil Firms Gulf Keystone, ShaMaran Agree $601 Million Merger",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KNEJ0OExrS2JTZFFveVcwWXVyZU9YQXRHbFRPRmdUeldFQmx6bkI3MjFNaTFsMS03YlVteUI0WWUwcEphaDlzSU5lTERsRzZlNzln?oc=5",
-   "source": "\u0634\u0628\u0643\u0629 \u062a\u0648\u0627\u0635\u0644 \u0627\u0644\u0625\u062e\u0628\u0627\u0631\u064a\u0629",
-   "date": "2026-10-20T10:29:36+00:00"
   }
  ]
 }
