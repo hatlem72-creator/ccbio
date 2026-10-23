@@ -1,19 +1,19 @@
 {
- "updated": "2026-10-23T03:30:10.320179+00:00",
- "usdnok": 9.322649955749512,
+ "updated": "2026-10-23T04:13:49.078726+00:00",
+ "usdnok": 9.325050354003906,
  "btc": {
-  "price": 81678.78125,
+  "price": 81594.8515625,
   "prev": 84011.96875,
-  "chg": -2.7772084557892263,
+  "chg": -2.8771105158751586,
   "currency": "USD",
   "asof": "2026-10-23T00:00:00+00:00"
  },
  "silver": {
-  "price": 53.974998474121094,
-  "prev": 57.422000885009766,
-  "chg": -6.002929813942659,
+  "price": 53.900001525878906,
+  "prev": 54.763999938964844,
+  "chg": -1.5776758710993932,
   "currency": "USD",
-  "asof": "2026-10-22T00:00:00-04:00"
+  "asof": "2026-10-23T00:00:00-04:00"
  },
  "sections": [
   {
@@ -328,9 +328,9 @@
      "symbol": "DEF.V",
      "name": "Defiance Silver",
      "quote": {
-      "price": 0.11500000208616257,
+      "price": 0.11999999731779099,
       "prev": 0.12999999523162842,
-      "chg": -11.538456688971033,
+      "chg": -7.69230636971937,
       "currency": "CAD",
       "asof": "2026-10-22T00:00:00-04:00"
      },
@@ -353,9 +353,9 @@
      "symbol": "GRSL.V",
      "name": "GR Silver Mining",
      "quote": {
-      "price": 0.23999999463558197,
+      "price": 0.24,
       "prev": 0.26750001311302185,
-      "chg": -10.280380235279019,
+      "chg": -10.280378229889198,
       "currency": "CAD",
       "asof": "2026-10-22T00:00:00-04:00"
      },
@@ -506,11 +506,11 @@
      "symbol": "GC=F",
      "name": "Gold (USD/oz)",
      "quote": {
-      "price": 4028.5,
-      "prev": 4150.0,
-      "chg": -2.927710843373499,
+      "price": 4025.89990234375,
+      "prev": 4060.39990234375,
+      "chg": -0.8496700036882077,
       "currency": "USD",
-      "asof": "2026-10-22T00:00:00-04:00"
+      "asof": "2026-10-23T00:00:00-04:00"
      },
      "news": null
     },
@@ -530,9 +530,9 @@
      "symbol": "USDNOK=X",
      "name": "USD/NOK",
      "quote": {
-      "price": 9.322649955749512,
+      "price": 9.324950218200684,
       "prev": 9.361729621887207,
-      "chg": -0.4174406623144611,
+      "chg": -0.39286974920248463,
       "currency": "NOK",
       "asof": "2026-10-23T00:00:00+01:00"
      },
@@ -631,16 +631,16 @@
      },
      "news": [
       {
+       "title": "Will Alphabet Stock Soar After Oct. 28? History Offers an Answer That\u2019s Strikingly Clear.",
+       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWUNaSHlpbmVhRjBGdURNRmRYUHl1MjNGQmlhSHhrVVprNjF1N0o2UmtmQy1MLWZfUGhscjBrSHduWm9MZUlFNjQzSk96eWQydUhUV2szNS1lOUVwRnJCUUFEX1FyZjVTZDVDX3Q1bkhQdFdWUXBGUWc3VU1lZGRjcUJMWmRicWxnUlU1QV92SXRMZ082NGc?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-22T08:15:02+00:00"
+      },
+      {
        "title": "Prediction: This Artificial Intelligence (AI) Stock Will Be the Biggest Winner of 2027",
        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQY25DZ0FlNTJMTFBwRkNKV2p1Skg2dFN1djd2ejlTOTE1U1RraXhadzV0NFotcXlLTlhhRXpiWGRwR1otaTAtNWtNY3JxN0lQa2NEc0RaMWxFb2xXV0gwbS1VdmJWSU1pc2ZaNlZuMEMwTmE1ZW12RFlldTEtZ1lZSWpTbVdyTDdNcGNSTW9mdV8xY2tHLUFlX2tMNDZwTEtSb1M3ZjcyMlh2ZnBp?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-10-21T21:36:00+00:00"
-      },
-      {
-       "title": "Bank of America sees a $300 billion test for Google stock",
-       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTkZrLUtON3kxMXgzWjFkNFVOS29HQlF0WDduT1RGODBNVHBNek1rTUNCak1oWGZjcVlkdTR3a0YtRlVpb3QtTEhGQmFQV3dmOWsyTDZyZElvVFh5ZUpBZDRiVlNPYUpZQXVKamtlUzNuVVEzQjBfa29vaTh1RVRLbW5zMmdIVzFJRmkwVHNVSlVKNDZpYm1mNA?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-21T20:07:00+00:00"
       }
      ]
     },
@@ -687,10 +687,10 @@
        "date": "2026-10-22T21:00:00+00:00"
       },
       {
-       "title": "META Stock Alert: What to Know as Meta Platforms Announces Stock Split",
-       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONWFuVTIxNVBnUUVjNTUxT2N4Ri1GNXMtYlpxX2NOZThVSEktWVk0N0NYcW0tLVpUTEFaeDVZNlR3aVpuTS1oRWxRd281MmxIYXRnelVaVmR2X1lnVC1SMDBDd1B6aGphZVRzd1JncTAzYnBnOUlLSEFNUUVaM25uUU9XYUlRbG9KNElXSmhVemlwUkc0c0E?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-22T18:51:54+00:00"
+       "title": "A lesson from poker tells us not to fold on Meta after its earnings sell-off. Here\u2019s why",
+       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPb0pPdWZzQWtaTjhfOUNnQWZ2aXBqWU5tTGNNcjlVd2dQUDdacVo4YjR4TVJaeFU2cVZPMXJ5aEdnSVRMZWRtc2s2dmJOWGhQaW5tbldFU3BUTlR1dWktOHNDNEdPTHZ3VzVCQjZ2b29jTllOZDdKamh0RTlPUEtFUkVZZDdQQXYyYXNQQjdBQ0FaWHVuNDRPNGZtcHBUMGJ6akJXMFMzQzBQU2pTVEFqUzcxaDliUG43M2pZ?oc=5",
+       "source": "CNBC",
+       "date": "2026-10-22T20:11:24+00:00"
       }
      ]
     },
@@ -725,10 +725,22 @@
  "failed": [],
  "general_news": [
   {
+   "title": "Raymond James cuts Knight Transportation stock price target on truckload market outlook",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaGhtRmtLc2hscy1nSV9udUhwVHg1ZkoxanVBTTJ2MDZIV054a3lpeklkdWZ3Sk5aTXpnTnBqZWgwaUJ3NnB0TkJ6Rld3MzBDT293U1hyUl9zVXo5MkZwX3pEd2NNdDc5NVNya0gtbzJucUpoQS0yUnRTMWFweXI1Q3FDOVVpcTNwRzFXcG50VGl5VEFGcHB4Si0tUEpHQ0N2RjI3Q2F2eTJSckJLRFVsZWs4NkRMRzhUYUR4aTczck9OM2lKOWgza2x1VVFubG5WaFJibGZ0SmVKT0YxQy1pZjJB?oc=5",
+   "source": "Investing.com Nigeria",
+   "date": "2026-10-22T21:34:41+00:00"
+  },
+  {
    "title": "Sharp drops for AI stocks overwhelm markets worldwide as oil prices jump",
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPX3E5RERKVHVqRmI5blM2WWs0aEVGOS12dHBranpVVVdWZUJaTFRYUFNOalJZVGt6a3RFLU9kblZPWWhrQVNYWWp4cjV6MkowWm1nVmpxcW5lUktiNHRTVGlkY0VoREYwOWVUQk1pZjFteFVPRVlrVzRIVlJVVkczVU9QaXAxSVUySWZkSUFBZU44bDRVZXlFazh4QW8zdmZWVTMxc2ZzN0tqYUNZWXNxWWs4ZURWem5qSlRuSlBocDVRV3dVSmN1aXB6aEg?oc=5",
    "source": "BNN Bloomberg",
    "date": "2026-10-22T20:33:35+00:00"
+  },
+  {
+   "title": "Nasdaq Leads the Selloff: Critical Stock Market Levels to Watch",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOemFtQ2lUNTc5VDVjeXFLMFRXR0RmMEVUSUZSZWVLcEwxcElabFBXMGdGRXhGZU9ZaHo3Z3dJWU9xTFNtY212Q3lYNDZLM3BnbzBQMmlSSkw1N2FJYlFrZVlyMXBrZlVSelhDMnpzSDJiN1ZRTm9uLXlmUFgzYVFHVWFlZWkzQUhRS0FHeTBXVkFsb2xkZTBQdDVGdHJndGlhYS1QZTZ3VXBGRUU?oc=5",
+   "source": "Investing.com",
+   "date": "2026-10-22T20:19:06+00:00"
   },
   {
    "title": "The Stock Market Sounds an Alarm for the First Time in Nearly 27 Years. Here Is What History Says the S&P 500 Will Do Next.",
@@ -743,16 +755,10 @@
    "date": "2026-10-22T16:25:37+00:00"
   },
   {
-   "title": "Prediction: Broadcom Stock Could Crush the S&P 500 Through 2030",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVWExVGxQbDI2NDJLbVNWM0VJQzgtalVnMi0yX1RtRTA3dnIzczJLTk1nTXJHdk12SmJUeVozRHpOQWFLX1ZjeUlybWZKdVBic2NCcHFVbXR3MUlJZk9qeEpiUXVqSFJrZ3hoV3lLbE5jZUdZeFpnNnk2UGN4Vkl2N0lTWENMeFk5dVBZVHBvUXB6MnBVbmZObmtBR0lLbm00UGxrUQ?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-10-22T16:00:47+00:00"
-  },
-  {
-   "title": "Prediction: Sandisk Stock Will Soar After Oct. 29. Here Are 379 Billion Reasons Why",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQWxkdjF6dHpsUFVfMGNEWUJ1X1JfUmhreVRrU3poenNDSWlsbTZHbDJyMDc2UGZRSTIzRGJwanBoWUpCcExWclY0czBHTkY2X0J2TkVJcngxQmx6WGJfdFRzQ1BfQ3ZKRmRkSWI2VXNVR2VuUlMtbXR0eXpoVU5zNVdnZDF5OEFxcXRZZ2xYQ0tzWGV4YmlOWGdWRmFLQ2c?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-10-22T15:36:01+00:00"
+   "title": "If a Stock Market Crash Is Coming, History Says Investors Who Do This 1 Thing Always Win Out",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdnRab0Fral84bGI1dHkzTkpLUGZvX1c2N0hpMEpDeWdrald0bVFrdGdFSi1veFRHVVhjckFNalJqOTZTZXpoUGdTZk8wYzFBZTJmWkFVdkZvUl9scG9XOEhWVjlqZ05nVjJodnJyQXRKUUVpYUNpU1FvU0oybzVhRjNBS2M4enBzckp4Y0p2ZEx2UVl2cVNDWg?oc=5",
+   "source": "The Motley Fool",
+   "date": "2026-10-22T16:00:00+00:00"
   },
   {
    "title": "Gold and silver are not the best inflation hedges; investors should diversify into the commodity supercycle \u2013 Auspice Capital",
@@ -761,10 +767,10 @@
    "date": "2026-10-22T15:30:31+00:00"
   },
   {
-   "title": "Raymond James cuts Knight Transportation stock price target on truckload market outlook",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNeW1HZm55NmhZaHhfSmRVTGFfUGViNkc1NjFsZExmVzlnNUdtWnNwekZldnFQYy0zTTJ4M0JZTDZZSU1lNFltcnMtTmlQanh1VXVjMFlNVFRYRDljd3B1M0RFRDhwSjA4N290ZXRvWFJSMFFqekl2QU54WG00WWczZ3ZYRmhqR1B6MEFkUnpwWGQ5cHh2R01vMHBZMTQ5RDNqZENRdExjak10UlF3THMwbWoyMXBSOFB0dGNVaG1DSmx1LUMtNXdGQWdtdzA5d21xS3VTVWFNZXI0MTMtWFFNMV9B?oc=5",
-   "source": "Investing.com India",
-   "date": "2026-10-22T12:54:41+00:00"
+   "title": "A $2 Trillion Deficit, Soaring Debt, and an AI Bubble: Is a Market Crash Coming?",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNU2k2QzRraUVCZTNhMWhDNHZ1cjc1R0JUVTBOaGJzTUFOWGV5UlcwVjdsb2JZSTFRMGZsN2YtZ1VNWmROUmpyT1ZsRnU1X0RkN0hRX3JqNDZ2N284WXBPdFpIYXMtaW9xc0hqUDl0eExCV19uX2FkUmdZVDV6SE1HdmlIZks0X1hRUXlvYk83eWVvOXJTalBXNjBFYzNVdHQxSkJveFNXX1VMcnFwWWFKQlhSTktYeEstLTZFVg?oc=5",
+   "source": "Investing.com",
+   "date": "2026-10-22T14:50:08+00:00"
   },
   {
    "title": "Nebius Stock Alert: I\u2019m Watching This 43% Crash as AI Bubble Fears Return",
@@ -785,16 +791,10 @@
    "date": "2026-10-22T09:26:48+00:00"
   },
   {
-   "title": "Gulf Keystone and ShaMaran agree to $601m all-share merger",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYjlUWU5FNjgxMTVfVFZJaWpYeHRZODBnMEpDX0IyUVpUZHQyV0IzbEYwc09Wd2tCMlNKNmp2SzRKbVd1S1l2T3dGbFRpQlRjRTJYSERoc0d3VTl5UUZrWktBNW9RRXdQUEJ5S3ZHLURKR0dwSXZiNUo2c2dhczBpTU9hWDFUUQ?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-10-21T09:13:30+00:00"
-  },
-  {
-   "title": "Gulf Keystone Announces $601 Million All-Share Merger With ShaMaran Petroleum",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMF9VMXA1akJZNkNzRG52Q1ZJT0t5RHQ3eGZHZUg1R3VmczhlNTl2UVJ3b1VkcmhWTXlJMWR2UmQ1MXIwVzlSYXNfV1hPS1Axd25QLXJMTnlReHdSMVBGQnRkR1V2R1p2Tm5peW03ZG1ldHlWSVpvc3VIaWE3aHM1eDh3eWZLZUY0MThZWQ?oc=5",
-   "source": "Yahoo Finance UK",
-   "date": "2026-10-20T09:11:08+00:00"
+   "title": "The Stock Market is Flashing Several Warning Signs at Once. Does That Mean a Crash is Imminent?",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNb3ZkZFhjd1VEX0lKU0NRRDkwanItZmJtdU0yY3ZWZGJGc0I1WWpIN0NHekh5N0VvUEJLQWc0UkhBMVZnUjUzNGNKajdIR2FZRU5mTXluYUxtSGtNWmZWak9Ic3Y0QldleFA0ZEhldFpzdWlLUEY0M3RIazB2TFI5OVV3M0pDWk9BSkpWdlZMT2U2TEI0LUdTWEhZcXBJTjNxRVJMVktxZTJWN2RWMEMzUmVJNzR5SnA2YkxDYmVRcTVyR1BlX21hdC1mZWpSSUcwQ1E?oc=5",
+   "source": "The Motley Fool",
+   "date": "2026-10-21T15:05:00+00:00"
   }
  ]
 }
