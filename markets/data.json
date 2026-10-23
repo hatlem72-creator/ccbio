@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-23T21:52:33.965475+00:00",
+ "updated": "2026-10-23T22:26:34.484587+00:00",
  "usdnok": 9.316200256347656,
  "btc": {
-  "price": 81229.65625,
+  "price": 81230.1015625,
   "prev": 81311.890625,
-  "chg": -0.10113450120013967,
+  "chg": -0.10058684144634844,
   "currency": "USD",
   "asof": "2026-10-23T00:00:00+00:00"
  },
@@ -25,8 +25,8 @@
      "name": "Kongsberg Gruppen",
      "quote": {
       "price": 301.0,
-      "prev": 301.5,
-      "chg": -0.16583747927031434,
+      "prev": 301.79998779296875,
+      "chg": -0.2650721753897245,
       "currency": "NOK",
       "asof": "2026-10-23T00:00:00+02:00"
      },
@@ -61,9 +61,9 @@
      "symbol": "KMAR.OL",
      "name": "Kongsberg Maritime",
      "quote": {
-      "price": 58.599998474121094,
-      "prev": 58.5,
-      "chg": 0.1709375626001597,
+      "price": 58.6,
+      "prev": 58.41999816894531,
+      "chg": 0.30811680365709915,
       "currency": "NOK",
       "asof": "2026-10-23T00:00:00+02:00"
      },
@@ -104,9 +104,9 @@
      "symbol": "G2X.DE",
      "name": "VanEck Gold Miners UCITS ETF",
      "quote": {
-      "price": 81.47000122070312,
-      "prev": 83.06999969482422,
-      "chg": -1.9260846033454126,
+      "price": 81.47,
+      "prev": 82.80999755859375,
+      "chg": -1.618159157226895,
       "currency": "EUR",
       "asof": "2026-10-23T00:00:00+02:00"
      },
@@ -141,9 +141,9 @@
      "symbol": "2B76.DE",
      "name": "iShares Automation & Robotics UCITS ETF",
      "quote": {
-      "price": 18.895999908447266,
-      "prev": 18.79400062561035,
-      "chg": 0.5427225680620706,
+      "price": 18.896,
+      "prev": 18.809999465942383,
+      "chg": 0.45720646730125214,
       "currency": "EUR",
       "asof": "2026-10-23T00:00:00+02:00"
      },
@@ -236,16 +236,16 @@
      },
      "news": [
       {
-       "title": "How InvestingPro spotted Hycroft Mining\u2019s 48% decline in advance By Investing.com",
-       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOM3g3Z09MR1dCUTZES3gyX0ZmYlZHYnFNMllWSVY0WDJPZEY1LXhwb20zWDBYUW10WndRbWJ5VnFZM3o1NnRfUFgzOVkwUlNEZDYzMG9lQ3UzaUNidWFEcTdOTGN0YV9lc2dGWC1PQmtCTVZMQ2ROU0NxMllYc2FERWo2RXl4cDlRR1VwR1R1NGRXRTI3S3dTaEhfUUVnbXI0c2hDWDlYNWdreWVfVUVJNm9HQWpmT2ZIdU1nY3JnUmo?oc=5",
-       "source": "Investing.com",
-       "date": "2026-10-16T11:17:35+00:00"
+       "title": "Hycroft Mining Holding (HYMC) Hits Record Drill Results On Questions Over Whether Value Is Already Priced In",
+       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRm8xbUV6TGk2eW1CU2J5VnlkTmxicFUzeHk5eU81eUlrN21ROUhVOVVOcUplM1pMdUdBazBiSDF4R1JMeTNBRnBtQ3laM1R1cWNwRHlQU0NWZjEtN2l6X2xvTGdXcmhYajFXbXBjWkZSdnRSWXp6LTB5TFVPT3BPVlc1OHlKR08zUDhBUDlMamNncE9UdXNDZGRjSGxRUQ?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-14T07:00:00+00:00"
       },
       {
-       "title": "Hycroft bonanza grades at Vortex: underground start-up lens for mine planners",
-       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNTFrOElxaFViZUJYNk5PaHZ5Q2dGVGZzeGN2RTJwV0daaDlqNlRXYVNIN0t1bTktYmR0Q0lvYndtQ1BweWNGOVpUeGZBUVNVYTkxR0JqNldqMXFuZXdyWGNLR3dYdUJMWWJjZjNCYmZNUnctSVBQRkxqWXViSTNRTi04bUZVeUY2aDBfakFhLUFfNjQ3X0pfNWliX0FWekFtNXJQZGlONGJiVzh6dnZTd1V4NF9wd0hm?oc=5",
-       "source": "Geomechanics.io",
-       "date": "2026-10-15T07:00:00+00:00"
+       "title": "Hycroft Mining (HYMC) Stock Looks Above Fair Value On Its 494% Run",
+       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUEFMNnBSaV9FNkFEcld0ZmVKMzAyTlFhMEhYTEpBdUVZVkhQaElJdEpEaXB2YkxtTWVOSWJQQmxRZ3dSQmtLdTVsMGZCZkpENVc4Q3pyaHJMXzlNcVFoTjVLUTFhZTAtQndtSUpJLUg2MEFRTEsxYjNLdTZheHNkeHl5WjNYeDJXODZDRWdsVF85YjdILW8xRVJTUXU?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-14T07:00:00+00:00"
       }
      ]
     },
@@ -470,9 +470,9 @@
      "symbol": "OSEBX.OL",
      "name": "Oslo B\u00f8rs (OSEBX)",
      "quote": {
-      "price": 2101.1201171875,
-      "prev": 2085.659912109375,
-      "chg": 0.7412620335828901,
+      "price": 2101.12,
+      "prev": 2088.169921875,
+      "chg": 0.6201640005125464,
       "currency": "NOK",
       "asof": "2026-10-23T00:00:00+02:00"
      },
@@ -482,11 +482,11 @@
      "symbol": "^GDAXI",
      "name": "DAX",
      "quote": {
-      "price": 25181.650390625,
-      "prev": 25371.75,
-      "chg": -0.7492569861164533,
+      "price": 25371.75,
+      "prev": 25645.0390625,
+      "chg": -1.0656605428986166,
       "currency": "EUR",
-      "asof": "2026-10-23T00:00:00+02:00"
+      "asof": "2026-10-22T00:00:00+02:00"
      },
      "news": null
     },
@@ -556,16 +556,16 @@
      },
      "news": [
       {
-       "title": "The iPhone Duo Launch Kicks Off a Crucial Few Weeks for Apple",
-       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeURFOHhobTBud3F4djRGcXl3TUw3QVFzVVNLTGExUlpnT2thX1FZd3Z6Z0xMSWhxY2syX0VhLU5jQ1JjYjM2SXlFZVVQQlVtU3dfX196cWN0cExxY01ldzJkeGwwZlhOMHlZNUswNzhjWXlINDVrZmtWVFk5Q01VX202OTVjNzA?oc=5",
-       "source": "Barron's",
-       "date": "2026-10-23T19:03:00+00:00"
-      },
-      {
        "title": "Apple stock rises as iPhone Duo hits store shelves",
        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPanVjU2s3UWo4Uzg5aDR1dW5PSkRWaEhsSVZGdGE2YmZ3SGVWcTA0TENJa0lLQVVwQjhEblg1ZnVJc3hxRTdUQWJuaVdpVmdrMnUtb3hXQXc1ZVFSa3pwQ202dnp3N0VpdHd3d2FBd3lyc2dPMnNRckxSS3pUdnZhMFBMWTRVYXhRaTNrQjNIbDlvOGIxV0E0RA?oc=5",
        "source": "CNBC",
        "date": "2026-10-23T14:46:20+00:00"
+      },
+      {
+       "title": "It's Duo Day: Apple's stock price in focus as new iPhone launches",
+       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE01YWFoblBCdHZYRDFVaWdUbTVrc25IcmVrYzNDemtScEc2VW12cmhMZ1p2WWd5aDF2WnpOQzdhQnFCSE45YmQzdm9EVU16Z0RtdzI5cjUwQUgzRXZoWnBhM3YyUV83LU1CLWhxNlBHVjdOU3RzbUh4RFRSR3o?oc=5",
+       "source": "CNBC",
+       "date": "2026-10-23T11:13:32+00:00"
       }
      ]
     },
@@ -656,16 +656,16 @@
      },
      "news": [
       {
-       "title": "Amazon\u2019s Bee AI Wearables Could Be a New Growth Driver for AMZN Stock",
-       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNEFZWklmV1BYT19HSERSSDZSTXF2ZXlrS0VHMU4ta3ZmdzdJZDBvNVBDb3o5Yk5mMGlmQk53SXBqR1d2YTFheHVVUHVJdUNLazd5Q19RZl9pQWhMTlRialo4MG9fNEhIS2wtdmY5WEgtbnYwZGk2RERsZ1VNYThiMHlyaXBGR0trekhMWDJPWnotMFMzNXJZYw?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-22T10:51:33+00:00"
-      },
-      {
        "title": "1 Analyst Says Amazon Stock Has 30% Upside. What's the Bull Case for Buying Amazon Right Now?",
        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOU0czVk1IZjJ6VUkyT3d3Y1cxSlhGVXVHSHl4Wi1UMWtuYW85ZnZEeVJVc280Nmc0SVFBaG85Z28yRVhWWjhGUFhycFVNN2VWaG90RXB5dkwxdFhfU3JOZVI5akVEdmtQTXZ4MlNJX0NONXhXMVFYM2g3SkV3YzA4N00yaUg5bVFGOXoyYXBQblFFUUhoREU0?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-10-22T08:47:00+00:00"
+      },
+      {
+       "title": "Wall Street Firm Names Amazon Its Top Pick With More Than 30% Upside. Is the Stock a Buy?",
+       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMkFKQVp0eHF3SEgzazdtTEI0bVEzYllCem5NcnhQUm5DR195QUc1X3BuUmxLNlRDdEkycU5rYVk0Z0trOVNyVGlEVXRwSHZwLXZoWEtHZWtLeER6U2VyaTR5OURiNktWRHhaRGFQcUNjVGNtRmQ2RW9NX1NMd0hzLUZackM2N0lCbnFRQldDck1QWDltV3FNUm5R?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-22T07:25:00+00:00"
       }
      ]
     },
@@ -681,10 +681,10 @@
      },
      "news": [
       {
-       "title": "Is Meta Platforms Stock a Buy as Revenue Continues to Soar?",
-       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNd2FTR2VVcnNyQXoyWndTa205TWVDOTZhTTdudU0yWUlPMERDXy0zVnRlSHgtNkJRWGJyTEtqUXl0WHZjeUNKYzNWdk5ZeEtnYmZUWjJKbmVfaVVtOTJ0QlhYOWcxSVVabFBKQUtZVF9wM0M4WUU5RXBQT2JRZXZwd0NOWUd1aUoyUC1rVGxyS1g0V3Jvbm5sU1BxX3Fmdw?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-23T11:01:00+00:00"
+       "title": "Meta Stock Plan Seizes on Novel Chancery Ruling: Delaware Brief",
+       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTEVjYk16NkVlcGE1QXdJcFFURml0X3p3N3lBOGJkcHJTZ0p4NXlrOFRtNDRURGlhTVQ5SFNRWGl3bG5waXJDVHppUVU1YjhwcGt0MlBwWnlqTlNQa0FKNGVCWDY1UFVfMlNkQWFOdElDWE9fVURCTEZBY1kxNmJuQURScER4endGUkhTa09EVUdtb0NKYkJ4U1dnQXNUSm5CS3A2UC1aZXEtMXM?oc=5",
+       "source": "Bloomberg Law News",
+       "date": "2026-10-23T12:05:00+00:00"
       },
       {
        "title": "Meta (META) Stock Price Sinks As Q3 Results Expose AI Cash Strain",
@@ -731,6 +731,12 @@
    "date": "2026-10-23T21:04:03+00:00"
   },
   {
+   "title": "Bloom Energy Stock Sinks Despite Record Revenue and a Stellar Outlook. Is It Time to Buy?",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNX3Nua3N2MUczbDBUaldoMWNYak9rQ19nSURsamdZTHRGQ2hUZGl1cEJUcWY1cl96NXRfcFY0MHkwSnE4UFpMczUzcnMycnVZVXFpSHktckZHR1Jzb3pCekpPamRqVC1QYmVnWlIxMnBPSnVndFVheXN2ZF9IWjlUUEctX0dpc0FTWnl0UGpremFlTHZmQVlYemR2T2hpVDg3OG85N3lFbWhPQWVUUkFDWHdmNVZkbFVoZV9IcEZuT2R6LTY3TEd5b21B?oc=5",
+   "source": "The Motley Fool",
+   "date": "2026-10-23T18:43:00+00:00"
+  },
+  {
    "title": "The IMF Just Raised Its Economic Growth Forecast. Buried in the Report Is a Warning for Stock Investors.",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYmJyX2tYZ3VPOV9qWlU2NFlOZFZqZTZWRVBpNlNrZUxEd1pvUk9sM0k5cEI0cENES2xsR2QzNks2Nk1xZVEwSFhVREtmMlJwVXJYcE54dHd4TENHcklWdVdoSGxhZFFvbkE1WlB0OGVyWUZ5UXlZUnVnZlpUanhGM0MySEhuS0I5TjFpODQ4RjJuczFtTkhJ?oc=5",
    "source": "The Motley Fool",
@@ -767,34 +773,28 @@
    "date": "2026-10-22T16:00:00+00:00"
   },
   {
-   "title": "Gold and silver are not the best inflation hedges; investors should diversify into the commodity supercycle \u2013 Auspice Capital",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbW8xSTBQZHZKLUxPa2JDcG5oVkw2c3lUa0RiLXJXemhqdHZIRXYtLWFWQVVsUjRmTkFucl9DbS14T1F5dnk3VFZPcFdjZk54UGhkVi14dTRhUkFtYkUzUkpubzQ4VjlEVGlzNnJBcENDeVBDWklXWVFnZHBpTUZZeXJqaUFBQThiR2I5QXJyZ1RqOFZTMDZiRTJfQXVSV0N3dGZTeFRybVFHS1hPMGsySFY0NGRKc1JJeUE?oc=5",
-   "source": "Kitco",
-   "date": "2026-10-22T15:30:31+00:00"
+   "title": "BlackRock CEO Larry Fink Thinks This Midterm Election Issue Could Lead to a Recession",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPd3FKT3U1UVVQOC1xMmFhX0dlMWUzckNpdFZfOEFvVWVVeng3LUZmVTV6em5JM3pRelc0eGRmYVMyc3lGMFJtRUk2eEI0Z0I3Z2F6UmE5ekktVjRPV3JESDlycXFvTll2VFVFa1ZMWVkxbTFHOFJfVVRtN2hrRUloOA?oc=5",
+   "source": "AOL.com",
+   "date": "2026-10-21T09:20:02+00:00"
   },
   {
-   "title": "AI Stocks Could Crash in 2027: 3 Ways to Protect Your Money",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbV85ajQ2aXg3TkcxRzhGbnhPMkdvOTE0Tk9VaElPQ042bXF2MGN5eUx2dHhTckVhMXMxSEN5NGlBUGJyc3BlSW9rcDBZaXVfRFFwb2FlUFR6VXhQTTBMWjFsMEtlSUZsVnp3M2NnUE13dmJTMERWZXFvY2g3b04tUGJVaFdELTdkYzhWWGtsa2tvdHhLY3c?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-10-22T09:26:48+00:00"
+   "title": "Property giant\u2019s grim recession warning as Aus economy faces \u2018hard landing\u2019",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSzR3WlNqc2RzYmtuelR4M2s5dXFDTUcweFBGM1Z1YzdTUS1YZzdWNkxQU0lCODljbEFDNHBBSlprNVBMcVBYYWF3NUx3clpYRy1oaGVyU3dIR1NyUmhTQThKaFExdGtzUlY1eXUxUXUxRVhFLVpZWmU2cEdsUWxJY2NuQmY2OXVoZXdYUlVOSzRxeDVNaklocTZXdkxqTUJoMHYtenVBdWxyQTJn?oc=5",
+   "source": "Real Estate",
+   "date": "2026-10-21T02:39:22+00:00"
   },
   {
-   "title": "Gulf Keystone and ShaMaran agree to $601m all-share merger",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYjlUWU5FNjgxMTVfVFZJaWpYeHRZODBnMEpDX0IyUVpUZHQyV0IzbEYwc09Wd2tCMlNKNmp2SzRKbVd1S1l2T3dGbFRpQlRjRTJYSERoc0d3VTl5UUZrWktBNW9RRXdQUEJ5S3ZHLURKR0dwSXZiNUo2c2dhczBpTU9hWDFUUQ?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-10-21T09:13:30+00:00"
+   "title": "Rate rise bets jump after RBA warns of \u2018materially worse\u2019 inflation",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdXNNRmxDbWVKX0tGT2RDYll1OEpfckRlSTBPRFdkTHo0eGhzOS04a0hJSTh5R1B4M2VLZTY0VGpzbUR1MVhPcDc3R2h3UW01WXMxSzVkdm1VaFBXQ0xjZm5wQ3JhLWV6eFZvTFI2N1c2Sm5OLWh0bnpzMU5tRlF6TFZ5cU81TTRiU1lFSkhNX1hrWHc2RW5sb3U3M3ozcjF4WHlEcUptZ3F3QUVr?oc=5",
+   "source": "AFR",
+   "date": "2026-10-21T00:31:00+00:00"
   },
   {
-   "title": "Gulf Keystone Announces $601 Million All-Share Merger With ShaMaran Petroleum",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMF9VMXA1akJZNkNzRG52Q1ZJT0t5RHQ3eGZHZUg1R3VmczhlNTl2UVJ3b1VkcmhWTXlJMWR2UmQ1MXIwVzlSYXNfV1hPS1Axd25QLXJMTnlReHdSMVBGQnRkR1V2R1p2Tm5peW03ZG1ldHlWSVpvc3VIaWE3aHM1eDh3eWZLZUY0MThZWQ?oc=5",
-   "source": "Yahoo Finance UK",
-   "date": "2026-10-20T09:11:08+00:00"
-  },
-  {
-   "title": "Gulf Keystone to merge with ShaMaran in $601 mln Iraq deal",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNkRkRHpqMzU1b1pLdWNhSlVNWm0ySDUtVlhyQ09JbzFqOFI3V2ppMUlfeTZWYkVNVC0wMHdWNGZVa0hFb3ZGRldlVHFuWmFaSnp1ODNCdXgwb3dmY0xiVnB1NlJfVEk0b2VEX2dqMzlZdTVyYUJoVnEwd0hsbDVPT2x1TmtHd0dmUEtVNklzVVc3UFZ0Qk9fbjZHNzNSMWRWdTRDUHBEcW1rNlRxazBJdkF2LUJYem1NT0E?oc=5",
-   "source": "Investing.com Australia",
-   "date": "2026-10-20T08:55:56+00:00"
+   "title": "Big Australian companies accelerate job cuts as recession risk rises",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNEpickt2ODl1ZkNQNzN1bFJaakVZU01VZnBNN0FzUC1VUHBoaDNBTmd5UWlTRDF4ZVRmQ29jdWhvU3JFdzJwT1M0VWhOVG1KTGNtbGdYbzNrUEpndnJXNjJnRmZpYU1xRnpnU2RmZ1FIOXhfU0ltNS1ESEdBdEVQM2c3enM5YXlQajM2ZTRwUXoyel9KLUhwNFZaMEk5V2M2MnNCT3FzV04tTkNMQjd2Q29Za19GcjZO?oc=5",
+   "source": "Proactive Investors Australia",
+   "date": "2026-10-20T23:43:30+00:00"
   }
  ]
 }
