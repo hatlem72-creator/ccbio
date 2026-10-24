@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-24T04:52:13.966931+00:00",
+ "updated": "2026-10-24T05:25:02.132743+00:00",
  "usdnok": 9.316200256347656,
  "btc": {
-  "price": 80793.1015625,
+  "price": 80634.2734375,
   "prev": 81311.890625,
-  "chg": -0.6380236131669714,
+  "chg": -0.8333555920192359,
   "currency": "USD",
   "asof": "2026-10-24T00:00:00+00:00"
  },
@@ -87,10 +87,10 @@
        "date": "2026-10-09T07:00:00+00:00"
       },
       {
-       "title": "Kongsberg Maritime secures Extended Thruster Coverage agreement",
-       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeWFRczlOdDNxT3JRMUxZSFpvTlJaZlpDa3h2aExmTl9nU3JQc1lTaG5TM0FkNDJVNmMycVIyaEhZNjBmT0twN1U3cnB4NktaOUI4alNrQU1sY1NiV0tPc0Zad3Z2cGdvT0Z4am4zWTlVQkpBUjVfc3FLajRPOV96R0FLQUZ6Nmw0ZWF2MzJnTXRfQQ?oc=5",
-       "source": "Maritimt Magasin",
-       "date": "2026-10-07T07:00:00+00:00"
+       "title": "AYK Energy to supply batteries for four electric Svitzer tugs",
+       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMWRuX0ZlYjRFOGhMaGl4SDZMNFJjUDBMd0N3NmN3Y21kWmZtZURIZm44SS1rWS1CbDJRRGl3N2p6MnptOVJGcWM1b0thUlFUbXgxQmU2TWFzSlRrakpaM2VQdjRmX3VWZFJaNTloTERWekhqMlVMbko5ZUJQSUFmdkIwOFJjeWEzTGkwR3VhbUpCYllXdmswcm8yMzJfWWFfTmt3SWNsbHFJNkdEc2FQbldkX1J3ZnBQRW91cDRn?oc=5",
+       "source": "Maritime Journal",
+       "date": "2026-10-09T07:00:00+00:00"
       }
      ]
     }
@@ -112,6 +112,12 @@
      },
      "news": [
       {
+       "title": "Price performance",
+       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lZ2Q1OWk4Vl9UcmlWTDBsVzZIWkdZdi1idVpwN2NiZWRoZVNlN3JvdlJ0ZlJyMG5BS2tqX0FVQ3Z3dWFFYzBXQ29PZlgwNWNqVG5ENk9BcHA?oc=5",
+       "source": "Yahoo Finance Australia",
+       "date": "2026-10-20T18:13:59+00:00"
+      },
+      {
        "title": "Form 4 VanEck Gold Miners ETF For: 18 October",
        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc2xwV2VMMWN1RmM2TmhRNFpwajhQaTlZTHg3UkxxWDJWU0V6cjJ0MjQzaWlFcC0ySmtkUm9xck9RcURXVURhM0FCZGdSWmlVbDl5T3BlUDVzRE83R1ZHMWlUQ1ZYNktCSmFfdEVSNjFvdDhieWY0WXBmbnllWkpiNGlyeXVVYzRZUXM1SUI4RnRDUHllX3RENmdYV3J4NWltQzlqOE5ZZFE?oc=5",
        "source": "Investing.com India",
@@ -119,15 +125,9 @@
       },
       {
        "title": "iShares SLVP vs VanEck GDX: Which Miners ETF Wins",
-       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVC1nWXNrZXc5N2xqdnZ5MzdueXd4T3h5OUVKcXE3Zl9vaU52clZabGloNjc5cF94eUJ3TGhzMER5WEJ6THllQm1wTnVpbzhLOExieDg4Q2Qyb0RYcTR4dFJfMU5VRmZMd1NoWFZuUjBiTU4zc1l3RU5WaVJQZmF4bmttOXlmWWRjVjBxcXNtUjVUQWZKODVuc29oaw?oc=5",
-       "source": "The Motley Fool",
-       "date": "2026-10-14T07:00:00+00:00"
-      },
-      {
-       "title": "GDX Vs. SGDM Is A Draw, Gold Miners Are A Buy (NYSEARCA:GDX)",
-       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd0pJYktfcjZ0Z3gwNjBJeV9aTE5ESjczNXU5S1Ftanltdm9RY2dVbkdHbEtvSWpEdEVNWXFtaXlaU0V4UVNneEt4UGYxYmQxa1IxMmwxcndGM19zOXh6NTFqQ1ZoTzdEMHBUOS1FTUJCMmdUQ1ZYQlJwTlRkWGJtN3VBN0xtc2ZTZjJZVw?oc=5",
-       "source": "Seeking Alpha",
-       "date": "2026-10-11T07:00:00+00:00"
+       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU2Y2Z1M4c3l5RXc2RTRGMVl1YUtVY0Znb3Y0ZnNkVE5IaVE1LXF3UG01a0pCNjZfRTZwWUZhR0dEWnc3WFFUbWRnY0M3bk9WdlRhMFBFcXBIMVhtZlpvb0U1VGRrMWtaal9jWTVqMXJSdlJQekNPVmZTcTV5RDh3b3hGenZRMUNBY1VLUzJnRUxiS0dSQ2w5cWtlNl92UFBDdjhiSVJ0UXFTSDl0N2VmNlgyZ2Z1dWVyRTlzQmlIWlgtT3FqblE?oc=5",
+       "source": "The Globe and Mail",
+       "date": "2026-10-14T10:21:05+00:00"
       },
       {
        "title": "Which Precious Metals ETF Is the Better Buy: abrdn\u2019s Silver SIVR or VanEck\u2019s Gold Miners GDX?",
@@ -242,10 +242,10 @@
        "date": "2026-10-16T11:17:35+00:00"
       },
       {
-       "title": "Hycroft bonanza grades at Vortex: underground start-up lens for mine planners",
-       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNTFrOElxaFViZUJYNk5PaHZ5Q2dGVGZzeGN2RTJwV0daaDlqNlRXYVNIN0t1bTktYmR0Q0lvYndtQ1BweWNGOVpUeGZBUVNVYTkxR0JqNldqMXFuZXdyWGNLR3dYdUJMWWJjZjNCYmZNUnctSVBQRkxqWXViSTNRTi04bUZVeUY2aDBfakFhLUFfNjQ3X0pfNWliX0FWekFtNXJQZGlONGJiVzh6dnZTd1V4NF9wd0hm?oc=5",
-       "source": "Geomechanics.io",
-       "date": "2026-10-15T07:00:00+00:00"
+       "title": "Hycroft Mining Holding (HYMC) Hits Record Drill Results On Questions Over Whether Value Is Already Priced In",
+       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRm8xbUV6TGk2eW1CU2J5VnlkTmxicFUzeHk5eU81eUlrN21ROUhVOVVOcUplM1pMdUdBazBiSDF4R1JMeTNBRnBtQ3laM1R1cWNwRHlQU0NWZjEtN2l6X2xvTGdXcmhYajFXbXBjWkZSdnRSWXp6LTB5TFVPT3BPVlc1OHlKR08zUDhBUDlMamNncE9UdXNDZGRjSGxRUQ?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-14T07:00:00+00:00"
       }
      ]
     },
@@ -261,10 +261,10 @@
      },
      "news": [
       {
-       "title": "Price performance",
-       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5lX0JxWW9TdEptRUhxZ2hnWW1Kc1NDdG55VlJ6MlM4SUFPSUI4cHZlVVo3ckE4WmMwYU5PWFV6czczRU1xZ25sTDBKMGFLMFFmVjFISE5WYw?oc=5",
-       "source": "Yahoo Finance Australia",
-       "date": "2026-10-17T16:03:13+00:00"
+       "title": "Weekly Video (10/18/2026) (Aris Mining, Avino Silver) (NYSE:ARIS)",
+       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOG9OcDFXUmxUanJJZUFpUTFVaGdlclQyT1NBYjRheFFyaHUtZmRTMFRqaVNXSlFMdFd4SjZVTlNEWS1LR3dqYzlhZE83T05FQ3pYdjBNWnVmTE9Xc2FEYU1rdFRXRmZYNkh4aVZKTlhaLTVsaWJGR3ZHMWd4ejBhbXZCcnU1S2hwb0o4bVdzWmhRbmMxY0IzZEUtd0RNeFF3Z3hFUUJOVXVaMHVpbjhMTkw0YjQ5ZHNuQ1JVNXNfZGY?oc=5",
+       "source": "Seeking Alpha",
+       "date": "2026-10-19T00:06:32+00:00"
       },
       {
        "title": "Avino Silver (ASM) Rises As Market Takes a Dip: Key Facts",
@@ -292,10 +292,10 @@
        "date": "2026-10-21T21:44:26+00:00"
       },
       {
-       "title": "Coeur Mining (CDE) Stock Looks Undervalued Despite Recent Market Pressure",
-       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMk9lTGVNRzROWUY4UDNfNVhkbDg3SVFZM2VuVXY3dEZlUUEzQnFCamdlTVo2UEpwY3dpd2RCM0VldTQ4RXg0dlR5a0RPQXdwZnlKbW5VdzByYmJsYnVIa2N2NEgtRHdnbl9BVjhOMHlMNnhCY1N0RXgyUFlnOGQ5VDR5UVV5OHU3R2hsZjNwSUxIVldjUjZ2Rg?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-19T22:19:48+00:00"
+       "title": "Coeur Mining, Inc. (CDE) latest stock news and headlines",
+       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE03RlVCaGVkUW8tSTlEMm4wc1YxM1pNd2pxMENSSFNlZkZzWmw1X2VTT2tqWVdnWkUySmJRMWZlWWMwemV4b2FSZ3ZadHZKZzJCd0R4M2hDVQ?oc=5",
+       "source": "Yahoo Finance Australia",
+       "date": "2026-10-20T07:47:07+00:00"
       }
      ]
     },
@@ -311,16 +311,16 @@
      },
      "news": [
       {
-       "title": "Silver Miners Grapple With Strike Disruption as Macro Data Steadies Prices Near $57",
-       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPamZiTnFRcXlFbGRRVHVhcTVRVlpIaW1QUVRUVjBYTUVyX0VGbkZyNzA1SkE4Z0lvaFE4X2R0ZEwxdlVRbDJXZ0N4OEtRU0NwbkY5Qzh1Sno2UUhTbmx5dEF6bEd3ZzRRdnhnMWN1YkpGeDJVNWZndGhGOHNvQ2l2SUY2dmh3SG5WdzNRSGk3YjV3dmpLeDRjMWEzc1ZteDZOOFRxTEcxbDRPamtRZzdhZVRvZUNZYkIzSWstTDFLOWdoQzRmQXNqYVhWYUVsaUh4TWhxa0pDRnVHRjg2S3FuelU4eEV4UWJFSkE?oc=5",
-       "source": "AD HOC NEWS",
-       "date": "2026-10-18T09:02:12+00:00"
+       "title": "First Majestic Silver Corp. (TSX:AG): S&P/TSX Silver Watch Turns to Production and Mexico Settlement",
+       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMXAzX3hlREVqVWpwVGVCT0FHZncwaHhVTmdHN2lKLWJHLXdlUUtSeklwenBNVm9nbENVQnZfMWVfdTBmUHNnUGFTVmw4clo1cTJtMnZHcFdhWHRuUkk4eUVKTno2Q2lhWk5xT0NYSXc3UUZpZVVOcFdPTVNpX0pWOWJJN2dpNzVyTzBLUzI1Zm5MZG5FMUl3YnhfcUxjZFB0Rk9pRUQzN2ktSE5JWVB4TzBpNktCSjNNdU03UDFCX0pVdw?oc=5",
+       "source": "kalkine.ca",
+       "date": "2026-10-16T18:52:00+00:00"
       },
       {
-       "title": "First Majestic Silver Hits Pause on NAFTA Fight as Mexico Tax Deal Takes Shape",
-       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYkdWMWdqNGhTcHQ1dFVvWHRGNlNoZWVfcGRTbG55TjBZUzRGT2thNmo3RDVHYmxqNFNmSEhDM0t1TExkYnhuaDRYbmFwNXppR0dZaC05UWZwN0RVWVFYaTJhRHNjS05qMW1iN3d5UEF1bERyeWVJbXFsd29ERU1uQzhKRlhnRVRsRXcwRG1qaFhHM0RUbEw3LW5qek11cGlQa0preWdvUUtzMzJYYVJEang1aHlBSmYydmNZQ1M5dlppcGlqOHVTVTdacFo0YjJ4eFE?oc=5",
-       "source": "Streetwise Reports",
-       "date": "2026-10-17T08:08:18+00:00"
+       "title": "A Tax Dispute Pauses in Mexico: What First Majestic Revealed",
+       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTGhyX0dMTWVUWUVjblIyM2doa1ByYmNlZ2tHcmNObEVQV1JDanM5aGpIU1ZOa1lCSGxVMXluWUxzRWdBSmdDY0RKWC1vUjhwRktMYmp3b2tNbWxaNU5jeGtod21CQjV1ZHAyQU9CcXktTHl2SFJKWWllOUVzVmZyUC1mdXBBUjY1QXozQzB2Y09VTDFJT1Q4ci1lY0EyWE8yS1AzdlVQQ3NTeU9qVVUwbw?oc=5",
+       "source": "Kalkine Media",
+       "date": "2026-10-16T16:58:00+00:00"
       }
      ]
     },
@@ -336,9 +336,9 @@
      },
      "news": [
       {
-       "title": "Defiance Silver Corp.: Defiance Silver San Acacio Drilling Returns High Grade Silver; Additional Holes Pending from Lucita Drilling",
-       "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPelpFQ3ZQTkVBaWdVc0UyZ3g3MGNkUWRPVDM3ekV0VUh6TjdmZV9IODRvdkhORENZSFhGUzM2ZWpQa0szLXBfSEt5UUc4TnRGcUFYekZQOTI3V3JDUlBscXVQd1BPRkNzdk1nZU5tQTZTaDFmNUJXSDUwN2dfVFdmM2dLaWwzaGctTzRNNEFPbEx6cFJ1SmQ4UFZibkQ1UWdjRm9CdWNxSl91WUViNEwzTV95cEtMS0hQbHNnRTg4ZWVCU0NCZTFNUFBIODc0VkxIZWVVd2s3UDE1bEt3QlYtUVZVb2RjLUpaNjN0VjlQaVljUkFCQlQxaUFXRHAtTkFjYTBmV0Q3Z1d1bjF4cXM4Sm9PSXJkZk5PTjJmZDVKNlFocFlQ?oc=5",
-       "source": "FinanzNachrichten.de",
+       "title": "Defiance Silver reports strong silver and gold assay results from Zacatecas drilling program.",
+       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQalExcFZXR0hjXzJnbDY1YmFJRkRRNGdlX1pJTnByb0UyU0pxRUU5eFhiVm5ianVvSVgwV1lud093Y3JmZVN2SmFfaTJMQ21aOURWXzdlMkxUQjNSLUs5dUIyZDBkR0RnSHc1U3N2SkZHZ0liQUl1YjZacGx3ZDNpZjh0eWpGQUJBTnhMd25SUjZrRkp5aHFvcjEwWlVjelE?oc=5",
+       "source": "Pluang",
        "date": "2026-09-09T07:00:00+00:00"
       },
       {
@@ -612,10 +612,10 @@
        "date": "2026-10-23T18:19:00+00:00"
       },
       {
-       "title": "Nvidia Stock\u2019s 2 Critical Flaws and More Reasons an Analyst Says Sell",
-       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5SVktBZjJfVEV6cG1KNTRURUZ5MUNuSmFSeW5aeldtcWg4LWNkZC05TVVmRmhZYzhSWnNtbG81Vkt0ellCTWZ3dGRYMGptZ0xfZGdCTU8xY3lmR2tjNE80NE5MZ0l1R3M5M0xHV0k2THFIYk13QXlRRU5hSFdzZw?oc=5",
+       "title": "Nvidia Stock\u2019s Two Critical Flaws and Other Reasons This Analyst Says Sell",
+       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVkJjcjhkc01sV0RFdHFxeVhzUU1DTjdyTUNoeWU0RjBPbWwtZWxOczlySW1fMFNMemJiSmdvVHRSUXlLcVNKSE9xQnd6eFcyYl9QY0s5c1dhT0R1eVRodW00ajhwR1ViYlpseGtySzFrN0w4enowM0Q3YllGTnJBaExhNjBHVVN2?oc=5",
        "source": "Barron's",
-       "date": "2026-10-23T16:33:00+00:00"
+       "date": "2026-10-23T11:06:00+00:00"
       }
      ]
     },
@@ -687,10 +687,10 @@
        "date": "2026-10-23T12:05:00+00:00"
       },
       {
-       "title": "How Meta Stock Can Be Both the \u2018Cleanest\u2019 AI Winner and a Risky Play",
-       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5DajFQVmM2bGkwbGwwRVdiS1JIZEcwdE52SkRyMTZLWnVOWUdjMWdaaVViZC14WXpqQTVXSmlPSFJkWHk5eDBLTk9YQlNuSHI3NC1uaTRGaDFPX3dEVDJwNUV2NXdvMnBCQngxZnZ3NHFYQ3ptdWxMSE5CeFZyUQ?oc=5",
-       "source": "Barron's",
-       "date": "2026-10-22T21:00:00+00:00"
+       "title": "Meta (META) Stock Price Sinks As Q3 Results Expose AI Cash Strain",
+       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMzVBMGwyWUYwOFhIdXZwVV9lZ21BQUVzWGRGOVI3N1pRSENCTDZDSmk0YzdvSTBrU2tqQ2ZkNUw0am5mRm1CSFg4WGh0Nkg1OXpRcTZTeS1xRXJPcFpyekltdEE5NV9SRG9MTFduaGczbHhRcDNpRWdJM2FraFZjUHFDOVF0clVqT011UTdZVm1YdTFfM0Zj?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-23T06:09:04+00:00"
       }
      ]
     },
