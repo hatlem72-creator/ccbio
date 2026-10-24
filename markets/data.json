@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-24T17:06:46.387569+00:00",
+ "updated": "2026-10-24T17:46:20.218996+00:00",
  "usdnok": 9.316200256347656,
  "btc": {
-  "price": 80122.3828125,
+  "price": 80081.703125,
   "prev": 81074.1875,
-  "chg": -1.1739922617170828,
+  "chg": -1.2241681422956008,
   "currency": "USD",
   "asof": "2026-10-24T00:00:00+00:00"
  },
@@ -32,28 +32,28 @@
      },
      "news": [
       {
-       "title": "KONGSBERG Wins 10-Year Vessel Traffic Service Contract At Port Hedland",
-       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYkltQnNOWTJ2dXFMQmlTeU11Zy12RW51aHRLZ0Y5QmpPSTRpTVRJNmlMdjNmRjlXY0txV1B2TDhpT0VsM1N5TDlVaDFQZks3cXV0Sml4aWszTEFKbnlhQk9GMzRnRHBvZ3lHNGpnN3hxV1pucVVveXlrZG1SNjNnNnBXUVhQRUhjaUpKOTlsREh2R3dSSjEwUmVnaXFCS2NlQnFtNlk5bWZFNzk4VG11UXVPZDFBTEs5?oc=5",
-       "source": "Ocean News & Technology",
-       "date": "2026-10-21T13:36:19+00:00"
-      },
-      {
-       "title": "Kongsberg signs NOK 400 million order as Nordea targets Kongsberg stock at NOK 400",
-       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeURKMl83dmdGVzBweURYX1VyNjBPX2hMQTY4ZTVxTDVxUzNLZjhBMVlRbWMtZC1HWmhCU2FSSE1zZl80aTlwdUdFQ3FscXZ3YmJ2NElaMlZ2RllJeGdsMDdFYzBVMUo5d3prMGtsaV9PRm5pdnZJdUF1aG5lUFdSWExpNG91UXdFZjc4RGlPdE8zdExBTXp2U2M0WmRjOE5rSG93dkVrdFA1Yi1VQ3l2RDBaUXN5TnVEZ3otdFE5ZTlUeU1Ub3Y4bTlBZ21oT3lrNTJiRG1CclE?oc=5",
-       "source": "ad-hoc-news.de",
-       "date": "2026-10-20T11:56:07+00:00"
-      },
-      {
-       "title": "Denmark orders more Kongsberg Naval Strike Missiles for coastal defence",
-       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM052NnNWYnFlTW9nQ0JlLW52VGVfRlNic3NWcGdiVTlkR3gxUm9HdjZpQUJlUmR1Tllkcm14bF9ZWDRJckE0WVdZUnlaNFhncGtJelh2eHdERUtjbmlCbklPMzF3eElLZGNmMy1yeHB3LWlJRmM3Y2pBYXNfbjFRWUo4a0E4Nkg2ZklxaHlJa29BOU8wZ1dnZ0J6X0ttc2dYQkp0YTNOTlU?oc=5",
-       "source": "Dealroom",
-       "date": "2026-10-19T07:48:39+00:00"
+       "title": "Kongsberg Gruppen : secures contract with Pilbara Ports in Australia",
+       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRUtDUGZmYkE4aTFsbzFTU1I2ZzRsSEJSWDJyVUdGbndrc0t3MHRiaDFFZnRPTUVoZGp5WDlEdVM1eE85OE1LcHNjRmlfWjNjYm1WVnFNbGNfNERGY1BpVlYyQWg3Mzctc1hxazA2ZTh6YkxkSWlSTmxrTHJNVXlydjBtUTZfZlY0SENSbm1UTTNUdmZscmtTRG9RdkpueEpWU2F3WHR3eS1hTTdtMG45QmtsLXM5MTl1alJv?oc=5",
+       "source": "www.marketscreener.com",
+       "date": "2026-10-21T10:08:12+00:00"
       },
       {
        "title": "Kongsberg Gruppen (OB:KOG) Stock Forecast & Analyst Predictions",
        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPczBYT2c3eDhYYUZhdlFkZUR1VUpZeEs4U2lGZTIzaWFLdFYtb29YRHgzVlQyT3lYQ3Itd1gxdzFsaVUtMHFwYWtZRXRISVZaeWdoc0VsT05lVG9FNjEtNkp4djR2cGdTbEJsSjNrclJfUXJQeld1enBQY3RUaFA1bU5ndmpUMlNCaUR4RA?oc=5",
        "source": "Simply Wall Street",
        "date": "2026-10-19T07:00:00+00:00"
+      },
+      {
+       "title": "BofA Sees Q3 Order Beat, 'Demanding' Margin Expectations for Kongsberg Gruppen",
+       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdXRIWU9SQVo2WlVPVHBvWFpkY25uWjRqTEpOVzdwdGJiNmpubnh1VWNDR3FNVnRzM0RiRlk2Y3RzcHhqeUFmYmZFNUE5aFV4UmhDelhmUUJUV1VyZW9kNXBHTTNzYnEwYUFmUXQxSFBpQ1lMOXB5UGNpM2Z3YVNiME1vV29yVzYtZ3I3ZHNzcmNtMkFONFlCU1hpZm55Zms1ZDVHbTNENnJ2Sk90ZWIwMzFBNTFCMENhTGZvX2FmQmp0LUtpXzBv?oc=5",
+       "source": "www.marketscreener.com",
+       "date": "2026-10-19T06:55:28+00:00"
+      },
+      {
+       "title": "Kongsberg Gruppen ASA (KBGGY) Stock Price, News, Quote & History",
+       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRaGdvcHVOb3VCbVhOc0VLQ3RCaV81WHZURzdfa1VOOTRQeFpqWkJ2cFZvQjVJR1IyREpqU2lmQWdyMDdBQ3RKRkJLczJGb1ZDOGhr?oc=5",
+       "source": "Yahoo! Finance Canada",
+       "date": "2026-10-18T16:31:14+00:00"
       }
      ]
     },
@@ -242,10 +242,10 @@
        "date": "2026-10-16T11:17:35+00:00"
       },
       {
-       "title": "Hycroft Mining Holding (HYMC) Hits Record Drill Results On Questions Over Whether Value Is Already Priced In",
-       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRm8xbUV6TGk2eW1CU2J5VnlkTmxicFUzeHk5eU81eUlrN21ROUhVOVVOcUplM1pMdUdBazBiSDF4R1JMeTNBRnBtQ3laM1R1cWNwRHlQU0NWZjEtN2l6X2xvTGdXcmhYajFXbXBjWkZSdnRSWXp6LTB5TFVPT3BPVlc1OHlKR08zUDhBUDlMamNncE9UdXNDZGRjSGxRUQ?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-14T07:00:00+00:00"
+       "title": "How Record Drill Hit At Hycroft Mining Holding (HYMC) Has Changed Its Investment Story",
+       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQkxDUkRHazFIX0RsSmxjMW5rY0pTdUpPZWpvYUM4UmxZQ2g2em9YelJoQzMyNzV4NXc5bEpiaXpLam4xNU8wSnpiZl9SMGt5VjZuVDYxSm0zOUl3U0xsM3FVbTlMbEtoVUxTTEdpUnljMFhYYkN1amdHemlTcnJWU3A0SnktcG92VGpBQ0wtakhJMGdwMkZmSElBV3I3dEpzQUJsZ2oybTZUbi1sWldDZUhGdG9qYTFfNFlPbmVidVVNNzJnT1pMOFEwWEJZS05ZSkY1YXhkeWN3QdIB3wFBVV95cUxNQ1Vpb0tPN0xKdXlRMG9iOGFNUmJORmlOcEpGUDY0SmtqdzdMRkNLc0syVmpiMHIybWU4bUNCYVdhQTVjcXctbnBLNHNJX1hGeWxDOHpoSmtoaGxnRnYwTWF3WnVCVEdCMk5LNmwxX3lZWnN2MW1qWkFWcnhiZzBvRFlZQlFrLTU0eExudy1ZMld4QWhXdi1kZnNIaFUzVnBpNjF4M01DMlpxMHpxUHVTYnhyVDMxeFZtbUtqdTF5Tm9hdWRFZzEyWkY1YUVoVTZQcUYtekI1c3lfWlprdHJJ?oc=5",
+       "source": "Simply Wall Street",
+       "date": "2026-10-14T16:08:01+00:00"
       }
      ]
     },
@@ -261,10 +261,10 @@
      },
      "news": [
       {
-       "title": "Avino Silver (ASM) Rises As Market Takes a Dip: Key Facts",
-       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNM0VMeUNmRGhBaWZZd21tV1E2YlczaWRndkpCY0ZnTk40c0FWeC05aExqNEdldmgwOXBrNjlld2RlUHhFU2drbk9BZWU3TmxUZnhwUE5VSy1hRU9yb1o1ZWQ3RS1Qc0ZfZjlMUV9XUlBnRE14dVZNZ1VvMm5iU1ptWVotMHkxUFdrR0VCb29FcUJtdlIwNGtpeGtB?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-16T21:15:05+00:00"
+       "title": "Weekly Video (10/18/2026) (Aris Mining, Avino Silver) (NYSE:ARIS)",
+       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOG9OcDFXUmxUanJJZUFpUTFVaGdlclQyT1NBYjRheFFyaHUtZmRTMFRqaVNXSlFMdFd4SjZVTlNEWS1LR3dqYzlhZE83T05FQ3pYdjBNWnVmTE9Xc2FEYU1rdFRXRmZYNkh4aVZKTlhaLTVsaWJGR3ZHMWd4ejBhbXZCcnU1S2hwb0o4bVdzWmhRbmMxY0IzZEUtd0RNeFF3Z3hFUUJOVXVaMHVpbjhMTkw0YjQ5ZHNuQ1JVNXNfZGY?oc=5",
+       "source": "Seeking Alpha",
+       "date": "2026-10-19T00:06:32+00:00"
       },
       {
        "title": "Avino Silver & Gold raised to Buy at Roth on valuation, La Preciosa potential (ASM:NYSE)",
@@ -681,10 +681,10 @@
      },
      "news": [
       {
-       "title": "Meta Stock Plan Seizes on Novel Chancery Ruling: Delaware Brief",
-       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTEVjYk16NkVlcGE1QXdJcFFURml0X3p3N3lBOGJkcHJTZ0p4NXlrOFRtNDRURGlhTVQ5SFNRWGl3bG5waXJDVHppUVU1YjhwcGt0MlBwWnlqTlNQa0FKNGVCWDY1UFVfMlNkQWFOdElDWE9fVURCTEZBY1kxNmJuQURScER4endGUkhTa09EVUdtb0NKYkJ4U1dnQXNUSm5CS3A2UC1aZXEtMXM?oc=5",
-       "source": "Bloomberg Law News",
-       "date": "2026-10-23T12:05:00+00:00"
+       "title": "Is Meta Platforms Stock a Buy as Revenue Continues to Soar?",
+       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNd2FTR2VVcnNyQXoyWndTa205TWVDOTZhTTdudU0yWUlPMERDXy0zVnRlSHgtNkJRWGJyTEtqUXl0WHZjeUNKYzNWdk5ZeEtnYmZUWjJKbmVfaVVtOTJ0QlhYOWcxSVVabFBKQUtZVF9wM0M4WUU5RXBQT2JRZXZwd0NOWUd1aUoyUC1rVGxyS1g0V3Jvbm5sU1BxX3Fmdw?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-23T11:01:00+00:00"
       },
       {
        "title": "Meta (META) Stock Price Sinks As Q3 Results Expose AI Cash Strain",
@@ -712,10 +712,10 @@
        "date": "2026-10-23T14:25:00+00:00"
       },
       {
-       "title": "A SpaceX-Tesla Merger Feels Inevitable. Is It Actually a Good Deal?",
-       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1EYkNEUzhKOXF6UWRTVU5BOF96TW9rNzFKSXRuc0VVU1VRdDdJWjNwNnYtRjhIc2tXM001Z0xLZlVXTFVmcUQzRlhBWmpHZ18xd2NlZzcwVTBvTXVxaWdNMV9MbFp2VFRnLUFmMGFHb01hV2UySVBMNWNmSmxjdw?oc=5",
-       "source": "Barron's",
-       "date": "2026-10-22T20:16:00+00:00"
+       "title": "Buy, Hold, or Sell Tesla Stock After Q3 Earnings & SpaceX Merger Talks?",
+       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nUFdocnZoM3U3ZXQtSFQxc3h2bHJFX1JMVGUwRk1xbzMtUHZQQmt3Yzl0QU1lbEJvTjI5dkVIc0NZUlJJMnBBbXRTUVNhVWJ6bGE2VWFDaXZxTGJfX3FHMnBVX0NLU0ZqNEhNMDY0cUxVWDdscm9JbmlNa3hiS0E?oc=5",
+       "source": "Yahoo Finance UK",
+       "date": "2026-10-22T22:17:00+00:00"
       }
      ]
     }
