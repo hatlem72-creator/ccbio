@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-24T21:03:15.532131+00:00",
+ "updated": "2026-10-24T21:48:35.514534+00:00",
  "usdnok": 9.316200256347656,
  "btc": {
-  "price": 80357.390625,
+  "price": 80277.34375,
   "prev": 81074.1875,
-  "chg": -0.8841246481810283,
+  "chg": -0.9828575216988766,
   "currency": "USD",
   "asof": "2026-10-24T00:00:00+00:00"
  },
@@ -38,6 +38,12 @@
        "date": "2026-10-21T13:36:19+00:00"
       },
       {
+       "title": "Denmark orders more Kongsberg Naval Strike Missiles for coastal defence",
+       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM052NnNWYnFlTW9nQ0JlLW52VGVfRlNic3NWcGdiVTlkR3gxUm9HdjZpQUJlUmR1Tllkcm14bF9ZWDRJckE0WVdZUnlaNFhncGtJelh2eHdERUtjbmlCbklPMzF3eElLZGNmMy1yeHB3LWlJRmM3Y2pBYXNfbjFRWUo4a0E4Nkg2ZklxaHlJa29BOU8wZ1dnZ0J6X0ttc2dYQkp0YTNOTlU?oc=5",
+       "source": "Dealroom",
+       "date": "2026-10-19T07:48:39+00:00"
+      },
+      {
        "title": "Kongsberg Gruppen (OB:KOG) Stock Forecast & Analyst Predictions",
        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPczBYT2c3eDhYYUZhdlFkZUR1VUpZeEs4U2lGZTIzaWFLdFYtb29YRHgzVlQyT3lYQ3Itd1gxdzFsaVUtMHFwYWtZRXRISVZaeWdoc0VsT05lVG9FNjEtNkp4djR2cGdTbEJsSjNrclJfUXJQeld1enBQY3RUaFA1bU5ndmpUMlNCaUR4RA?oc=5",
        "source": "Simply Wall Street",
@@ -48,12 +54,6 @@
        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdXRIWU9SQVo2WlVPVHBvWFpkY25uWjRqTEpOVzdwdGJiNmpubnh1VWNDR3FNVnRzM0RiRlk2Y3RzcHhqeUFmYmZFNUE5aFV4UmhDelhmUUJUV1VyZW9kNXBHTTNzYnEwYUFmUXQxSFBpQ1lMOXB5UGNpM2Z3YVNiME1vV29yVzYtZ3I3ZHNzcmNtMkFONFlCU1hpZm55Zms1ZDVHbTNENnJ2Sk90ZWIwMzFBNTFCMENhTGZvX2FmQmp0LUtpXzBv?oc=5",
        "source": "www.marketscreener.com",
        "date": "2026-10-19T06:55:28+00:00"
-      },
-      {
-       "title": "Kongsberg Gruppen ASA (KBGGY) Stock Price, News, Quote & History",
-       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRaGdvcHVOb3VCbVhOc0VLQ3RCaV81WHZURzdfa1VOOTRQeFpqWkJ2cFZvQjVJR1IyREpqU2lmQWdyMDdBQ3RKRkJLczJGb1ZDOGhr?oc=5",
-       "source": "Yahoo! Finance Canada",
-       "date": "2026-10-18T16:31:14+00:00"
       }
      ]
     },
@@ -69,15 +69,15 @@
      },
      "news": [
       {
-       "title": "Kongsberg wins four-vessel IWS offshore wind deal",
-       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVVZlNnJaV2ZVTGxsWlJoeWpXdkU2M1ZQX1NrYjluV2JnSXpST2hOQ1NMLVB5WFFQVDU4M2RUd0lwNFhHS04xSlBFSmZ3enJha2xCcXhLWXQxbW5GVFZRVjZFOEtSYlYwQ1FaeHRZc05hUlRKWHkxeHQ1MkRLZ3Zkek1MbHlsSHVGTGRMamxSOHA?oc=5",
-       "source": "reNEWS",
-       "date": "2026-10-13T07:55:16+00:00"
-      },
-      {
        "title": "Kongsberg Maritime secures deal to support IWS Fleet expansion",
        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQWltZ2xjTnZkU2tiaGNBb0VWai1IYVZLeWltajVsd045aUFTTk1SazdGWmxJRkpUMHBiUmNSSTVST3dkR0hKaUtyRkMtX2ZwUlhUYlhsVVV6VzRlY0dMVmlsWU9QVl8zdXdSQm1GQkhQN1RrTmREUHV6Y1k5dmlyaFhKVE5OU3lCMUU0c2pldU1iaEVXNFRzTTRTQjZuam43WmowZUxR?oc=5",
        "source": "4C Offshore",
+       "date": "2026-10-13T07:00:00+00:00"
+      },
+      {
+       "title": "Kongsberg wins four-vessel IWS offshore wind deal",
+       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVVZlNnJaV2ZVTGxsWlJoeWpXdkU2M1ZQX1NrYjluV2JnSXpST2hOQ1NMLVB5WFFQVDU4M2RUd0lwNFhHS04xSlBFSmZ3enJha2xCcXhLWXQxbW5GVFZRVjZFOEtSYlYwQ1FaeHRZc05hUlRKWHkxeHQ1MkRLZ3Zkek1MbHlsSHVGTGRMamxSOHA?oc=5",
+       "source": "reNEWS",
        "date": "2026-10-13T07:00:00+00:00"
       },
       {
@@ -311,16 +311,16 @@
      },
      "news": [
       {
+       "title": "First Majestic Silver Corp. (FMV.F) Stock Price, News, Quote & History",
+       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5adU9BYVRxMTBmLVZxMmRKVXRoZjRJMTBmelNvdTBKR3JjUkdXVFpBekxGY3V2RFRtMUZFZlRZaGZZemstZFBZTDJlQTAxSzNJRWg0?oc=5",
+       "source": "Yahoo! Finance Canada",
+       "date": "2026-10-21T06:37:23+00:00"
+      },
+      {
        "title": "First Majestic Silver Corp. (AG) Options Chain",
        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOXYyVHFIRG9tYUtQTURzNnJCdFpIb0N3dDF6cUpVQlctcEZZZXl6RTNkMC16MHZVNVZDWjQ2d3diZy1pUUNSbjBjNWQ2Y3REUUg3MDJNclBqOFVDMFhOaXFzVHNvSXFzN2tJb3ZfTG53OGQ1ZW1jRW9QVzZ4bkZwX3JkNFY4b0xDSHU4WnM2UQ?oc=5",
        "source": "Yahoo! Finance Canada",
        "date": "2026-10-19T18:36:52+00:00"
-      },
-      {
-       "title": "First Majestic Silver (TSX:AG) Stock Forecast & Analyst Predictions",
-       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQU01zZWtmOU5vZk5EX1hEOEpIZG1Ea25XZjNrdWNLTVliOEFxSHJjc0RfVGV1X3dKZHZPMTRCZ0wtRWZjTGc3WVpLYlR4YkpZYW1ZajhuNzc2ZXpIYWwzcFVvTWMtTlZNeGZUT09talEzeFVnQ0hkcFh6SXpoSDNkTUowTlpmUmFtMVgtMQ?oc=5",
-       "source": "Simply Wall Street",
-       "date": "2026-10-19T07:00:00+00:00"
       }
      ]
     },
@@ -562,10 +562,10 @@
        "date": "2026-10-23T19:03:00+00:00"
       },
       {
-       "title": "Apple Hospitality REIT (APLE) Moves to Buy: Rationale Behind the Upgrade",
-       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOUtLQjJ1SUdTNXZ6bk9kb3BqRjdHWEt2WjczQzJ4V3dkZ0s1OHFFQWJmOVk2ZndMaFhDdVZzRUUzMFU2RDl1VmRTR01wV01pNUpSbVBjYkQyR2ttUU9PRGdMbjFOcTNhZG1FWUZBUF9KMnd5R3FZeGZZM2hEQXlVREhxYWdPVEJucnc?oc=5",
-       "source": "Yahoo Finance Australia",
-       "date": "2026-10-23T15:00:03+00:00"
+       "title": "Apple Is Up 28% This Year: Take Profits, or Hold On for the Ride?",
+       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUzNQMTRxbVZYUUxNR1BTV3o2R1V6Z05QX1Fkbllxem91N1FpRUswRE96VDRuNGVTdEh6dlRTZ1p0VmFxZ3RlUEVGLWc3MG9XT0xhZHROUlpYNEFDeDlwN25kQWpCOXNPbWdwc19mV2J4QU9vSERaeXJCTzU5dm5kZHVUdjE0SEROVTFPR0FXVHk2TTZJcVE?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-23T18:33:48+00:00"
       }
      ]
     },
@@ -681,16 +681,16 @@
      },
      "news": [
       {
+       "title": "Meta Stock Plan Seizes on Novel Chancery Ruling: Delaware Brief",
+       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTEVjYk16NkVlcGE1QXdJcFFURml0X3p3N3lBOGJkcHJTZ0p4NXlrOFRtNDRURGlhTVQ5SFNRWGl3bG5waXJDVHppUVU1YjhwcGt0MlBwWnlqTlNQa0FKNGVCWDY1UFVfMlNkQWFOdElDWE9fVURCTEZBY1kxNmJuQURScER4endGUkhTa09EVUdtb0NKYkJ4U1dnQXNUSm5CS3A2UC1aZXEtMXM?oc=5",
+       "source": "Bloomberg Law News",
+       "date": "2026-10-23T12:05:00+00:00"
+      },
+      {
        "title": "Is Meta Platforms Stock a Buy as Revenue Continues to Soar?",
        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNd2FTR2VVcnNyQXoyWndTa205TWVDOTZhTTdudU0yWUlPMERDXy0zVnRlSHgtNkJRWGJyTEtqUXl0WHZjeUNKYzNWdk5ZeEtnYmZUWjJKbmVfaVVtOTJ0QlhYOWcxSVVabFBKQUtZVF9wM0M4WUU5RXBQT2JRZXZwd0NOWUd1aUoyUC1rVGxyS1g0V3Jvbm5sU1BxX3Fmdw?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-10-23T11:01:00+00:00"
-      },
-      {
-       "title": "Meta (META) Stock Price Sinks As Q3 Results Expose AI Cash Strain",
-       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMzVBMGwyWUYwOFhIdXZwVV9lZ21BQUVzWGRGOVI3N1pRSENCTDZDSmk0YzdvSTBrU2tqQ2ZkNUw0am5mRm1CSFg4WGh0Nkg1OXpRcTZTeS1xRXJPcFpyekltdEE5NV9SRG9MTFduaGczbHhRcDNpRWdJM2FraFZjUHFDOVF0clVqT011UTdZVm1YdTFfM0Zj?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-23T06:09:04+00:00"
       }
      ]
     },
