@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-24T13:49:12.104569+00:00",
+ "updated": "2026-10-24T14:23:29.117090+00:00",
  "usdnok": 9.316200256347656,
  "btc": {
-  "price": 80570.8984375,
+  "price": 80229.96875,
   "prev": 81074.1875,
-  "chg": -0.6207759559724191,
+  "chg": -1.0412916564843777,
   "currency": "USD",
   "asof": "2026-10-24T00:00:00+00:00"
  },
@@ -236,16 +236,16 @@
      },
      "news": [
       {
-       "title": "How InvestingPro spotted Hycroft Mining\u2019s 48% decline in advance By Investing.com",
-       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOM3g3Z09MR1dCUTZES3gyX0ZmYlZHYnFNMllWSVY0WDJPZEY1LXhwb20zWDBYUW10WndRbWJ5VnFZM3o1NnRfUFgzOVkwUlNEZDYzMG9lQ3UzaUNidWFEcTdOTGN0YV9lc2dGWC1PQmtCTVZMQ2ROU0NxMllYc2FERWo2RXl4cDlRR1VwR1R1NGRXRTI3S3dTaEhfUUVnbXI0c2hDWDlYNWdreWVfVUVJNm9HQWpmT2ZIdU1nY3JnUmo?oc=5",
-       "source": "Investing.com",
-       "date": "2026-10-16T11:17:35+00:00"
+       "title": "Hycroft Mining Holding (HYMC) Hits Record Drill Results On Questions Over Whether Value Is Already Priced In",
+       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRm8xbUV6TGk2eW1CU2J5VnlkTmxicFUzeHk5eU81eUlrN21ROUhVOVVOcUplM1pMdUdBazBiSDF4R1JMeTNBRnBtQ3laM1R1cWNwRHlQU0NWZjEtN2l6X2xvTGdXcmhYajFXbXBjWkZSdnRSWXp6LTB5TFVPT3BPVlc1OHlKR08zUDhBUDlMamNncE9UdXNDZGRjSGxRUQ?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-14T07:00:00+00:00"
       },
       {
-       "title": "How Record Drill Hit At Hycroft Mining Holding (HYMC) Has Changed Its Investment Story",
-       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQkxDUkRHazFIX0RsSmxjMW5rY0pTdUpPZWpvYUM4UmxZQ2g2em9YelJoQzMyNzV4NXc5bEpiaXpLam4xNU8wSnpiZl9SMGt5VjZuVDYxSm0zOUl3U0xsM3FVbTlMbEtoVUxTTEdpUnljMFhYYkN1amdHemlTcnJWU3A0SnktcG92VGpBQ0wtakhJMGdwMkZmSElBV3I3dEpzQUJsZ2oybTZUbi1sWldDZUhGdG9qYTFfNFlPbmVidVVNNzJnT1pMOFEwWEJZS05ZSkY1YXhkeWN3QdIB3wFBVV95cUxNQ1Vpb0tPN0xKdXlRMG9iOGFNUmJORmlOcEpGUDY0SmtqdzdMRkNLc0syVmpiMHIybWU4bUNCYVdhQTVjcXctbnBLNHNJX1hGeWxDOHpoSmtoaGxnRnYwTWF3WnVCVEdCMk5LNmwxX3lZWnN2MW1qWkFWcnhiZzBvRFlZQlFrLTU0eExudy1ZMld4QWhXdi1kZnNIaFUzVnBpNjF4M01DMlpxMHpxUHVTYnhyVDMxeFZtbUtqdTF5Tm9hdWRFZzEyWkY1YUVoVTZQcUYtekI1c3lfWlprdHJJ?oc=5",
-       "source": "Simply Wall Street",
-       "date": "2026-10-14T16:08:01+00:00"
+       "title": "Hycroft Mining (HYMC) Stock Looks Above Fair Value On Its 494% Run",
+       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUEFMNnBSaV9FNkFEcld0ZmVKMzAyTlFhMEhYTEpBdUVZVkhQaElJdEpEaXB2YkxtTWVOSWJQQmxRZ3dSQmtLdTVsMGZCZkpENVc4Q3pyaHJMXzlNcVFoTjVLUTFhZTAtQndtSUpJLUg2MEFRTEsxYjNLdTZheHNkeHl5WjNYeDJXODZDRWdsVF85YjdILW8xRVJTUXU?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-14T07:00:00+00:00"
       }
      ]
     },
@@ -581,16 +581,16 @@
      },
      "news": [
       {
-       "title": "How much MSFT stock does Microsoft CEO Satya Nadella actually own?",
-       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYWNkVXNVNFRfaXJHQUFEbWpsTjRLLWR2SkJxc1ZyZTJ5RVkxS2Y0SDl0aWNrbEZCTkJTYXN3VW5tYm01WU0tSkhjRTNpamRLRFV5dUF6N1NXVmJTU2hmbkExdGx1MVdreG84M18zMGR4VnZtcUVKZkZhaGJWT3djWVhiSERhSHlEYUgyUVotcE5fanRFb1lOQ1RUTQ?oc=5",
+       "title": "Microsoft Stock And 2 Other Best Defensive Stocks",
+       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWVpjZm1Xekp5NVNiNlVwQzdEVlhMREpvdXlzWUJra255R19LNzhNZGdnQ2xpVnBkSXlGRkpuR0tMT1ZJUVEwOHN0QndXZE5pZGVPUEVFUElfUmxTM1BLbG5fekVXSTFnc1N3aW9mdkpEdEdOR1ltRXlaMGVZQXhWRXBwaUMwekQtaWZpdXhMMWVlVW5xc2ZTTw?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-10-22T17:07:02+00:00"
+       "date": "2026-10-24T12:09:54+00:00"
       },
       {
-       "title": "Microsoft Stock Could Be Closer to Its Next Big Breakout Than Investors Think",
-       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQV0dLdDBXQzBZTkhHc1c5NndxeDVIN0RUSXU3NzZQVExSLWg1OHRaVmtKMU5NUmhVOXlmd0ZEaVluVDR5Qy1LbWkyemlYbnJSMWhyU2ZucnhmWkJaOU9SbkVUYkdOanFDTWJmcUlRcVBDdXU5NVN2bzJpZEV3WEZnUGl6MkVlb2paTTFEVHlSSW05Qmo0Y1gtN2xLNER5em8?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-22T15:30:56+00:00"
+       "title": "Microsoft's Earnings Problem: Even Great May Not Be Enough",
+       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTV9HYlVudzJNZzVQNWxlcW1HTF81bWRIUXFWVlFEaF9RZGxuRkV4a01DVmpZWUw4amdua09URDBSenRGTVNUUWRhc294bFhyNWlzWnA1bTRkS25BZ3VIZEY2dTlCX1ExTk43YXR6YVpyZEw5YzZvOHJRNVI4ZmE2VVdIYXYwUEl4bzZEUUc2RkVpY1ZQZlExcHdfMDZUc0NSNmIybzFHLWdNUkNRb3IxTVUwZVlVMTJtVzZlMTZSTGYxdjI0TTdhelpwRFd1TlRLcnhYZnZLQWkyV05u?oc=5",
+       "source": "The Globe and Mail",
+       "date": "2026-10-23T12:00:00+00:00"
       }
      ]
     },
@@ -612,10 +612,10 @@
        "date": "2026-10-23T18:19:00+00:00"
       },
       {
-       "title": "Nvidia Stock\u2019s Two Critical Flaws and Other Reasons This Analyst Says Sell",
-       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVkJjcjhkc01sV0RFdHFxeVhzUU1DTjdyTUNoeWU0RjBPbWwtZWxOczlySW1fMFNMemJiSmdvVHRSUXlLcVNKSE9xQnd6eFcyYl9QY0s5c1dhT0R1eVRodW00ajhwR1ViYlpseGtySzFrN0w4enowM0Q3YllGTnJBaExhNjBHVVN2?oc=5",
+       "title": "Nvidia Stock\u2019s 2 Critical Flaws and More Reasons an Analyst Says Sell",
+       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5SVktBZjJfVEV6cG1KNTRURUZ5MUNuSmFSeW5aeldtcWg4LWNkZC05TVVmRmhZYzhSWnNtbG81Vkt0ellCTWZ3dGRYMGptZ0xfZGdCTU8xY3lmR2tjNE80NE5MZ0l1R3M5M0xHV0k2THFIYk13QXlRRU5hSFdzZw?oc=5",
        "source": "Barron's",
-       "date": "2026-10-23T11:06:00+00:00"
+       "date": "2026-10-23T16:33:00+00:00"
       }
      ]
     },
@@ -656,10 +656,10 @@
      },
      "news": [
       {
-       "title": "Amazon\u2019s Bee AI Wearables Could Be a New Growth Driver for AMZN Stock",
-       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNEFZWklmV1BYT19HSERSSDZSTXF2ZXlrS0VHMU4ta3ZmdzdJZDBvNVBDb3o5Yk5mMGlmQk53SXBqR1d2YTFheHVVUHVJdUNLazd5Q19RZl9pQWhMTlRialo4MG9fNEhIS2wtdmY5WEgtbnYwZGk2RERsZ1VNYThiMHlyaXBGR0trekhMWDJPWnotMFMzNXJZYw?oc=5",
+       "title": "Should You Buy Jim Cramer and Ken Fisher\u2019s Top AI Stock Pick Ahead of Earnings?",
+       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSzVXMTV4QWdIdXNXRHBGc0M1ck8wNjZMVXotYnhpNEMtb29sVnJ0a0s0YTVTbWw4aWVfSEZUbzh4RnpTbldiZFlRenhrcjJkTTI0dGYzSlZCUGFNbks1LWZEUWdTcmlmSXdCRUJfV1l1NG9Dc2Vrdk4xb3dDWDNWUFRKX2ZoWGR6ZmNwclFzYmZSNjU0?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-10-22T10:51:33+00:00"
+       "date": "2026-10-22T14:22:20+00:00"
       },
       {
        "title": "1 Analyst Says Amazon Stock Has 30% Upside. What's the Bull Case for Buying Amazon Right Now?",
@@ -681,10 +681,10 @@
      },
      "news": [
       {
-       "title": "Is Meta Platforms Stock a Buy as Revenue Continues to Soar?",
-       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNd2FTR2VVcnNyQXoyWndTa205TWVDOTZhTTdudU0yWUlPMERDXy0zVnRlSHgtNkJRWGJyTEtqUXl0WHZjeUNKYzNWdk5ZeEtnYmZUWjJKbmVfaVVtOTJ0QlhYOWcxSVVabFBKQUtZVF9wM0M4WUU5RXBQT2JRZXZwd0NOWUd1aUoyUC1rVGxyS1g0V3Jvbm5sU1BxX3Fmdw?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-23T11:01:00+00:00"
+       "title": "Meta Stock Plan Seizes on Novel Chancery Ruling: Delaware Brief",
+       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTEVjYk16NkVlcGE1QXdJcFFURml0X3p3N3lBOGJkcHJTZ0p4NXlrOFRtNDRURGlhTVQ5SFNRWGl3bG5waXJDVHppUVU1YjhwcGt0MlBwWnlqTlNQa0FKNGVCWDY1UFVfMlNkQWFOdElDWE9fVURCTEZBY1kxNmJuQURScER4endGUkhTa09EVUdtb0NKYkJ4U1dnQXNUSm5CS3A2UC1aZXEtMXM?oc=5",
+       "source": "Bloomberg Law News",
+       "date": "2026-10-23T12:05:00+00:00"
       },
       {
        "title": "Meta (META) Stock Price Sinks As Q3 Results Expose AI Cash Strain",
@@ -785,16 +785,16 @@
    "date": "2026-10-22T17:04:25+00:00"
   },
   {
-   "title": "If a Stock Market Crash Is Coming, History Says Investors Who Do This 1 Thing Always Win Out",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdnRab0Fral84bGI1dHkzTkpLUGZvX1c2N0hpMEpDeWdrald0bVFrdGdFSi1veFRHVVhjckFNalJqOTZTZXpoUGdTZk8wYzFBZTJmWkFVdkZvUl9scG9XOEhWVjlqZ05nVjJodnJyQXRKUUVpYUNpU1FvU0oybzVhRjNBS2M4enBzckp4Y0p2ZEx2UVl2cVNDWg?oc=5",
-   "source": "The Motley Fool",
-   "date": "2026-10-22T16:00:00+00:00"
+   "title": "Gulf Keystone and ShaMaran agree to $601m all-share merger",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYjlUWU5FNjgxMTVfVFZJaWpYeHRZODBnMEpDX0IyUVpUZHQyV0IzbEYwc09Wd2tCMlNKNmp2SzRKbVd1S1l2T3dGbFRpQlRjRTJYSERoc0d3VTl5UUZrWktBNW9RRXdQUEJ5S3ZHLURKR0dwSXZiNUo2c2dhczBpTU9hWDFUUQ?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-10-21T09:13:30+00:00"
   },
   {
-   "title": "AI Stocks Could Crash in 2027: 3 Ways to Protect Your Money",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbV85ajQ2aXg3TkcxRzhGbnhPMkdvOTE0Tk9VaElPQ042bXF2MGN5eUx2dHhTckVhMXMxSEN5NGlBUGJyc3BlSW9rcDBZaXVfRFFwb2FlUFR6VXhQTTBMWjFsMEtlSUZsVnp3M2NnUE13dmJTMERWZXFvY2g3b04tUGJVaFdELTdkYzhWWGtsa2tvdHhLY3c?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-10-22T09:26:48+00:00"
+   "title": "Gulf Keystone Announces $601 Million All-Share Merger With ShaMaran Petroleum",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMF9VMXA1akJZNkNzRG52Q1ZJT0t5RHQ3eGZHZUg1R3VmczhlNTl2UVJ3b1VkcmhWTXlJMWR2UmQ1MXIwVzlSYXNfV1hPS1Axd25QLXJMTnlReHdSMVBGQnRkR1V2R1p2Tm5peW03ZG1ldHlWSVpvc3VIaWE3aHM1eDh3eWZLZUY0MThZWQ?oc=5",
+   "source": "Yahoo Finance UK",
+   "date": "2026-10-20T09:11:08+00:00"
   }
  ]
 }
