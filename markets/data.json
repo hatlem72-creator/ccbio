@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-24T15:50:18.713083+00:00",
+ "updated": "2026-10-24T16:24:14.397657+00:00",
  "usdnok": 9.316200256347656,
  "btc": {
-  "price": 79447.2109375,
+  "price": 79508.4609375,
   "prev": 81074.1875,
-  "chg": -2.0067750447699484,
+  "chg": -1.9312269549417338,
   "currency": "USD",
   "asof": "2026-10-24T00:00:00+00:00"
  },
@@ -112,6 +112,12 @@
      },
      "news": [
       {
+       "title": "Price performance",
+       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lZ2Q1OWk4Vl9UcmlWTDBsVzZIWkdZdi1idVpwN2NiZWRoZVNlN3JvdlJ0ZlJyMG5BS2tqX0FVQ3Z3dWFFYzBXQ29PZlgwNWNqVG5ENk9BcHA?oc=5",
+       "source": "Yahoo Finance Australia",
+       "date": "2026-10-20T18:13:59+00:00"
+      },
+      {
        "title": "Form 4 VanEck Gold Miners ETF For: 18 October",
        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc2xwV2VMMWN1RmM2TmhRNFpwajhQaTlZTHg3UkxxWDJWU0V6cjJ0MjQzaWlFcC0ySmtkUm9xck9RcURXVURhM0FCZGdSWmlVbDl5T3BlUDVzRE83R1ZHMWlUQ1ZYNktCSmFfdEVSNjFvdDhieWY0WXBmbnllWkpiNGlyeXVVYzRZUXM1SUI4RnRDUHllX3RENmdYV3J4NWltQzlqOE5ZZFE?oc=5",
        "source": "Investing.com India",
@@ -122,12 +128,6 @@
        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVC1nWXNrZXc5N2xqdnZ5MzdueXd4T3h5OUVKcXE3Zl9vaU52clZabGloNjc5cF94eUJ3TGhzMER5WEJ6THllQm1wTnVpbzhLOExieDg4Q2Qyb0RYcTR4dFJfMU5VRmZMd1NoWFZuUjBiTU4zc1l3RU5WaVJQZmF4bmttOXlmWWRjVjBxcXNtUjVUQWZKODVuc29oaw?oc=5",
        "source": "The Motley Fool",
        "date": "2026-10-14T07:00:00+00:00"
-      },
-      {
-       "title": "GDX Vs. SGDM Is A Draw, Gold Miners Are A Buy (NYSEARCA:GDX)",
-       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd0pJYktfcjZ0Z3gwNjBJeV9aTE5ESjczNXU5S1Ftanltdm9RY2dVbkdHbEtvSWpEdEVNWXFtaXlaU0V4UVNneEt4UGYxYmQxa1IxMmwxcndGM19zOXh6NTFqQ1ZoTzdEMHBUOS1FTUJCMmdUQ1ZYQlJwTlRkWGJtN3VBN0xtc2ZTZjJZVw?oc=5",
-       "source": "Seeking Alpha",
-       "date": "2026-10-11T07:00:00+00:00"
       },
       {
        "title": "Which Precious Metals ETF Is the Better Buy: abrdn\u2019s Silver SIVR or VanEck\u2019s Gold Miners GDX?",
@@ -261,16 +261,16 @@
      },
      "news": [
       {
-       "title": "Price performance",
-       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5lX0JxWW9TdEptRUhxZ2hnWW1Kc1NDdG55VlJ6MlM4SUFPSUI4cHZlVVo3ckE4WmMwYU5PWFV6czczRU1xZ25sTDBKMGFLMFFmVjFISE5WYw?oc=5",
-       "source": "Yahoo Finance Australia",
-       "date": "2026-10-17T16:03:13+00:00"
-      },
-      {
        "title": "Avino Silver (ASM) Rises As Market Takes a Dip: Key Facts",
        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNM0VMeUNmRGhBaWZZd21tV1E2YlczaWRndkpCY0ZnTk40c0FWeC05aExqNEdldmgwOXBrNjlld2RlUHhFU2drbk9BZWU3TmxUZnhwUE5VSy1hRU9yb1o1ZWQ3RS1Qc0ZfZjlMUV9XUlBnRE14dVZNZ1VvMm5iU1ptWVotMHkxUFdrR0VCb29FcUJtdlIwNGtpeGtB?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-10-16T21:15:05+00:00"
+      },
+      {
+       "title": "Avino Silver & Gold raised to Buy at Roth on valuation, La Preciosa potential (ASM:NYSE)",
+       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQc1V6Q3J3eDhlYW1USzhENmdRSmhJUDd5VV94Q0NPeDBHNTduTUtkZEttLWJEQ1Z2VENsVTlmUWN3SUt1Z2VnT0czcV9BejZlS09vZzJuYUJPaWg2Sk1mQnNyMW1ncjd4eWhVS3hRTUJPbC1SNzZ3dmpCTE91UVFPa2VNdGpzY0hvSExGdkhlQ3pxQ0lvUGlzb2wySWFITzFrM1AyaFNQZXRPZWpSb3lBc3dXc1pDU0E?oc=5",
+       "source": "Seeking Alpha",
+       "date": "2026-10-16T19:58:23+00:00"
       }
      ]
     },
@@ -311,16 +311,16 @@
      },
      "news": [
       {
+       "title": "First Majestic Silver Corp. (FMV.F) Stock Price, News, Quote & History",
+       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5adU9BYVRxMTBmLVZxMmRKVXRoZjRJMTBmelNvdTBKR3JjUkdXVFpBekxGY3V2RFRtMUZFZlRZaGZZemstZFBZTDJlQTAxSzNJRWg0?oc=5",
+       "source": "Yahoo! Finance Canada",
+       "date": "2026-10-21T06:37:23+00:00"
+      },
+      {
        "title": "First Majestic Silver Corp. (AG) Options Chain",
        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOXYyVHFIRG9tYUtQTURzNnJCdFpIb0N3dDF6cUpVQlctcEZZZXl6RTNkMC16MHZVNVZDWjQ2d3diZy1pUUNSbjBjNWQ2Y3REUUg3MDJNclBqOFVDMFhOaXFzVHNvSXFzN2tJb3ZfTG53OGQ1ZW1jRW9QVzZ4bkZwX3JkNFY4b0xDSHU4WnM2UQ?oc=5",
        "source": "Yahoo! Finance Canada",
        "date": "2026-10-19T18:36:52+00:00"
-      },
-      {
-       "title": "Silver Miners Grapple With Strike Disruption as Macro Data Steadies Prices Near $57",
-       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPamZiTnFRcXlFbGRRVHVhcTVRVlpIaW1QUVRUVjBYTUVyX0VGbkZyNzA1SkE4Z0lvaFE4X2R0ZEwxdlVRbDJXZ0N4OEtRU0NwbkY5Qzh1Sno2UUhTbmx5dEF6bEd3ZzRRdnhnMWN1YkpGeDJVNWZndGhGOHNvQ2l2SUY2dmh3SG5WdzNRSGk3YjV3dmpLeDRjMWEzc1ZteDZOOFRxTEcxbDRPamtRZzdhZVRvZUNZYkIzSWstTDFLOWdoQzRmQXNqYVhWYUVsaUh4TWhxa0pDRnVHRjg2S3FuelU4eEV4UWJFSkE?oc=5",
-       "source": "AD HOC NEWS",
-       "date": "2026-10-18T09:02:12+00:00"
       }
      ]
     },
@@ -392,10 +392,10 @@
        "date": "2026-10-16T15:41:20+00:00"
       },
       {
-       "title": "Guanajuato Silver Breaks Through: 267m Ramp Links San Ignacio & Bolanitos Mines",
-       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa3NlbWVFVDFjRDd5elNHWHFyRzV3eDlzeGhIT3JPOFBqUHhyUnpKOEdjVDh4TXpmOExINzliRTNmalpSTDdvTWMwSkJBNTlpcTBCUTVyZzd6eDhKckJoSXdjTE0yWW5uczduRmQyOGlKdV8zSF9CUEJ2SlBjSGNoVXpHT3FFc0tDLWNjbFY3QWlOOGdxc0NWVFNTUm54U3Bwd1IyT1dIUnp5ZG5MQ0xVV2FUSzlXMmxkV1AzUkdsclFoU2dKdjlHb2gwWG11R01SeWZQNw?oc=5",
-       "source": "Streetwise Reports",
-       "date": "2026-10-09T07:00:00+00:00"
+       "title": "Guanajuato Silver Links San Ignacio, Bolanitos Mines Via Ramp",
+       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSGxFU0hpWmk4Y2JMUng4UjJhY2l4VFZHMVc5SEFFM1AtU2lma1ZyU0xfall0RWhmcHRSeGEzeHl1RHR1WkxlM0RfTkRMWWJ1bFgySWtFS1g1OVYyTV9Fa01uazZqVEFZWklEOHlrVnVPbjNmMUR1YWRSMFh3TmRLLU9KVjV6NFhKblJuUXpGY3BNVlZ2OGxUS29wejY?oc=5",
+       "source": "Mexico Business News",
+       "date": "2026-10-12T18:44:01+00:00"
       }
      ]
     },
@@ -712,10 +712,10 @@
        "date": "2026-10-23T14:25:00+00:00"
       },
       {
-       "title": "A SpaceX-Tesla Merger Feels Inevitable. Is It Actually a Good Deal?",
-       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1EYkNEUzhKOXF6UWRTVU5BOF96TW9rNzFKSXRuc0VVU1VRdDdJWjNwNnYtRjhIc2tXM001Z0xLZlVXTFVmcUQzRlhBWmpHZ18xd2NlZzcwVTBvTXVxaWdNMV9MbFp2VFRnLUFmMGFHb01hV2UySVBMNWNmSmxjdw?oc=5",
-       "source": "Barron's",
-       "date": "2026-10-22T20:16:00+00:00"
+       "title": "Buy, Hold, or Sell Tesla Stock After Q3 Earnings & SpaceX Merger Talks?",
+       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nUFdocnZoM3U3ZXQtSFQxc3h2bHJFX1JMVGUwRk1xbzMtUHZQQmt3Yzl0QU1lbEJvTjI5dkVIc0NZUlJJMnBBbXRTUVNhVWJ6bGE2VWFDaXZxTGJfX3FHMnBVX0NLU0ZqNEhNMDY0cUxVWDdscm9JbmlNa3hiS0E?oc=5",
+       "source": "Yahoo Finance UK",
+       "date": "2026-10-22T22:17:00+00:00"
       }
      ]
     }
@@ -779,6 +779,12 @@
    "date": "2026-10-22T19:20:00+00:00"
   },
   {
+   "title": "Elopak ASA: Announcement of dividend per share in NOK for first half of 2026",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaXJhSktkX3JnYXZldVFSTUVzTEtfT0NnWDJXWlAwck9rNnNISFJOdnJlTFVfWVFuNGhqY0x3WEhwaVZsVFptSTRyZ09NYTQ3TEdfeGlwVjUwWTVuX09aQUlFd2dRX21kYnZfNzBEVFVVSEtIcXFQWGx4OV94QUhwMjI0aFhGNGMzMVE4RFZPeHNHcE1jMS1Vc3BnNlBNN3lFUTFDMEh6SjNFV19EbnZGZGhsVGl2OUZWTGNEMXIxWnRrSnJGeWQyRTZPbjdiT3VFNnItc1BheVk?oc=5",
+   "source": "TradingView",
+   "date": "2026-10-22T06:00:00+00:00"
+  },
+  {
    "title": "ENSU: Ensurge Micropower ASA enters into multi-year development agreement with leading wearables company",
    "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNeG9iaTA4eUZyRjhISzBSc1ZqLTBGNl93eGh6UzBVZHp6VmpnQkhuUldPV2J4MkVsc1F2RVFzSkFnbF80dXpXdjJPYTJINFhNdURPRzhBTW52NkQxTl8wR3lTb0NRVjQ3XzhSTm9mN25OaGE0RkExQzBWUmNVMEhRbjN6YldaM3RqTGdaVlBkc1dTV3BMRlZaSlNiSndwajZNVkZoOHJDSDBrYVg5NnFmVEU1TkM0emk1S2gtOVQ4MG42MUJxQTBHVVo2RmNlNnNmWWVWSVg4U2tad1VValRCeE1iSktsdzdsNVk0b19KWDlTLWZxcFd0bnFxTlY0TXAxaWc4OUJPdk1pamtmTGx5d0lZN2lWZmFyVnd3N2x3?oc=5",
    "source": "Finansavisen",
@@ -789,12 +795,6 @@
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMjdMeVNyQkdHbFdxbFkyRmNxdV9aUGZFMTJ3bmVrRndVeDFDLVRqMUxtb1o2WXpUZWUwWlNFdUZ3Ql9OMHBxb3pmTXkxYm1fUUZDY3BCWDJqbkgxSm1LQXJGRWlGclh5bWtoZGs5SUFOZ0ZqOGJrSWpmT01ySTRLTzFiVGFxVTVuYl9zWkNOQXRQVU90Sl9Fd0JJcVNFdVRBVDlMQlM0dnV4SkR3QzRnbm5qQ0R5ZWR5M3RWaEI2MFhEYURzQ3dlRGFB?oc=5",
    "source": "TradingView",
    "date": "2026-10-21T19:07:00+00:00"
-  },
-  {
-   "title": "PPI Public Property Invest AB: Transactions carried out under the share buy-back program",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQc0FHc0JsUi1LX0JLb1JDSWJXN1paY0Q2bmhmaWp0TVFEZ2ZFRXNBMTJtSHZyQktnd3h3OHlVMjNKZF8wRlJmVVlTYW00UHJCVmdnai0yaGt1Z096bWhkRU1MUmhfdkMxWVRkMTQxRTdkOHltRjF2N2tUNUhrOGo4NG4zNlFNMXFjOHpTX1JIUzZMNFI1U1R1MU1wdVVKSktSeDdDQ1RhYXZvZUgzQVhhN3Q5YV9tUWo1R1EwaThkSXFUcldiVExxYjQ4X1I5YXF4SWgyS2JJYVFSRzVheW9DTy1Pd2xJZ0NT?oc=5",
-   "source": "TradingView",
-   "date": "2026-10-21T05:00:00+00:00"
   }
  ]
 }
