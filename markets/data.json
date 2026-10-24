@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-24T01:25:41.127753+00:00",
+ "updated": "2026-10-24T02:12:29.722281+00:00",
  "usdnok": 9.316200256347656,
  "btc": {
-  "price": 80700.0,
+  "price": 80823.90625,
   "prev": 81311.890625,
-  "chg": -0.752522933972799,
+  "chg": -0.6001390094968029,
   "currency": "USD",
   "asof": "2026-10-24T00:00:00+00:00"
  },
@@ -687,10 +687,10 @@
        "date": "2026-10-23T12:05:00+00:00"
       },
       {
-       "title": "Meta (META) Stock Price Sinks As Q3 Results Expose AI Cash Strain",
-       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMzVBMGwyWUYwOFhIdXZwVV9lZ21BQUVzWGRGOVI3N1pRSENCTDZDSmk0YzdvSTBrU2tqQ2ZkNUw0am5mRm1CSFg4WGh0Nkg1OXpRcTZTeS1xRXJPcFpyekltdEE5NV9SRG9MTFduaGczbHhRcDNpRWdJM2FraFZjUHFDOVF0clVqT011UTdZVm1YdTFfM0Zj?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-23T06:09:04+00:00"
+       "title": "How Meta Stock Can Be Both the \u2018Cleanest\u2019 AI Winner and a Risky Play",
+       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5DajFQVmM2bGkwbGwwRVdiS1JIZEcwdE52SkRyMTZLWnVOWUdjMWdaaVViZC14WXpqQTVXSmlPSFJkWHk5eDBLTk9YQlNuSHI3NC1uaTRGaDFPX3dEVDJwNUV2NXdvMnBCQngxZnZ3NHFYQ3ptdWxMSE5CeFZyUQ?oc=5",
+       "source": "Barron's",
+       "date": "2026-10-22T21:00:00+00:00"
       }
      ]
     },
@@ -712,10 +712,10 @@
        "date": "2026-10-23T14:25:00+00:00"
       },
       {
-       "title": "Ellison Pledged Oracle and Tesla Stock Before Son\u2019s Warner Deal",
-       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ25oc2V3d1JDZkNpNU95ZGszdUpTcHVWUUtJeHg0ZEVrYkRxRkFUQUIxUlVZRDZjRmVJN2Q4eVZsa3RPRzZEZ1VCLWVTaTRWWW9pc2Z3cWRRUWdzNUtIWmxuWXRnVGdwZEtnX0xGaWozUHlyMlZidnNEbW5JVWlXTmZoX0RBMnZHYWxCYnBkOEtYTnh2LTdDUEJGX3J0QjRH?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-22T19:28:46+00:00"
+       "title": "A SpaceX-Tesla Merger Feels Inevitable. Is It Actually a Good Deal?",
+       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1EYkNEUzhKOXF6UWRTVU5BOF96TW9rNzFKSXRuc0VVU1VRdDdJWjNwNnYtRjhIc2tXM001Z0xLZlVXTFVmcUQzRlhBWmpHZ18xd2NlZzcwVTBvTXVxaWdNMV9MbFp2VFRnLUFmMGFHb01hV2UySVBMNWNmSmxjdw?oc=5",
+       "source": "Barron's",
+       "date": "2026-10-22T20:16:00+00:00"
       }
      ]
     }
@@ -724,12 +724,6 @@
  ],
  "failed": [],
  "general_news": [
-  {
-   "title": "Meta stock closes out Friday down as AI spending fears continue to rattle markets",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOVBsWC1HZmNiRnJHT3RIbzlmcmZLZVpRVVlibk5sMFhyLUJfSHVtZlhxNzBLWkJ6RkgtWWprZnl2ZUVCeVBzb3NOVzlJQkYwbjBvVzQtaFZDSk9rZGxlYWVjMEJnWFY0LVFiUVM0S2J1T0ExVTJMcFY4QjJ1ZDgwNVVrVEpENFpJMHVrRkpoVXJvSTktOE9fMU94dnpLR1UxWWlSTFVHallWRG1DTDBhNXJobzJpek5UeTk3dUFRZl9QMnJhaGo1OXo3TUhSeEg0LTVQeHZiZ0NuZw?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-10-23T21:04:03+00:00"
-  },
   {
    "title": "Bloom Energy Stock Sinks Despite Record Revenue and a Stellar Outlook. Is It Time to Buy?",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNX3Nua3N2MUczbDBUaldoMWNYak9rQ19nSURsamdZTHRGQ2hUZGl1cEJUcWY1cl96NXRfcFY0MHkwSnE4UFpMczUzcnMycnVZVXFpSHktckZHR1Jzb3pCekpPamRqVC1QYmVnWlIxMnBPSnVndFVheXN2ZF9IWjlUUEctX0dpc0FTWnl0UGpremFlTHZmQVlYemR2T2hpVDg3OG85N3lFbWhPQWVUUkFDWHdmNVZkbFVoZV9IcEZuT2R6LTY3TEd5b21B?oc=5",
@@ -776,7 +770,7 @@
    "title": "Tech stocks are being repriced, not headed for a dot-com-style crash: Strategist",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbmFtLVhrQ2owM2JvMExQcFEwX2lENzIxSkVpaEFmNDNYNlRTWHo5TTJ2a3lqdTRZOHZmRnd2eGVtOFBuQ1BER0ZtNjItRmxEeVFGbm5kSlpnMjNPYmlIWlhyRmlKMFNseXQ2YjFFbE1qdjlDOGJTUF9CZXFoekhCX2xLTXltZzZiUUF0dUJXcnk0ckgxNmJtUnFXTzdhTko3c2R3WWxzTlpjNXVM?oc=5",
    "source": "CNBC",
-   "date": "2026-10-23T04:25:21+00:00"
+   "date": "2026-10-23T04:25:00+00:00"
   },
   {
    "title": "The Stock Market Sounds an Alarm for the First Time in Nearly 27 Years. Here Is What History Says the S&P 500 Will Do Next.",
@@ -795,6 +789,12 @@
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbW8xSTBQZHZKLUxPa2JDcG5oVkw2c3lUa0RiLXJXemhqdHZIRXYtLWFWQVVsUjRmTkFucl9DbS14T1F5dnk3VFZPcFdjZk54UGhkVi14dTRhUkFtYkUzUkpubzQ4VjlEVGlzNnJBcENDeVBDWklXWVFnZHBpTUZZeXJqaUFBQThiR2I5QXJyZ1RqOFZTMDZiRTJfQXVSV0N3dGZTeFRybVFHS1hPMGsySFY0NGRKc1JJeUE?oc=5",
    "source": "Kitco",
    "date": "2026-10-22T15:30:31+00:00"
+  },
+  {
+   "title": "Elopak ASA (0AB3) Declares NOK 0.6884 Dividend Per Share for H1 2026 Using Norges Bank Exchange Rate",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNFdDenVWM1NjQnRObmNZVGpjSWxtTDJNUmtwcVUyb0d3cF93SGxKVnVhSDdJZXJLT0FTSlZiNThOUnVZMXNGZWhrMXg3Y3cwMzRnM0RhX3hlT21vbUstNHJ0VnNnc05kNjh4VFdnckdvaG5veG1ZQ1dwUnM0a2hlUl81NHZVbmo4cFpJMGZ0OFkxRlBSdjRNMFV4OE90M3IydzV5ajJ1WE4wQmV5Wmd5MXlxeG1HTnBJa05ZUXdkRzhPeVBFQzJLd0ZxSkJRWWk3TVZndUJyY01mdW51?oc=5",
+   "source": "Kalkine Media",
+   "date": "2026-10-22T09:12:59+00:00"
   }
  ]
 }
