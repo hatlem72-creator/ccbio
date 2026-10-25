@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-25T07:20:18.607924+00:00",
+ "updated": "2026-10-25T07:57:07.471200+00:00",
  "usdnok": 9.316200256347656,
  "btc": {
-  "price": 80519.3125,
+  "price": 80579.84375,
   "prev": 80790.8359375,
-  "chg": -0.3360819755721445,
+  "chg": -0.26115856464614673,
   "currency": "USD",
   "asof": "2026-10-25T00:00:00+00:00"
  },
@@ -581,16 +581,16 @@
      },
      "news": [
       {
-       "title": "Microsoft\u2019s $50 Billion Gamble: Can Microsoft\u2019s Azure Growth Justify Its Exploding AI Budget?",
-       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObDZfVUM2dHBSc0pRbEdaWTlzWUI1SDBkRzhBRXdwaExYNUU5UU43dEI3MGtzUWpZeGg4cFhRRFo2Y2VaTWJ5blZSU0VSeGNiQUxrbGVEc0hCcWpxT0t6WmZLTmhfemJoeDRHZENBaHhOWFBEbTQtNkVDUm5yRl9McXlnSGJWLXJRcUhrWDdaMWh3RnpWblZzdjJqVm9jekdab3dV?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-24T15:44:52+00:00"
-      },
-      {
        "title": "Microsoft Stock And 2 Other Best Defensive Stocks",
        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWVpjZm1Xekp5NVNiNlVwQzdEVlhMREpvdXlzWUJra255R19LNzhNZGdnQ2xpVnBkSXlGRkpuR0tMT1ZJUVEwOHN0QndXZE5pZGVPUEVFUElfUmxTM1BLbG5fekVXSTFnc1N3aW9mdkpEdEdOR1ltRXlaMGVZQXhWRXBwaUMwekQtaWZpdXhMMWVlVW5xc2ZTTw?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-10-24T12:09:54+00:00"
+      },
+      {
+       "title": "Microsoft's Earnings Problem: Even Great May Not Be Enough",
+       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZWVrMmpYTVZYNzhHaTBCS1FWQXJTWkhUV1ZMN2pfQzNHSXhVWW5ZV1BOZWdRc1ZZU0wzcU9meFNZREUwQUdPUjl3ZXllWjlnTWpRaEo5T09rTXVlUGZVRTRsYzBiYW1pem9lSmJMSGJIX202S3FkRVBrOTdWdWtTYksyaUM1Yl9MT1FtZmZ0UGJpa1VuazNYeE9lVjNTNF9NY01MbE13?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-23T12:00:00+00:00"
       }
      ]
     },
@@ -656,16 +656,16 @@
      },
      "news": [
       {
-       "title": "Ken Griffin Says We\u2019re \u2018Almost Certainly\u2019 in an AI Bubble, Recalls How Past Bubbles Created Market Leaders for Decades: \u2018I Just Wish I\u2019d Kept My Amazon Stock\u2019",
-       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWU1iWU55bDJVZWpNWjFZQnhHT1dINmtJTXJRNURxU3dqVE5qLXEzV2s2My01NFJsQ1dnRHVzdERtem1OYnFJMGJPRTUycWRoRHFvMHlZVUhsZmVvUlNIaThwRGZ6MXJfY0t6NDY4UDlaSzhhLWxoSTM3VEZHNXpMNDRfV0lLRThMd2Y3aGZHZlFyaUIwNFcxWEc4V1J5Zw?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-22T15:00:07+00:00"
-      },
-      {
        "title": "Should You Buy Jim Cramer and Ken Fisher\u2019s Top AI Stock Pick Ahead of Earnings?",
        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSzVXMTV4QWdIdXNXRHBGc0M1ck8wNjZMVXotYnhpNEMtb29sVnJ0a0s0YTVTbWw4aWVfSEZUbzh4RnpTbldiZFlRenhrcjJkTTI0dGYzSlZCUGFNbks1LWZEUWdTcmlmSXdCRUJfV1l1NG9Dc2Vrdk4xb3dDWDNWUFRKX2ZoWGR6ZmNwclFzYmZSNjU0?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-10-22T14:22:20+00:00"
+      },
+      {
+       "title": "Amazon\u2019s Bee AI Wearables Could Be a New Growth Driver for AMZN Stock",
+       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNEFZWklmV1BYT19HSERSSDZSTXF2ZXlrS0VHMU4ta3ZmdzdJZDBvNVBDb3o5Yk5mMGlmQk53SXBqR1d2YTFheHVVUHVJdUNLazd5Q19RZl9pQWhMTlRialo4MG9fNEhIS2wtdmY5WEgtbnYwZGk2RERsZ1VNYThiMHlyaXBGR0trekhMWDJPWnotMFMzNXJZYw?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-22T10:51:33+00:00"
       }
      ]
     },
@@ -743,24 +743,6 @@
    "date": "2026-10-24T11:49:00+00:00"
   },
   {
-   "title": "What next for France as riots rattle markets? Three questions facing investors ahead of more protests",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42SU5XYVUwMmU4cUtKdGZNOEdZRk1wRVFUYkNPNE1xTFRUWEJlN0dSMnBPQUN3NGpZZ1R3Z1lSeVBpRkRMSlpqZV9oSmRIVFhVS1FPRXVPUkc5Y3NGOUJDdFc5ZEtfTnZUTXFOMWlnTWtIekg4V2w1a2RVVGZqSG_SAYQBQVVfeXFMTmRjYS1LU0J1RjR0cnZTQU9DcFhFV3pyM2JVSXhpazhLdDh2aWdfaXBjRW9VajdGbXA0bm5HZ2RqczJ5MTg1NVpOZ2VTUURuNVlJUHU5WlM5TUp6WDNBZGtEeWNORTIxa0JmNXdfRlJOMmNpT3o5ek5RYmVSU2M2YWZYWHgy?oc=5",
-   "source": "CNBC",
-   "date": "2026-10-24T05:00:01+00:00"
-  },
-  {
-   "title": "Meta stock closes out Friday down as AI spending fears continue to rattle markets",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOVBsWC1HZmNiRnJHT3RIbzlmcmZLZVpRVVlibk5sMFhyLUJfSHVtZlhxNzBLWkJ6RkgtWWprZnl2ZUVCeVBzb3NOVzlJQkYwbjBvVzQtaFZDSk9rZGxlYWVjMEJnWFY0LVFiUVM0S2J1T0ExVTJMcFY4QjJ1ZDgwNVVrVEpENFpJMHVrRkpoVXJvSTktOE9fMU94dnpLR1UxWWlSTFVHallWRG1DTDBhNXJobzJpek5UeTk3dUFRZl9QMnJhaGo1OXo3TUhSeEg0LTVQeHZiZ0NuZw?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-10-23T21:04:03+00:00"
-  },
-  {
-   "title": "Artificial Intelligence Cannot Override The Opportunity Cost Of Capital Or Alter Economic Principles",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMWdSVjdtcGFEV0VROEZPVXNFTGd5WDhwS0NmbzlCNEE2dGhuS2RUTVF5UFRiVEFRcjhMTDRCTDlsTEhQNG1kazZzZUFmZ2Z1aC1NSHdFanZwOTg4YjZqR25WVkc5RjczSkJ0R0RaZHkxV3V1ajRCcVBKX0pjMF9mUjVZQVhNM1VJYlpVa0JmRG94OFBVckRIeUxocEZGbFRPaENUQjloMFZldnEtRVpKUVpLclhMTEZwTUs4Snh1WXpuYUthdkljbWxXWlc5OHVMMXVkYWlKcmg?oc=5",
-   "source": "Seeking Alpha",
-   "date": "2026-10-23T18:23:05+00:00"
-  },
-  {
    "title": "'A cyclical downturn is inevitable' in an AI crash: Strategist Dario Perkins",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRmlUc05lb2JTUlJSZ00wQW9RUFB5VEY2UGZRRmxxTnFESmNnRC1KMDVzNVRzbG85TC1rWVZyUWhwckZVYll2T3J1b0ZEQ1RzZldYM2dyOWp3SzZOWkU4c2FPQnM5QVRJb19idEJyNF9QVTlJdkJ3Tl9oeW5pdm5iYmNxanMzRXh3QjZMcENCYVUtOG5pR0sxS3ExRHYyX1ZTcmxseVRYYjlCcTIxYjUyWE1UNmw4RXVVMDZkcTZHckxyWFA5WE5aRkdR?oc=5",
    "source": "Yahoo Finance",
@@ -795,6 +777,24 @@
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTnZLOHJwa0I4ODM2TFpCVDJZNXEybjU2VDB2T2Fsd1FCX3lWb0RGZ04ybmZLeXVlLVJMYXF2aWw2WFBXcEcxZEtJaFUxUzAxRlcxSlptR1libllJRkZES25hdlRsUDVZdk54RmsySVZVWG1MOHBqWWdqMkltV1A4UjBneDVpVGtXYnRhVmEyX1lTRkNaSDhRdlhQOGRJdkdXN1o0?oc=5",
    "source": "Seeking Alpha",
    "date": "2026-10-22T17:04:25+00:00"
+  },
+  {
+   "title": "Elopak ASA: H\u00e5kon Volldal to assume CEO role from November 2, 2026",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMjdMeVNyQkdHbFdxbFkyRmNxdV9aUGZFMTJ3bmVrRndVeDFDLVRqMUxtb1o2WXpUZWUwWlNFdUZ3Ql9OMHBxb3pmTXkxYm1fUUZDY3BCWDJqbkgxSm1LQXJGRWlGclh5bWtoZGs5SUFOZ0ZqOGJrSWpmT01ySTRLTzFiVGFxVTVuYl9zWkNOQXRQVU90Sl9Fd0JJcVNFdVRBVDlMQlM0dnV4SkR3QzRnbm5qQ0R5ZWR5M3RWaEI2MFhEYURzQ3dlRGFB?oc=5",
+   "source": "TradingView",
+   "date": "2026-10-21T19:07:00+00:00"
+  },
+  {
+   "title": "PPI Public Property Invest AB: Transactions carried out under the share buy-back program",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQc0FHc0JsUi1LX0JLb1JDSWJXN1paY0Q2bmhmaWp0TVFEZ2ZFRXNBMTJtSHZyQktnd3h3OHlVMjNKZF8wRlJmVVlTYW00UHJCVmdnai0yaGt1Z096bWhkRU1MUmhfdkMxWVRkMTQxRTdkOHltRjF2N2tUNUhrOGo4NG4zNlFNMXFjOHpTX1JIUzZMNFI1U1R1MU1wdVVKSktSeDdDQ1RhYXZvZUgzQVhhN3Q5YV9tUWo1R1EwaThkSXFUcldiVExxYjQ4X1I5YXF4SWgyS2JJYVFSRzVheW9DTy1Pd2xJZ0NT?oc=5",
+   "source": "TradingView",
+   "date": "2026-10-21T05:00:00+00:00"
+  },
+  {
+   "title": "Kurdistan-focused Oil Firms Gulf Keystone, ShaMaran Agree $601 Million Merger",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KNEJ0OExrS2JTZFFveVcwWXVyZU9YQXRHbFRPRmdUeldFQmx6bkI3MjFNaTFsMS03YlVteUI0WWUwcEphaDlzSU5lTERsRzZlNzln?oc=5",
+   "source": "\u0634\u0628\u0643\u0629 \u062a\u0648\u0627\u0635\u0644 \u0627\u0644\u0625\u062e\u0628\u0627\u0631\u064a\u0629",
+   "date": "2026-10-20T10:29:36+00:00"
   }
  ]
 }
