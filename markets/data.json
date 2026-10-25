@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-25T15:05:32.673813+00:00",
+ "updated": "2026-10-25T15:50:32.874403+00:00",
  "usdnok": 9.316200256347656,
  "btc": {
-  "price": 80603.421875,
+  "price": 80586.21875,
   "prev": 80790.8359375,
-  "chg": -0.23197440690548854,
+  "chg": -0.2532678182192494,
   "currency": "USD",
   "asof": "2026-10-25T00:00:00+00:00"
  },
@@ -87,10 +87,10 @@
        "date": "2026-10-09T07:00:00+00:00"
       },
       {
-       "title": "Kongsberg Maritime secures Extended Thruster Coverage agreement",
-       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeWFRczlOdDNxT3JRMUxZSFpvTlJaZlpDa3h2aExmTl9nU3JQc1lTaG5TM0FkNDJVNmMycVIyaEhZNjBmT0twN1U3cnB4NktaOUI4alNrQU1sY1NiV0tPc0Zad3Z2cGdvT0Z4am4zWTlVQkpBUjVfc3FLajRPOV96R0FLQUZ6Nmw0ZWF2MzJnTXRfQQ?oc=5",
-       "source": "Maritimt Magasin",
-       "date": "2026-10-07T07:00:00+00:00"
+       "title": "AYK Energy to supply batteries for four electric Svitzer tugs",
+       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMWRuX0ZlYjRFOGhMaGl4SDZMNFJjUDBMd0N3NmN3Y21kWmZtZURIZm44SS1rWS1CbDJRRGl3N2p6MnptOVJGcWM1b0thUlFUbXgxQmU2TWFzSlRrakpaM2VQdjRmX3VWZFJaNTloTERWekhqMlVMbko5ZUJQSUFmdkIwOFJjeWEzTGkwR3VhbUpCYllXdmswcm8yMzJfWWFfTmt3SWNsbHFJNkdEc2FQbldkX1J3ZnBQRW91cDRn?oc=5",
+       "source": "Maritime Journal",
+       "date": "2026-10-09T07:00:00+00:00"
       }
      ]
     }
@@ -236,16 +236,16 @@
      },
      "news": [
       {
-       "title": "BMO sets USD 24.00 target for Hycroft Mining stock",
-       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVnNPYTZqYkplQW9hMTRWSlE3WFM4Z1R1OVI1ODdOWkhnNWNGTWNHeFF4Yk5OYTBLMmRMRUdvWWYwVmV3Wkl4VFk4TFozVVFEQlhmZnlHcDl4N014OEJZTV9JWXlwNXotajdNLU1sOG5XU3pvQi1XLUx6bEw1aVRvOFZPaTEzSVR2V2NJRm5qYXpLYVdPYld2NWxnUDVzcTdhQUU0ejgyajBPeldxZmc?oc=5",
-       "source": "ad-hoc-news.de",
-       "date": "2026-10-17T19:58:31+00:00"
-      },
-      {
        "title": "How InvestingPro spotted Hycroft Mining\u2019s 48% decline in advance By Investing.com",
        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOM3g3Z09MR1dCUTZES3gyX0ZmYlZHYnFNMllWSVY0WDJPZEY1LXhwb20zWDBYUW10WndRbWJ5VnFZM3o1NnRfUFgzOVkwUlNEZDYzMG9lQ3UzaUNidWFEcTdOTGN0YV9lc2dGWC1PQmtCTVZMQ2ROU0NxMllYc2FERWo2RXl4cDlRR1VwR1R1NGRXRTI3S3dTaEhfUUVnbXI0c2hDWDlYNWdreWVfVUVJNm9HQWpmT2ZIdU1nY3JnUmo?oc=5",
        "source": "Investing.com",
        "date": "2026-10-16T11:17:35+00:00"
+      },
+      {
+       "title": "Hycroft Mining Holding (HYMC) Hits Record Drill Results On Questions Over Whether Value Is Already Priced In",
+       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRm8xbUV6TGk2eW1CU2J5VnlkTmxicFUzeHk5eU81eUlrN21ROUhVOVVOcUplM1pMdUdBazBiSDF4R1JMeTNBRnBtQ3laM1R1cWNwRHlQU0NWZjEtN2l6X2xvTGdXcmhYajFXbXBjWkZSdnRSWXp6LTB5TFVPT3BPVlc1OHlKR08zUDhBUDlMamNncE9UdXNDZGRjSGxRUQ?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-14T07:00:00+00:00"
       }
      ]
     },
@@ -336,10 +336,10 @@
      },
      "news": [
       {
-       "title": "Defiance Silver reports strong silver and gold assay results from Zacatecas drilling program.",
-       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQalExcFZXR0hjXzJnbDY1YmFJRkRRNGdlX1pJTnByb0UyU0pxRUU5eFhiVm5ianVvSVgwV1lud093Y3JmZVN2SmFfaTJMQ21aOURWXzdlMkxUQjNSLUs5dUIyZDBkR0RnSHc1U3N2SkZHZ0liQUl1YjZacGx3ZDNpZjh0eWpGQUJBTnhMd25SUjZrRkp5aHFvcjEwWlVjelE?oc=5",
-       "source": "Pluang",
-       "date": "2026-09-09T07:00:00+00:00"
+       "title": "Defiance Silver Corp (D4E.DU) Latest Press Releases & Corporate News - Yahoo Finance",
+       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UODNIWWJMMzhNME11OGhlS1RUdU5OWXA4UmVtNkgtYTVpSjVBejJSR1RoTTdHODd4SUNtQ01uOGllWlhKZ3paaGNjajFQdTk4aFpDNHBCb1JlbmQtZ0lFQXQwTHFmNy15?oc=5",
+       "source": "Yahoo! Finance Canada",
+       "date": "2026-10-04T10:28:46+00:00"
       },
       {
        "title": "Defiance Silver raises C$3.27M in private placement",
@@ -361,16 +361,16 @@
      },
      "news": [
       {
-       "title": "Gr Silver Mining Ltd (GPE.HA) options chain",
-       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBTTVFlbDFrdW1QYmNYajBpUEtqclowdU0yOTZxUHUxZmtPNGZvbmJyNW96OWZ1RFVJYVY2RnVhMks2ektYeThqTkxLTnZPZUxfa294dE1aTDFxaXZrYXcw?oc=5",
-       "source": "Yahoo Finance Australia",
-       "date": "2026-10-24T23:17:02+00:00"
-      },
-      {
        "title": "Kuya Silver Announces Grant of Stock Options",
        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdHlFblFEYmZBODRBTEU1ZjVnQlR4bHRhcU5MSlRmd2FmcUZoR21fZk9rVlVQMzBBRDJTZkJ1cDg2MHRzUnNyT1BDcm9CNHpFU0VLNjZ0TTNrc1VidGxXXzdiREQzT0V0cXhrTVVHRjYyVTJBMXJsME1mOGlHRV9hZUp5eUxKR2dXREtOeVFWZzBpOGhoclRQYjE5cTZFUkU?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-10-19T21:08:00+00:00"
+      },
+      {
+       "title": "Granting of Incentive Stock Options",
+       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMTlKS2dWYWJSNU5Ub05XU0dweDBmZlhrTzVpdXlkM2wxSEpxRDBLTDFNbkpuN1pEa0NvWmVBVFk3UzhrNGZKLVFaT2ZzQ1NDUjQ2WDFRTE9MVEU5VTJQYmNCelhERTJQNVlLc1FuZnlnWDVpSXkzeUxkaVpwSVVOeWFiaWFZSlRLc1llN1VRVGdzM0FyZXkxTmJyLW9aQQ?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-16T07:00:00+00:00"
       }
      ]
     },
@@ -556,16 +556,16 @@
      },
      "news": [
       {
+       "title": "Apple Is One of the Most Profitable Businesses in the World. Here's Why the Stock Is Worth $295 a Share Right Now.",
+       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZEtyWnA0Qi1lSnhnLUIzMnRwN1AxaWY5WFhQdWVBdHNGcTA2YUlHb1lGMC1peEozZXhSMDgwRjZmSUJJYTY4ejZVdnV2ZHI5QlBXMVRmWFFzeW15U2NieXAzWm16cldScWFjRTRZVUFnMk1FX0UwV2ZxcGdSY0ZaSGkyUjlWNEphV2o0cHRUbF9EQ2Fua2RUYzZ1eTRDQWgwU0Zz?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-24T08:05:00+00:00"
+      },
+      {
        "title": "The iPhone Duo Launch Kicks Off a Crucial Few Weeks for Apple",
        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeURFOHhobTBud3F4djRGcXl3TUw3QVFzVVNLTGExUlpnT2thX1FZd3Z6Z0xMSWhxY2syX0VhLU5jQ1JjYjM2SXlFZVVQQlVtU3dfX196cWN0cExxY01ldzJkeGwwZlhOMHlZNUswNzhjWXlINDVrZmtWVFk5Q01VX202OTVjNzA?oc=5",
        "source": "Barron's",
        "date": "2026-10-23T19:03:00+00:00"
-      },
-      {
-       "title": "Apple Is Up 28% This Year: Take Profits, or Hold On for the Ride?",
-       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUzNQMTRxbVZYUUxNR1BTV3o2R1V6Z05QX1Fkbllxem91N1FpRUswRE96VDRuNGVTdEh6dlRTZ1p0VmFxZ3RlUEVGLWc3MG9XT0xhZHROUlpYNEFDeDlwN25kQWpCOXNPbWdwc19mV2J4QU9vSERaeXJCTzU5dm5kZHVUdjE0SEROVTFPR0FXVHk2TTZJcVE?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-23T18:33:48+00:00"
       }
      ]
     },
@@ -656,16 +656,16 @@
      },
      "news": [
       {
-       "title": "If You Invest $1,000 in Amazon Each Month Starting Now, This is What You\u2019d Have in 5 Years",
-       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZHdvZ3cxQlZxTGVxZ09PSG82RFRhUTVQcC03R0dieldSV09KZnd1T2FuV1p4SUV2N2RubUlwdWZmT0EycUVaQTlIcUUtdFNhMGZNWjR5VXo2VVV0WlA2QlFSa0I4WGVTeVBnVEdQb1RndDEwVFNQSWtuanNVTmVod19MZ3EyTFZEUHJ1SVctT3Z0Mkx3?oc=5",
+       "title": "Prediction: Amazon Could Double by 2030 if This Part of Its Business Delivers",
+       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcFZTU3N6eHZfem9iekxMdVhybkh6TS15akNkMWNlbFpLRi1Sd1pxQmkyQkxiNGFQay1ZRXd5TmxIc1BqdEpJVFJwRWdXUndVM3NWMWtWbHA3aVp4RGhpNEc0eDdfR1ZMelVkelhiQzBFMFJJbzlvSjlGY3YxMEl6UVplTm5IY09ScnNHZTJ1ZUxUR3NZLXBZVjg4Q2FWSm1JUFE?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-10-22T15:00:35+00:00"
+       "date": "2026-10-23T15:30:44+00:00"
       },
       {
-       "title": "Ken Griffin Says We\u2019re \u2018Almost Certainly\u2019 in an AI Bubble, Recalls How Past Bubbles Created Market Leaders for Decades: \u2018I Just Wish I\u2019d Kept My Amazon Stock\u2019",
-       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWU1iWU55bDJVZWpNWjFZQnhHT1dINmtJTXJRNURxU3dqVE5qLXEzV2s2My01NFJsQ1dnRHVzdERtem1OYnFJMGJPRTUycWRoRHFvMHlZVUhsZmVvUlNIaThwRGZ6MXJfY0t6NDY4UDlaSzhhLWxoSTM3VEZHNXpMNDRfV0lLRThMd2Y3aGZHZlFyaUIwNFcxWEc4V1J5Zw?oc=5",
+       "title": "Should You Buy Amazon Stock Before Oct. 29?",
+       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdUNzQkdXbm81LXFjZTc2cEVacUh2Z0E5UTZLZkpEa3lEeDBZaDhITEM0SEowcFlldW9pLW9IYlFnVGhERXRPY0xyVkFvenYzN0J3VHJselIwZVJuRG54M3ZzeGhLbGtoMlhKaGxuVUh5RkIySFpmSGFLbnBzRVI1Zy1QZ0M4R19EQkV4Z2RSSWx6UQ?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-10-22T15:00:07+00:00"
+       "date": "2026-10-23T11:22:00+00:00"
       }
      ]
     },
@@ -681,16 +681,16 @@
      },
      "news": [
       {
+       "title": "Meta Just Burned Cash for the First Time Since Its IPO Year: Wall Street Raised Its Targets Anyway",
+       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRURsUFZQRmJ6Z1Qtd0VoTV9NYUlNWUU2UEpuV2dGdEtZWGRsSmktZENId1hZRTdCUkhUWnZlZVZ0Z1pzeGlJa0dUdzk1cTdqNnRLdlhlZzdjVEZ5eWp0czhWRElSUGd0aThkRjR2VDRFUjkwVTFNQ3BOek5KSUlIRGpVTGdqU3hzZjNlM25aWEZxTm15UWFZ?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-23T21:30:07+00:00"
+      },
+      {
        "title": "Meta stock closes out Friday down as AI spending fears continue to rattle markets",
        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOVBsWC1HZmNiRnJHT3RIbzlmcmZLZVpRVVlibk5sMFhyLUJfSHVtZlhxNzBLWkJ6RkgtWWprZnl2ZUVCeVBzb3NOVzlJQkYwbjBvVzQtaFZDSk9rZGxlYWVjMEJnWFY0LVFiUVM0S2J1T0ExVTJMcFY4QjJ1ZDgwNVVrVEpENFpJMHVrRkpoVXJvSTktOE9fMU94dnpLR1UxWWlSTFVHallWRG1DTDBhNXJobzJpek5UeTk3dUFRZl9QMnJhaGo1OXo3TUhSeEg0LTVQeHZiZ0NuZw?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-10-23T21:04:03+00:00"
-      },
-      {
-       "title": "Meta\u2019s new non-voting shares aim to protect Zuckerberg\u2019s control: Oppenheimer",
-       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbHZYN1c3NUlvZzJDWW1ZNnlpTlNqbDl6bm1keVl5VnR1VUdiMXpfSG11cTl3cTJYMVpXU3lhZGV6UU56TVFuTDhDTURUdjNRNjJCT21USWJiVHFYRFVid3pVRWlrTHprUDh2WUxsaGdGc2poelhvZWVROElZaWJ0WGVSZFhTRmlycC14YzFKRkZfQThFVEE?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-23T14:20:16+00:00"
       }
      ]
     },
@@ -737,6 +737,12 @@
    "date": "2026-10-25T01:11:00+00:00"
   },
   {
+   "title": "Bloom Energy Raised Its 2026 Forecast for the Third Time. Is the Stock a Buy More Than a Third Below Its Record?",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQM0xkcWNLUDN5M3E1bzg4UkhBOW1PdXV0N1hQNXFpZTR4SVUtcHN6dWp0RGdoZ2FXMmtLTUptQS14dVkzZ0QzQ2JKVWtPUUxHNDNIWVhqQm5GYkFKbWk4eHRJUWV6UWczUENNbzI4ZFpzTFlXZnZnWmd6dXZ5NVpxbEY4LTZIUy03dEdxU3ZLX1FnNmVYZ0pMem9hRFlXa29DMlRyQUEzSmQ3UHM2Y0VVclpfYWcyMmZGWjJCWDJ3bkx2V0JQZ0FwcnVpVXU3X2hIN2NyUmZkQ2dhWVJVUkxZWUxiMmI0d2Ru?oc=5",
+   "source": "The Motley Fool",
+   "date": "2026-10-24T18:19:00+00:00"
+  },
+  {
    "title": "Why Peter Schiff says a stock market crash could happen before 2026 midterm elections",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ0Ftajh0VEZWbXpMV2ZCNmZCSHU4QXNNMWJkX1RLTmFLalM3X3g4OUNSQXU1LWY3YzV3WHpFQnFCS2J1dU53TDh0Nk9lLTRGT3pGdi1tYU5oaC1BSE9UTVFaa3NDOVNtUE5uQTZHd3ktVkZkckdveGkyMEdNSkJ1b1U1eG10ak8zc0ZscmZtR2doUHp3RmZZ?oc=5",
    "source": "Yahoo Finance",
@@ -749,10 +755,10 @@
    "date": "2026-10-24T05:00:01+00:00"
   },
   {
-   "title": "Positioned for a Rally: 5 Reasons Stocks Could Soar into Year-End",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSmJYYlVPQWczeDk4dFdOSEpFcWpKRzVsZ09sRDA0dU5YY2wzcnA2b1lkOUlCY3hRc2xvUGdPUmlJY2s2UTZka3ZfcW5XM3hBanRIRnNLSTB4aE9nQXUxUHdDZUlLVDNYbXd0RmtaZHVGMVk2MXoweHJUak9yQTlLQmp2QzRWZ0w5aTczN2RnUnJXbWJpeXdsVWpEWVI3Um8?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-10-23T18:27:00+00:00"
+   "title": "Bloom Energy Stock Sinks Despite Record Revenue and a Stellar Outlook. Is It Time to Buy?",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNX3Nua3N2MUczbDBUaldoMWNYak9rQ19nSURsamdZTHRGQ2hUZGl1cEJUcWY1cl96NXRfcFY0MHkwSnE4UFpMczUzcnMycnVZVXFpSHktckZHR1Jzb3pCekpPamRqVC1QYmVnWlIxMnBPSnVndFVheXN2ZF9IWjlUUEctX0dpc0FTWnl0UGpremFlTHZmQVlYemR2T2hpVDg3OG85N3lFbWhPQWVUUkFDWHdmNVZkbFVoZV9IcEZuT2R6LTY3TEd5b21B?oc=5",
+   "source": "The Motley Fool",
+   "date": "2026-10-23T18:43:00+00:00"
   },
   {
    "title": "The Cracks Are Spreading: The Recession Trade Is On (NASDAQ:TLT)",
@@ -789,12 +795,6 @@
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTnZLOHJwa0I4ODM2TFpCVDJZNXEybjU2VDB2T2Fsd1FCX3lWb0RGZ04ybmZLeXVlLVJMYXF2aWw2WFBXcEcxZEtJaFUxUzAxRlcxSlptR1libllJRkZES25hdlRsUDVZdk54RmsySVZVWG1MOHBqWWdqMkltV1A4UjBneDVpVGtXYnRhVmEyX1lTRkNaSDhRdlhQOGRJdkdXN1o0?oc=5",
    "source": "Seeking Alpha",
    "date": "2026-10-22T17:04:25+00:00"
-  },
-  {
-   "title": "Nebius Stock Alert: I\u2019m Watching This 43% Crash as AI Bubble Fears Return",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOa3hHRHlSR3dGNWJqQzJmSHhYZkFHbVV6cTZyVjlLRU1RQXdON0dGeklpUlZTOEtqTGZJMHZ5MFkxY3pWN2Q5THYxTnlBUVo3UFZJbGZNcUZzbVJvNmtBTkNPNjc5c0lFS1lVWnZvdUI1WXEwNDV3NHI1MHFEMUx1djhrMVh5elZYNUphalQteFRUdEFWWTRieG5R?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-10-22T11:31:32+00:00"
   }
  ]
 }
