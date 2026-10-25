@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-25T19:44:57.172185+00:00",
+ "updated": "2026-10-25T20:20:59.603028+00:00",
  "usdnok": 9.299099922180176,
  "btc": {
-  "price": 80507.453125,
+  "price": 80509.1015625,
   "prev": 80790.8359375,
-  "chg": -0.3507610847339526,
+  "chg": -0.34872070790051835,
   "currency": "USD",
   "asof": "2026-10-25T00:00:00+00:00"
  },
@@ -112,22 +112,22 @@
      },
      "news": [
       {
+       "title": "Price performance",
+       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lZ2Q1OWk4Vl9UcmlWTDBsVzZIWkdZdi1idVpwN2NiZWRoZVNlN3JvdlJ0ZlJyMG5BS2tqX0FVQ3Z3dWFFYzBXQ29PZlgwNWNqVG5ENk9BcHA?oc=5",
+       "source": "Yahoo Finance Australia",
+       "date": "2026-10-20T18:13:59+00:00"
+      },
+      {
        "title": "Form 4 VanEck Gold Miners ETF For: 18 October By Investing.com",
-       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc2xwV2VMMWN1RmM2TmhRNFpwajhQaTlZTHg3UkxxWDJWU0V6cjJ0MjQzaWlFcC0ySmtkUm9xck9RcURXVURhM0FCZGdSWmlVbDl5T3BlUDVzRE83R1ZHMWlUQ1ZYNktCSmFfdEVSNjFvdDhieWY0WXBmbnllWkpiNGlyeXVVYzRZUXM1SUI4RnRDUHllX3RENmdYV3J4NWltQzlqOE5ZZFE?oc=5",
-       "source": "Investing.com India",
-       "date": "2026-10-18T07:37:34+00:00"
+       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWWlNeFZjdDk4MV9hTGhEUUJsdnZfa1RrbnVhMGJqME5ldXdiN1dJRzNRM3NWcVYtX20xTFNMVFRUejJUOVplTUtxNlBObjZqQzdaNFFrYWNxZ2U4LVM0SmdKclV1bzByMF96alJtdkVMYVNSQWIzNmcxR01CVHptelpRVUEzRFlSQ28xUkY0OGlfYVB0WUdLeDJiVFBtNWFzOUJHUXRFdFE?oc=5",
+       "source": "Investing.com Nigeria",
+       "date": "2026-10-18T07:34:57+00:00"
       },
       {
        "title": "iShares SLVP vs VanEck GDX: Which Miners ETF Wins",
        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVC1nWXNrZXc5N2xqdnZ5MzdueXd4T3h5OUVKcXE3Zl9vaU52clZabGloNjc5cF94eUJ3TGhzMER5WEJ6THllQm1wTnVpbzhLOExieDg4Q2Qyb0RYcTR4dFJfMU5VRmZMd1NoWFZuUjBiTU4zc1l3RU5WaVJQZmF4bmttOXlmWWRjVjBxcXNtUjVUQWZKODVuc29oaw?oc=5",
        "source": "The Motley Fool",
        "date": "2026-10-14T07:00:00+00:00"
-      },
-      {
-       "title": "GDX Vs. SGDM Is A Draw, Gold Miners Are A Buy (NYSEARCA:GDX)",
-       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd0pJYktfcjZ0Z3gwNjBJeV9aTE5ESjczNXU5S1Ftanltdm9RY2dVbkdHbEtvSWpEdEVNWXFtaXlaU0V4UVNneEt4UGYxYmQxa1IxMmwxcndGM19zOXh6NTFqQ1ZoTzdEMHBUOS1FTUJCMmdUQ1ZYQlJwTlRkWGJtN3VBN0xtc2ZTZjJZVw?oc=5",
-       "source": "Seeking Alpha",
-       "date": "2026-10-11T07:00:00+00:00"
       },
       {
        "title": "Which Precious Metals ETF Is the Better Buy: abrdn\u2019s Silver SIVR or VanEck\u2019s Gold Miners GDX?",
@@ -261,16 +261,16 @@
      },
      "news": [
       {
-       "title": "Weekly Video (10/18/2026) (Aris Mining, Avino Silver) (NYSE:ARIS)",
-       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOG9OcDFXUmxUanJJZUFpUTFVaGdlclQyT1NBYjRheFFyaHUtZmRTMFRqaVNXSlFMdFd4SjZVTlNEWS1LR3dqYzlhZE83T05FQ3pYdjBNWnVmTE9Xc2FEYU1rdFRXRmZYNkh4aVZKTlhaLTVsaWJGR3ZHMWd4ejBhbXZCcnU1S2hwb0o4bVdzWmhRbmMxY0IzZEUtd0RNeFF3Z3hFUUJOVXVaMHVpbjhMTkw0YjQ5ZHNuQ1JVNXNfZGY?oc=5",
-       "source": "Seeking Alpha",
-       "date": "2026-10-19T00:06:32+00:00"
-      },
-      {
        "title": "Avino Silver & Gold raised to Buy at Roth on valuation, La Preciosa potential (ASM:NYSE)",
        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQc1V6Q3J3eDhlYW1USzhENmdRSmhJUDd5VV94Q0NPeDBHNTduTUtkZEttLWJEQ1Z2VENsVTlmUWN3SUt1Z2VnT0czcV9BejZlS09vZzJuYUJPaWg2Sk1mQnNyMW1ncjd4eWhVS3hRTUJPbC1SNzZ3dmpCTE91UVFPa2VNdGpzY0hvSExGdkhlQ3pxQ0lvUGlzb2wySWFITzFrM1AyaFNQZXRPZWpSb3lBc3dXc1pDU0E?oc=5",
        "source": "Seeking Alpha",
        "date": "2026-10-16T19:58:23+00:00"
+      },
+      {
+       "title": "Avino Silver & Gold Mines Shares Rise After Roth Capital Upgrade",
+       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS0dieXNtMEV1X0NVMWV0bTI4elo5cGhTVjllMWxYZFRuRlBXY19ZT3R6N0pQRlZiRXdRYzh4azlLRDVDRmROa192MElyb2xXT1pBRGlOT3V1NmxIN3RCeU1xZ2IyLVJya0NKSHVBMzhZNkZuak9CWkF6b0tkS0w3TC1uZmxuWmc4Z2VjWlExQmxIV3JWZDBCYktQYw?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-16T18:54:13+00:00"
       }
      ]
     },
@@ -286,16 +286,16 @@
      },
      "news": [
       {
+       "title": "Coeur Mining, Inc. (CDE) Stock forecasts",
+       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcFZxc0lyNTZPbkg2QU5GWE1Db09ZaUJaT1FEYjdoSE10RmZ4bm92cVc0WHJkXzFPWlVvZTljM3Zpd0ZvYkZCTjNlN2hPc25YNm5JUHEyWGFTVmp6anE5WFAtTGhrQ3NWV3p2dkhKMGEyNE1MNG9xSzVBbEdqNVUyZkdKNVlLM3NnM3pKaVFQNHB4UWM?oc=5",
+       "source": "Yahoo Finance UK",
+       "date": "2026-10-24T11:07:46+00:00"
+      },
+      {
        "title": "Americas Gold and Silver Sinks 11%, Coeur Down 8% as Silver Slides on Hormuz Oil Shock",
        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRDBLMW8wR3Fsc3E3N283REVMa0dHMENsZ3YzUktWVkhad1R3VklVbTZjUWxfcFZ3Q0I1Y0k0NkFmZlZhaVc0bGdfbGZZM2JrN2FuS2JNY08xanFkeVFHN2tkdDJ5b0dLbVRXenVLcm12aWtRR0FQQkxZWFRHUzNUckRFQkVDakNxZjRRTHR4STIzSVJDNVdOMmU1QVBBUjlG?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-10-22T17:37:28+00:00"
-      },
-      {
-       "title": "Coeur Mining, Inc. (CDE) Stock Forecasts",
-       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcjlHRE5Xbmo1Qy1HSU1PUHFHQ1M4aWpLM25WeFNrWFV0dGZ5UTQ3T3V1anBPalNaaVgwTzhqelZpc0lWbjVoZEtQZDd1c1ZMd3NNYzVibEdlU19CaUFRaHN4SEJZWWdGV2VkUjlWZndjWjB4RkhyV1dlanpHZGJ0WHhZNFBqYzBPSTVRZ3M3NA?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-21T21:44:26+00:00"
       }
      ]
     },
@@ -656,10 +656,10 @@
      },
      "news": [
       {
-       "title": "Prediction: Amazon Could Double by 2030 if This Part of Its Business Delivers",
-       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcFZTU3N6eHZfem9iekxMdVhybkh6TS15akNkMWNlbFpLRi1Sd1pxQmkyQkxiNGFQay1ZRXd5TmxIc1BqdEpJVFJwRWdXUndVM3NWMWtWbHA3aVp4RGhpNEc0eDdfR1ZMelVkelhiQzBFMFJJbzlvSjlGY3YxMEl6UVplTm5IY09ScnNHZTJ1ZUxUR3NZLXBZVjg4Q2FWSm1JUFE?oc=5",
+       "title": "Dear Amazon Stock Fans, Mark Your Calendar for October 29",
+       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMm53RWFuSFJKN1hWTHF1bVAxcHBsSkQ4elFqbWtkSUVzMXVnQmk1dWVVLVZmOUM4WjBlRVItU2NhdDlkeEpsSFhkN3hMTHlEOEFrX2dnWkVVOE90NGM4dXZmNDlTWHVfTEotNXptUVJpSHVuZDJGZFhWR2VOZkFpb01SUkZtaktPQmgtX2llQ2xaUUVoX0lR?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-10-23T15:30:44+00:00"
+       "date": "2026-10-23T15:25:56+00:00"
       },
       {
        "title": "Should You Buy Amazon Stock Before Oct. 29?",
@@ -725,6 +725,12 @@
  "failed": [],
  "general_news": [
   {
+   "title": "SpaceX Could Weather a Recession. But Its Stock Might Not. Here's Why.",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPck5BMmVaUGlKSWw0YkwyZmExSG9CcUZIcE01dlByaVBteGhvTEVIUWFnYmNjZWItR2pyWEZ5ZUY5ZC04UVJxUTdVVDdDVFpQTGYxN2lDMWlycm1uSkZpZDlJMld3ZlJlREF5eHJlUG94TURnRFNnZ0pEbmw3TzNPbndnUlBsZGJONGlWY1NrNUV1RWZ0TkViaWFQZVV0RFdocXE2YUlSN2R2TmtnbXRLbkQ2dUlNbC15cmk4X3R5eWJqUkFMNTZVUEtacnJfNW93d21xaVliVWNNWEIxRzlaV2hQejRmenZkb1E?oc=5",
+   "source": "The Globe and Mail",
+   "date": "2026-10-25T16:05:00+00:00"
+  },
+  {
    "title": "The Stock Market May Be About To Break As The Earnings Trade Unwinds",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQTRPYzhyZVZvZ1dLTUxybFVrZ0lfRTc1WS0yV1BvY2RQZGJwT0tGUjhTV2tWQUczaFBBWFR3VFNFYXE0YmE4RWNLcUJrUVNpZWZkZUhaZjNqaXZHQ1dENC1rcG9TVjdmQ2lEVmhoS0FTR29VUlFzNERwcTl5eGc0b1dFSExTeWctbEZQaUFuNWEtX2J5Qm5UUzV6NTNoNS1SRjVr?oc=5",
    "source": "Seeking Alpha",
@@ -735,12 +741,6 @@
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY3JpUHlJWVliYnRfalFjNTkwakdJSVlEWU5tQXNmb0pXUGhsaUJMVlVhdTZJelJEWmZhbkI0N2kzSE9iTnJmOTJ2RDZzN2lRVzczYzNHb1NmSWE1bEl5LUtuOURQYXVQZnl6czZFSnJjTS13WGlwbFgweUZlR2tSNkprZnJ4UGc0aFFGMm5tU08xNGFNZFUwcHBYeHU4emRMSC1N?oc=5",
    "source": "Yahoo Finance",
    "date": "2026-10-25T01:11:00+00:00"
-  },
-  {
-   "title": "Bloom Energy Raised Its 2026 Forecast for the Third Time. Is the Stock a Buy More Than a Third Below Its Record?",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQM0xkcWNLUDN5M3E1bzg4UkhBOW1PdXV0N1hQNXFpZTR4SVUtcHN6dWp0RGdoZ2FXMmtLTUptQS14dVkzZ0QzQ2JKVWtPUUxHNDNIWVhqQm5GYkFKbWk4eHRJUWV6UWczUENNbzI4ZFpzTFlXZnZnWmd6dXZ5NVpxbEY4LTZIUy03dEdxU3ZLX1FnNmVYZ0pMem9hRFlXa29DMlRyQUEzSmQ3UHM2Y0VVclpfYWcyMmZGWjJCWDJ3bkx2V0JQZ0FwcnVpVXU3X2hIN2NyUmZkQ2dhWVJVUkxZWUxiMmI0d2Ru?oc=5",
-   "source": "The Motley Fool",
-   "date": "2026-10-24T18:19:00+00:00"
   },
   {
    "title": "Why Peter Schiff says a stock market crash could happen before 2026 midterm elections",
