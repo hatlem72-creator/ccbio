@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-24T23:42:17.978280+00:00",
+ "updated": "2026-10-25T00:30:01.657138+00:00",
  "usdnok": 9.316200256347656,
  "btc": {
-  "price": 80737.703125,
+  "price": 80751.21875,
   "prev": 81074.1875,
-  "chg": -0.4150326822578432,
+  "chg": -0.39836199406870776,
   "currency": "USD",
-  "asof": "2026-10-24T00:00:00+00:00"
+  "asof": "2026-10-25T00:00:00+00:00"
  },
  "silver": {
   "price": 53.71099853515625,
@@ -69,15 +69,15 @@
      },
      "news": [
       {
-       "title": "Kongsberg Maritime secures deal to support IWS Fleet expansion",
-       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQWltZ2xjTnZkU2tiaGNBb0VWai1IYVZLeWltajVsd045aUFTTk1SazdGWmxJRkpUMHBiUmNSSTVST3dkR0hKaUtyRkMtX2ZwUlhUYlhsVVV6VzRlY0dMVmlsWU9QVl8zdXdSQm1GQkhQN1RrTmREUHV6Y1k5dmlyaFhKVE5OU3lCMUU0c2pldU1iaEVXNFRzTTRTQjZuam43WmowZUxR?oc=5",
-       "source": "4C Offshore",
-       "date": "2026-10-13T07:00:00+00:00"
-      },
-      {
        "title": "Kongsberg wins four-vessel IWS offshore wind deal",
        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVVZlNnJaV2ZVTGxsWlJoeWpXdkU2M1ZQX1NrYjluV2JnSXpST2hOQ1NMLVB5WFFQVDU4M2RUd0lwNFhHS04xSlBFSmZ3enJha2xCcXhLWXQxbW5GVFZRVjZFOEtSYlYwQ1FaeHRZc05hUlRKWHkxeHQ1MkRLZ3Zkek1MbHlsSHVGTGRMamxSOHA?oc=5",
        "source": "reNEWS",
+       "date": "2026-10-13T07:55:16+00:00"
+      },
+      {
+       "title": "Kongsberg Maritime secures deal to support IWS Fleet expansion",
+       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQWltZ2xjTnZkU2tiaGNBb0VWai1IYVZLeWltajVsd045aUFTTk1SazdGWmxJRkpUMHBiUmNSSTVST3dkR0hKaUtyRkMtX2ZwUlhUYlhsVVV6VzRlY0dMVmlsWU9QVl8zdXdSQm1GQkhQN1RrTmREUHV6Y1k5dmlyaFhKVE5OU3lCMUU0c2pldU1iaEVXNFRzTTRTQjZuam43WmowZUxR?oc=5",
+       "source": "4C Offshore",
        "date": "2026-10-13T07:00:00+00:00"
       },
       {
@@ -159,12 +159,6 @@
        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9DUkUwbDZMUHZCMFdXYkczLWwyWGtVOVJzZkxlRGZlRWRDZU9YU0luVkwyaEhub1dBM1pycTk4T2NHank1Q1dUN1dwS0o3VG9DYjFCQw?oc=5",
        "source": "Yahoo Finance UK",
        "date": "2026-10-22T07:56:40+00:00"
-      },
-      {
-       "title": "ETFs Investing in INFICON Holding AG Stocks",
-       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xYjlPdmFHOTNPM1FCeDBVOWQ3U0xWeUVMUmd0S1pMbzRvNkgyVzZfUEJ5NG5iRWNaTmRfT1loc3BzREVYSjBSODloYkdYVUtoZXlxcFhpbkg1QVZRYW5B?oc=5",
-       "source": "TradingView",
-       "date": "2026-10-20T20:57:51+00:00"
       },
       {
        "title": "The Best AI ETFs to Buy in 2026",
@@ -267,10 +261,10 @@
        "date": "2026-10-19T00:06:32+00:00"
       },
       {
-       "title": "Roth Capital cuts USD 7.00 target for Avino Silver and Gold Mines stock",
-       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVWNlY1dYM0MzdWphSGlMXzRoT2Z2SXJHMzg2SE5TejhGUEJTSDlMZ0huWkFmYnFqcF9ZMFA5cU4zNzZMb0ljQmQ3RHJfbHRsdVBxSHM1M0hHRDg2NWF0RUNlSTFqV1d4anRJaGJ3RHRrTERkaDh4SzNsMEVRSmJOaHhvTlhYX2c0ckxoQ1RIWlpQU2VZYWhQdnhfU0VNanpISmxGNzJxTjdpYTA5clV1VTJHYjViNl9JOTBpcTNaR1QxQ2poRHFrSWpR?oc=5",
-       "source": "ad-hoc-news.de",
-       "date": "2026-10-17T16:31:23+00:00"
+       "title": "Avino Silver (ASM) Rises As Market Takes a Dip: Key Facts",
+       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNM0VMeUNmRGhBaWZZd21tV1E2YlczaWRndkpCY0ZnTk40c0FWeC05aExqNEdldmgwOXBrNjlld2RlUHhFU2drbk9BZWU3TmxUZnhwUE5VSy1hRU9yb1o1ZWQ3RS1Qc0ZfZjlMUV9XUlBnRE14dVZNZ1VvMm5iU1ptWVotMHkxUFdrR0VCb29FcUJtdlIwNGtpeGtB?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-16T21:15:05+00:00"
       }
      ]
     },
@@ -286,16 +280,16 @@
      },
      "news": [
       {
-       "title": "Videos",
-       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTDBEQkhQMm5WdzRTc0FWT191U1o3ZHpROGZxakp0a3h5aWhQMU5Qck9vRnEzM19haWt2M2pSeU9TSWxSX2I5YWkybVNTLU1HYTEza3FFVGs2eF9tSzRuVzJ2VzFTemJhRWliSmlSOGhFekg2QktPeUdPZTJYbVVmQVlxV1NHYmpZSjQ0b2Uzdjl3UGVYdG5pVmxjVHpJMVRTZ3BkNXhvRU12Xzh4VFZvWDNaYlNtY0ZFbTdmZndlU2ljb1pDTXVEWFdn?oc=5",
-       "source": "Kitco",
-       "date": "2026-10-23T14:00:00+00:00"
+       "title": "How Big Could Coeur Mining Stock's Next Fall Be?",
+       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ2JJVjVUQXAzcmZmaUE0aUtESFM2QUl6cXNncEFRRk1pRHVTNjR5OUpWazVVY0xSRXlXbUhWeW83Y3dFNjJRS21ZeHFNdlRkbUZSSFpRU1FGQ0J2V3dfTTdDQUsycV9rRk1kbTg4YXYyUGotcmN3dkl4aXdkWUoyX0dOUlg5RTBzaWRNREZZaThNUnNJN1dJWEFn?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-20T17:48:37+00:00"
       },
       {
-       "title": "Coeur Mining, Inc. (CDE) Stock Forecasts",
-       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcjlHRE5Xbmo1Qy1HSU1PUHFHQ1M4aWpLM25WeFNrWFV0dGZ5UTQ3T3V1anBPalNaaVgwTzhqelZpc0lWbjVoZEtQZDd1c1ZMd3NNYzVibEdlU19CaUFRaHN4SEJZWWdGV2VkUjlWZndjWjB4RkhyV1dlanpHZGJ0WHhZNFBqYzBPSTVRZ3M3NA?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-21T21:44:26+00:00"
+       "title": "Coeur Mining, Inc. (CDE) stock price, news, quote and history",
+       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wa3oxQ09fQWxNeWkwUVNiS1JGQWhYeU9EcDdlZ01YZmdIX29nSGtXcGRjaXVENTdoWlFSR1dUWFJxTmw3X0hOY0R4ZHEyZUlaVTYzV3ptYTRHdGRCQmFmbg?oc=5",
+       "source": "Yahoo Finance Australia",
+       "date": "2026-10-20T15:34:54+00:00"
       }
      ]
     },
@@ -311,16 +305,16 @@
      },
      "news": [
       {
-       "title": "First Majestic Silver Corp (AG) Stock Down 3.9% but Still Overva",
-       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZHhIdmRLazlqNG5tZGlFa056TVRGbjNqWnltd2NteDB5Z05QclJIUTBwQ3dTRmJyRnJiV19vdWx5VHNfNy00TWRfamJpMENTRkk2VWp3RHR5em4tYlFvbFI0dGdhOUVVbzZEQ1hvRzk1b2U5NjRlT010WURNNEVqdFl4aWJscGo4RC1rcHJXS2wzWEtsQVJ0SUxqeTVmOEoxeGk2VllhYzFtejVuUXYwNUkySVM1VklwUHc?oc=5",
-       "source": "GuruFocus",
-       "date": "2026-10-13T22:02:18+00:00"
+       "title": "First Majestic\u2019s (TSX:AG) Silver Quarter: Why San Dimas Matters",
+       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQmdVT1czZlJZckRBUXNvOHU1ZmtYR0pPaXM3dWo5bUdVSUcweDBvRC1PdXVmRG1tNDVzeWRIZW9EdFc1SHdNN0JRRkZkSllYQm9CUkstOXY4RHhFQVF5NWdBYnhTZGFqdXp3Q1Ric3ROcWF0RUNFM3VEc1ZDUEdFeENCSkFJZFU4N05nOFp5aXB4Nk5LNlRPYTBWMlpWQlNZZUlXeEhhMkR0b3dWWk5R?oc=5",
+       "source": "Kalkine Media",
+       "date": "2026-10-21T14:20:00+00:00"
       },
       {
-       "title": "First Majestic Silver Corp. (TSX:AG) in the S&P/TSX Spotlight: Why Investors Are Watching Silver Output And Mexico Tax-Dispute Developments",
-       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNSnNoUXhxQmYwSW1fLU93ZnZZVHVRM2pieGJQOFVQWGVsR0sxV3dHeE50NF9fLU4yUXFucTEtWkszMW40TExiYXh3XzV6aHAzbHp0ZzVTS2gzV0xlUkxfUkdmMnM5NDhiY2oydUd1R253blpUOEF5Z0hDSmVscV9lVk9xVGZvdGpBU05iVG5QMzNieHlwTDVERUJVZEYxQVJOM01LZ1VmcjVQWHhoZ3NvMUxBZVJwY280c18xZVdsU1pmalJFbU5HQ2t3WGZWd2hJOS1IODVtdnFoN0JCRENKZ2FBN09tOVN4WnhvbDc4T0d0U05rakE?oc=5",
-       "source": "kalkine.ca",
-       "date": "2026-10-13T17:00:00+00:00"
+       "title": "First Majestic Silver Corp. (FMV.F) Stock Price, News, Quote & History",
+       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5adU9BYVRxMTBmLVZxMmRKVXRoZjRJMTBmelNvdTBKR3JjUkdXVFpBekxGY3V2RFRtMUZFZlRZaGZZemstZFBZTDJlQTAxSzNJRWg0?oc=5",
+       "source": "Yahoo! Finance Canada",
+       "date": "2026-10-21T06:37:23+00:00"
       }
      ]
     },
@@ -587,10 +581,10 @@
        "date": "2026-10-24T12:09:54+00:00"
       },
       {
-       "title": "How much MSFT stock does Microsoft CEO Satya Nadella actually own?",
-       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYWNkVXNVNFRfaXJHQUFEbWpsTjRLLWR2SkJxc1ZyZTJ5RVkxS2Y0SDl0aWNrbEZCTkJTYXN3VW5tYm01WU0tSkhjRTNpamRLRFV5dUF6N1NXVmJTU2hmbkExdGx1MVdreG84M18zMGR4VnZtcUVKZkZhaGJWT3djWVhiSERhSHlEYUgyUVotcE5fanRFb1lOQ1RUTQ?oc=5",
+       "title": "Microsoft's Earnings Problem: Even Great May Not Be Enough",
+       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZWVrMmpYTVZYNzhHaTBCS1FWQXJTWkhUV1ZMN2pfQzNHSXhVWW5ZV1BOZWdRc1ZZU0wzcU9meFNZREUwQUdPUjl3ZXllWjlnTWpRaEo5T09rTXVlUGZVRTRsYzBiYW1pem9lSmJMSGJIX202S3FkRVBrOTdWdWtTYksyaUM1Yl9MT1FtZmZ0UGJpa1VuazNYeE9lVjNTNF9NY01MbE13?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-10-22T17:07:02+00:00"
+       "date": "2026-10-23T12:00:00+00:00"
       }
      ]
     },
@@ -712,10 +706,10 @@
        "date": "2026-10-23T14:25:00+00:00"
       },
       {
-       "title": "Tesla's Automotive Revenue Fell 3%, and Energy Generation and Storage Tumbled 16%. Should Investors Still View Tesla as a Car Company?",
-       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNWJVN1QzbWR3NE8yYUNYRFUzU19QeGlkcGRIUThnemQzYThnZ0FaQTlYa3JKc1E0eFNNRzlsTzhPcjNRTWRhakxWQ2xzUE5XM2s0V0tmY05lY2t6SUliUkpibFh1UG5EYlRIODhaa2Q2Z2FORWNuQzdBUkd3cWhvN0luRVM5ZUxaWE9ENy1KV1Nhb1B0T2w4SVlOQ3BNdw?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-23T07:05:00+00:00"
+       "title": "Buy, Hold, or Sell Tesla Stock After Q3 Earnings & SpaceX Merger Talks?",
+       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nUFdocnZoM3U3ZXQtSFQxc3h2bHJFX1JMVGUwRk1xbzMtUHZQQmt3Yzl0QU1lbEJvTjI5dkVIc0NZUlJJMnBBbXRTUVNhVWJ6bGE2VWFDaXZxTGJfX3FHMnBVX0NLU0ZqNEhNMDY0cUxVWDdscm9JbmlNa3hiS0E?oc=5",
+       "source": "Yahoo Finance UK",
+       "date": "2026-10-22T22:17:00+00:00"
       }
      ]
     }
@@ -724,6 +718,12 @@
  ],
  "failed": [],
  "general_news": [
+  {
+   "title": "Gold and silver ALERT: Recession risks and what comes next?",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUS1WTktxSVY0Zl9rMnFjQ0JVTzdHUFloRVh1Y1Z4cFpBMEFNNklUc1NVZndEeGsxQm1ORk91YUZjRHJCVmlIWXBVU2dhWEk5QTlSYTJOVE1jcHN6V0tFRWY5VHVFcEVTNE12TzQxcldHbW1zNkhONTdvWmh1QUtlMGdMM0V2czBXbEJUbFdOUk9nS1M1eWp5VktJV2EycWs?oc=5",
+   "source": "Kitco",
+   "date": "2026-10-23T20:49:19+00:00"
+  },
   {
    "title": "Bloom Energy Stock Sinks Despite Record Revenue and a Stellar Outlook. Is It Time to Buy?",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNX3Nua3N2MUczbDBUaldoMWNYak9rQ19nSURsamdZTHRGQ2hUZGl1cEJUcWY1cl96NXRfcFY0MHkwSnE4UFpMczUzcnMycnVZVXFpSHktckZHR1Jzb3pCekpPamRqVC1QYmVnWlIxMnBPSnVndFVheXN2ZF9IWjlUUEctX0dpc0FTWnl0UGpremFlTHZmQVlYemR2T2hpVDg3OG85N3lFbWhPQWVUUkFDWHdmNVZkbFVoZV9IcEZuT2R6LTY3TEd5b21B?oc=5",
@@ -735,12 +735,6 @@
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMWdSVjdtcGFEV0VROEZPVXNFTGd5WDhwS0NmbzlCNEE2dGhuS2RUTVF5UFRiVEFRcjhMTDRCTDlsTEhQNG1kazZzZUFmZ2Z1aC1NSHdFanZwOTg4YjZqR25WVkc5RjczSkJ0R0RaZHkxV3V1ajRCcVBKX0pjMF9mUjVZQVhNM1VJYlpVa0JmRG94OFBVckRIeUxocEZGbFRPaENUQjloMFZldnEtRVpKUVpLclhMTEZwTUs4Snh1WXpuYUthdkljbWxXWlc5OHVMMXVkYWlKcmg?oc=5",
    "source": "Seeking Alpha",
    "date": "2026-10-23T18:23:05+00:00"
-  },
-  {
-   "title": "The Cracks Are Spreading: The Recession Trade Is On (NASDAQ:TLT)",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdUVteUtobGEzcUY1dDdia3BXazJoYjV5clBvWHdTT2lqV1BLY0U5Qkp1bE0yYnhTRVhvVVRWd0tOYVpsTVBVeHBHeGFPMEQtV2JLZzF0cFg1VXBQV204TUVGV3RTSzFHWWVBS2FYM1ZNTk5UbXRZdVRMMGVnWTd1akpIMnlPcmVRd184V0cxbGFKRFlzRWc?oc=5",
-   "source": "Seeking Alpha",
-   "date": "2026-10-23T17:25:23+00:00"
   },
   {
    "title": "'A cyclical downturn is inevitable' in an AI crash: Strategist Dario Perkins",
@@ -779,22 +773,22 @@
    "date": "2026-10-22T17:04:25+00:00"
   },
   {
-   "title": "Gulf Keystone and ShaMaran agree to $601m all-share merger",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYjlUWU5FNjgxMTVfVFZJaWpYeHRZODBnMEpDX0IyUVpUZHQyV0IzbEYwc09Wd2tCMlNKNmp2SzRKbVd1S1l2T3dGbFRpQlRjRTJYSERoc0d3VTl5UUZrWktBNW9RRXdQUEJ5S3ZHLURKR0dwSXZiNUo2c2dhczBpTU9hWDFUUQ?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-10-21T09:13:30+00:00"
+   "title": "Larry Fink Warns Data Center Slowdown Could Push US Into \u2018Recession\u2019 as Trump Orders Facilities to Generate Their Own Power and \u2018Make Deals\u2019",
+   "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOQXpCcnRaYkVYVkUwcWJydEh3TUFhTEFGVFNkd3Njb005SFIyMXNUdjBLbl9ZTzdNanItVmlMYVpsMXdycmlhWGRsc21DdmFDVVpOdk4zZWUydDhkMFp0S210WTZ4LXNfcV9Jb01sNkdlQUdTbGRETFBUNXNoMExCNDRVcjVsWWlib1ZUWkZQbFpCOTBNdDFwcTUwRTEwakY2YWFpVExtYlRNTktvSGYzTGVQR3RtN0R0b2dWMUU5Q21pVjFyV1R0UWEyNFExTEwwTkRwNlhhaWhTZ1luTkY2YVpBNFl1RkdIYjVKVVZWSXRxal8xNTM5X0tFYnRhbTA5WFJQSmRZcE5aQy14T2ViR2NwZlNrZEtaZWxtOHhTWWY?oc=5",
+   "source": "TradingView",
+   "date": "2026-10-21T13:04:54+00:00"
   },
   {
-   "title": "Gulf Keystone Announces $601 Million All-Share Merger With ShaMaran Petroleum",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMF9VMXA1akJZNkNzRG52Q1ZJT0t5RHQ3eGZHZUg1R3VmczhlNTl2UVJ3b1VkcmhWTXlJMWR2UmQ1MXIwVzlSYXNfV1hPS1Axd25QLXJMTnlReHdSMVBGQnRkR1V2R1p2Tm5peW03ZG1ldHlWSVpvc3VIaWE3aHM1eDh3eWZLZUY0MThZWQ?oc=5",
-   "source": "Yahoo Finance UK",
-   "date": "2026-10-20T09:11:08+00:00"
+   "title": "Firmus pulls its ASX listing as investors balk at AI infrastructure valuation",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5zOGd5ckVaTTZrZDY1dENPNWZ4ZTd6TTZUSGNmVDlRX2Y2Q1dYazFPTVNCUDFMcXhqLWh4Zi1xcjlUNkpjRXZ0RXJjZEszMzFNbUhULVN2bHVwVGpubXpnMEc4WExkblFIaGVTYy1JWnZ4Y0oyeVBRZFBJNFc?oc=5",
+   "source": "Crypto Briefing",
+   "date": "2026-10-21T10:55:16+00:00"
   },
   {
-   "title": "Gulf Keystone And ShaMaran Plan A Kurdistan-Focused Merger",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSnZMUnVfSzJsSDhJR0lIRDFuRmJCMlJWaThJeGRTWnYzclJrRFJWRW1CQUpOeTEySU0wMTloRWZxamg2M0Q1UmFJMDNVQ3NSMkJGdWFxbzFKampVVFJoOHpKRjlCTU1lLS1qQmRfNFZaLV9XS3djTGNVaTUxVjNVekRQTS1Yb2VTWUVibUVMUXc?oc=5",
-   "source": "Finimize",
-   "date": "2026-10-20T07:21:49+00:00"
+   "title": "Property giant\u2019s grim recession warning as Aus economy faces \u2018hard landing\u2019",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSzR3WlNqc2RzYmtuelR4M2s5dXFDTUcweFBGM1Z1YzdTUS1YZzdWNkxQU0lCODljbEFDNHBBSlprNVBMcVBYYWF3NUx3clpYRy1oaGVyU3dIR1NyUmhTQThKaFExdGtzUlY1eXUxUXUxRVhFLVpZWmU2cEdsUWxJY2NuQmY2OXVoZXdYUlVOSzRxeDVNaklocTZXdkxqTUJoMHYtenVBdWxyQTJn?oc=5",
+   "source": "Real Estate",
+   "date": "2026-10-21T02:39:22+00:00"
   }
  ]
 }
