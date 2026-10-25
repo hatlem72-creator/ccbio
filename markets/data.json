@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-25T18:25:41.444860+00:00",
- "usdnok": 9.301600456237793,
+ "updated": "2026-10-25T19:10:46.446155+00:00",
+ "usdnok": 9.289440155029297,
  "btc": {
-  "price": 80587.3671875,
+  "price": 80462.5625,
   "prev": 80790.8359375,
-  "chg": -0.25184632345852664,
+  "chg": -0.4063250908233562,
   "currency": "USD",
   "asof": "2026-10-25T00:00:00+00:00"
  },
@@ -236,16 +236,16 @@
      },
      "news": [
       {
+       "title": "BMO sets USD 24.00 target for Hycroft Mining stock",
+       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVnNPYTZqYkplQW9hMTRWSlE3WFM4Z1R1OVI1ODdOWkhnNWNGTWNHeFF4Yk5OYTBLMmRMRUdvWWYwVmV3Wkl4VFk4TFozVVFEQlhmZnlHcDl4N014OEJZTV9JWXlwNXotajdNLU1sOG5XU3pvQi1XLUx6bEw1aVRvOFZPaTEzSVR2V2NJRm5qYXpLYVdPYld2NWxnUDVzcTdhQUU0ejgyajBPeldxZmc?oc=5",
+       "source": "ad-hoc-news.de",
+       "date": "2026-10-17T19:58:31+00:00"
+      },
+      {
        "title": "How InvestingPro spotted Hycroft Mining\u2019s 48% decline in advance By Investing.com",
        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOM3g3Z09MR1dCUTZES3gyX0ZmYlZHYnFNMllWSVY0WDJPZEY1LXhwb20zWDBYUW10WndRbWJ5VnFZM3o1NnRfUFgzOVkwUlNEZDYzMG9lQ3UzaUNidWFEcTdOTGN0YV9lc2dGWC1PQmtCTVZMQ2ROU0NxMllYc2FERWo2RXl4cDlRR1VwR1R1NGRXRTI3S3dTaEhfUUVnbXI0c2hDWDlYNWdreWVfVUVJNm9HQWpmT2ZIdU1nY3JnUmo?oc=5",
        "source": "Investing.com",
        "date": "2026-10-16T11:17:35+00:00"
-      },
-      {
-       "title": "Hycroft Mining Holding (HYMC) Hits Record Drill Results On Questions Over Whether Value Is Already Priced In",
-       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRm8xbUV6TGk2eW1CU2J5VnlkTmxicFUzeHk5eU81eUlrN21ROUhVOVVOcUplM1pMdUdBazBiSDF4R1JMeTNBRnBtQ3laM1R1cWNwRHlQU0NWZjEtN2l6X2xvTGdXcmhYajFXbXBjWkZSdnRSWXp6LTB5TFVPT3BPVlc1OHlKR08zUDhBUDlMamNncE9UdXNDZGRjSGxRUQ?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-14T07:00:00+00:00"
       }
      ]
     },
@@ -311,16 +311,16 @@
      },
      "news": [
       {
-       "title": "First Majestic Silver Corp. (AG) Pauses NAFTA Arbitration Amid Mexico Settlement Framework",
-       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcDg1V1R5dDFVWGhhbVlwSHNyX1l6NXhCWXhUcUpBWEdSTFl6amNPV01JTzNhTklOdVczRVliQl9WeTBoUjB1V1FlcFVGU0lEa2VtZEdxZkE5ekQ3NWdTZVBYN0RHN2ZhMVk3eWI2b3pPQ0RUamNaS1hpTnZXVHRrOGlZVE9Od3BlWjNqcVJXV05wVUY3MEJIZ09hU0JDUnN3QktUUzV2cmJmSWkwYnFvYmZZUGpHeThabXhtX3ZuSVhocDdvLWJQeGRPZnoySWJhUHJtTE4wNTNfWnJJQVZNbWdrRQ?oc=5",
-       "source": "TradingView",
-       "date": "2026-10-13T11:00:00+00:00"
+       "title": "First Majestic\u2019s (TSX:AG) Silver Quarter: Why San Dimas Matters",
+       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQmdVT1czZlJZckRBUXNvOHU1ZmtYR0pPaXM3dWo5bUdVSUcweDBvRC1PdXVmRG1tNDVzeWRIZW9EdFc1SHdNN0JRRkZkSllYQm9CUkstOXY4RHhFQVF5NWdBYnhTZGFqdXp3Q1Ric3ROcWF0RUNFM3VEc1ZDUEdFeENCSkFJZFU4N05nOFp5aXB4Nk5LNlRPYTBWMlpWQlNZZUlXeEhhMkR0b3dWWk5R?oc=5",
+       "source": "Kalkine Media",
+       "date": "2026-10-21T14:20:00+00:00"
       },
       {
-       "title": "First Majestic, Mexico Agree on Framework to Settle Legacy Tax Dispute",
-       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSGloS1E3TmZCNjJFRTdIdENkUnNRRk56ZlB6RlNpWTFXcGhyS1lCQ0wyejgtSEwwNnVTOEtLUVU0d1RIMWZKVkNISGU4VkRYaUxwV0pnZS1kdWFMUWxMZWlGRXdjU05CRXdROXhaZ1FUdFd1OTZVWVdack5pekNzNVNrWFItajNSOFBQUmxlTUNLNGE0SWxTOUpQYTVPQWw5NTJJag?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-13T07:00:00+00:00"
+       "title": "First Majestic Silver Corp. (FMV.F) Stock Price, News, Quote & History",
+       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5adU9BYVRxMTBmLVZxMmRKVXRoZjRJMTBmelNvdTBKR3JjUkdXVFpBekxGY3V2RFRtMUZFZlRZaGZZemstZFBZTDJlQTAxSzNJRWg0?oc=5",
+       "source": "Yahoo! Finance Canada",
+       "date": "2026-10-21T06:37:23+00:00"
       }
      ]
     },
@@ -336,10 +336,10 @@
      },
      "news": [
       {
-       "title": "Defiance Silver reports strong silver and gold assay results from Zacatecas drilling program.",
-       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQalExcFZXR0hjXzJnbDY1YmFJRkRRNGdlX1pJTnByb0UyU0pxRUU5eFhiVm5ianVvSVgwV1lud093Y3JmZVN2SmFfaTJMQ21aOURWXzdlMkxUQjNSLUs5dUIyZDBkR0RnSHc1U3N2SkZHZ0liQUl1YjZacGx3ZDNpZjh0eWpGQUJBTnhMd25SUjZrRkp5aHFvcjEwWlVjelE?oc=5",
-       "source": "Pluang",
-       "date": "2026-09-09T07:00:00+00:00"
+       "title": "Defiance Silver Corp (D4E.DU) Latest Press Releases & Corporate News - Yahoo Finance",
+       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UODNIWWJMMzhNME11OGhlS1RUdU5OWXA4UmVtNkgtYTVpSjVBejJSR1RoTTdHODd4SUNtQ01uOGllWlhKZ3paaGNjajFQdTk4aFpDNHBCb1JlbmQtZ0lFQXQwTHFmNy15?oc=5",
+       "source": "Yahoo! Finance Canada",
+       "date": "2026-10-04T10:28:46+00:00"
       },
       {
        "title": "Defiance Silver raises C$3.27M in private placement",
@@ -361,16 +361,16 @@
      },
      "news": [
       {
+       "title": "Gr Silver Mining Ltd (GPE.HA) options chain",
+       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBTTVFlbDFrdW1QYmNYajBpUEtqclowdU0yOTZxUHUxZmtPNGZvbmJyNW96OWZ1RFVJYVY2RnVhMks2ektYeThqTkxLTnZPZUxfa294dE1aTDFxaXZrYXcw?oc=5",
+       "source": "Yahoo Finance Australia",
+       "date": "2026-10-24T23:17:02+00:00"
+      },
+      {
        "title": "Kuya Silver Announces Grant of Stock Options",
        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdHlFblFEYmZBODRBTEU1ZjVnQlR4bHRhcU5MSlRmd2FmcUZoR21fZk9rVlVQMzBBRDJTZkJ1cDg2MHRzUnNyT1BDcm9CNHpFU0VLNjZ0TTNrc1VidGxXXzdiREQzT0V0cXhrTVVHRjYyVTJBMXJsME1mOGlHRV9hZUp5eUxKR2dXREtOeVFWZzBpOGhoclRQYjE5cTZFUkU?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-10-19T21:08:00+00:00"
-      },
-      {
-       "title": "Dykes Extend GR Silver's San Marcial Silver Case Toward Depth: 6 Things to Know",
-       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSjNLZXNuVFdiQXBlXzhKUHVIb2Izc2xpZ2VwQTMxWktqRlBjY0xyYmZ4b095am4tNW9uRkxfVFEtWTAwR251WWhRY185djFLLUltZmxSdC16LWRGNGs4Zkptc3hnNUN1cWNhaTJScmRWZTEyb2Y0TjZLXzZsQ1ZFLUo1Z1M4bXVGNGE3VFJ1d2NiMk9jdFVIU19GbGZRb2c4eDdyUk1Fa056TVFGejZNVHNn?oc=5",
-       "source": "Crux Investor",
-       "date": "2026-10-02T07:00:00+00:00"
       }
      ]
     },
@@ -392,10 +392,10 @@
        "date": "2026-10-16T07:00:00+00:00"
       },
       {
-       "title": "Zacatecas Silver options Lourdes Gold-Silver Project, Mexico",
-       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeUhfOFNiSTF1aTBZbWs2Tzc3U2xveGpKN1BrNzQtT0hsNUJsdk56el9hUW0tMlZtTHh6ZV96aVRuRDBRZVZLUGFOazZUcHZyWVZGTVpxS18yLXlLNjVHZEMweDJGbl9yYXR0TG00aDBXdHBEc0p3eTRUbGwxazRjd1UyM2FCMjh0N3lGOTFTdw?oc=5",
-       "source": "Resource World Magazine",
-       "date": "2026-10-12T12:50:17+00:00"
+       "title": "Mexico\u2019s Mining Industry Adapts to Global ILO 176 Safety Rules",
+       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTm84M0hnZzAzZzg1eEtIa1hSai01UWRIbTR2Y3poLWVuRVViNFdIU1ROOElZb1NoOWZzSWZMN2h3UXpoWWVLS1VHdUZibVgyc211UVV1RWdPN0VRZ2lsV2NRNUtQVXpKWmt6bVpwWF8zMDhrTU5LSUZwNXltc1o2ellkS19rdnI1c2gtdEVwMUpPZlhFaW1XYzBnUTZkM3M?oc=5",
+       "source": "Mexico Business News",
+       "date": "2026-10-15T23:46:52+00:00"
       }
      ]
     },
@@ -530,9 +530,9 @@
      "symbol": "USDNOK=X",
      "name": "USD/NOK",
      "quote": {
-      "price": 9.301600456237793,
+      "price": 9.289440155029297,
       "prev": 9.325400352478027,
-      "chg": -0.2552158120901482,
+      "chg": -0.3856155884950807,
       "currency": "NOK",
       "asof": "2026-10-25T00:00:00+01:00"
      },
@@ -556,16 +556,16 @@
      },
      "news": [
       {
-       "title": "Here's How Many Shares of Apple Stock You'd Need for $100 in Yearly Dividends",
-       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPd1dpUXNpTXhaS2JYMU5xVE5VV2djNG9SUmVKZGFsUUZCcTFHZkY3MzVDNWlGSWY4UEZ2ZlZ5LU91SWdYb2p3cm5nNGRiNDFfNmZVNFBjUEIzbVhWYmFhV1ZHSnFNRkNXSmN1Mlo2Qzl4Rk9GQm05WUNBM2pVOGpaelJsUDZwaUVCZ0dkT3ZfZnM0bFd3Nzh6Tlln?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-24T21:09:00+00:00"
+       "title": "The iPhone Duo Launch Kicks Off a Crucial Few Weeks for Apple",
+       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeURFOHhobTBud3F4djRGcXl3TUw3QVFzVVNLTGExUlpnT2thX1FZd3Z6Z0xMSWhxY2syX0VhLU5jQ1JjYjM2SXlFZVVQQlVtU3dfX196cWN0cExxY01ldzJkeGwwZlhOMHlZNUswNzhjWXlINDVrZmtWVFk5Q01VX202OTVjNzA?oc=5",
+       "source": "Barron's",
+       "date": "2026-10-23T19:03:00+00:00"
       },
       {
-       "title": "Apple Is One of the Most Profitable Businesses in the World. Here's Why the Stock Is Worth $295 a Share Right Now.",
-       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZEtyWnA0Qi1lSnhnLUIzMnRwN1AxaWY5WFhQdWVBdHNGcTA2YUlHb1lGMC1peEozZXhSMDgwRjZmSUJJYTY4ejZVdnV2ZHI5QlBXMVRmWFFzeW15U2NieXAzWm16cldScWFjRTRZVUFnMk1FX0UwV2ZxcGdSY0ZaSGkyUjlWNEphV2o0cHRUbF9EQ2Fua2RUYzZ1eTRDQWgwU0Zz?oc=5",
+       "title": "Apple Is Up 28% This Year: Take Profits, or Hold On for the Ride?",
+       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUzNQMTRxbVZYUUxNR1BTV3o2R1V6Z05QX1Fkbllxem91N1FpRUswRE96VDRuNGVTdEh6dlRTZ1p0VmFxZ3RlUEVGLWc3MG9XT0xhZHROUlpYNEFDeDlwN25kQWpCOXNPbWdwc19mV2J4QU9vSERaeXJCTzU5dm5kZHVUdjE0SEROVTFPR0FXVHk2TTZJcVE?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-10-24T08:05:00+00:00"
+       "date": "2026-10-23T18:33:48+00:00"
       }
      ]
     },
@@ -581,16 +581,16 @@
      },
      "news": [
       {
-       "title": "Microsoft\u2019s $50 Billion Gamble: Can Microsoft\u2019s Azure Growth Justify Its Exploding AI Budget?",
-       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObDZfVUM2dHBSc0pRbEdaWTlzWUI1SDBkRzhBRXdwaExYNUU5UU43dEI3MGtzUWpZeGg4cFhRRFo2Y2VaTWJ5blZSU0VSeGNiQUxrbGVEc0hCcWpxT0t6WmZLTmhfemJoeDRHZENBaHhOWFBEbTQtNkVDUm5yRl9McXlnSGJWLXJRcUhrWDdaMWh3RnpWblZzdjJqVm9jekdab3dV?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-24T15:44:52+00:00"
-      },
-      {
        "title": "Microsoft Stock And 2 Other Best Defensive Stocks",
        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWVpjZm1Xekp5NVNiNlVwQzdEVlhMREpvdXlzWUJra255R19LNzhNZGdnQ2xpVnBkSXlGRkpuR0tMT1ZJUVEwOHN0QndXZE5pZGVPUEVFUElfUmxTM1BLbG5fekVXSTFnc1N3aW9mdkpEdEdOR1ltRXlaMGVZQXhWRXBwaUMwekQtaWZpdXhMMWVlVW5xc2ZTTw?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-10-24T12:09:54+00:00"
+      },
+      {
+       "title": "Microsoft's Earnings Problem: Even Great May Not Be Enough",
+       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZWVrMmpYTVZYNzhHaTBCS1FWQXJTWkhUV1ZMN2pfQzNHSXhVWW5ZV1BOZWdRc1ZZU0wzcU9meFNZREUwQUdPUjl3ZXllWjlnTWpRaEo5T09rTXVlUGZVRTRsYzBiYW1pem9lSmJMSGJIX202S3FkRVBrOTdWdWtTYksyaUM1Yl9MT1FtZmZ0UGJpa1VuazNYeE9lVjNTNF9NY01MbE13?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-23T12:00:00+00:00"
       }
      ]
     },
@@ -656,16 +656,16 @@
      },
      "news": [
       {
-       "title": "Amazon Stock And Other Mega Cap Tech Names For The AI Infrastructure Reset",
-       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaEhjVXJENnpnTTZfVHB1djE1alJfcElWMFZ1RE56UzFBVE50bVduclh5cnpTaEMwTWszajI5enF0dXBjYnlNWG5TakNIZTdNcGdLbWpMV0hjVXF6MUJHTk5iMkhkNGhyWXIyYmIzYmVhV19BTUhXR21JYnR2Tl9veVlwX3VsSW5kRl9KaVZwSEFTbUtEY2c?oc=5",
+       "title": "Prediction: Amazon Could Double by 2030 if This Part of Its Business Delivers",
+       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcFZTU3N6eHZfem9iekxMdVhybkh6TS15akNkMWNlbFpLRi1Sd1pxQmkyQkxiNGFQay1ZRXd5TmxIc1BqdEpJVFJwRWdXUndVM3NWMWtWbHA3aVp4RGhpNEc0eDdfR1ZMelVkelhiQzBFMFJJbzlvSjlGY3YxMEl6UVplTm5IY09ScnNHZTJ1ZUxUR3NZLXBZVjg4Q2FWSm1JUFE?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-10-24T00:19:00+00:00"
+       "date": "2026-10-23T15:30:44+00:00"
       },
       {
-       "title": "Dear Amazon Stock Fans, Mark Your Calendar for October 29",
-       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMm53RWFuSFJKN1hWTHF1bVAxcHBsSkQ4elFqbWtkSUVzMXVnQmk1dWVVLVZmOUM4WjBlRVItU2NhdDlkeEpsSFhkN3hMTHlEOEFrX2dnWkVVOE90NGM4dXZmNDlTWHVfTEotNXptUVJpSHVuZDJGZFhWR2VOZkFpb01SUkZtaktPQmgtX2llQ2xaUUVoX0lR?oc=5",
+       "title": "Should You Buy Amazon Stock Before Oct. 29?",
+       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdUNzQkdXbm81LXFjZTc2cEVacUh2Z0E5UTZLZkpEa3lEeDBZaDhITEM0SEowcFlldW9pLW9IYlFnVGhERXRPY0xyVkFvenYzN0J3VHJselIwZVJuRG54M3ZzeGhLbGtoMlhKaGxuVUh5RkIySFpmSGFLbnBzRVI1Zy1QZ0M4R19EQkV4Z2RSSWx6UQ?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-10-23T15:25:56+00:00"
+       "date": "2026-10-23T11:22:00+00:00"
       }
      ]
     },
