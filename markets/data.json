@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-25T15:50:32.874403+00:00",
+ "updated": "2026-10-25T16:24:31.221488+00:00",
  "usdnok": 9.316200256347656,
  "btc": {
-  "price": 80586.21875,
+  "price": 80452.4375,
   "prev": 80790.8359375,
-  "chg": -0.2532678182192494,
+  "chg": -0.4188574527954958,
   "currency": "USD",
   "asof": "2026-10-25T00:00:00+00:00"
  },
@@ -69,15 +69,15 @@
      },
      "news": [
       {
-       "title": "Kongsberg Maritime secures deal to support IWS Fleet expansion",
-       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQWltZ2xjTnZkU2tiaGNBb0VWai1IYVZLeWltajVsd045aUFTTk1SazdGWmxJRkpUMHBiUmNSSTVST3dkR0hKaUtyRkMtX2ZwUlhUYlhsVVV6VzRlY0dMVmlsWU9QVl8zdXdSQm1GQkhQN1RrTmREUHV6Y1k5dmlyaFhKVE5OU3lCMUU0c2pldU1iaEVXNFRzTTRTQjZuam43WmowZUxR?oc=5",
-       "source": "4C Offshore",
+       "title": "IWS Fleet Hires Kongsberg Maritime to Equip Four CSOV Newbuilds",
+       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTDE1eXpSbGFTMWxVWnlYVy13TVI0NUVkakhrZXhxYlV5am9RMW5UanIxODJyV25CQ0FKLVBLRzI4Q2JNdnpZRWh5WF8ybk03UmI4UGV1dmM5MEVJcDR5aERBRFZHWm1NbTBSblRfM05KbVd1Yk5LUURjZThXZlA5TG1uQVo2U2VBQTdfM1JzYlZVVWlDek5FRjJ6MXJJLUhTV0Nj?oc=5",
+       "source": "Offshore Engineer Magazine",
        "date": "2026-10-13T07:00:00+00:00"
       },
       {
-       "title": "Kongsberg wins four-vessel IWS offshore wind deal",
-       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVVZlNnJaV2ZVTGxsWlJoeWpXdkU2M1ZQX1NrYjluV2JnSXpST2hOQ1NMLVB5WFFQVDU4M2RUd0lwNFhHS04xSlBFSmZ3enJha2xCcXhLWXQxbW5GVFZRVjZFOEtSYlYwQ1FaeHRZc05hUlRKWHkxeHQ1MkRLZ3Zkek1MbHlsSHVGTGRMamxSOHA?oc=5",
-       "source": "reNEWS",
+       "title": "Kongsberg Maritime secures deal to support IWS Fleet expansion",
+       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQWltZ2xjTnZkU2tiaGNBb0VWai1IYVZLeWltajVsd045aUFTTk1SazdGWmxJRkpUMHBiUmNSSTVST3dkR0hKaUtyRkMtX2ZwUlhUYlhsVVV6VzRlY0dMVmlsWU9QVl8zdXdSQm1GQkhQN1RrTmREUHV6Y1k5dmlyaFhKVE5OU3lCMUU0c2pldU1iaEVXNFRzTTRTQjZuam43WmowZUxR?oc=5",
+       "source": "4C Offshore",
        "date": "2026-10-13T07:00:00+00:00"
       },
       {
@@ -87,10 +87,10 @@
        "date": "2026-10-09T07:00:00+00:00"
       },
       {
-       "title": "AYK Energy to supply batteries for four electric Svitzer tugs",
-       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMWRuX0ZlYjRFOGhMaGl4SDZMNFJjUDBMd0N3NmN3Y21kWmZtZURIZm44SS1rWS1CbDJRRGl3N2p6MnptOVJGcWM1b0thUlFUbXgxQmU2TWFzSlRrakpaM2VQdjRmX3VWZFJaNTloTERWekhqMlVMbko5ZUJQSUFmdkIwOFJjeWEzTGkwR3VhbUpCYllXdmswcm8yMzJfWWFfTmt3SWNsbHFJNkdEc2FQbldkX1J3ZnBQRW91cDRn?oc=5",
-       "source": "Maritime Journal",
-       "date": "2026-10-09T07:00:00+00:00"
+       "title": "Kongsberg Maritime secures Extended Thruster Coverage agreement",
+       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeWFRczlOdDNxT3JRMUxZSFpvTlJaZlpDa3h2aExmTl9nU3JQc1lTaG5TM0FkNDJVNmMycVIyaEhZNjBmT0twN1U3cnB4NktaOUI4alNrQU1sY1NiV0tPc0Zad3Z2cGdvT0Z4am4zWTlVQkpBUjVfc3FLajRPOV96R0FLQUZ6Nmw0ZWF2MzJnTXRfQQ?oc=5",
+       "source": "Maritimt Magasin",
+       "date": "2026-10-07T07:00:00+00:00"
       }
      ]
     }
@@ -242,10 +242,10 @@
        "date": "2026-10-16T11:17:35+00:00"
       },
       {
-       "title": "Hycroft Mining Holding (HYMC) Hits Record Drill Results On Questions Over Whether Value Is Already Priced In",
-       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRm8xbUV6TGk2eW1CU2J5VnlkTmxicFUzeHk5eU81eUlrN21ROUhVOVVOcUplM1pMdUdBazBiSDF4R1JMeTNBRnBtQ3laM1R1cWNwRHlQU0NWZjEtN2l6X2xvTGdXcmhYajFXbXBjWkZSdnRSWXp6LTB5TFVPT3BPVlc1OHlKR08zUDhBUDlMamNncE9UdXNDZGRjSGxRUQ?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-14T07:00:00+00:00"
+       "title": "Why Did Hycroft Mining Holding (HYMC) Move Today?",
+       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUVlwcWxpQmlBSGJQUW5rVkstNzhBd2M1TUpFMTdWUEttYTUwTFRmNURtbVlhbURPZC1MODdQU1RfdWhEbzBGZ0tCOW1zUVpIT2lxWVdlU1BFX1FkaC10dkhLbWNLdERQNEF5Ymk3MEhSWDlqNW5FdDYyMFd4NS1OYUJmWWtsaGpVRWxWSVgtMXBSb3gyQmpubWljQ3dfY3dFUHNZaUpIYmpyRE9QRVZNMjhkOU1kTUEyLUVMOXQyZ3IycVdCUFhr0gHMAUFVX3lxTFA5bERkUmhZMFpEZTl5YmRDUnJ1NmFVUXB5NGpoaWVlWnBiZmFWOWlmZlYtY1FubVBKRjZTWFRNQzZJUzUyaVRmODlzTnhFLWY0RGV0OUZCUExHNnpiMmtDWFBobS1sd3hFc0JBT3AyV2dHaTJ0T2VhUlZzOXBUY294aWZiWTNnWXNYNTF2bVBKMng3ZXlUUkRtaU11clVzVFJ1MmtUdnlVUmVNVWFuRnhpd0dsZkFFQmxmVWlBd0RMeGlScXZxYnpmRzVFVg?oc=5",
+       "source": "Simply Wall Street",
+       "date": "2026-10-15T23:12:20+00:00"
       }
      ]
     },
@@ -267,10 +267,10 @@
        "date": "2026-10-19T00:06:32+00:00"
       },
       {
-       "title": "Avino Silver & Gold (ASM) Stock Rises 2.9% After Roth Capital Up",
-       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOU5rVWo1ekExTThxRVVqZ0ZWMHpVOXpqSHRhZlpRcVJoZDM2YVVaUnQwdmhtTERYNDI3T2c1VDhNTTdCRVdsejdURm9lLVNsazFUMUx3S1I4YXlhWllhS3RnTmM0OGQ1YndUeUVmQ3IyRTd2VnlrVTBIeVAxVEc1b3FZUzd0MkhqcHFDUVI4NkxRa01IbW5kSURvNFFWazBmN25jZA?oc=5",
-       "source": "GuruFocus",
-       "date": "2026-10-16T21:14:28+00:00"
+       "title": "Avino Silver & Gold raised to Buy at Roth on valuation, La Preciosa potential (ASM:NYSE)",
+       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQc1V6Q3J3eDhlYW1USzhENmdRSmhJUDd5VV94Q0NPeDBHNTduTUtkZEttLWJEQ1Z2VENsVTlmUWN3SUt1Z2VnT0czcV9BejZlS09vZzJuYUJPaWg2Sk1mQnNyMW1ncjd4eWhVS3hRTUJPbC1SNzZ3dmpCTE91UVFPa2VNdGpzY0hvSExGdkhlQ3pxQ0lvUGlzb2wySWFITzFrM1AyaFNQZXRPZWpSb3lBc3dXc1pDU0E?oc=5",
+       "source": "Seeking Alpha",
+       "date": "2026-10-16T19:58:23+00:00"
       }
      ]
     },
@@ -556,16 +556,16 @@
      },
      "news": [
       {
-       "title": "Apple Is One of the Most Profitable Businesses in the World. Here's Why the Stock Is Worth $295 a Share Right Now.",
-       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZEtyWnA0Qi1lSnhnLUIzMnRwN1AxaWY5WFhQdWVBdHNGcTA2YUlHb1lGMC1peEozZXhSMDgwRjZmSUJJYTY4ejZVdnV2ZHI5QlBXMVRmWFFzeW15U2NieXAzWm16cldScWFjRTRZVUFnMk1FX0UwV2ZxcGdSY0ZaSGkyUjlWNEphV2o0cHRUbF9EQ2Fua2RUYzZ1eTRDQWgwU0Zz?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-24T08:05:00+00:00"
-      },
-      {
        "title": "The iPhone Duo Launch Kicks Off a Crucial Few Weeks for Apple",
        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeURFOHhobTBud3F4djRGcXl3TUw3QVFzVVNLTGExUlpnT2thX1FZd3Z6Z0xMSWhxY2syX0VhLU5jQ1JjYjM2SXlFZVVQQlVtU3dfX196cWN0cExxY01ldzJkeGwwZlhOMHlZNUswNzhjWXlINDVrZmtWVFk5Q01VX202OTVjNzA?oc=5",
        "source": "Barron's",
        "date": "2026-10-23T19:03:00+00:00"
+      },
+      {
+       "title": "Apple Is Up 28% This Year: Take Profits, or Hold On for the Ride?",
+       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUzNQMTRxbVZYUUxNR1BTV3o2R1V6Z05QX1Fkbllxem91N1FpRUswRE96VDRuNGVTdEh6dlRTZ1p0VmFxZ3RlUEVGLWc3MG9XT0xhZHROUlpYNEFDeDlwN25kQWpCOXNPbWdwc19mV2J4QU9vSERaeXJCTzU5dm5kZHVUdjE0SEROVTFPR0FXVHk2TTZJcVE?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-23T18:33:48+00:00"
       }
      ]
     },
@@ -612,10 +612,10 @@
        "date": "2026-10-23T18:19:00+00:00"
       },
       {
-       "title": "Nvidia Stock\u2019s 2 Critical Flaws and More Reasons an Analyst Says Sell",
-       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5SVktBZjJfVEV6cG1KNTRURUZ5MUNuSmFSeW5aeldtcWg4LWNkZC05TVVmRmhZYzhSWnNtbG81Vkt0ellCTWZ3dGRYMGptZ0xfZGdCTU8xY3lmR2tjNE80NE5MZ0l1R3M5M0xHV0k2THFIYk13QXlRRU5hSFdzZw?oc=5",
+       "title": "Nvidia Stock\u2019s Two Critical Flaws and Other Reasons This Analyst Says Sell",
+       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVkJjcjhkc01sV0RFdHFxeVhzUU1DTjdyTUNoeWU0RjBPbWwtZWxOczlySW1fMFNMemJiSmdvVHRSUXlLcVNKSE9xQnd6eFcyYl9QY0s5c1dhT0R1eVRodW00ajhwR1ViYlpseGtySzFrN0w4enowM0Q3YllGTnJBaExhNjBHVVN2?oc=5",
        "source": "Barron's",
-       "date": "2026-10-23T16:33:00+00:00"
+       "date": "2026-10-23T11:06:00+00:00"
       }
      ]
     },
@@ -681,16 +681,16 @@
      },
      "news": [
       {
-       "title": "Meta Just Burned Cash for the First Time Since Its IPO Year: Wall Street Raised Its Targets Anyway",
-       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRURsUFZQRmJ6Z1Qtd0VoTV9NYUlNWUU2UEpuV2dGdEtZWGRsSmktZENId1hZRTdCUkhUWnZlZVZ0Z1pzeGlJa0dUdzk1cTdqNnRLdlhlZzdjVEZ5eWp0czhWRElSUGd0aThkRjR2VDRFUjkwVTFNQ3BOek5KSUlIRGpVTGdqU3hzZjNlM25aWEZxTm15UWFZ?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-23T21:30:07+00:00"
-      },
-      {
        "title": "Meta stock closes out Friday down as AI spending fears continue to rattle markets",
        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOVBsWC1HZmNiRnJHT3RIbzlmcmZLZVpRVVlibk5sMFhyLUJfSHVtZlhxNzBLWkJ6RkgtWWprZnl2ZUVCeVBzb3NOVzlJQkYwbjBvVzQtaFZDSk9rZGxlYWVjMEJnWFY0LVFiUVM0S2J1T0ExVTJMcFY4QjJ1ZDgwNVVrVEpENFpJMHVrRkpoVXJvSTktOE9fMU94dnpLR1UxWWlSTFVHallWRG1DTDBhNXJobzJpek5UeTk3dUFRZl9QMnJhaGo1OXo3TUhSeEg0LTVQeHZiZ0NuZw?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-10-23T21:04:03+00:00"
+      },
+      {
+       "title": "Meta\u2019s new non-voting shares aim to protect Zuckerberg\u2019s control: Oppenheimer",
+       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbHZYN1c3NUlvZzJDWW1ZNnlpTlNqbDl6bm1keVl5VnR1VUdiMXpfSG11cTl3cTJYMVpXU3lhZGV6UU56TVFuTDhDTURUdjNRNjJCT21USWJiVHFYRFVid3pVRWlrTHprUDh2WUxsaGdGc2poelhvZWVROElZaWJ0WGVSZFhTRmlycC14YzFKRkZfQThFVEE?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-23T14:20:16+00:00"
       }
      ]
     },
