@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-25T10:23:49.822623+00:00",
+ "updated": "2026-10-25T11:05:45.472584+00:00",
  "usdnok": 9.316200256347656,
  "btc": {
-  "price": 80242.828125,
+  "price": 80283.2109375,
   "prev": 80790.8359375,
-  "chg": -0.6783044217093415,
+  "chg": -0.6283200243065945,
   "currency": "USD",
   "asof": "2026-10-25T00:00:00+00:00"
  },
@@ -69,15 +69,15 @@
      },
      "news": [
       {
-       "title": "IWS Fleet Hires Kongsberg Maritime to Equip Four CSOV Newbuilds",
-       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTDE1eXpSbGFTMWxVWnlYVy13TVI0NUVkakhrZXhxYlV5am9RMW5UanIxODJyV25CQ0FKLVBLRzI4Q2JNdnpZRWh5WF8ybk03UmI4UGV1dmM5MEVJcDR5aERBRFZHWm1NbTBSblRfM05KbVd1Yk5LUURjZThXZlA5TG1uQVo2U2VBQTdfM1JzYlZVVWlDek5FRjJ6MXJJLUhTV0Nj?oc=5",
-       "source": "Offshore Engineer Magazine",
-       "date": "2026-10-13T07:00:00+00:00"
-      },
-      {
        "title": "Kongsberg Maritime secures deal to support IWS Fleet expansion",
        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQWltZ2xjTnZkU2tiaGNBb0VWai1IYVZLeWltajVsd045aUFTTk1SazdGWmxJRkpUMHBiUmNSSTVST3dkR0hKaUtyRkMtX2ZwUlhUYlhsVVV6VzRlY0dMVmlsWU9QVl8zdXdSQm1GQkhQN1RrTmREUHV6Y1k5dmlyaFhKVE5OU3lCMUU0c2pldU1iaEVXNFRzTTRTQjZuam43WmowZUxR?oc=5",
        "source": "4C Offshore",
+       "date": "2026-10-13T07:00:00+00:00"
+      },
+      {
+       "title": "Kongsberg wins four-vessel IWS offshore wind deal",
+       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVVZlNnJaV2ZVTGxsWlJoeWpXdkU2M1ZQX1NrYjluV2JnSXpST2hOQ1NMLVB5WFFQVDU4M2RUd0lwNFhHS04xSlBFSmZ3enJha2xCcXhLWXQxbW5GVFZRVjZFOEtSYlYwQ1FaeHRZc05hUlRKWHkxeHQ1MkRLZ3Zkek1MbHlsSHVGTGRMamxSOHA?oc=5",
+       "source": "reNEWS",
        "date": "2026-10-13T07:00:00+00:00"
       },
       {
@@ -336,10 +336,10 @@
      },
      "news": [
       {
-       "title": "Defiance Silver reports strong silver and gold assay results from Zacatecas drilling program.",
-       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQalExcFZXR0hjXzJnbDY1YmFJRkRRNGdlX1pJTnByb0UyU0pxRUU5eFhiVm5ianVvSVgwV1lud093Y3JmZVN2SmFfaTJMQ21aOURWXzdlMkxUQjNSLUs5dUIyZDBkR0RnSHc1U3N2SkZHZ0liQUl1YjZacGx3ZDNpZjh0eWpGQUJBTnhMd25SUjZrRkp5aHFvcjEwWlVjelE?oc=5",
-       "source": "Pluang",
-       "date": "2026-09-09T07:00:00+00:00"
+       "title": "Defiance Silver Corp (D4E.DU) Latest Press Releases & Corporate News - Yahoo Finance",
+       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UODNIWWJMMzhNME11OGhlS1RUdU5OWXA4UmVtNkgtYTVpSjVBejJSR1RoTTdHODd4SUNtQ01uOGllWlhKZ3paaGNjajFQdTk4aFpDNHBCb1JlbmQtZ0lFQXQwTHFmNy15?oc=5",
+       "source": "Yahoo! Finance Canada",
+       "date": "2026-10-04T10:28:46+00:00"
       },
       {
        "title": "Defiance Silver raises C$3.27M in private placement",
@@ -581,16 +581,16 @@
      },
      "news": [
       {
+       "title": "Microsoft\u2019s $50 Billion Gamble: Can Microsoft\u2019s Azure Growth Justify Its Exploding AI Budget?",
+       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObDZfVUM2dHBSc0pRbEdaWTlzWUI1SDBkRzhBRXdwaExYNUU5UU43dEI3MGtzUWpZeGg4cFhRRFo2Y2VaTWJ5blZSU0VSeGNiQUxrbGVEc0hCcWpxT0t6WmZLTmhfemJoeDRHZENBaHhOWFBEbTQtNkVDUm5yRl9McXlnSGJWLXJRcUhrWDdaMWh3RnpWblZzdjJqVm9jekdab3dV?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-24T15:44:52+00:00"
+      },
+      {
        "title": "Microsoft Stock And 2 Other Best Defensive Stocks",
        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWVpjZm1Xekp5NVNiNlVwQzdEVlhMREpvdXlzWUJra255R19LNzhNZGdnQ2xpVnBkSXlGRkpuR0tMT1ZJUVEwOHN0QndXZE5pZGVPUEVFUElfUmxTM1BLbG5fekVXSTFnc1N3aW9mdkpEdEdOR1ltRXlaMGVZQXhWRXBwaUMwekQtaWZpdXhMMWVlVW5xc2ZTTw?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-10-24T12:09:54+00:00"
-      },
-      {
-       "title": "Microsoft's Earnings Problem: Even Great May Not Be Enough",
-       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZWVrMmpYTVZYNzhHaTBCS1FWQXJTWkhUV1ZMN2pfQzNHSXhVWW5ZV1BOZWdRc1ZZU0wzcU9meFNZREUwQUdPUjl3ZXllWjlnTWpRaEo5T09rTXVlUGZVRTRsYzBiYW1pem9lSmJMSGJIX202S3FkRVBrOTdWdWtTYksyaUM1Yl9MT1FtZmZ0UGJpa1VuazNYeE9lVjNTNF9NY01MbE13?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-23T12:00:00+00:00"
       }
      ]
     },
@@ -631,16 +631,16 @@
      },
      "news": [
       {
-       "title": "Alphabet (GOOGL) Cloud Outage And Share Token Fight Put Regulation In Focus",
-       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbVN6MDc4a3piaVFsaE1vcUZFR0dzTk1lQ1VZMDdvU28zWlFLY0E4ZUxvbGJrdGw4dllmc0hDOEhpVWpHUDBpaE9DcU5waThIMmlZMHhibjBaejNSMUpaY1FxZ3VZUHdqb2RzVk5mLVFuUnk1TlZMWHFXcFhLeEZhS0RuNnpjbml4M2pVYWx4R0JTbUJ4Rmt4Tkh3?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-23T13:13:07+00:00"
-      },
-      {
        "title": "Pre-Q3 Earnings: Is Alphabet Stock a Portfolio Must-Have?",
        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMmltNEpYZVdmU3BvZHVnWXV3cEZYdDhwV0t5b2NQU3hWMDlsNC1fU1Zzdm05aDFZOGlqOUlUeTFqTC05TEVmWnR2WmtPRWp0aExBdkFxbTJkaDRqdWRqMERRVWNSV3JKZkxSOG85WnJDS3g1bTdBakxZZWRJNU8tSlNFcFBGRlNBTW5ESV9oWWJkTkxucHJXSXNsUQ?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-10-23T13:10:00+00:00"
+      },
+      {
+       "title": "Better Buffett Stock: Alphabet vs. Apple",
+       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQ0dHQ083d3V3YUh2VG9tZGFnX25EZU9GNWE3bHFscEtXbmFJOGNOUFB0YkJRajhNNDJwVGlzbXZXTGp1OGN2VV9vTGREMWNoRTBBOFI4RURfeVhnLV9ZaDNMRFlvTkFsUFp6NE9ocXlhNDV2czduWVhtMVhMZ0hoMzBEQVhQaXVuWGNJN2FKalVqal82ekhVSUViUHY4Zw?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-22T19:05:00+00:00"
       }
      ]
     },
@@ -656,16 +656,16 @@
      },
      "news": [
       {
+       "title": "Ken Griffin Says We\u2019re \u2018Almost Certainly\u2019 in an AI Bubble, Recalls How Past Bubbles Created Market Leaders for Decades: \u2018I Just Wish I\u2019d Kept My Amazon Stock\u2019",
+       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWU1iWU55bDJVZWpNWjFZQnhHT1dINmtJTXJRNURxU3dqVE5qLXEzV2s2My01NFJsQ1dnRHVzdERtem1OYnFJMGJPRTUycWRoRHFvMHlZVUhsZmVvUlNIaThwRGZ6MXJfY0t6NDY4UDlaSzhhLWxoSTM3VEZHNXpMNDRfV0lLRThMd2Y3aGZHZlFyaUIwNFcxWEc4V1J5Zw?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-22T15:00:07+00:00"
+      },
+      {
        "title": "Should You Buy Jim Cramer and Ken Fisher\u2019s Top AI Stock Pick Ahead of Earnings?",
        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSzVXMTV4QWdIdXNXRHBGc0M1ck8wNjZMVXotYnhpNEMtb29sVnJ0a0s0YTVTbWw4aWVfSEZUbzh4RnpTbldiZFlRenhrcjJkTTI0dGYzSlZCUGFNbks1LWZEUWdTcmlmSXdCRUJfV1l1NG9Dc2Vrdk4xb3dDWDNWUFRKX2ZoWGR6ZmNwclFzYmZSNjU0?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-10-22T14:22:20+00:00"
-      },
-      {
-       "title": "Amazon\u2019s Bee AI Wearables Could Be a New Growth Driver for AMZN Stock",
-       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNEFZWklmV1BYT19HSERSSDZSTXF2ZXlrS0VHMU4ta3ZmdzdJZDBvNVBDb3o5Yk5mMGlmQk53SXBqR1d2YTFheHVVUHVJdUNLazd5Q19RZl9pQWhMTlRialo4MG9fNEhIS2wtdmY5WEgtbnYwZGk2RERsZ1VNYThiMHlyaXBGR0trekhMWDJPWnotMFMzNXJZYw?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-22T10:51:33+00:00"
       }
      ]
     },
@@ -731,6 +731,12 @@
    "date": "2026-10-25T01:11:00+00:00"
   },
   {
+   "title": "Why Peter Schiff says a stock market crash could happen before 2026 midterm elections",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ0Ftajh0VEZWbXpMV2ZCNmZCSHU4QXNNMWJkX1RLTmFLalM3X3g4OUNSQXU1LWY3YzV3WHpFQnFCS2J1dU53TDh0Nk9lLTRGT3pGdi1tYU5oaC1BSE9UTVFaa3NDOVNtUE5uQTZHd3ktVkZkckdveGkyMEdNSkJ1b1U1eG10ak8zc0ZscmZtR2doUHp3RmZZ?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-10-24T13:30:00+00:00"
+  },
+  {
    "title": "What next for France as riots rattle markets? Three questions facing investors ahead of more protests",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42SU5XYVUwMmU4cUtKdGZNOEdZRk1wRVFUYkNPNE1xTFRUWEJlN0dSMnBPQUN3NGpZZ1R3Z1lSeVBpRkRMSlpqZV9oSmRIVFhVS1FPRXVPUkc5Y3NGOUJDdFc5ZEtfTnZUTXFOMWlnTWtIekg4V2w1a2RVVGZqSG8?oc=5",
    "source": "CNBC",
@@ -741,12 +747,6 @@
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOVBsWC1HZmNiRnJHT3RIbzlmcmZLZVpRVVlibk5sMFhyLUJfSHVtZlhxNzBLWkJ6RkgtWWprZnl2ZUVCeVBzb3NOVzlJQkYwbjBvVzQtaFZDSk9rZGxlYWVjMEJnWFY0LVFiUVM0S2J1T0ExVTJMcFY4QjJ1ZDgwNVVrVEpENFpJMHVrRkpoVXJvSTktOE9fMU94dnpLR1UxWWlSTFVHallWRG1DTDBhNXJobzJpek5UeTk3dUFRZl9QMnJhaGo1OXo3TUhSeEg0LTVQeHZiZ0NuZw?oc=5",
    "source": "Yahoo Finance",
    "date": "2026-10-23T21:04:03+00:00"
-  },
-  {
-   "title": "Bloom Energy Stock Sinks Despite Record Revenue and a Stellar Outlook. Is It Time to Buy?",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNX3Nua3N2MUczbDBUaldoMWNYak9rQ19nSURsamdZTHRGQ2hUZGl1cEJUcWY1cl96NXRfcFY0MHkwSnE4UFpMczUzcnMycnVZVXFpSHktckZHR1Jzb3pCekpPamRqVC1QYmVnWlIxMnBPSnVndFVheXN2ZF9IWjlUUEctX0dpc0FTWnl0UGpremFlTHZmQVlYemR2T2hpVDg3OG85N3lFbWhPQWVUUkFDWHdmNVZkbFVoZV9IcEZuT2R6LTY3TEd5b21B?oc=5",
-   "source": "The Motley Fool",
-   "date": "2026-10-23T18:43:00+00:00"
   },
   {
    "title": "Positioned for a Rally: 5 Reasons Stocks Could Soar into Year-End",
@@ -779,6 +779,12 @@
    "date": "2026-10-23T04:25:00+00:00"
   },
   {
+   "title": "The 12 Global Economic Indicators to Watch",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE10cDBzc3NOQ1JwMXoxYzlxbHFEdlFFNUw2c3d6cEpTM005SWdZTXpNcnhDTHJGVkwtTUpsa2MyVF9wbDlBMjRiZmZxX2NHanJsSmY4TDJQSWRRZWl4dmJGR3FWYTE3bDQ1MnBtbngtUUVranh3ZXNvNmNqQQ?oc=5",
+   "source": "Bloomberg.com",
+   "date": "2026-10-22T23:30:00+00:00"
+  },
+  {
    "title": "The Stock Market Sounds an Alarm for the First Time in Nearly 27 Years. Here Is What History Says the S&P 500 Will Do Next.",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMkUyMVRhLXlTVkVnYi0xRC04MHRhWG9qa1Y1MHppMHZGZ081bzJkNjdBUWUxUDlMblB1UTNrdTl0LVRhdjIxQ2NVTWJ3TDU0a3V6U1U2V3NSYXdCWlppMlYtellKaDhTbW1qYzM4Y1NSanhiNzVwMWhkS1V6d21nalppaFdqRExrS1dmb2NGVURGelo2RjJiaXB2dGo?oc=5",
    "source": "Yahoo Finance",
@@ -789,12 +795,6 @@
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTnZLOHJwa0I4ODM2TFpCVDJZNXEybjU2VDB2T2Fsd1FCX3lWb0RGZ04ybmZLeXVlLVJMYXF2aWw2WFBXcEcxZEtJaFUxUzAxRlcxSlptR1libllJRkZES25hdlRsUDVZdk54RmsySVZVWG1MOHBqWWdqMkltV1A4UjBneDVpVGtXYnRhVmEyX1lTRkNaSDhRdlhQOGRJdkdXN1o0?oc=5",
    "source": "Seeking Alpha",
    "date": "2026-10-22T17:04:25+00:00"
-  },
-  {
-   "title": "Kurdistan-focused Oil Firms Gulf Keystone, ShaMaran Agree $601 Million Merger",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KNEJ0OExrS2JTZFFveVcwWXVyZU9YQXRHbFRPRmdUeldFQmx6bkI3MjFNaTFsMS03YlVteUI0WWUwcEphaDlzSU5lTERsRzZlNzln?oc=5",
-   "source": "\u0634\u0628\u0643\u0629 \u062a\u0648\u0627\u0635\u0644 \u0627\u0644\u0625\u062e\u0628\u0627\u0631\u064a\u0629",
-   "date": "2026-10-20T10:29:36+00:00"
   }
  ]
 }
