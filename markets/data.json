@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-25T13:16:03.986236+00:00",
+ "updated": "2026-10-25T13:50:01.875834+00:00",
  "usdnok": 9.316200256347656,
  "btc": {
-  "price": 80306.1875,
+  "price": 80267.890625,
   "prev": 80790.8359375,
-  "chg": -0.5998804590596429,
+  "chg": -0.6472829578153538,
   "currency": "USD",
   "asof": "2026-10-25T00:00:00+00:00"
  },
@@ -69,15 +69,15 @@
      },
      "news": [
       {
-       "title": "IWS Fleet Hires Kongsberg Maritime to Equip Four CSOV Newbuilds",
-       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTDE1eXpSbGFTMWxVWnlYVy13TVI0NUVkakhrZXhxYlV5am9RMW5UanIxODJyV25CQ0FKLVBLRzI4Q2JNdnpZRWh5WF8ybk03UmI4UGV1dmM5MEVJcDR5aERBRFZHWm1NbTBSblRfM05KbVd1Yk5LUURjZThXZlA5TG1uQVo2U2VBQTdfM1JzYlZVVWlDek5FRjJ6MXJJLUhTV0Nj?oc=5",
-       "source": "Offshore Engineer Magazine",
-       "date": "2026-10-13T07:00:00+00:00"
-      },
-      {
        "title": "Kongsberg Maritime secures deal to support IWS Fleet expansion",
        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQWltZ2xjTnZkU2tiaGNBb0VWai1IYVZLeWltajVsd045aUFTTk1SazdGWmxJRkpUMHBiUmNSSTVST3dkR0hKaUtyRkMtX2ZwUlhUYlhsVVV6VzRlY0dMVmlsWU9QVl8zdXdSQm1GQkhQN1RrTmREUHV6Y1k5dmlyaFhKVE5OU3lCMUU0c2pldU1iaEVXNFRzTTRTQjZuam43WmowZUxR?oc=5",
        "source": "4C Offshore",
+       "date": "2026-10-13T07:00:00+00:00"
+      },
+      {
+       "title": "Kongsberg wins four-vessel IWS offshore wind deal",
+       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVVZlNnJaV2ZVTGxsWlJoeWpXdkU2M1ZQX1NrYjluV2JnSXpST2hOQ1NMLVB5WFFQVDU4M2RUd0lwNFhHS04xSlBFSmZ3enJha2xCcXhLWXQxbW5GVFZRVjZFOEtSYlYwQ1FaeHRZc05hUlRKWHkxeHQ1MkRLZ3Zkek1MbHlsSHVGTGRMamxSOHA?oc=5",
+       "source": "reNEWS",
        "date": "2026-10-13T07:00:00+00:00"
       },
       {
@@ -155,16 +155,16 @@
        "date": "2026-10-24T13:02:49+00:00"
       },
       {
-       "title": "KCR Stock Price and Chart \u2014 OMXHEX:KCR",
-       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZbDBQOEYtOG11c1gxNFY1eXh6TU83R2lpblBEVDJaVEpWVmljZHdkMklDeldKYlNZNk9rWFNaQmtPUjBXcktpYTdMdFVxQzNyLVB0NnlMTmFlbEE?oc=5",
-       "source": "TradingView",
-       "date": "2026-10-23T00:21:02+00:00"
-      },
-      {
        "title": "ARK Space & Defence Innovation UCITS ETF A USD Acc (ARCX.L) stock price, news, quote and history",
        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9DUkUwbDZMUHZCMFdXYkczLWwyWGtVOVJzZkxlRGZlRWRDZU9YU0luVkwyaEhub1dBM1pycTk4T2NHank1Q1dUN1dwS0o3VG9DYjFCQw?oc=5",
        "source": "Yahoo Finance UK",
        "date": "2026-10-22T07:56:40+00:00"
+      },
+      {
+       "title": "SNOW Stock Price and Chart \u2014 NYSE:SNOW",
+       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SUXprNzdIanA1N0duTExYdE11ME80MTFvcFVaOEJyZ2pOTWFoMEtldUZHWHJHSWdVQS1yWUZ5OGtrbnNaVWhZaUVnTFBsQkxmb3dNWTM1V0tDUQ?oc=5",
+       "source": "TradingView",
+       "date": "2026-10-18T19:09:06+00:00"
       },
       {
        "title": "The Best AI ETFs to Buy in 2026",
@@ -211,16 +211,16 @@
      },
      "news": [
       {
-       "title": "Is Hecla Mining (HL) Above Fair Value Even After Record Output?",
-       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeWZkUEtTbjZINlBzbFNySWxhYlI2VkZ1N25fNHRMdXl0MldIeFVCbHgxaEFSQU1hdTE0RlB1d0p4SzRic1luWloya3Nfb0RNQ1A2QlJSY0ptR2MyYk53Qjd4Yk5DeVRWVFlzcC1LUDNKek95YWFOamNxSzFlaWY4SHEzVGRmWVAzWkt1VUtiRDBvYlNzQkE?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-24T10:11:13+00:00"
-      },
-      {
        "title": "U.S. Small Cap Portfolio (DFAS) Buys $12.3 Million More Hecla Mining on Thursday",
        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTnA4WjZXTWQwVDlyeFd1ZVFYNy1JNDdjTHBlVzlZRkxlbUhrVEVEQjdlM09pU2xOdWloSUM2OXZvYVNGb1RrZDl2QnMwM2dtYXloLWc5b2d6X2J5S0RSbW1DUnF2RHhsbFhaQ3drQ2xqdFNSVVd5b3RaaWV6REdfNWpleXFyUGJlTl82TWdYTnhSR2FFMXc?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-10-19T11:04:02+00:00"
+      },
+      {
+       "title": "24 ETFs Add to Hecla Mining (HL) on Oct. 15",
+       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNlUxV045SE5Ubi1FakNEYjV3SkRnT3ppNVlPVGF5dzRma2NYM3N2UmQ4RTJCZkctNURlWWdKdVBFVjlxa0JEYWJiSzk3UzlXWnFEVHRUUDVOY0pCemQ3ZThGRHhwaHVYaDRFUVFIeHZkZGlOcm9wZVJMdzZmOE1TWUI5anpHNFo5ZXNPaWVOQTRNZEE?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-19T11:01:38+00:00"
       }
      ]
     },
@@ -242,10 +242,10 @@
        "date": "2026-10-16T11:17:35+00:00"
       },
       {
-       "title": "Hycroft Mining Holding (HYMC) Hits Record Drill Results On Questions Over Whether Value Is Already Priced In",
-       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRm8xbUV6TGk2eW1CU2J5VnlkTmxicFUzeHk5eU81eUlrN21ROUhVOVVOcUplM1pMdUdBazBiSDF4R1JMeTNBRnBtQ3laM1R1cWNwRHlQU0NWZjEtN2l6X2xvTGdXcmhYajFXbXBjWkZSdnRSWXp6LTB5TFVPT3BPVlc1OHlKR08zUDhBUDlMamNncE9UdXNDZGRjSGxRUQ?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-14T07:00:00+00:00"
+       "title": "Why Did Hycroft Mining Holding (HYMC) Move Today?",
+       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUVlwcWxpQmlBSGJQUW5rVkstNzhBd2M1TUpFMTdWUEttYTUwTFRmNURtbVlhbURPZC1MODdQU1RfdWhEbzBGZ0tCOW1zUVpIT2lxWVdlU1BFX1FkaC10dkhLbWNLdERQNEF5Ymk3MEhSWDlqNW5FdDYyMFd4NS1OYUJmWWtsaGpVRWxWSVgtMXBSb3gyQmpubWljQ3dfY3dFUHNZaUpIYmpyRE9QRVZNMjhkOU1kTUEyLUVMOXQyZ3IycVdCUFhr0gHMAUFVX3lxTFA5bERkUmhZMFpEZTl5YmRDUnJ1NmFVUXB5NGpoaWVlWnBiZmFWOWlmZlYtY1FubVBKRjZTWFRNQzZJUzUyaVRmODlzTnhFLWY0RGV0OUZCUExHNnpiMmtDWFBobS1sd3hFc0JBT3AyV2dHaTJ0T2VhUlZzOXBUY294aWZiWTNnWXNYNTF2bVBKMng3ZXlUUkRtaU11clVzVFJ1MmtUdnlVUmVNVWFuRnhpd0dsZkFFQmxmVWlBd0RMeGlScXZxYnpmRzVFVg?oc=5",
+       "source": "Simply Wall Street",
+       "date": "2026-10-15T23:12:20+00:00"
       }
      ]
     },
@@ -261,16 +261,16 @@
      },
      "news": [
       {
+       "title": "Weekly Video (10/18/2026) (Aris Mining, Avino Silver) (NYSE:ARIS)",
+       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOG9OcDFXUmxUanJJZUFpUTFVaGdlclQyT1NBYjRheFFyaHUtZmRTMFRqaVNXSlFMdFd4SjZVTlNEWS1LR3dqYzlhZE83T05FQ3pYdjBNWnVmTE9Xc2FEYU1rdFRXRmZYNkh4aVZKTlhaLTVsaWJGR3ZHMWd4ejBhbXZCcnU1S2hwb0o4bVdzWmhRbmMxY0IzZEUtd0RNeFF3Z3hFUUJOVXVaMHVpbjhMTkw0YjQ5ZHNuQ1JVNXNfZGY?oc=5",
+       "source": "Seeking Alpha",
+       "date": "2026-10-19T00:06:32+00:00"
+      },
+      {
        "title": "Avino Silver & Gold raised to Buy at Roth on valuation, La Preciosa potential (ASM:NYSE)",
        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQc1V6Q3J3eDhlYW1USzhENmdRSmhJUDd5VV94Q0NPeDBHNTduTUtkZEttLWJEQ1Z2VENsVTlmUWN3SUt1Z2VnT0czcV9BejZlS09vZzJuYUJPaWg2Sk1mQnNyMW1ncjd4eWhVS3hRTUJPbC1SNzZ3dmpCTE91UVFPa2VNdGpzY0hvSExGdkhlQ3pxQ0lvUGlzb2wySWFITzFrM1AyaFNQZXRPZWpSb3lBc3dXc1pDU0E?oc=5",
        "source": "Seeking Alpha",
        "date": "2026-10-16T19:58:23+00:00"
-      },
-      {
-       "title": "Avino Silver & Gold Mines Shares Rise After Roth Capital Upgrade",
-       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS0dieXNtMEV1X0NVMWV0bTI4elo5cGhTVjllMWxYZFRuRlBXY19ZT3R6N0pQRlZiRXdRYzh4azlLRDVDRmROa192MElyb2xXT1pBRGlOT3V1NmxIN3RCeU1xZ2IyLVJya0NKSHVBMzhZNkZuak9CWkF6b0tkS0w3TC1uZmxuWmc4Z2VjWlExQmxIV3JWZDBCYktQYw?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-16T18:54:13+00:00"
       }
      ]
     },
@@ -361,16 +361,16 @@
      },
      "news": [
       {
-       "title": "Gr Silver Mining Ltd (GPE.HA) options chain",
-       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBTTVFlbDFrdW1QYmNYajBpUEtqclowdU0yOTZxUHUxZmtPNGZvbmJyNW96OWZ1RFVJYVY2RnVhMks2ektYeThqTkxLTnZPZUxfa294dE1aTDFxaXZrYXcw?oc=5",
-       "source": "Yahoo Finance Australia",
-       "date": "2026-10-24T23:17:02+00:00"
-      },
-      {
        "title": "Kuya Silver Announces Grant of Stock Options",
        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdHlFblFEYmZBODRBTEU1ZjVnQlR4bHRhcU5MSlRmd2FmcUZoR21fZk9rVlVQMzBBRDJTZkJ1cDg2MHRzUnNyT1BDcm9CNHpFU0VLNjZ0TTNrc1VidGxXXzdiREQzT0V0cXhrTVVHRjYyVTJBMXJsME1mOGlHRV9hZUp5eUxKR2dXREtOeVFWZzBpOGhoclRQYjE5cTZFUkU?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-10-19T21:08:00+00:00"
+      },
+      {
+       "title": "Granting of Incentive Stock Options",
+       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMTlKS2dWYWJSNU5Ub05XU0dweDBmZlhrTzVpdXlkM2wxSEpxRDBLTDFNbkpuN1pEa0NvWmVBVFk3UzhrNGZKLVFaT2ZzQ1NDUjQ2WDFRTE9MVEU5VTJQYmNCelhERTJQNVlLc1FuZnlnWDVpSXkzeUxkaVpwSVVOeWFiaWFZSlRLc1llN1VRVGdzM0FyZXkxTmJyLW9aQQ?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-16T07:00:00+00:00"
       }
      ]
     },
@@ -731,22 +731,34 @@
    "date": "2026-10-25T01:11:00+00:00"
   },
   {
-   "title": "Bloom Energy Raised Its 2026 Forecast for the Third Time. Is the Stock a Buy More Than a Third Below Its Record?",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQM0xkcWNLUDN5M3E1bzg4UkhBOW1PdXV0N1hQNXFpZTR4SVUtcHN6dWp0RGdoZ2FXMmtLTUptQS14dVkzZ0QzQ2JKVWtPUUxHNDNIWVhqQm5GYkFKbWk4eHRJUWV6UWczUENNbzI4ZFpzTFlXZnZnWmd6dXZ5NVpxbEY4LTZIUy03dEdxU3ZLX1FnNmVYZ0pMem9hRFlXa29DMlRyQUEzSmQ3UHM2Y0VVclpfYWcyMmZGWjJCWDJ3bkx2V0JQZ0FwcnVpVXU3X2hIN2NyUmZkQ2dhWVJVUkxZWUxiMmI0d2Ru?oc=5",
-   "source": "The Motley Fool",
-   "date": "2026-10-24T18:19:00+00:00"
-  },
-  {
    "title": "Why Peter Schiff says a stock market crash could happen before 2026 midterm elections",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ0Ftajh0VEZWbXpMV2ZCNmZCSHU4QXNNMWJkX1RLTmFLalM3X3g4OUNSQXU1LWY3YzV3WHpFQnFCS2J1dU53TDh0Nk9lLTRGT3pGdi1tYU5oaC1BSE9UTVFaa3NDOVNtUE5uQTZHd3ktVkZkckdveGkyMEdNSkJ1b1U1eG10ak8zc0ZscmZtR2doUHp3RmZZ?oc=5",
    "source": "Yahoo Finance",
    "date": "2026-10-24T13:30:00+00:00"
   },
   {
-   "title": "Evercore Outlines Key Credit and Treasury Yield Thresholds That Could Signal AI Stock Market Correction",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRjl1bEEwRXhlbUllRjhudk5fT2p6ZzFSX2RSZWh1WXRkTVpvb1k2WjhSZDJzcHpxNlplVGtQc29oWU1ocU1yckVfYWNZY3BNTEtGdW1rVjJEV0ZQdFc3VWp4UU9Day11T3c2dXEwbFJWSDBGNF9OV3lrTmg1cWEtUlcyQzRFTWg5QVBwMEFtbw?oc=5",
-   "source": "Yahoo Finance UK",
-   "date": "2026-10-24T11:49:00+00:00"
+   "title": "What next for France as riots rattle markets? Three questions facing investors ahead of more protests",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42SU5XYVUwMmU4cUtKdGZNOEdZRk1wRVFUYkNPNE1xTFRUWEJlN0dSMnBPQUN3NGpZZ1R3Z1lSeVBpRkRMSlpqZV9oSmRIVFhVS1FPRXVPUkc5Y3NGOUJDdFc5ZEtfTnZUTXFOMWlnTWtIekg4V2w1a2RVVGZqSG_SAYQBQVVfeXFMTmRjYS1LU0J1RjR0cnZTQU9DcFhFV3pyM2JVSXhpazhLdDh2aWdfaXBjRW9VajdGbXA0bm5HZ2RqczJ5MTg1NVpOZ2VTUURuNVlJUHU5WlM5TUp6WDNBZGtEeWNORTIxa0JmNXdfRlJOMmNpT3o5ek5RYmVSU2M2YWZYWHgy?oc=5",
+   "source": "CNBC",
+   "date": "2026-10-24T05:00:01+00:00"
+  },
+  {
+   "title": "Meta stock closes out Friday down as AI spending fears continue to rattle markets",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOVBsWC1HZmNiRnJHT3RIbzlmcmZLZVpRVVlibk5sMFhyLUJfSHVtZlhxNzBLWkJ6RkgtWWprZnl2ZUVCeVBzb3NOVzlJQkYwbjBvVzQtaFZDSk9rZGxlYWVjMEJnWFY0LVFiUVM0S2J1T0ExVTJMcFY4QjJ1ZDgwNVVrVEpENFpJMHVrRkpoVXJvSTktOE9fMU94dnpLR1UxWWlSTFVHallWRG1DTDBhNXJobzJpek5UeTk3dUFRZl9QMnJhaGo1OXo3TUhSeEg0LTVQeHZiZ0NuZw?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-10-23T21:04:03+00:00"
+  },
+  {
+   "title": "Positioned for a Rally: 5 Reasons Stocks Could Soar into Year-End",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSmJYYlVPQWczeDk4dFdOSEpFcWpKRzVsZ09sRDA0dU5YY2wzcnA2b1lkOUlCY3hRc2xvUGdPUmlJY2s2UTZka3ZfcW5XM3hBanRIRnNLSTB4aE9nQXUxUHdDZUlLVDNYbXd0RmtaZHVGMVk2MXoweHJUak9yQTlLQmp2QzRWZ0w5aTczN2RnUnJXbWJpeXdsVWpEWVI3Um8?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-10-23T18:27:00+00:00"
+  },
+  {
+   "title": "The Cracks Are Spreading: The Recession Trade Is On (NASDAQ:TLT)",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdUVteUtobGEzcUY1dDdia3BXazJoYjV5clBvWHdTT2lqV1BLY0U5Qkp1bE0yYnhTRVhvVVRWd0tOYVpsTVBVeHBHeGFPMEQtV2JLZzF0cFg1VXBQV204TUVGV3RTSzFHWWVBS2FYM1ZNTk5UbXRZdVRMMGVnWTd1akpIMnlPcmVRd184V0cxbGFKRFlzRWc?oc=5",
+   "source": "Seeking Alpha",
+   "date": "2026-10-23T17:25:23+00:00"
   },
   {
    "title": "'A cyclical downturn is inevitable' in an AI crash: Strategist Dario Perkins",
@@ -779,22 +791,10 @@
    "date": "2026-10-22T17:04:25+00:00"
   },
   {
-   "title": "Elopak ASA: H\u00e5kon Volldal to assume CEO role from November 2, 2026",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMjdMeVNyQkdHbFdxbFkyRmNxdV9aUGZFMTJ3bmVrRndVeDFDLVRqMUxtb1o2WXpUZWUwWlNFdUZ3Ql9OMHBxb3pmTXkxYm1fUUZDY3BCWDJqbkgxSm1LQXJGRWlGclh5bWtoZGs5SUFOZ0ZqOGJrSWpmT01ySTRLTzFiVGFxVTVuYl9zWkNOQXRQVU90Sl9Fd0JJcVNFdVRBVDlMQlM0dnV4SkR3QzRnbm5qQ0R5ZWR5M3RWaEI2MFhEYURzQ3dlRGFB?oc=5",
-   "source": "TradingView",
-   "date": "2026-10-21T19:07:00+00:00"
-  },
-  {
-   "title": "PPI Public Property Invest AB: Transactions carried out under the share buy-back program",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQc0FHc0JsUi1LX0JLb1JDSWJXN1paY0Q2bmhmaWp0TVFEZ2ZFRXNBMTJtSHZyQktnd3h3OHlVMjNKZF8wRlJmVVlTYW00UHJCVmdnai0yaGt1Z096bWhkRU1MUmhfdkMxWVRkMTQxRTdkOHltRjF2N2tUNUhrOGo4NG4zNlFNMXFjOHpTX1JIUzZMNFI1U1R1MU1wdVVKSktSeDdDQ1RhYXZvZUgzQVhhN3Q5YV9tUWo1R1EwaThkSXFUcldiVExxYjQ4X1I5YXF4SWgyS2JJYVFSRzVheW9DTy1Pd2xJZ0NT?oc=5",
-   "source": "TradingView",
-   "date": "2026-10-21T05:00:00+00:00"
-  },
-  {
-   "title": "Kurdistan-focused Oil Firms Gulf Keystone, ShaMaran Agree $601 Million Merger",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KNEJ0OExrS2JTZFFveVcwWXVyZU9YQXRHbFRPRmdUeldFQmx6bkI3MjFNaTFsMS03YlVteUI0WWUwcEphaDlzSU5lTERsRzZlNzln?oc=5",
-   "source": "\u0634\u0628\u0643\u0629 \u062a\u0648\u0627\u0635\u0644 \u0627\u0644\u0625\u062e\u0628\u0627\u0631\u064a\u0629",
-   "date": "2026-10-20T10:29:36+00:00"
+   "title": "Nebius Stock Alert: I\u2019m Watching This 43% Crash as AI Bubble Fears Return",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOa3hHRHlSR3dGNWJqQzJmSHhYZkFHbVV6cTZyVjlLRU1RQXdON0dGeklpUlZTOEtqTGZJMHZ5MFkxY3pWN2Q5THYxTnlBUVo3UFZJbGZNcUZzbVJvNmtBTkNPNjc5c0lFS1lVWnZvdUI1WXEwNDV3NHI1MHFEMUx1djhrMVh5elZYNUphalQteFRUdEFWWTRieG5R?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-10-22T11:31:32+00:00"
   }
  ]
 }
