@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-25T23:01:09.964650+00:00",
- "usdnok": 9.313830375671387,
+ "updated": "2026-10-25T23:44:03.741054+00:00",
+ "usdnok": 9.325400352478027,
  "btc": {
-  "price": 80341.6875,
+  "price": 80033.21875,
   "prev": 80790.8359375,
-  "chg": -0.555939831898089,
+  "chg": -0.9377513906231871,
   "currency": "USD",
   "asof": "2026-10-25T00:00:00+00:00"
  },
  "silver": {
-  "price": 54.27000045776367,
+  "price": 54.02000045776367,
   "prev": 53.71099853515625,
-  "chg": 1.0407587605014035,
+  "chg": 0.5753047439718717,
   "currency": "USD",
   "asof": "2026-10-25T00:00:00-04:00"
  },
@@ -245,7 +245,7 @@
        "title": "How InvestingPro spotted Hycroft Mining\u2019s 48% decline in advance By Investing.com",
        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOM3g3Z09MR1dCUTZES3gyX0ZmYlZHYnFNMllWSVY0WDJPZEY1LXhwb20zWDBYUW10WndRbWJ5VnFZM3o1NnRfUFgzOVkwUlNEZDYzMG9lQ3UzaUNidWFEcTdOTGN0YV9lc2dGWC1PQmtCTVZMQ2ROU0NxMllYc2FERWo2RXl4cDlRR1VwR1R1NGRXRTI3S3dTaEhfUUVnbXI0c2hDWDlYNWdreWVfVUVJNm9HQWpmT2ZIdU1nY3JnUmo?oc=5",
        "source": "Investing.com",
-       "date": "2026-10-16T11:17:35+00:00"
+       "date": "2026-10-16T07:00:00+00:00"
       }
      ]
     },
@@ -311,16 +311,16 @@
      },
      "news": [
       {
-       "title": "Does Labor Dispute Change The Bull Case For First Majestic Silver Stock (TSX:AG)?",
-       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNU2l6WHVyUlpOdVJNSFdRdGxGZ1plVHlDRUNYei1FZEROa3pmMXlyVUlPclYtUm1SOWVUelU4d0lVV1V1Sy1rWnNxQzFoNlJOb0dLVG94QjFVVkIxM2haQkVwblNURUFacW9RaGFZN1RZa0NjOTdqcmt6bHZBeWZvMk1rUmtHVVZnWjlnUkM5ZzI2VlRWLWZjcGdsSnlISTJGYmllVlZDUkx5dE9kUHlscXNUQlFSQk5GbjhoUXFsZWFfVG1mR0tkVUVWdGhpV3hGQ0dvb0wzSkxBX03SAeABQVVfeXFMT3JRTDhtSzUxcXRXbkJTV2I3bVFuODNXM202eHI2QlROSDdCXzJQRXZjdHhabXJHUS1ucHhOSGhvMGR3OWUxR3B0MVZsaE5KOV9ObEJ4Rm1RbV83N1p0UEVRVjkzcTBTTVkzM1JIci1vbjRWR2ZCdjBVbUN4ZW1Yeng5dEtpdGQ1UUlJVnZPMl9TUmRwYkRoRW9mcXVxcmNRa3ZFZjg2UzVnUUs0cmhYUDdBU2FteEZlTUROaVRCY3k3NzM3OTVVSF9qdGN4cWhVTW9SeTFacWt1VDU3VTBpRV8?oc=5",
-       "source": "Simply Wall Street",
-       "date": "2026-10-22T11:52:09+00:00"
-      },
-      {
        "title": "First Majestic\u2019s (TSX:AG) Silver Quarter: Why San Dimas Matters",
        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQmdVT1czZlJZckRBUXNvOHU1ZmtYR0pPaXM3dWo5bUdVSUcweDBvRC1PdXVmRG1tNDVzeWRIZW9EdFc1SHdNN0JRRkZkSllYQm9CUkstOXY4RHhFQVF5NWdBYnhTZGFqdXp3Q1Ric3ROcWF0RUNFM3VEc1ZDUEdFeENCSkFJZFU4N05nOFp5aXB4Nk5LNlRPYTBWMlpWQlNZZUlXeEhhMkR0b3dWWk5R?oc=5",
        "source": "Kalkine Media",
        "date": "2026-10-21T14:20:00+00:00"
+      },
+      {
+       "title": "First Majestic Silver Corp. (FMV.F) Stock Price, News, Quote & History",
+       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5adU9BYVRxMTBmLVZxMmRKVXRoZjRJMTBmelNvdTBKR3JjUkdXVFpBekxGY3V2RFRtMUZFZlRZaGZZemstZFBZTDJlQTAxSzNJRWg0?oc=5",
+       "source": "Yahoo! Finance Canada",
+       "date": "2026-10-21T06:37:23+00:00"
       }
      ]
     },
@@ -342,10 +342,10 @@
        "date": "2026-10-04T10:28:46+00:00"
       },
       {
-       "title": "Defiance Silver raises C$3.27M in private placement",
-       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVThvVEk3MTRTQUk4eW0xVlhJdEl3aGtpUnRraWhHb0pnNGRKXzlZS0FEZUYzbU9zWW11Ujg1a1FFaG9DU2dhcEJVZS1hV0xYUWFNNk5TMWpGckFzRFJuYVpiZmlVQ0F4Z2lBNkpINExnb2dqWW52ZGxQeFQ1bUVEdTk4WWRmRUhWYU9oUGJ3?oc=5",
-       "source": "Dealroom",
-       "date": "2026-08-19T05:04:28+00:00"
+       "title": "Defiance Silver reports strong silver and gold assay results from Zacatecas drilling program.",
+       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQalExcFZXR0hjXzJnbDY1YmFJRkRRNGdlX1pJTnByb0UyU0pxRUU5eFhiVm5ianVvSVgwV1lud093Y3JmZVN2SmFfaTJMQ21aOURWXzdlMkxUQjNSLUs5dUIyZDBkR0RnSHc1U3N2SkZHZ0liQUl1YjZacGx3ZDNpZjh0eWpGQUJBTnhMd25SUjZrRkp5aHFvcjEwWlVjelE?oc=5",
+       "source": "Pluang",
+       "date": "2026-09-09T07:00:00+00:00"
       }
      ]
     },
@@ -386,16 +386,16 @@
      },
      "news": [
       {
-       "title": "Guanajuato Silver Company Q3 Silver Equivalent Production Jumps 49% Year over Year",
-       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZWs1VVlDcWxlWWtUaWUxZGpxTWVyTFJ1Qm1OQTJfRGljV2hIUl9wUU1RNFllc1hEbFNGM1M4dk4wLUhwRkVOenlBdTloSFNISHpKSG84eVNvSi03QTBMOXdaQUVRMVk1c2cyWG9uWGoyN2V0WXlrTkQ3dGJZV0hMUmpqV1VzdFp0dE1FU2NNS0xuVG0tZHJSNkdEOFNmWF8xQ0NDR1VYbEQ?oc=5",
+       "title": "Guanajuato Silver Provides Q3 2026 Production Results",
+       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZmtzOFpsUmx4SkdneVZtTDd4cUtGaVlIalhlMjl4UDRJTE11bnd5bWZDXzl5MUpFZjNRaWlWcHVnV0hRQjNVbGZLWmZHcGVjMVFDblRDXzlFMUpkYlpHUTZYNzhIWTNaajE5TXotWnZ6X1Q0ZzJ3YUhGTUloM0YyQVFHQ19YaGUtNm5fb3Q5eFRRTUtpTlVJM0dxTmo1bmpXcVFtVlB5SQ?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-10-16T07:00:00+00:00"
       },
       {
-       "title": "Zacatecas Silver options Lourdes Gold-Silver Project, Mexico",
-       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeUhfOFNiSTF1aTBZbWs2Tzc3U2xveGpKN1BrNzQtT0hsNUJsdk56el9hUW0tMlZtTHh6ZV96aVRuRDBRZVZLUGFOazZUcHZyWVZGTVpxS18yLXlLNjVHZEMweDJGbl9yYXR0TG00aDBXdHBEc0p3eTRUbGwxazRjd1UyM2FCMjh0N3lGOTFTdw?oc=5",
-       "source": "Resource World Magazine",
-       "date": "2026-10-12T12:50:17+00:00"
+       "title": "Guanajuato Silver Company Q3 Silver Equivalent Production Jumps 49% Year over Year",
+       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZWs1VVlDcWxlWWtUaWUxZGpxTWVyTFJ1Qm1OQTJfRGljV2hIUl9wUU1RNFllc1hEbFNGM1M4dk4wLUhwRkVOenlBdTloSFNISHpKSG84eVNvSi03QTBMOXdaQUVRMVk1c2cyWG9uWGoyN2V0WXlrTkQ3dGJZV0hMUmpqV1VzdFp0dE1FU2NNS0xuVG0tZHJSNkdEOFNmWF8xQ0NDR1VYbEQ?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-16T07:00:00+00:00"
       }
      ]
     },
@@ -506,9 +506,9 @@
      "symbol": "GC=F",
      "name": "Gold (USD/oz)",
      "quote": {
-      "price": 4016.300048828125,
+      "price": 4013.199951171875,
       "prev": 4007.89990234375,
-      "chg": 0.2095897275144809,
+      "chg": 0.13224004983323212,
       "currency": "USD",
       "asof": "2026-10-25T00:00:00-04:00"
      },
@@ -530,9 +530,9 @@
      "symbol": "USDNOK=X",
      "name": "USD/NOK",
      "quote": {
-      "price": 9.313830375671387,
+      "price": 9.316399574279785,
       "prev": 9.325400352478027,
-      "chg": -0.12406949159631253,
+      "chg": -0.09651894672650929,
       "currency": "NOK",
       "asof": "2026-10-25T00:00:00+01:00"
      },
@@ -743,16 +743,40 @@
    "date": "2026-10-25T01:11:00+00:00"
   },
   {
+   "title": "Bloom Energy Raised Its 2026 Forecast for the Third Time. Is the Stock a Buy More Than a Third Below Its Record?",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQM0xkcWNLUDN5M3E1bzg4UkhBOW1PdXV0N1hQNXFpZTR4SVUtcHN6dWp0RGdoZ2FXMmtLTUptQS14dVkzZ0QzQ2JKVWtPUUxHNDNIWVhqQm5GYkFKbWk4eHRJUWV6UWczUENNbzI4ZFpzTFlXZnZnWmd6dXZ5NVpxbEY4LTZIUy03dEdxU3ZLX1FnNmVYZ0pMem9hRFlXa29DMlRyQUEzSmQ3UHM2Y0VVclpfYWcyMmZGWjJCWDJ3bkx2V0JQZ0FwcnVpVXU3X2hIN2NyUmZkQ2dhWVJVUkxZWUxiMmI0d2Ru?oc=5",
+   "source": "The Motley Fool",
+   "date": "2026-10-24T18:19:00+00:00"
+  },
+  {
    "title": "Why Peter Schiff says a stock market crash could happen before 2026 midterm elections",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ0Ftajh0VEZWbXpMV2ZCNmZCSHU4QXNNMWJkX1RLTmFLalM3X3g4OUNSQXU1LWY3YzV3WHpFQnFCS2J1dU53TDh0Nk9lLTRGT3pGdi1tYU5oaC1BSE9UTVFaa3NDOVNtUE5uQTZHd3ktVkZkckdveGkyMEdNSkJ1b1U1eG10ak8zc0ZscmZtR2doUHp3RmZZ?oc=5",
    "source": "Yahoo Finance",
    "date": "2026-10-24T13:30:00+00:00"
   },
   {
+   "title": "Warren Buffett Has 1 Piece of Advice for Investors Worried About a Crash, and History Proves It Works",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZGgzQThmTHBqZmtNZjBmOGIwak56aVJDSHpBWWwyTkZQeWFERXhsRHpwb3NPaVVTcmZkcG5Tbm44Q3RDTWY4c3ZodDNSbDdXVFdoclpLU1ZIOEZ0Yjl2RFFvV2JUcV9CaS1TeG1VUGNtMHFRLVViVUVfMEsydHBSU0hGTFI0UHhpZFRYR25QMFZlTkJqZTNveFVR?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-10-24T09:04:01+00:00"
+  },
+  {
    "title": "What next for France as riots rattle markets? Three questions facing investors ahead of more protests",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42SU5XYVUwMmU4cUtKdGZNOEdZRk1wRVFUYkNPNE1xTFRUWEJlN0dSMnBPQUN3NGpZZ1R3Z1lSeVBpRkRMSlpqZV9oSmRIVFhVS1FPRXVPUkc5Y3NGOUJDdFc5ZEtfTnZUTXFOMWlnTWtIekg4V2w1a2RVVGZqSG_SAYQBQVVfeXFMTmRjYS1LU0J1RjR0cnZTQU9DcFhFV3pyM2JVSXhpazhLdDh2aWdfaXBjRW9VajdGbXA0bm5HZ2RqczJ5MTg1NVpOZ2VTUURuNVlJUHU5WlM5TUp6WDNBZGtEeWNORTIxa0JmNXdfRlJOMmNpT3o5ek5RYmVSU2M2YWZYWHgy?oc=5",
    "source": "CNBC",
    "date": "2026-10-24T05:00:01+00:00"
+  },
+  {
+   "title": "Bloom Energy Stock Sinks Despite Record Revenue and a Stellar Outlook. Is It Time to Buy?",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNX3Nua3N2MUczbDBUaldoMWNYak9rQ19nSURsamdZTHRGQ2hUZGl1cEJUcWY1cl96NXRfcFY0MHkwSnE4UFpMczUzcnMycnVZVXFpSHktckZHR1Jzb3pCekpPamRqVC1QYmVnWlIxMnBPSnVndFVheXN2ZF9IWjlUUEctX0dpc0FTWnl0UGpremFlTHZmQVlYemR2T2hpVDg3OG85N3lFbWhPQWVUUkFDWHdmNVZkbFVoZV9IcEZuT2R6LTY3TEd5b21B?oc=5",
+   "source": "The Motley Fool",
+   "date": "2026-10-23T18:43:00+00:00"
+  },
+  {
+   "title": "The Cracks Are Spreading: The Recession Trade Is On (NASDAQ:TLT)",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdUVteUtobGEzcUY1dDdia3BXazJoYjV5clBvWHdTT2lqV1BLY0U5Qkp1bE0yYnhTRVhvVVRWd0tOYVpsTVBVeHBHeGFPMEQtV2JLZzF0cFg1VXBQV204TUVGV3RTSzFHWWVBS2FYM1ZNTk5UbXRZdVRMMGVnWTd1akpIMnlPcmVRd184V0cxbGFKRFlzRWc?oc=5",
+   "source": "Seeking Alpha",
+   "date": "2026-10-23T17:25:23+00:00"
   },
   {
    "title": "'A cyclical downturn is inevitable' in an AI crash: Strategist Dario Perkins",
@@ -771,30 +795,6 @@
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbmFtLVhrQ2owM2JvMExQcFEwX2lENzIxSkVpaEFmNDNYNlRTWHo5TTJ2a3lqdTRZOHZmRnd2eGVtOFBuQ1BER0ZtNjItRmxEeVFGbm5kSlpnMjNPYmlIWlhyRmlKMFNseXQ2YjFFbE1qdjlDOGJTUF9CZXFoekhCX2xLTXltZzZiUUF0dUJXcnk0ckgxNmJtUnFXTzdhTko3c2R3WWxzTlpjNXVM?oc=5",
    "source": "CNBC",
    "date": "2026-10-23T04:25:00+00:00"
-  },
-  {
-   "title": "The Stock Market Sounds an Alarm for the First Time in Nearly 27 Years. Here Is What History Says the S&P 500 Will Do Next.",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMkUyMVRhLXlTVkVnYi0xRC04MHRhWG9qa1Y1MHppMHZGZ081bzJkNjdBUWUxUDlMblB1UTNrdTl0LVRhdjIxQ2NVTWJ3TDU0a3V6U1U2V3NSYXdCWlppMlYtellKaDhTbW1qYzM4Y1NSanhiNzVwMWhkS1V6d21nalppaFdqRExrS1dmb2NGVURGelo2RjJiaXB2dGo?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-10-22T19:20:00+00:00"
-  },
-  {
-   "title": "AI bust could trigger 30% S&P 500 plunge, $20T wipeout - TS Lombard (SPY:NYSEARCA)",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTnZLOHJwa0I4ODM2TFpCVDJZNXEybjU2VDB2T2Fsd1FCX3lWb0RGZ04ybmZLeXVlLVJMYXF2aWw2WFBXcEcxZEtJaFUxUzAxRlcxSlptR1libllJRkZES25hdlRsUDVZdk54RmsySVZVWG1MOHBqWWdqMkltV1A4UjBneDVpVGtXYnRhVmEyX1lTRkNaSDhRdlhQOGRJdkdXN1o0?oc=5",
-   "source": "Seeking Alpha",
-   "date": "2026-10-22T17:04:25+00:00"
-  },
-  {
-   "title": "If a Stock Market Crash Is Coming, History Says Investors Who Do This 1 Thing Always Win Out",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdnRab0Fral84bGI1dHkzTkpLUGZvX1c2N0hpMEpDeWdrald0bVFrdGdFSi1veFRHVVhjckFNalJqOTZTZXpoUGdTZk8wYzFBZTJmWkFVdkZvUl9scG9XOEhWVjlqZ05nVjJodnJyQXRKUUVpYUNpU1FvU0oybzVhRjNBS2M4enBzckp4Y0p2ZEx2UVl2cVNDWg?oc=5",
-   "source": "The Motley Fool",
-   "date": "2026-10-22T16:00:00+00:00"
-  },
-  {
-   "title": "Nebius Stock Alert: I\u2019m Watching This 43% Crash as AI Bubble Fears Return",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOa3hHRHlSR3dGNWJqQzJmSHhYZkFHbVV6cTZyVjlLRU1RQXdON0dGeklpUlZTOEtqTGZJMHZ5MFkxY3pWN2Q5THYxTnlBUVo3UFZJbGZNcUZzbVJvNmtBTkNPNjc5c0lFS1lVWnZvdUI1WXEwNDV3NHI1MHFEMUx1djhrMVh5elZYNUphalQteFRUdEFWWTRieG5R?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-10-22T11:31:32+00:00"
   }
  ]
 }
