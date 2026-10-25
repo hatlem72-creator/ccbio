@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-25T11:05:45.472584+00:00",
+ "updated": "2026-10-25T11:49:10.379048+00:00",
  "usdnok": 9.316200256347656,
  "btc": {
-  "price": 80283.2109375,
+  "price": 80466.09375,
   "prev": 80790.8359375,
-  "chg": -0.6283200243065945,
+  "chg": -0.40195423618493153,
   "currency": "USD",
   "asof": "2026-10-25T00:00:00+00:00"
  },
@@ -112,6 +112,12 @@
      },
      "news": [
       {
+       "title": "Looking for a Hedge? These 2 Gold ETFs Offer Very Different Ways to Invest",
+       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaGlfQlNuaUlEZVhxOG1sRWhlN2VndjQyNko5SFAxU2FnQ1VtVjRqcmpjNUdXak9ON3N5MVhJMGlfaEVkQncyS0YyS0VWRWNhclU1X2x3VDAwMlA2VmtPeHR6TnZ1OGRzWmxYdWt4cVozTUZBUXZuNHk5NkRsVFZaRmhqMmRNN2JkSzNsRUE4bTBsbU1IanA5QVJVVDgwb0NMRmltV2VVUlkxUXFyZjhzdzg0ckpiUmJBbW9ZTg?oc=5",
+       "source": "The Motley Fool",
+       "date": "2026-10-23T10:30:00+00:00"
+      },
+      {
        "title": "Price performance",
        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lZ2Q1OWk4Vl9UcmlWTDBsVzZIWkdZdi1idVpwN2NiZWRoZVNlN3JvdlJ0ZlJyMG5BS2tqX0FVQ3Z3dWFFYzBXQ29PZlgwNWNqVG5ENk9BcHA?oc=5",
        "source": "Yahoo Finance Australia",
@@ -128,12 +134,6 @@
        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVC1nWXNrZXc5N2xqdnZ5MzdueXd4T3h5OUVKcXE3Zl9vaU52clZabGloNjc5cF94eUJ3TGhzMER5WEJ6THllQm1wTnVpbzhLOExieDg4Q2Qyb0RYcTR4dFJfMU5VRmZMd1NoWFZuUjBiTU4zc1l3RU5WaVJQZmF4bmttOXlmWWRjVjBxcXNtUjVUQWZKODVuc29oaw?oc=5",
        "source": "The Motley Fool",
        "date": "2026-10-14T07:00:00+00:00"
-      },
-      {
-       "title": "Which Precious Metals ETF Is the Better Buy: abrdn\u2019s Silver SIVR or VanEck\u2019s Gold Miners GDX?",
-       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNEFjU3hkT3hGM2hNcWtZaXNhV3g4N3B3QzY4WjVuMHVnckZGcHZqa0h1dzJjbVpta1AzWGp0Mmdva2ozWTdjV2xjX0w3X0pGd3FNajhiMklyUWEwbXl4cHAtUDBaNUlncFVvaElrN21QS0ZhMDF4d2VWek1LVGFFRWFBQ1h5MVE1SlUxV3ZlVlY0bWc1ck1DaTYtTlBlbHpEb09hcm5oa3ZMYm12Q1dsem4tV1RzTjFwX2xEdU5mYUxDNGFfS0dQWWNGNUNVN3hSSERUSw?oc=5",
-       "source": "The Motley Fool",
-       "date": "2026-10-11T07:00:00+00:00"
       }
      ]
     },
@@ -211,16 +211,16 @@
      },
      "news": [
       {
+       "title": "Is Hecla Mining (HL) Above Fair Value Even After Record Output?",
+       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeWZkUEtTbjZINlBzbFNySWxhYlI2VkZ1N25fNHRMdXl0MldIeFVCbHgxaEFSQU1hdTE0RlB1d0p4SzRic1luWloya3Nfb0RNQ1A2QlJSY0ptR2MyYk53Qjd4Yk5DeVRWVFlzcC1LUDNKek95YWFOamNxSzFlaWY4SHEzVGRmWVAzWkt1VUtiRDBvYlNzQkE?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-24T10:11:13+00:00"
+      },
+      {
        "title": "U.S. Small Cap Portfolio (DFAS) Buys $12.3 Million More Hecla Mining on Thursday",
        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTnA4WjZXTWQwVDlyeFd1ZVFYNy1JNDdjTHBlVzlZRkxlbUhrVEVEQjdlM09pU2xOdWloSUM2OXZvYVNGb1RrZDl2QnMwM2dtYXloLWc5b2d6X2J5S0RSbW1DUnF2RHhsbFhaQ3drQ2xqdFNSVVd5b3RaaWV6REdfNWpleXFyUGJlTl82TWdYTnhSR2FFMXc?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-10-19T11:04:02+00:00"
-      },
-      {
-       "title": "24 ETFs Add to Hecla Mining (HL) on Oct. 15",
-       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNlUxV045SE5Ubi1FakNEYjV3SkRnT3ppNVlPVGF5dzRma2NYM3N2UmQ4RTJCZkctNURlWWdKdVBFVjlxa0JEYWJiSzk3UzlXWnFEVHRUUDVOY0pCemQ3ZThGRHhwaHVYaDRFUVFIeHZkZGlOcm9wZVJMdzZmOE1TWUI5anpHNFo5ZXNPaWVOQTRNZEE?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-19T11:01:38+00:00"
       }
      ]
     },
@@ -242,10 +242,10 @@
        "date": "2026-10-16T11:17:35+00:00"
       },
       {
-       "title": "Why Did Hycroft Mining Holding (HYMC) Move Today?",
-       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUVlwcWxpQmlBSGJQUW5rVkstNzhBd2M1TUpFMTdWUEttYTUwTFRmNURtbVlhbURPZC1MODdQU1RfdWhEbzBGZ0tCOW1zUVpIT2lxWVdlU1BFX1FkaC10dkhLbWNLdERQNEF5Ymk3MEhSWDlqNW5FdDYyMFd4NS1OYUJmWWtsaGpVRWxWSVgtMXBSb3gyQmpubWljQ3dfY3dFUHNZaUpIYmpyRE9QRVZNMjhkOU1kTUEyLUVMOXQyZ3IycVdCUFhr0gHMAUFVX3lxTFA5bERkUmhZMFpEZTl5YmRDUnJ1NmFVUXB5NGpoaWVlWnBiZmFWOWlmZlYtY1FubVBKRjZTWFRNQzZJUzUyaVRmODlzTnhFLWY0RGV0OUZCUExHNnpiMmtDWFBobS1sd3hFc0JBT3AyV2dHaTJ0T2VhUlZzOXBUY294aWZiWTNnWXNYNTF2bVBKMng3ZXlUUkRtaU11clVzVFJ1MmtUdnlVUmVNVWFuRnhpd0dsZkFFQmxmVWlBd0RMeGlScXZxYnpmRzVFVg?oc=5",
-       "source": "Simply Wall Street",
-       "date": "2026-10-15T23:12:20+00:00"
+       "title": "Hycroft Mining Holding (HYMC) Hits Record Drill Results On Questions Over Whether Value Is Already Priced In",
+       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRm8xbUV6TGk2eW1CU2J5VnlkTmxicFUzeHk5eU81eUlrN21ROUhVOVVOcUplM1pMdUdBazBiSDF4R1JMeTNBRnBtQ3laM1R1cWNwRHlQU0NWZjEtN2l6X2xvTGdXcmhYajFXbXBjWkZSdnRSWXp6LTB5TFVPT3BPVlc1OHlKR08zUDhBUDlMamNncE9UdXNDZGRjSGxRUQ?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-14T07:00:00+00:00"
       }
      ]
     },
@@ -286,16 +286,16 @@
      },
      "news": [
       {
-       "title": "Americas Gold and Silver Sinks 11%, Coeur Down 8% as Silver Slides on Hormuz Oil Shock",
-       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRDBLMW8wR3Fsc3E3N283REVMa0dHMENsZ3YzUktWVkhad1R3VklVbTZjUWxfcFZ3Q0I1Y0k0NkFmZlZhaVc0bGdfbGZZM2JrN2FuS2JNY08xanFkeVFHN2tkdDJ5b0dLbVRXenVLcm12aWtRR0FQQkxZWFRHUzNUckRFQkVDakNxZjRRTHR4STIzSVJDNVdOMmU1QVBBUjlG?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-22T17:37:28+00:00"
+       "title": "Coeur Mining, Inc. (CDE) stock price, news, quote and history",
+       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wa3oxQ09fQWxNeWkwUVNiS1JGQWhYeU9EcDdlZ01YZmdIX29nSGtXcGRjaXVENTdoWlFSR1dUWFJxTmw3X0hOY0R4ZHEyZUlaVTYzV3ptYTRHdGRCQmFmbg?oc=5",
+       "source": "Yahoo Finance Australia",
+       "date": "2026-10-20T15:34:54+00:00"
       },
       {
-       "title": "Coeur Mining, Inc. (CDE) Stock Forecasts",
-       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcjlHRE5Xbmo1Qy1HSU1PUHFHQ1M4aWpLM25WeFNrWFV0dGZ5UTQ3T3V1anBPalNaaVgwTzhqelZpc0lWbjVoZEtQZDd1c1ZMd3NNYzVibEdlU19CaUFRaHN4SEJZWWdGV2VkUjlWZndjWjB4RkhyV1dlanpHZGJ0WHhZNFBqYzBPSTVRZ3M3NA?oc=5",
+       "title": "Coeur Mining (CDE) Stock Looks Undervalued Despite Recent Market Pressure",
+       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMk9lTGVNRzROWUY4UDNfNVhkbDg3SVFZM2VuVXY3dEZlUUEzQnFCamdlTVo2UEpwY3dpd2RCM0VldTQ4RXg0dlR5a0RPQXdwZnlKbW5VdzByYmJsYnVIa2N2NEgtRHdnbl9BVjhOMHlMNnhCY1N0RXgyUFlnOGQ5VDR5UVV5OHU3R2hsZjNwSUxIVldjUjZ2Rg?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-10-21T21:44:26+00:00"
+       "date": "2026-10-19T22:19:48+00:00"
       }
      ]
     },
@@ -389,7 +389,7 @@
        "title": "Guanajuato Silver Company Q3 Silver Equivalent Production Jumps 49% Year over Year",
        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZWs1VVlDcWxlWWtUaWUxZGpxTWVyTFJ1Qm1OQTJfRGljV2hIUl9wUU1RNFllc1hEbFNGM1M4dk4wLUhwRkVOenlBdTloSFNISHpKSG84eVNvSi03QTBMOXdaQUVRMVk1c2cyWG9uWGoyN2V0WXlrTkQ3dGJZV0hMUmpqV1VzdFp0dE1FU2NNS0xuVG0tZHJSNkdEOFNmWF8xQ0NDR1VYbEQ?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-10-16T15:41:20+00:00"
+       "date": "2026-10-16T07:00:00+00:00"
       },
       {
        "title": "Mexico\u2019s Mining Industry Adapts to Global ILO 176 Safety Rules",
@@ -612,10 +612,10 @@
        "date": "2026-10-23T18:19:00+00:00"
       },
       {
-       "title": "Nvidia Stock\u2019s Two Critical Flaws and Other Reasons This Analyst Says Sell",
-       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVkJjcjhkc01sV0RFdHFxeVhzUU1DTjdyTUNoeWU0RjBPbWwtZWxOczlySW1fMFNMemJiSmdvVHRSUXlLcVNKSE9xQnd6eFcyYl9QY0s5c1dhT0R1eVRodW00ajhwR1ViYlpseGtySzFrN0w4enowM0Q3YllGTnJBaExhNjBHVVN2?oc=5",
+       "title": "Nvidia Stock\u2019s 2 Critical Flaws and More Reasons an Analyst Says Sell",
+       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5SVktBZjJfVEV6cG1KNTRURUZ5MUNuSmFSeW5aeldtcWg4LWNkZC05TVVmRmhZYzhSWnNtbG81Vkt0ellCTWZ3dGRYMGptZ0xfZGdCTU8xY3lmR2tjNE80NE5MZ0l1R3M5M0xHV0k2THFIYk13QXlRRU5hSFdzZw?oc=5",
        "source": "Barron's",
-       "date": "2026-10-23T11:06:00+00:00"
+       "date": "2026-10-23T16:33:00+00:00"
       }
      ]
     },
@@ -631,16 +631,16 @@
      },
      "news": [
       {
+       "title": "Alphabet (GOOGL) Cloud Outage And Share Token Fight Put Regulation In Focus",
+       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbVN6MDc4a3piaVFsaE1vcUZFR0dzTk1lQ1VZMDdvU28zWlFLY0E4ZUxvbGJrdGw4dllmc0hDOEhpVWpHUDBpaE9DcU5waThIMmlZMHhibjBaejNSMUpaY1FxZ3VZUHdqb2RzVk5mLVFuUnk1TlZMWHFXcFhLeEZhS0RuNnpjbml4M2pVYWx4R0JTbUJ4Rmt4Tkh3?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-23T13:13:07+00:00"
+      },
+      {
        "title": "Pre-Q3 Earnings: Is Alphabet Stock a Portfolio Must-Have?",
        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMmltNEpYZVdmU3BvZHVnWXV3cEZYdDhwV0t5b2NQU3hWMDlsNC1fU1Zzdm05aDFZOGlqOUlUeTFqTC05TEVmWnR2WmtPRWp0aExBdkFxbTJkaDRqdWRqMERRVWNSV3JKZkxSOG85WnJDS3g1bTdBakxZZWRJNU8tSlNFcFBGRlNBTW5ESV9oWWJkTkxucHJXSXNsUQ?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-10-23T13:10:00+00:00"
-      },
-      {
-       "title": "Better Buffett Stock: Alphabet vs. Apple",
-       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQ0dHQ083d3V3YUh2VG9tZGFnX25EZU9GNWE3bHFscEtXbmFJOGNOUFB0YkJRajhNNDJwVGlzbXZXTGp1OGN2VV9vTGREMWNoRTBBOFI4RURfeVhnLV9ZaDNMRFlvTkFsUFp6NE9ocXlhNDV2czduWVhtMVhMZ0hoMzBEQVhQaXVuWGNJN2FKalVqal82ekhVSUViUHY4Zw?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-22T19:05:00+00:00"
       }
      ]
     },
@@ -712,10 +712,10 @@
        "date": "2026-10-23T14:25:00+00:00"
       },
       {
-       "title": "Buy, Hold, or Sell Tesla Stock After Q3 Earnings & SpaceX Merger Talks?",
-       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nUFdocnZoM3U3ZXQtSFQxc3h2bHJFX1JMVGUwRk1xbzMtUHZQQmt3Yzl0QU1lbEJvTjI5dkVIc0NZUlJJMnBBbXRTUVNhVWJ6bGE2VWFDaXZxTGJfX3FHMnBVX0NLU0ZqNEhNMDY0cUxVWDdscm9JbmlNa3hiS0E?oc=5",
-       "source": "Yahoo Finance UK",
-       "date": "2026-10-22T22:17:00+00:00"
+       "title": "Tesla's Automotive Revenue Fell 3%, and Energy Generation and Storage Tumbled 16%. Should Investors Still View Tesla as a Car Company?",
+       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNWJVN1QzbWR3NE8yYUNYRFUzU19QeGlkcGRIUThnemQzYThnZ0FaQTlYa3JKc1E0eFNNRzlsTzhPcjNRTWRhakxWQ2xzUE5XM2s0V0tmY05lY2t6SUliUkpibFh1UG5EYlRIODhaa2Q2Z2FORWNuQzdBUkd3cWhvN0luRVM5ZUxaWE9ENy1KV1Nhb1B0T2w4SVlOQ3BNdw?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-23T07:05:00+00:00"
       }
      ]
     }
