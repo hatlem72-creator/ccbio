@@ -1,19 +1,19 @@
 {
- "updated": "2026-10-25T21:48:33.511455+00:00",
- "usdnok": 9.277830123901367,
+ "updated": "2026-10-25T22:20:36.094222+00:00",
+ "usdnok": 9.30504035949707,
  "btc": {
-  "price": 80203.53125,
+  "price": 80406.9765625,
   "prev": 80790.8359375,
-  "chg": -0.7269446846104421,
+  "chg": -0.47512737124908444,
   "currency": "USD",
   "asof": "2026-10-25T00:00:00+00:00"
  },
  "silver": {
-  "price": 53.94900131225586,
-  "prev": 54.763999938964844,
-  "chg": -1.4882014235945373,
+  "price": 54.23500061035156,
+  "prev": 53.71099853515625,
+  "chg": 0.9755954822778579,
   "currency": "USD",
-  "asof": "2026-10-23T00:00:00-04:00"
+  "asof": "2026-10-25T00:00:00-04:00"
  },
  "sections": [
   {
@@ -112,6 +112,12 @@
      },
      "news": [
       {
+       "title": "Looking for a Hedge? These 2 Gold ETFs Offer Very Different Ways to Invest",
+       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaGlfQlNuaUlEZVhxOG1sRWhlN2VndjQyNko5SFAxU2FnQ1VtVjRqcmpjNUdXak9ON3N5MVhJMGlfaEVkQncyS0YyS0VWRWNhclU1X2x3VDAwMlA2VmtPeHR6TnZ1OGRzWmxYdWt4cVozTUZBUXZuNHk5NkRsVFZaRmhqMmRNN2JkSzNsRUE4bTBsbU1IanA5QVJVVDgwb0NMRmltV2VVUlkxUXFyZjhzdzg0ckpiUmJBbW9ZTg?oc=5",
+       "source": "The Motley Fool",
+       "date": "2026-10-23T10:30:00+00:00"
+      },
+      {
        "title": "Price performance",
        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lZ2Q1OWk4Vl9UcmlWTDBsVzZIWkdZdi1idVpwN2NiZWRoZVNlN3JvdlJ0ZlJyMG5BS2tqX0FVQ3Z3dWFFYzBXQ29PZlgwNWNqVG5ENk9BcHA?oc=5",
        "source": "Yahoo Finance Australia",
@@ -128,12 +134,6 @@
        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVC1nWXNrZXc5N2xqdnZ5MzdueXd4T3h5OUVKcXE3Zl9vaU52clZabGloNjc5cF94eUJ3TGhzMER5WEJ6THllQm1wTnVpbzhLOExieDg4Q2Qyb0RYcTR4dFJfMU5VRmZMd1NoWFZuUjBiTU4zc1l3RU5WaVJQZmF4bmttOXlmWWRjVjBxcXNtUjVUQWZKODVuc29oaw?oc=5",
        "source": "The Motley Fool",
        "date": "2026-10-14T07:00:00+00:00"
-      },
-      {
-       "title": "Which Precious Metals ETF Is the Better Buy: abrdn\u2019s Silver SIVR or VanEck\u2019s Gold Miners GDX?",
-       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNEFjU3hkT3hGM2hNcWtZaXNhV3g4N3B3QzY4WjVuMHVnckZGcHZqa0h1dzJjbVpta1AzWGp0Mmdva2ozWTdjV2xjX0w3X0pGd3FNajhiMklyUWEwbXl4cHAtUDBaNUlncFVvaElrN21QS0ZhMDF4d2VWek1LVGFFRWFBQ1h5MVE1SlUxV3ZlVlY0bWc1ck1DaTYtTlBlbHpEb09hcm5oa3ZMYm12Q1dsem4tV1RzTjFwX2xEdU5mYUxDNGFfS0dQWWNGNUNVN3hSSERUSw?oc=5",
-       "source": "The Motley Fool",
-       "date": "2026-10-11T07:00:00+00:00"
       }
      ]
     },
@@ -211,16 +211,16 @@
      },
      "news": [
       {
+       "title": "Is Hecla Mining (HL) Above Fair Value Even After Record Output?",
+       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeWZkUEtTbjZINlBzbFNySWxhYlI2VkZ1N25fNHRMdXl0MldIeFVCbHgxaEFSQU1hdTE0RlB1d0p4SzRic1luWloya3Nfb0RNQ1A2QlJSY0ptR2MyYk53Qjd4Yk5DeVRWVFlzcC1LUDNKek95YWFOamNxSzFlaWY4SHEzVGRmWVAzWkt1VUtiRDBvYlNzQkE?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-24T10:11:13+00:00"
+      },
+      {
        "title": "U.S. Small Cap Portfolio (DFAS) Buys $12.3 Million More Hecla Mining on Thursday",
        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTnA4WjZXTWQwVDlyeFd1ZVFYNy1JNDdjTHBlVzlZRkxlbUhrVEVEQjdlM09pU2xOdWloSUM2OXZvYVNGb1RrZDl2QnMwM2dtYXloLWc5b2d6X2J5S0RSbW1DUnF2RHhsbFhaQ3drQ2xqdFNSVVd5b3RaaWV6REdfNWpleXFyUGJlTl82TWdYTnhSR2FFMXc?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-10-19T11:04:02+00:00"
-      },
-      {
-       "title": "24 ETFs Add to Hecla Mining (HL) on Oct. 15",
-       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNlUxV045SE5Ubi1FakNEYjV3SkRnT3ppNVlPVGF5dzRma2NYM3N2UmQ4RTJCZkctNURlWWdKdVBFVjlxa0JEYWJiSzk3UzlXWnFEVHRUUDVOY0pCemQ3ZThGRHhwaHVYaDRFUVFIeHZkZGlOcm9wZVJMdzZmOE1TWUI5anpHNFo5ZXNPaWVOQTRNZEE?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-19T11:01:38+00:00"
       }
      ]
     },
@@ -236,16 +236,16 @@
      },
      "news": [
       {
-       "title": "BMO sets USD 24.00 target for Hycroft Mining stock",
-       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVnNPYTZqYkplQW9hMTRWSlE3WFM4Z1R1OVI1ODdOWkhnNWNGTWNHeFF4Yk5OYTBLMmRMRUdvWWYwVmV3Wkl4VFk4TFozVVFEQlhmZnlHcDl4N014OEJZTV9JWXlwNXotajdNLU1sOG5XU3pvQi1XLUx6bEw1aVRvOFZPaTEzSVR2V2NJRm5qYXpLYVdPYld2NWxnUDVzcTdhQUU0ejgyajBPeldxZmc?oc=5",
-       "source": "ad-hoc-news.de",
-       "date": "2026-10-17T19:58:31+00:00"
-      },
-      {
        "title": "How InvestingPro spotted Hycroft Mining\u2019s 48% decline in advance By Investing.com",
        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOM3g3Z09MR1dCUTZES3gyX0ZmYlZHYnFNMllWSVY0WDJPZEY1LXhwb20zWDBYUW10WndRbWJ5VnFZM3o1NnRfUFgzOVkwUlNEZDYzMG9lQ3UzaUNidWFEcTdOTGN0YV9lc2dGWC1PQmtCTVZMQ2ROU0NxMllYc2FERWo2RXl4cDlRR1VwR1R1NGRXRTI3S3dTaEhfUUVnbXI0c2hDWDlYNWdreWVfVUVJNm9HQWpmT2ZIdU1nY3JnUmo?oc=5",
        "source": "Investing.com",
        "date": "2026-10-16T11:17:35+00:00"
+      },
+      {
+       "title": "Why Did Hycroft Mining Holding (HYMC) Move Today?",
+       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUVlwcWxpQmlBSGJQUW5rVkstNzhBd2M1TUpFMTdWUEttYTUwTFRmNURtbVlhbURPZC1MODdQU1RfdWhEbzBGZ0tCOW1zUVpIT2lxWVdlU1BFX1FkaC10dkhLbWNLdERQNEF5Ymk3MEhSWDlqNW5FdDYyMFd4NS1OYUJmWWtsaGpVRWxWSVgtMXBSb3gyQmpubWljQ3dfY3dFUHNZaUpIYmpyRE9QRVZNMjhkOU1kTUEyLUVMOXQyZ3IycVdCUFhr0gHMAUFVX3lxTFA5bERkUmhZMFpEZTl5YmRDUnJ1NmFVUXB5NGpoaWVlWnBiZmFWOWlmZlYtY1FubVBKRjZTWFRNQzZJUzUyaVRmODlzTnhFLWY0RGV0OUZCUExHNnpiMmtDWFBobS1sd3hFc0JBT3AyV2dHaTJ0T2VhUlZzOXBUY294aWZiWTNnWXNYNTF2bVBKMng3ZXlUUkRtaU11clVzVFJ1MmtUdnlVUmVNVWFuRnhpd0dsZkFFQmxmVWlBd0RMeGlScXZxYnpmRzVFVg?oc=5",
+       "source": "Simply Wall Street",
+       "date": "2026-10-15T23:12:20+00:00"
       }
      ]
     },
@@ -261,16 +261,16 @@
      },
      "news": [
       {
-       "title": "Weekly Video (10/18/2026) (Aris Mining, Avino Silver) (NYSE:ARIS)",
-       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOG9OcDFXUmxUanJJZUFpUTFVaGdlclQyT1NBYjRheFFyaHUtZmRTMFRqaVNXSlFMdFd4SjZVTlNEWS1LR3dqYzlhZE83T05FQ3pYdjBNWnVmTE9Xc2FEYU1rdFRXRmZYNkh4aVZKTlhaLTVsaWJGR3ZHMWd4ejBhbXZCcnU1S2hwb0o4bVdzWmhRbmMxY0IzZEUtd0RNeFF3Z3hFUUJOVXVaMHVpbjhMTkw0YjQ5ZHNuQ1JVNXNfZGY?oc=5",
-       "source": "Seeking Alpha",
-       "date": "2026-10-19T00:06:32+00:00"
-      },
-      {
        "title": "Avino Silver & Gold raised to Buy at Roth on valuation, La Preciosa potential (ASM:NYSE)",
        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQc1V6Q3J3eDhlYW1USzhENmdRSmhJUDd5VV94Q0NPeDBHNTduTUtkZEttLWJEQ1Z2VENsVTlmUWN3SUt1Z2VnT0czcV9BejZlS09vZzJuYUJPaWg2Sk1mQnNyMW1ncjd4eWhVS3hRTUJPbC1SNzZ3dmpCTE91UVFPa2VNdGpzY0hvSExGdkhlQ3pxQ0lvUGlzb2wySWFITzFrM1AyaFNQZXRPZWpSb3lBc3dXc1pDU0E?oc=5",
        "source": "Seeking Alpha",
        "date": "2026-10-16T19:58:23+00:00"
+      },
+      {
+       "title": "Avino Silver & Gold Mines Shares Rise After Roth Capital Upgrade",
+       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS0dieXNtMEV1X0NVMWV0bTI4elo5cGhTVjllMWxYZFRuRlBXY19ZT3R6N0pQRlZiRXdRYzh4azlLRDVDRmROa192MElyb2xXT1pBRGlOT3V1NmxIN3RCeU1xZ2IyLVJya0NKSHVBMzhZNkZuak9CWkF6b0tkS0w3TC1uZmxuWmc4Z2VjWlExQmxIV3JWZDBCYktQYw?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-16T18:54:13+00:00"
       }
      ]
     },
@@ -286,16 +286,16 @@
      },
      "news": [
       {
-       "title": "Coeur Mining, Inc. (CDE) Stock Forecasts",
-       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcjlHRE5Xbmo1Qy1HSU1PUHFHQ1M4aWpLM25WeFNrWFV0dGZ5UTQ3T3V1anBPalNaaVgwTzhqelZpc0lWbjVoZEtQZDd1c1ZMd3NNYzVibEdlU19CaUFRaHN4SEJZWWdGV2VkUjlWZndjWjB4RkhyV1dlanpHZGJ0WHhZNFBqYzBPSTVRZ3M3NA?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-21T21:44:26+00:00"
+       "title": "Coeur Mining, Inc. (CDE) Stock forecasts",
+       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcFZxc0lyNTZPbkg2QU5GWE1Db09ZaUJaT1FEYjdoSE10RmZ4bm92cVc0WHJkXzFPWlVvZTljM3Zpd0ZvYkZCTjNlN2hPc25YNm5JUHEyWGFTVmp6anE5WFAtTGhrQ3NWV3p2dkhKMGEyNE1MNG9xSzVBbEdqNVUyZkdKNVlLM3NnM3pKaVFQNHB4UWM?oc=5",
+       "source": "Yahoo Finance UK",
+       "date": "2026-10-24T11:07:46+00:00"
       },
       {
-       "title": "How Big Could Coeur Mining Stock's Next Fall Be?",
-       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ2JJVjVUQXAzcmZmaUE0aUtESFM2QUl6cXNncEFRRk1pRHVTNjR5OUpWazVVY0xSRXlXbUhWeW83Y3dFNjJRS21ZeHFNdlRkbUZSSFpRU1FGQ0J2V3dfTTdDQUsycV9rRk1kbTg4YXYyUGotcmN3dkl4aXdkWUoyX0dOUlg5RTBzaWRNREZZaThNUnNJN1dJWEFn?oc=5",
+       "title": "Americas Gold and Silver Sinks 11%, Coeur Down 8% as Silver Slides on Hormuz Oil Shock",
+       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRDBLMW8wR3Fsc3E3N283REVMa0dHMENsZ3YzUktWVkhad1R3VklVbTZjUWxfcFZ3Q0I1Y0k0NkFmZlZhaVc0bGdfbGZZM2JrN2FuS2JNY08xanFkeVFHN2tkdDJ5b0dLbVRXenVLcm12aWtRR0FQQkxZWFRHUzNUckRFQkVDakNxZjRRTHR4STIzSVJDNVdOMmU1QVBBUjlG?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-10-20T17:48:37+00:00"
+       "date": "2026-10-22T17:37:28+00:00"
       }
      ]
     },
@@ -311,16 +311,16 @@
      },
      "news": [
       {
+       "title": "Does Labor Dispute Change The Bull Case For First Majestic Silver Stock (TSX:AG)?",
+       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNU2l6WHVyUlpOdVJNSFdRdGxGZ1plVHlDRUNYei1FZEROa3pmMXlyVUlPclYtUm1SOWVUelU4d0lVV1V1Sy1rWnNxQzFoNlJOb0dLVG94QjFVVkIxM2haQkVwblNURUFacW9RaGFZN1RZa0NjOTdqcmt6bHZBeWZvMk1rUmtHVVZnWjlnUkM5ZzI2VlRWLWZjcGdsSnlISTJGYmllVlZDUkx5dE9kUHlscXNUQlFSQk5GbjhoUXFsZWFfVG1mR0tkVUVWdGhpV3hGQ0dvb0wzSkxBX03SAeABQVVfeXFMT3JRTDhtSzUxcXRXbkJTV2I3bVFuODNXM202eHI2QlROSDdCXzJQRXZjdHhabXJHUS1ucHhOSGhvMGR3OWUxR3B0MVZsaE5KOV9ObEJ4Rm1RbV83N1p0UEVRVjkzcTBTTVkzM1JIci1vbjRWR2ZCdjBVbUN4ZW1Yeng5dEtpdGQ1UUlJVnZPMl9TUmRwYkRoRW9mcXVxcmNRa3ZFZjg2UzVnUUs0cmhYUDdBU2FteEZlTUROaVRCY3k3NzM3OTVVSF9qdGN4cWhVTW9SeTFacWt1VDU3VTBpRV8?oc=5",
+       "source": "Simply Wall Street",
+       "date": "2026-10-22T11:52:09+00:00"
+      },
+      {
        "title": "First Majestic\u2019s (TSX:AG) Silver Quarter: Why San Dimas Matters",
        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQmdVT1czZlJZckRBUXNvOHU1ZmtYR0pPaXM3dWo5bUdVSUcweDBvRC1PdXVmRG1tNDVzeWRIZW9EdFc1SHdNN0JRRkZkSllYQm9CUkstOXY4RHhFQVF5NWdBYnhTZGFqdXp3Q1Ric3ROcWF0RUNFM3VEc1ZDUEdFeENCSkFJZFU4N05nOFp5aXB4Nk5LNlRPYTBWMlpWQlNZZUlXeEhhMkR0b3dWWk5R?oc=5",
        "source": "Kalkine Media",
        "date": "2026-10-21T14:20:00+00:00"
-      },
-      {
-       "title": "First Majestic Silver Corp. (FMV.F) Stock Price, News, Quote & History",
-       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5adU9BYVRxMTBmLVZxMmRKVXRoZjRJMTBmelNvdTBKR3JjUkdXVFpBekxGY3V2RFRtMUZFZlRZaGZZemstZFBZTDJlQTAxSzNJRWg0?oc=5",
-       "source": "Yahoo! Finance Canada",
-       "date": "2026-10-21T06:37:23+00:00"
       }
      ]
     },
@@ -367,10 +367,10 @@
        "date": "2026-10-24T23:17:02+00:00"
       },
       {
-       "title": "Dykes Extend GR Silver's San Marcial Silver Case Toward Depth: 6 Things to Know",
-       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSjNLZXNuVFdiQXBlXzhKUHVIb2Izc2xpZ2VwQTMxWktqRlBjY0xyYmZ4b095am4tNW9uRkxfVFEtWTAwR251WWhRY185djFLLUltZmxSdC16LWRGNGs4Zkptc3hnNUN1cWNhaTJScmRWZTEyb2Y0TjZLXzZsQ1ZFLUo1Z1M4bXVGNGE3VFJ1d2NiMk9jdFVIU19GbGZRb2c4eDdyUk1Fa056TVFGejZNVHNn?oc=5",
-       "source": "Crux Investor",
-       "date": "2026-10-02T07:00:00+00:00"
+       "title": "Kuya Silver Announces Grant of Stock Options",
+       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdHlFblFEYmZBODRBTEU1ZjVnQlR4bHRhcU5MSlRmd2FmcUZoR21fZk9rVlVQMzBBRDJTZkJ1cDg2MHRzUnNyT1BDcm9CNHpFU0VLNjZ0TTNrc1VidGxXXzdiREQzT0V0cXhrTVVHRjYyVTJBMXJsME1mOGlHRV9hZUp5eUxKR2dXREtOeVFWZzBpOGhoclRQYjE5cTZFUkU?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-19T21:08:00+00:00"
       }
      ]
     },
@@ -506,11 +506,11 @@
      "symbol": "GC=F",
      "name": "Gold (USD/oz)",
      "quote": {
-      "price": 4007.89990234375,
-      "prev": 4060.39990234375,
-      "chg": -1.2929760925690092,
+      "price": 4010.199951171875,
+      "prev": 4007.89990234375,
+      "chg": 0.05738788103915038,
       "currency": "USD",
-      "asof": "2026-10-23T00:00:00-04:00"
+      "asof": "2026-10-25T00:00:00-04:00"
      },
      "news": null
     },
@@ -530,9 +530,9 @@
      "symbol": "USDNOK=X",
      "name": "USD/NOK",
      "quote": {
-      "price": 9.277830123901367,
+      "price": 9.30504035949707,
       "prev": 9.325400352478027,
-      "chg": -0.5101145986083022,
+      "chg": -0.21832835279341767,
       "currency": "NOK",
       "asof": "2026-10-25T00:00:00+01:00"
      },
@@ -656,16 +656,16 @@
      },
      "news": [
       {
-       "title": "Dear Amazon Stock Fans, Mark Your Calendar for October 29",
-       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMm53RWFuSFJKN1hWTHF1bVAxcHBsSkQ4elFqbWtkSUVzMXVnQmk1dWVVLVZmOUM4WjBlRVItU2NhdDlkeEpsSFhkN3hMTHlEOEFrX2dnWkVVOE90NGM4dXZmNDlTWHVfTEotNXptUVJpSHVuZDJGZFhWR2VOZkFpb01SUkZtaktPQmgtX2llQ2xaUUVoX0lR?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-23T15:25:56+00:00"
-      },
-      {
        "title": "Should You Buy Amazon Stock Before Oct. 29?",
        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdUNzQkdXbm81LXFjZTc2cEVacUh2Z0E5UTZLZkpEa3lEeDBZaDhITEM0SEowcFlldW9pLW9IYlFnVGhERXRPY0xyVkFvenYzN0J3VHJselIwZVJuRG54M3ZzeGhLbGtoMlhKaGxuVUh5RkIySFpmSGFLbnBzRVI1Zy1QZ0M4R19EQkV4Z2RSSWx6UQ?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-10-23T11:22:00+00:00"
+      },
+      {
+       "title": "What Could Go Wrong With Amazon Stock?",
+       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWUYtYmRwaVpTS1NReTlTdnI5SkcwNmxLLTdqWjJwOUh5RmEtamppYXdhbGdQVEdVT1hSN2NDVHVRVXRRa082TlhMRElrZ1V5YkNkX0k5YWstUjdJNHA5X1MyTFUtUDgzTUpQVjVrdWZXWFd1Zy1VR2E5UTIxUll2bzVTS1J6QTlBTktzSGRNY0FkblE?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-23T08:00:48+00:00"
       }
      ]
     },
@@ -725,6 +725,12 @@
  "failed": [],
  "general_news": [
   {
+   "title": "SpaceX Could Weather a Recession. But Its Stock Might Not. Here's Why.",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMGRPclVkZGpOZDB3a0tDWXJhb1N4cWRvOVNZQWpuNGZEd25LR1BQU3l4RXd3RGdMcEVCWTItQVdPV1V6NWg1Nm9JeG1Ya0ZWRXdhSTRtN1RlMzA5ZjBlRk5UWlJMaFZ3ZmM3bW0zQTRoYjIxM1hLOWNMTTBwWmZHc1JLaW9kR0NvUlZFdHY4aUJzVjJIYmp5bGxNWWVwTzhSSEltSS0tNmNpQkVHV2ZSYmVGVFdubnhCeWRVMU04NGdZcXl3U1BjYnB6ODBjdUxVcUF3UUp3OVU0dmpkOGNQUDhyZlV6dw?oc=5",
+   "source": "The Globe and Mail",
+   "date": "2026-10-25T16:05:00+00:00"
+  },
+  {
    "title": "The Stock Market May Be About To Break As The Earnings Trade Unwinds",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQTRPYzhyZVZvZ1dLTUxybFVrZ0lfRTc1WS0yV1BvY2RQZGJwT0tGUjhTV2tWQUczaFBBWFR3VFNFYXE0YmE4RWNLcUJrUVNpZWZkZUhaZjNqaXZHQ1dENC1rcG9TVjdmQ2lEVmhoS0FTR29VUlFzNERwcTl5eGc0b1dFSExTeWctbEZQaUFuNWEtX2J5Qm5UUzV6NTNoNS1SRjVr?oc=5",
    "source": "Seeking Alpha",
@@ -743,16 +749,16 @@
    "date": "2026-10-24T18:19:00+00:00"
   },
   {
+   "title": "Why Peter Schiff says a stock market crash could happen before 2026 midterm elections",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ0Ftajh0VEZWbXpMV2ZCNmZCSHU4QXNNMWJkX1RLTmFLalM3X3g4OUNSQXU1LWY3YzV3WHpFQnFCS2J1dU53TDh0Nk9lLTRGT3pGdi1tYU5oaC1BSE9UTVFaa3NDOVNtUE5uQTZHd3ktVkZkckdveGkyMEdNSkJ1b1U1eG10ak8zc0ZscmZtR2doUHp3RmZZ?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-10-24T13:30:00+00:00"
+  },
+  {
    "title": "What next for France as riots rattle markets? Three questions facing investors ahead of more protests",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42SU5XYVUwMmU4cUtKdGZNOEdZRk1wRVFUYkNPNE1xTFRUWEJlN0dSMnBPQUN3NGpZZ1R3Z1lSeVBpRkRMSlpqZV9oSmRIVFhVS1FPRXVPUkc5Y3NGOUJDdFc5ZEtfTnZUTXFOMWlnTWtIekg4V2w1a2RVVGZqSG_SAYQBQVVfeXFMTmRjYS1LU0J1RjR0cnZTQU9DcFhFV3pyM2JVSXhpazhLdDh2aWdfaXBjRW9VajdGbXA0bm5HZ2RqczJ5MTg1NVpOZ2VTUURuNVlJUHU5WlM5TUp6WDNBZGtEeWNORTIxa0JmNXdfRlJOMmNpT3o5ek5RYmVSU2M2YWZYWHgy?oc=5",
    "source": "CNBC",
    "date": "2026-10-24T05:00:01+00:00"
-  },
-  {
-   "title": "Gold and silver ALERT: Recession risks and what comes next?",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUS1WTktxSVY0Zl9rMnFjQ0JVTzdHUFloRVh1Y1Z4cFpBMEFNNklUc1NVZndEeGsxQm1ORk91YUZjRHJCVmlIWXBVU2dhWEk5QTlSYTJOVE1jcHN6V0tFRWY5VHVFcEVTNE12TzQxcldHbW1zNkhONTdvWmh1QUtlMGdMM0V2czBXbEJUbFdOUk9nS1M1eWp5VktJV2EycWs?oc=5",
-   "source": "Kitco",
-   "date": "2026-10-23T20:49:19+00:00"
   },
   {
    "title": "Bloom Energy Stock Sinks Despite Record Revenue and a Stellar Outlook. Is It Time to Buy?",
@@ -789,12 +795,6 @@
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTnZLOHJwa0I4ODM2TFpCVDJZNXEybjU2VDB2T2Fsd1FCX3lWb0RGZ04ybmZLeXVlLVJMYXF2aWw2WFBXcEcxZEtJaFUxUzAxRlcxSlptR1libllJRkZES25hdlRsUDVZdk54RmsySVZVWG1MOHBqWWdqMkltV1A4UjBneDVpVGtXYnRhVmEyX1lTRkNaSDhRdlhQOGRJdkdXN1o0?oc=5",
    "source": "Seeking Alpha",
    "date": "2026-10-22T17:04:25+00:00"
-  },
-  {
-   "title": "PPI Public Property Invest AB: Transactions carried out under the share buy-back program",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQc0FHc0JsUi1LX0JLb1JDSWJXN1paY0Q2bmhmaWp0TVFEZ2ZFRXNBMTJtSHZyQktnd3h3OHlVMjNKZF8wRlJmVVlTYW00UHJCVmdnai0yaGt1Z096bWhkRU1MUmhfdkMxWVRkMTQxRTdkOHltRjF2N2tUNUhrOGo4NG4zNlFNMXFjOHpTX1JIUzZMNFI1U1R1MU1wdVVKSktSeDdDQ1RhYXZvZUgzQVhhN3Q5YV9tUWo1R1EwaThkSXFUcldiVExxYjQ4X1I5YXF4SWgyS2JJYVFSRzVheW9DTy1Pd2xJZ0NT?oc=5",
-   "source": "TradingView",
-   "date": "2026-10-21T05:00:00+00:00"
   }
  ]
 }
