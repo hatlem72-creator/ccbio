@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-26T08:41:25.481332+00:00",
- "usdnok": 9.338410377502441,
+ "updated": "2026-10-26T09:37:59.771414+00:00",
+ "usdnok": 9.341429710388184,
  "btc": {
-  "price": 80294.9921875,
+  "price": 80430.09375,
   "prev": 80024.0078125,
-  "chg": 0.3386288470266674,
+  "chg": 0.507455135778101,
   "currency": "USD",
   "asof": "2026-10-26T00:00:00+00:00"
  },
  "silver": {
-  "price": 54.10499954223633,
+  "price": 54.05500030517578,
   "prev": 53.71099853515625,
-  "chg": 0.7335574050484128,
+  "chg": 0.6404680221954395,
   "currency": "USD",
   "asof": "2026-10-26T00:00:00-04:00"
  },
@@ -24,9 +24,9 @@
      "symbol": "KOG.OL",
      "name": "Kongsberg Gruppen",
      "quote": {
-      "price": 302.1000061035156,
+      "price": 302.5,
       "prev": 301.0,
-      "chg": 0.36545053272944994,
+      "chg": 0.4983388704318914,
       "currency": "NOK",
       "asof": "2026-10-26T00:00:00+01:00"
      },
@@ -61,9 +61,9 @@
      "symbol": "KMAR.OL",
      "name": "Kongsberg Maritime",
      "quote": {
-      "price": 58.7599983215332,
+      "price": 58.58000183105469,
       "prev": 58.599998474121094,
-      "chg": 0.2730372893828159,
+      "chg": -0.03412396516568883,
       "currency": "NOK",
       "asof": "2026-10-26T00:00:00+01:00"
      },
@@ -87,10 +87,10 @@
        "date": "2026-10-09T07:00:00+00:00"
       },
       {
-       "title": "Kongsberg Maritime secures Extended Thruster Coverage agreement",
-       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeWFRczlOdDNxT3JRMUxZSFpvTlJaZlpDa3h2aExmTl9nU3JQc1lTaG5TM0FkNDJVNmMycVIyaEhZNjBmT0twN1U3cnB4NktaOUI4alNrQU1sY1NiV0tPc0Zad3Z2cGdvT0Z4am4zWTlVQkpBUjVfc3FLajRPOV96R0FLQUZ6Nmw0ZWF2MzJnTXRfQQ?oc=5",
-       "source": "Maritimt Magasin",
-       "date": "2026-10-07T07:00:00+00:00"
+       "title": "AYK Energy to supply batteries for four electric Svitzer tugs",
+       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMWRuX0ZlYjRFOGhMaGl4SDZMNFJjUDBMd0N3NmN3Y21kWmZtZURIZm44SS1rWS1CbDJRRGl3N2p6MnptOVJGcWM1b0thUlFUbXgxQmU2TWFzSlRrakpaM2VQdjRmX3VWZFJaNTloTERWekhqMlVMbko5ZUJQSUFmdkIwOFJjeWEzTGkwR3VhbUpCYllXdmswcm8yMzJfWWFfTmt3SWNsbHFJNkdEc2FQbldkX1J3ZnBQRW91cDRn?oc=5",
+       "source": "Maritime Journal",
+       "date": "2026-10-09T07:00:00+00:00"
       }
      ]
     }
@@ -104,9 +104,9 @@
      "symbol": "G2X.DE",
      "name": "VanEck Gold Miners UCITS ETF",
      "quote": {
-      "price": 81.98999786376953,
+      "price": 82.0999984741211,
       "prev": 81.47000122070312,
-      "chg": 0.638267626457667,
+      "chg": 0.7732873990161204,
       "currency": "EUR",
       "asof": "2026-10-26T00:00:00+01:00"
      },
@@ -141,9 +141,9 @@
      "symbol": "2B76.DE",
      "name": "iShares Automation & Robotics UCITS ETF",
      "quote": {
-      "price": 18.766000747680664,
+      "price": 18.84600067138672,
       "prev": 18.895999908447266,
-      "chg": -0.6879718532835422,
+      "chg": -0.26460222958719637,
       "currency": "EUR",
       "asof": "2026-10-26T00:00:00+01:00"
      },
@@ -155,16 +155,16 @@
        "date": "2026-10-24T13:02:49+00:00"
       },
       {
-       "title": "KCR Stock Price and Chart \u2014 OMXHEX:KCR",
-       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZbDBQOEYtOG11c1gxNFY1eXh6TU83R2lpblBEVDJaVEpWVmljZHdkMklDeldKYlNZNk9rWFNaQmtPUjBXcktpYTdMdFVxQzNyLVB0NnlMTmFlbEE?oc=5",
-       "source": "TradingView",
-       "date": "2026-10-23T00:21:02+00:00"
-      },
-      {
        "title": "ARK Space & Defence Innovation UCITS ETF A USD Acc (ARCX.L) stock price, news, quote and history",
        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9DUkUwbDZMUHZCMFdXYkczLWwyWGtVOVJzZkxlRGZlRWRDZU9YU0luVkwyaEhub1dBM1pycTk4T2NHank1Q1dUN1dwS0o3VG9DYjFCQw?oc=5",
        "source": "Yahoo Finance UK",
        "date": "2026-10-22T07:56:40+00:00"
+      },
+      {
+       "title": "SNOW Stock Price and Chart \u2014 NYSE:SNOW",
+       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SUXprNzdIanA1N0duTExYdE11ME80MTFvcFVaOEJyZ2pOTWFoMEtldUZHWHJHSWdVQS1yWUZ5OGtrbnNaVWhZaUVnTFBsQkxmb3dNWTM1V0tDUQ?oc=5",
+       "source": "TradingView",
+       "date": "2026-10-18T19:09:06+00:00"
       },
       {
        "title": "The Best AI ETFs to Buy in 2026",
@@ -470,9 +470,9 @@
      "symbol": "OSEBX.OL",
      "name": "Oslo B\u00f8rs (OSEBX)",
      "quote": {
-      "price": 2110.010009765625,
+      "price": 2109.14990234375,
       "prev": 2101.1201171875,
-      "chg": 0.42310253970747613,
+      "chg": 0.3821668780649379,
       "currency": "NOK",
       "asof": "2026-10-26T00:00:00+01:00"
      },
@@ -482,9 +482,9 @@
      "symbol": "^GDAXI",
      "name": "DAX",
      "quote": {
-      "price": 25335.740234375,
+      "price": 25404.26953125,
       "prev": 25181.650390625,
-      "chg": 0.6119132040978803,
+      "chg": 0.8840530194473617,
       "currency": "EUR",
       "asof": "2026-10-26T00:00:00+01:00"
      },
@@ -494,9 +494,9 @@
      "symbol": "^VIX",
      "name": "VIX volatility",
      "quote": {
-      "price": 19.59000015258789,
+      "price": 19.209999084472656,
       "prev": 19.450000762939453,
-      "chg": 0.7197911781844146,
+      "chg": -1.2339417432008615,
       "currency": "USD",
       "asof": "2026-10-26T00:00:00-05:00"
      },
@@ -506,9 +506,9 @@
      "symbol": "GC=F",
      "name": "Gold (USD/oz)",
      "quote": {
-      "price": 4027.60009765625,
+      "price": 4030.0,
       "prev": 4007.89990234375,
-      "chg": 0.4915341149358543,
+      "chg": 0.5514134133770776,
       "currency": "USD",
       "asof": "2026-10-26T00:00:00-04:00"
      },
@@ -530,9 +530,9 @@
      "symbol": "USDNOK=X",
      "name": "USD/NOK",
      "quote": {
-      "price": 9.338410377502441,
+      "price": 9.341429710388184,
       "prev": 9.325400352478027,
-      "chg": 0.13951170494204135,
+      "chg": 0.17188921981132754,
       "currency": "NOK",
       "asof": "2026-10-26T00:00:00+00:00"
      },
@@ -631,16 +631,16 @@
      },
      "news": [
       {
-       "title": "Alphabet (GOOGL) Cloud Outage And Share Token Fight Put Regulation In Focus",
-       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbVN6MDc4a3piaVFsaE1vcUZFR0dzTk1lQ1VZMDdvU28zWlFLY0E4ZUxvbGJrdGw4dllmc0hDOEhpVWpHUDBpaE9DcU5waThIMmlZMHhibjBaejNSMUpaY1FxZ3VZUHdqb2RzVk5mLVFuUnk1TlZMWHFXcFhLeEZhS0RuNnpjbml4M2pVYWx4R0JTbUJ4Rmt4Tkh3?oc=5",
+       "title": "Alphabet Stock Is Up 26.5% Over the Past Year. Still a Buy at $320?",
+       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeUwydG9WSmxiYnRid1hLSTliUWIxaUVuRzRucFZsMzItMmVxeGlOQ1JVQVdLaldfOVJBbkFUc2hmLXFxa203ZGJGZVo0aUFoT2l0QXZZQXppeEM2NmdzR19MaW9QUkk3TUpVZUljZS1kOGhwU0NUZV9VZHpEQXdlV3FnUmU0NzdKOHVELXdyUHFrSDg?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-10-23T13:13:07+00:00"
+       "date": "2026-10-25T15:25:03+00:00"
       },
       {
-       "title": "Pre-Q3 Earnings: Is Alphabet Stock a Portfolio Must-Have?",
-       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMmltNEpYZVdmU3BvZHVnWXV3cEZYdDhwV0t5b2NQU3hWMDlsNC1fU1Zzdm05aDFZOGlqOUlUeTFqTC05TEVmWnR2WmtPRWp0aExBdkFxbTJkaDRqdWRqMERRVWNSV3JKZkxSOG85WnJDS3g1bTdBakxZZWRJNU8tSlNFcFBGRlNBTW5ESV9oWWJkTkxucHJXSXNsUQ?oc=5",
+       "title": "Alphabet's 2 Classes of Common Stock Trade About 1% Apart. Here's the One I'd Buy.",
+       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM0Z2VzZrQ19HWXZDS2FNcFFMTnFvQnNQSUtRanRTX3NBQmxjNHJDb0lTSDBMZlRCSlJ3NUVwOVJqV21NQ2ktSTN2M0FMY3pGSkhCS19tNmlYSEM2Y2ZOOGJEMEhrMkctRVVRQ0N4b2l4Y2FaNTU4MmZiU04xMERaSm92YnBLbDVmNWE5SEQ5cjNYaHFNZVpNVGZleWlEQQ?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-10-23T13:10:00+00:00"
+       "date": "2026-10-25T07:54:01+00:00"
       }
      ]
     },
@@ -731,10 +731,28 @@
    "date": "2026-10-26T05:52:05+00:00"
   },
   {
+   "title": "SpaceX Could Weather a Recession. But Its Stock Might Not. Here's Why.",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVGxweWRPb21Xa2NUUU14N1BGUmRpT0VMZE1wbVV3WkpLU2U3UWpTZHdKa2F3eS0wbExOSC1fYmQzZUk0TEoyNUxsRi1Bbmo0RWs3TVc0ZERCTE9RY01kd0hzejBxNC1YN191VG5GQmFGZ1p1WGVUM3FRWjhoUHh4dXA3ZVNvTUo1YV9TcUNocUU3R05qamRSTQ?oc=5",
+   "source": "The Motley Fool",
+   "date": "2026-10-25T16:45:00+00:00"
+  },
+  {
    "title": "The Stock Market May Be About To Break As The Earnings Trade Unwinds",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQTRPYzhyZVZvZ1dLTUxybFVrZ0lfRTc1WS0yV1BvY2RQZGJwT0tGUjhTV2tWQUczaFBBWFR3VFNFYXE0YmE4RWNLcUJrUVNpZWZkZUhaZjNqaXZHQ1dENC1rcG9TVjdmQ2lEVmhoS0FTR29VUlFzNERwcTl5eGc0b1dFSExTeWctbEZQaUFuNWEtX2J5Qm5UUzV6NTNoNS1SRjVr?oc=5",
    "source": "Seeking Alpha",
    "date": "2026-10-25T13:55:15+00:00"
+  },
+  {
+   "title": "Prediction: This Is Where Palantir Stock Will Trade When Its Revenue Hits $10 Billion",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOFNaOTNCMGxrWmJKMVpkSkdpZlJ1UTFqWERqeHF3bGlmYlZXQy1YUF8zTUdGUU91eU5tXzBjNW9RNlhjOWdpaDNZLTVrMHJEaC1yYnU1ZTNUY2RQQzYxX0NpcnVsa2tTdi1NTmtBNWJMXzRZSEV3c0lkcjEyZkhuWWRmZi0zbXkxZ3NDOC1XQTV3bDg1UHV4UEhVY3Z1SURuUXFIdTd1RDZUOWZpTVRCU29KVnFLMWlxUkZSS1hYQTBSVUppbzVuQQ?oc=5",
+   "source": "The Motley Fool",
+   "date": "2026-10-25T09:24:00+00:00"
+  },
+  {
+   "title": "Bloom Energy Raised Its 2026 Forecast for the Third Time. Is the Stock a Buy More Than a Third Below Its Record?",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQM0xkcWNLUDN5M3E1bzg4UkhBOW1PdXV0N1hQNXFpZTR4SVUtcHN6dWp0RGdoZ2FXMmtLTUptQS14dVkzZ0QzQ2JKVWtPUUxHNDNIWVhqQm5GYkFKbWk4eHRJUWV6UWczUENNbzI4ZFpzTFlXZnZnWmd6dXZ5NVpxbEY4LTZIUy03dEdxU3ZLX1FnNmVYZ0pMem9hRFlXa29DMlRyQUEzSmQ3UHM2Y0VVclpfYWcyMmZGWjJCWDJ3bkx2V0JQZ0FwcnVpVXU3X2hIN2NyUmZkQ2dhWVJVUkxZWUxiMmI0d2Ru?oc=5",
+   "source": "The Motley Fool",
+   "date": "2026-10-24T18:19:00+00:00"
   },
   {
    "title": "The Puzzle Pieces for a Stock Market Crash Are Taking Shape, With 4 Historically Flawless Indicators Now Sounding the Alarm",
@@ -761,18 +779,6 @@
    "date": "2026-10-24T05:00:01+00:00"
   },
   {
-   "title": "Gold and silver ALERT: Recession risks and what comes next?",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUS1WTktxSVY0Zl9rMnFjQ0JVTzdHUFloRVh1Y1Z4cFpBMEFNNklUc1NVZndEeGsxQm1ORk91YUZjRHJCVmlIWXBVU2dhWEk5QTlSYTJOVE1jcHN6V0tFRWY5VHVFcEVTNE12TzQxcldHbW1zNkhONTdvWmh1QUtlMGdMM0V2czBXbEJUbFdOUk9nS1M1eWp5VktJV2EycWs?oc=5",
-   "source": "Kitco",
-   "date": "2026-10-23T20:49:19+00:00"
-  },
-  {
-   "title": "The Cracks Are Spreading: The Recession Trade Is On (NASDAQ:TLT)",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdUVteUtobGEzcUY1dDdia3BXazJoYjV5clBvWHdTT2lqV1BLY0U5Qkp1bE0yYnhTRVhvVVRWd0tOYVpsTVBVeHBHeGFPMEQtV2JLZzF0cFg1VXBQV204TUVGV3RTSzFHWWVBS2FYM1ZNTk5UbXRZdVRMMGVnWTd1akpIMnlPcmVRd184V0cxbGFKRFlzRWc?oc=5",
-   "source": "Seeking Alpha",
-   "date": "2026-10-23T17:25:23+00:00"
-  },
-  {
    "title": "'A cyclical downturn is inevitable' in an AI crash: Strategist Dario Perkins",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRmlUc05lb2JTUlJSZ00wQW9RUFB5VEY2UGZRRmxxTnFESmNnRC1KMDVzNVRzbG85TC1rWVZyUWhwckZVYll2T3J1b0ZEQ1RzZldYM2dyOWp3SzZOWkU4c2FPQnM5QVRJb19idEJyNF9QVTlJdkJ3Tl9oeW5pdm5iYmNxanMzRXh3QjZMcENCYVUtOG5pR0sxS3ExRHYyX1ZTcmxseVRYYjlCcTIxYjUyWE1UNmw4RXVVMDZkcTZHckxyWFA5WE5aRkdR?oc=5",
    "source": "Yahoo Finance",
@@ -789,12 +795,6 @@
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbmFtLVhrQ2owM2JvMExQcFEwX2lENzIxSkVpaEFmNDNYNlRTWHo5TTJ2a3lqdTRZOHZmRnd2eGVtOFBuQ1BER0ZtNjItRmxEeVFGbm5kSlpnMjNPYmlIWlhyRmlKMFNseXQ2YjFFbE1qdjlDOGJTUF9CZXFoekhCX2xLTXltZzZiUUF0dUJXcnk0ckgxNmJtUnFXTzdhTko3c2R3WWxzTlpjNXVM?oc=5",
    "source": "CNBC",
    "date": "2026-10-23T04:25:00+00:00"
-  },
-  {
-   "title": "The Stock Market Sounds an Alarm for the First Time in Nearly 27 Years. Here Is What History Says the S&P 500 Will Do Next.",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMkUyMVRhLXlTVkVnYi0xRC04MHRhWG9qa1Y1MHppMHZGZ081bzJkNjdBUWUxUDlMblB1UTNrdTl0LVRhdjIxQ2NVTWJ3TDU0a3V6U1U2V3NSYXdCWlppMlYtellKaDhTbW1qYzM4Y1NSanhiNzVwMWhkS1V6d21nalppaFdqRExrS1dmb2NGVURGelo2RjJiaXB2dGo?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-10-22T19:20:00+00:00"
   }
  ]
 }
