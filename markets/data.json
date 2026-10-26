@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-26T00:43:03.376530+00:00",
- "usdnok": 9.319950103759766,
+ "updated": "2026-10-26T01:41:38.295799+00:00",
+ "usdnok": 9.314749717712402,
  "btc": {
-  "price": 80075.3671875,
+  "price": 79593.4609375,
   "prev": 80790.8359375,
-  "chg": -0.8855815659012278,
+  "chg": -1.4820678435934154,
   "currency": "USD",
   "asof": "2026-10-26T00:00:00+00:00"
  },
  "silver": {
-  "price": 54.220001220703125,
+  "price": 53.904998779296875,
   "prev": 53.71099853515625,
-  "chg": 0.9476693776484302,
+  "chg": 0.36119277137185435,
   "currency": "USD",
   "asof": "2026-10-25T00:00:00-04:00"
  },
@@ -124,10 +124,10 @@
        "date": "2026-10-18T07:37:34+00:00"
       },
       {
-       "title": "GDX Vs. SGDM Is A Draw, Gold Miners Are A Buy (NYSEARCA:GDX)",
-       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd0pJYktfcjZ0Z3gwNjBJeV9aTE5ESjczNXU5S1Ftanltdm9RY2dVbkdHbEtvSWpEdEVNWXFtaXlaU0V4UVNneEt4UGYxYmQxa1IxMmwxcndGM19zOXh6NTFqQ1ZoTzdEMHBUOS1FTUJCMmdUQ1ZYQlJwTlRkWGJtN3VBN0xtc2ZTZjJZVw?oc=5",
-       "source": "Seeking Alpha",
-       "date": "2026-10-11T07:00:00+00:00"
+       "title": "iShares SLVP vs VanEck GDX: Which Miners ETF Wins",
+       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVC1nWXNrZXc5N2xqdnZ5MzdueXd4T3h5OUVKcXE3Zl9vaU52clZabGloNjc5cF94eUJ3TGhzMER5WEJ6THllQm1wTnVpbzhLOExieDg4Q2Qyb0RYcTR4dFJfMU5VRmZMd1NoWFZuUjBiTU4zc1l3RU5WaVJQZmF4bmttOXlmWWRjVjBxcXNtUjVUQWZKODVuc29oaw?oc=5",
+       "source": "The Motley Fool",
+       "date": "2026-10-14T07:00:00+00:00"
       },
       {
        "title": "Which Precious Metals ETF Is the Better Buy: abrdn\u2019s Silver SIVR or VanEck\u2019s Gold Miners GDX?",
@@ -236,16 +236,16 @@
      },
      "news": [
       {
-       "title": "BMO sets USD 24.00 target for Hycroft Mining stock",
-       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVnNPYTZqYkplQW9hMTRWSlE3WFM4Z1R1OVI1ODdOWkhnNWNGTWNHeFF4Yk5OYTBLMmRMRUdvWWYwVmV3Wkl4VFk4TFozVVFEQlhmZnlHcDl4N014OEJZTV9JWXlwNXotajdNLU1sOG5XU3pvQi1XLUx6bEw1aVRvOFZPaTEzSVR2V2NJRm5qYXpLYVdPYld2NWxnUDVzcTdhQUU0ejgyajBPeldxZmc?oc=5",
-       "source": "ad-hoc-news.de",
-       "date": "2026-10-17T19:58:31+00:00"
-      },
-      {
        "title": "How InvestingPro spotted Hycroft Mining\u2019s 48% decline in advance By Investing.com",
        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOM3g3Z09MR1dCUTZES3gyX0ZmYlZHYnFNMllWSVY0WDJPZEY1LXhwb20zWDBYUW10WndRbWJ5VnFZM3o1NnRfUFgzOVkwUlNEZDYzMG9lQ3UzaUNidWFEcTdOTGN0YV9lc2dGWC1PQmtCTVZMQ2ROU0NxMllYc2FERWo2RXl4cDlRR1VwR1R1NGRXRTI3S3dTaEhfUUVnbXI0c2hDWDlYNWdreWVfVUVJNm9HQWpmT2ZIdU1nY3JnUmo?oc=5",
        "source": "Investing.com",
        "date": "2026-10-16T07:00:00+00:00"
+      },
+      {
+       "title": "Why Did Hycroft Mining Holding (HYMC) Move Today?",
+       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUVlwcWxpQmlBSGJQUW5rVkstNzhBd2M1TUpFMTdWUEttYTUwTFRmNURtbVlhbURPZC1MODdQU1RfdWhEbzBGZ0tCOW1zUVpIT2lxWVdlU1BFX1FkaC10dkhLbWNLdERQNEF5Ymk3MEhSWDlqNW5FdDYyMFd4NS1OYUJmWWtsaGpVRWxWSVgtMXBSb3gyQmpubWljQ3dfY3dFUHNZaUpIYmpyRE9QRVZNMjhkOU1kTUEyLUVMOXQyZ3IycVdCUFhr0gHMAUFVX3lxTFA5bERkUmhZMFpEZTl5YmRDUnJ1NmFVUXB5NGpoaWVlWnBiZmFWOWlmZlYtY1FubVBKRjZTWFRNQzZJUzUyaVRmODlzTnhFLWY0RGV0OUZCUExHNnpiMmtDWFBobS1sd3hFc0JBT3AyV2dHaTJ0T2VhUlZzOXBUY294aWZiWTNnWXNYNTF2bVBKMng3ZXlUUkRtaU11clVzVFJ1MmtUdnlVUmVNVWFuRnhpd0dsZkFFQmxmVWlBd0RMeGlScXZxYnpmRzVFVg?oc=5",
+       "source": "Simply Wall Street",
+       "date": "2026-10-15T23:12:20+00:00"
       }
      ]
     },
@@ -286,16 +286,16 @@
      },
      "news": [
       {
-       "title": "Coeur Mining, Inc. (CDE) Stock forecasts",
-       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcFZxc0lyNTZPbkg2QU5GWE1Db09ZaUJaT1FEYjdoSE10RmZ4bm92cVc0WHJkXzFPWlVvZTljM3Zpd0ZvYkZCTjNlN2hPc25YNm5JUHEyWGFTVmp6anE5WFAtTGhrQ3NWV3p2dkhKMGEyNE1MNG9xSzVBbEdqNVUyZkdKNVlLM3NnM3pKaVFQNHB4UWM?oc=5",
-       "source": "Yahoo Finance UK",
-       "date": "2026-10-24T11:07:46+00:00"
+       "title": "Coeur Mining, Inc. (CDE) Stock Forecasts",
+       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcjlHRE5Xbmo1Qy1HSU1PUHFHQ1M4aWpLM25WeFNrWFV0dGZ5UTQ3T3V1anBPalNaaVgwTzhqelZpc0lWbjVoZEtQZDd1c1ZMd3NNYzVibEdlU19CaUFRaHN4SEJZWWdGV2VkUjlWZndjWjB4RkhyV1dlanpHZGJ0WHhZNFBqYzBPSTVRZ3M3NA?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-21T21:44:26+00:00"
       },
       {
-       "title": "Americas Gold and Silver Sinks 11%, Coeur Down 8% as Silver Slides on Hormuz Oil Shock",
-       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRDBLMW8wR3Fsc3E3N283REVMa0dHMENsZ3YzUktWVkhad1R3VklVbTZjUWxfcFZ3Q0I1Y0k0NkFmZlZhaVc0bGdfbGZZM2JrN2FuS2JNY08xanFkeVFHN2tkdDJ5b0dLbVRXenVLcm12aWtRR0FQQkxZWFRHUzNUckRFQkVDakNxZjRRTHR4STIzSVJDNVdOMmU1QVBBUjlG?oc=5",
+       "title": "How Big Could Coeur Mining Stock's Next Fall Be?",
+       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ2JJVjVUQXAzcmZmaUE0aUtESFM2QUl6cXNncEFRRk1pRHVTNjR5OUpWazVVY0xSRXlXbUhWeW83Y3dFNjJRS21ZeHFNdlRkbUZSSFpRU1FGQ0J2V3dfTTdDQUsycV9rRk1kbTg4YXYyUGotcmN3dkl4aXdkWUoyX0dOUlg5RTBzaWRNREZZaThNUnNJN1dJWEFn?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-10-22T17:37:28+00:00"
+       "date": "2026-10-20T17:48:37+00:00"
       }
      ]
     },
@@ -386,16 +386,16 @@
      },
      "news": [
       {
-       "title": "Guanajuato Silver Company Q3 Silver Equivalent Production Jumps 49% Year over Year",
-       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZWs1VVlDcWxlWWtUaWUxZGpxTWVyTFJ1Qm1OQTJfRGljV2hIUl9wUU1RNFllc1hEbFNGM1M4dk4wLUhwRkVOenlBdTloSFNISHpKSG84eVNvSi03QTBMOXdaQUVRMVk1c2cyWG9uWGoyN2V0WXlrTkQ3dGJZV0hMUmpqV1VzdFp0dE1FU2NNS0xuVG0tZHJSNkdEOFNmWF8xQ0NDR1VYbEQ?oc=5",
+       "title": "Guanajuato Silver Provides Q3 2026 Production Results",
+       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZmtzOFpsUmx4SkdneVZtTDd4cUtGaVlIalhlMjl4UDRJTE11bnd5bWZDXzl5MUpFZjNRaWlWcHVnV0hRQjNVbGZLWmZHcGVjMVFDblRDXzlFMUpkYlpHUTZYNzhIWTNaajE5TXotWnZ6X1Q0ZzJ3YUhGTUloM0YyQVFHQ19YaGUtNm5fb3Q5eFRRTUtpTlVJM0dxTmo1bmpXcVFtVlB5SQ?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-10-16T07:00:00+00:00"
       },
       {
-       "title": "Zacatecas Silver options Lourdes Gold-Silver Project, Mexico",
-       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeUhfOFNiSTF1aTBZbWs2Tzc3U2xveGpKN1BrNzQtT0hsNUJsdk56el9hUW0tMlZtTHh6ZV96aVRuRDBRZVZLUGFOazZUcHZyWVZGTVpxS18yLXlLNjVHZEMweDJGbl9yYXR0TG00aDBXdHBEc0p3eTRUbGwxazRjd1UyM2FCMjh0N3lGOTFTdw?oc=5",
-       "source": "Resource World Magazine",
-       "date": "2026-10-12T12:50:17+00:00"
+       "title": "Guanajuato Silver Company Q3 Silver Equivalent Production Jumps 49% Year over Year",
+       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZWs1VVlDcWxlWWtUaWUxZGpxTWVyTFJ1Qm1OQTJfRGljV2hIUl9wUU1RNFllc1hEbFNGM1M4dk4wLUhwRkVOenlBdTloSFNISHpKSG84eVNvSi03QTBMOXdaQUVRMVk1c2cyWG9uWGoyN2V0WXlrTkQ3dGJZV0hMUmpqV1VzdFp0dE1FU2NNS0xuVG0tZHJSNkdEOFNmWF8xQ0NDR1VYbEQ?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-16T07:00:00+00:00"
       }
      ]
     },
@@ -506,9 +506,9 @@
      "symbol": "GC=F",
      "name": "Gold (USD/oz)",
      "quote": {
-      "price": 4008.60009765625,
+      "price": 4001.0,
       "prev": 4007.89990234375,
-      "chg": 0.01747037924002548,
+      "chg": -0.17215755163234592,
       "currency": "USD",
       "asof": "2026-10-25T00:00:00-04:00"
      },
@@ -530,9 +530,9 @@
      "symbol": "USDNOK=X",
      "name": "USD/NOK",
      "quote": {
-      "price": 9.319950103759766,
+      "price": 9.314749717712402,
       "prev": 9.325400352478027,
-      "chg": -0.058445198192624837,
+      "chg": -0.1142110189703005,
       "currency": "NOK",
       "asof": "2026-10-26T00:00:00+00:00"
      },
@@ -712,10 +712,10 @@
        "date": "2026-10-23T14:25:00+00:00"
       },
       {
-       "title": "Tesla's Automotive Revenue Fell 3%, and Energy Generation and Storage Tumbled 16%. Should Investors Still View Tesla as a Car Company?",
-       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNWJVN1QzbWR3NE8yYUNYRFUzU19QeGlkcGRIUThnemQzYThnZ0FaQTlYa3JKc1E0eFNNRzlsTzhPcjNRTWRhakxWQ2xzUE5XM2s0V0tmY05lY2t6SUliUkpibFh1UG5EYlRIODhaa2Q2Z2FORWNuQzdBUkd3cWhvN0luRVM5ZUxaWE9ENy1KV1Nhb1B0T2w4SVlOQ3BNdw?oc=5",
+       "title": "Why Tesla's $5 billion capex cut isn't the warning sign AI stock bears think it is",
+       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxONjl0cjNyQ3dEYTljZXliX0I1WXk5RjhsdjFZUlhiZW5zZlZCOW1uUFV5d0FBN3E1QWFuTUNJVzFyZEg5MEFyOVJrTENfTmhKZUNQUUR2S3NpNEVDX2UybjBxU2JMNEJZd0kzTDlaR2FVYUFqelQ4TzV4dGNvZDVkczBGdGFvbUp4QjBYWnRZZGgta0EyYmRKWXhRZVdmRHREOS1RS21YNUZZN1RzZ1UtTlVaQUdjUUdaU2ZOZHhRc3l2c3VxUVp1Zlp2QlNnYW80all6NWNOakt0Zw?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-10-23T07:05:00+00:00"
+       "date": "2026-10-23T12:40:21+00:00"
       }
      ]
     }
@@ -755,22 +755,10 @@
    "date": "2026-10-24T12:30:00+00:00"
   },
   {
-   "title": "Warren Buffett Has 1 Piece of Advice for Investors Worried About a Crash, and History Proves It Works",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZGgzQThmTHBqZmtNZjBmOGIwak56aVJDSHpBWWwyTkZQeWFERXhsRHpwb3NPaVVTcmZkcG5Tbm44Q3RDTWY4c3ZodDNSbDdXVFdoclpLU1ZIOEZ0Yjl2RFFvV2JUcV9CaS1TeG1VUGNtMHFRLVViVUVfMEsydHBSU0hGTFI0UHhpZFRYR25QMFZlTkJqZTNveFVR?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-10-24T09:04:01+00:00"
-  },
-  {
    "title": "What next for France as riots rattle markets? Three questions facing investors ahead of more protests",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42SU5XYVUwMmU4cUtKdGZNOEdZRk1wRVFUYkNPNE1xTFRUWEJlN0dSMnBPQUN3NGpZZ1R3Z1lSeVBpRkRMSlpqZV9oSmRIVFhVS1FPRXVPUkc5Y3NGOUJDdFc5ZEtfTnZUTXFOMWlnTWtIekg4V2w1a2RVVGZqSG_SAYQBQVVfeXFMTmRjYS1LU0J1RjR0cnZTQU9DcFhFV3pyM2JVSXhpazhLdDh2aWdfaXBjRW9VajdGbXA0bm5HZ2RqczJ5MTg1NVpOZ2VTUURuNVlJUHU5WlM5TUp6WDNBZGtEeWNORTIxa0JmNXdfRlJOMmNpT3o5ek5RYmVSU2M2YWZYWHgy?oc=5",
    "source": "CNBC",
    "date": "2026-10-24T05:00:01+00:00"
-  },
-  {
-   "title": "Bloom Energy Stock Sinks Despite Record Revenue and a Stellar Outlook. Is It Time to Buy?",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNX3Nua3N2MUczbDBUaldoMWNYak9rQ19nSURsamdZTHRGQ2hUZGl1cEJUcWY1cl96NXRfcFY0MHkwSnE4UFpMczUzcnMycnVZVXFpSHktckZHR1Jzb3pCekpPamRqVC1QYmVnWlIxMnBPSnVndFVheXN2ZF9IWjlUUEctX0dpc0FTWnl0UGpremFlTHZmQVlYemR2T2hpVDg3OG85N3lFbWhPQWVUUkFDWHdmNVZkbFVoZV9IcEZuT2R6LTY3TEd5b21B?oc=5",
-   "source": "The Motley Fool",
-   "date": "2026-10-23T18:43:00+00:00"
   },
   {
    "title": "The Cracks Are Spreading: The Recession Trade Is On (NASDAQ:TLT)",
@@ -795,6 +783,18 @@
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbmFtLVhrQ2owM2JvMExQcFEwX2lENzIxSkVpaEFmNDNYNlRTWHo5TTJ2a3lqdTRZOHZmRnd2eGVtOFBuQ1BER0ZtNjItRmxEeVFGbm5kSlpnMjNPYmlIWlhyRmlKMFNseXQ2YjFFbE1qdjlDOGJTUF9CZXFoekhCX2xLTXltZzZiUUF0dUJXcnk0ckgxNmJtUnFXTzdhTko3c2R3WWxzTlpjNXVM?oc=5",
    "source": "CNBC",
    "date": "2026-10-23T04:25:00+00:00"
+  },
+  {
+   "title": "The Stock Market Sounds an Alarm for the First Time in Nearly 27 Years. Here Is What History Says the S&P 500 Will Do Next.",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMkUyMVRhLXlTVkVnYi0xRC04MHRhWG9qa1Y1MHppMHZGZ081bzJkNjdBUWUxUDlMblB1UTNrdTl0LVRhdjIxQ2NVTWJ3TDU0a3V6U1U2V3NSYXdCWlppMlYtellKaDhTbW1qYzM4Y1NSanhiNzVwMWhkS1V6d21nalppaFdqRExrS1dmb2NGVURGelo2RjJiaXB2dGo?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-10-22T19:20:00+00:00"
+  },
+  {
+   "title": "AI bust could trigger 30% S&P 500 plunge, $20T wipeout - TS Lombard (SPY:NYSEARCA)",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTnZLOHJwa0I4ODM2TFpCVDJZNXEybjU2VDB2T2Fsd1FCX3lWb0RGZ04ybmZLeXVlLVJMYXF2aWw2WFBXcEcxZEtJaFUxUzAxRlcxSlptR1libllJRkZES25hdlRsUDVZdk54RmsySVZVWG1MOHBqWWdqMkltV1A4UjBneDVpVGtXYnRhVmEyX1lTRkNaSDhRdlhQOGRJdkdXN1o0?oc=5",
+   "source": "Seeking Alpha",
+   "date": "2026-10-22T17:04:25+00:00"
   }
  ]
 }
