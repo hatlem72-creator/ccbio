@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-26T05:16:24.522638+00:00",
- "usdnok": 9.31974983215332,
+ "updated": "2026-10-26T05:56:51.843750+00:00",
+ "usdnok": 9.325149536132812,
  "btc": {
-  "price": 80000.1875,
+  "price": 80083.7734375,
   "prev": 80790.8359375,
-  "chg": -0.9786362875507937,
+  "chg": -0.8751766110539849,
   "currency": "USD",
   "asof": "2026-10-26T00:00:00+00:00"
  },
  "silver": {
-  "price": 54.36000061035156,
+  "price": 54.209999084472656,
   "prev": 53.71099853515625,
-  "chg": 1.2083224905426349,
+  "chg": 0.9290472397190497,
   "currency": "USD",
   "asof": "2026-10-26T00:00:00-04:00"
  },
@@ -32,16 +32,16 @@
      },
      "news": [
       {
+       "title": "KONGSBERG to deliver Remote Weapon Systems to Poland",
+       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVndWMmZYUUZ3WUl4V29xdXFiam9tSmtTWExBVXFVXzc1MTdwR1JrVTU4MVd5aTduWk8xZGRlVXctNE56cl9GMFktS3g4eGwtcXBsVHdSWXlmam10R0QtMm1IWmxWVFU3a0xGRTczUkZpOHZLRWpLOUVTRmg1QVl0TUdXa0o4OGNQWDZ5ZV9SLXNBU2l0ZXdHOGJR?oc=5",
+       "source": "ASDNews",
+       "date": "2026-10-22T07:07:08+00:00"
+      },
+      {
        "title": "KONGSBERG Wins 10-Year Vessel Traffic Service Contract At Port Hedland",
        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYkltQnNOWTJ2dXFMQmlTeU11Zy12RW51aHRLZ0Y5QmpPSTRpTVRJNmlMdjNmRjlXY0txV1B2TDhpT0VsM1N5TDlVaDFQZks3cXV0Sml4aWszTEFKbnlhQk9GMzRnRHBvZ3lHNGpnN3hxV1pucVVveXlrZG1SNjNnNnBXUVhQRUhjaUpKOTlsREh2R3dSSjEwUmVnaXFCS2NlQnFtNlk5bWZFNzk4VG11UXVPZDFBTEs5?oc=5",
        "source": "Ocean News & Technology",
        "date": "2026-10-21T13:38:48+00:00"
-      },
-      {
-       "title": "Kongsberg Gruppen Secures Contract With Pilbara Ports In Australia",
-       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSE1UY2RpQlZNOWd6UlZ3S3lwdVJ5ZnlDcF9aNVdnOEpxbGVRb3ZndkNaZ0wxczA3UTBCMHB4OHF2NUJlT2tabm8zcG5JUGZrXzRwc2FUN05zZC00TFNranlfUXFNcUN6d2tyTldaY3Q2QnI0S21DRnJJVTZPajZmX2dzWkRPQlhHc3JOT2xOWFVVVDVYdzFuVW9xaHhVUlFGN2hUX2NCRG9SWjlPMnFuWlhja0V0LVh6VVNybTI2RnVEYjBZeU55ZEkzLVBXNG05dmc?oc=5",
-       "source": "TradingView",
-       "date": "2026-10-21T10:10:06+00:00"
       },
       {
        "title": "Kongsberg signs NOK 400 million order as Nordea targets Kongsberg stock at NOK 400",
@@ -112,18 +112,6 @@
      },
      "news": [
       {
-       "title": "Looking for a Hedge? These 2 Gold ETFs Offer Very Different Ways to Invest",
-       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaGlfQlNuaUlEZVhxOG1sRWhlN2VndjQyNko5SFAxU2FnQ1VtVjRqcmpjNUdXak9ON3N5MVhJMGlfaEVkQncyS0YyS0VWRWNhclU1X2x3VDAwMlA2VmtPeHR6TnZ1OGRzWmxYdWt4cVozTUZBUXZuNHk5NkRsVFZaRmhqMmRNN2JkSzNsRUE4bTBsbU1IanA5QVJVVDgwb0NMRmltV2VVUlkxUXFyZjhzdzg0ckpiUmJBbW9ZTg?oc=5",
-       "source": "The Motley Fool",
-       "date": "2026-10-23T10:30:00+00:00"
-      },
-      {
-       "title": "Price performance",
-       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lZ2Q1OWk4Vl9UcmlWTDBsVzZIWkdZdi1idVpwN2NiZWRoZVNlN3JvdlJ0ZlJyMG5BS2tqX0FVQ3Z3dWFFYzBXQ29PZlgwNWNqVG5ENk9BcHA?oc=5",
-       "source": "Yahoo Finance Australia",
-       "date": "2026-10-20T18:13:59+00:00"
-      },
-      {
        "title": "Form 4 VanEck Gold Miners ETF For: 18 October By Investing.com",
        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc2xwV2VMMWN1RmM2TmhRNFpwajhQaTlZTHg3UkxxWDJWU0V6cjJ0MjQzaWlFcC0ySmtkUm9xck9RcURXVURhM0FCZGdSWmlVbDl5T3BlUDVzRE83R1ZHMWlUQ1ZYNktCSmFfdEVSNjFvdDhieWY0WXBmbnllWkpiNGlyeXVVYzRZUXM1SUI4RnRDUHllX3RENmdYV3J4NWltQzlqOE5ZZFE?oc=5",
        "source": "Investing.com India",
@@ -134,6 +122,18 @@
        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVC1nWXNrZXc5N2xqdnZ5MzdueXd4T3h5OUVKcXE3Zl9vaU52clZabGloNjc5cF94eUJ3TGhzMER5WEJ6THllQm1wTnVpbzhLOExieDg4Q2Qyb0RYcTR4dFJfMU5VRmZMd1NoWFZuUjBiTU4zc1l3RU5WaVJQZmF4bmttOXlmWWRjVjBxcXNtUjVUQWZKODVuc29oaw?oc=5",
        "source": "The Motley Fool",
        "date": "2026-10-14T07:00:00+00:00"
+      },
+      {
+       "title": "GDX Vs. SGDM Is A Draw, Gold Miners Are A Buy (NYSEARCA:GDX)",
+       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd0pJYktfcjZ0Z3gwNjBJeV9aTE5ESjczNXU5S1Ftanltdm9RY2dVbkdHbEtvSWpEdEVNWXFtaXlaU0V4UVNneEt4UGYxYmQxa1IxMmwxcndGM19zOXh6NTFqQ1ZoTzdEMHBUOS1FTUJCMmdUQ1ZYQlJwTlRkWGJtN3VBN0xtc2ZTZjJZVw?oc=5",
+       "source": "Seeking Alpha",
+       "date": "2026-10-11T07:00:00+00:00"
+      },
+      {
+       "title": "Which Precious Metals ETF Is the Better Buy: abrdn\u2019s Silver SIVR or VanEck\u2019s Gold Miners GDX?",
+       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNEFjU3hkT3hGM2hNcWtZaXNhV3g4N3B3QzY4WjVuMHVnckZGcHZqa0h1dzJjbVpta1AzWGp0Mmdva2ozWTdjV2xjX0w3X0pGd3FNajhiMklyUWEwbXl4cHAtUDBaNUlncFVvaElrN21QS0ZhMDF4d2VWek1LVGFFRWFBQ1h5MVE1SlUxV3ZlVlY0bWc1ck1DaTYtTlBlbHpEb09hcm5oa3ZMYm12Q1dsem4tV1RzTjFwX2xEdU5mYUxDNGFfS0dQWWNGNUNVN3hSSERUSw?oc=5",
+       "source": "The Motley Fool",
+       "date": "2026-10-11T07:00:00+00:00"
       }
      ]
     },
@@ -336,16 +336,16 @@
      },
      "news": [
       {
+       "title": "Defiance Silver Corp. (D4E.F) Stock Price, News, Quote & History",
+       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4yOTJ0a0t0bEgzbWZ0aExVVjBya2VLOVpFZXRzMVB3RWlMLXAzeml1U2lJVktwSV9DMzNUekdvU1V2WEc2OGkzZ3FnQ25KRkF2bjVtVDJ1X1hpR0JqVnRySGktMA?oc=5",
+       "source": "Yahoo! Finance Canada",
+       "date": "2026-10-19T19:16:56+00:00"
+      },
+      {
        "title": "Defiance Silver Corp (D4E.DU) Latest Press Releases & Corporate News - Yahoo Finance",
        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UODNIWWJMMzhNME11OGhlS1RUdU5OWXA4UmVtNkgtYTVpSjVBejJSR1RoTTdHODd4SUNtQ01uOGllWlhKZ3paaGNjajFQdTk4aFpDNHBCb1JlbmQtZ0lFQXQwTHFmNy15?oc=5",
        "source": "Yahoo! Finance Canada",
        "date": "2026-10-04T10:28:46+00:00"
-      },
-      {
-       "title": "Defiance Silver raises C$3.27M in private placement",
-       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVThvVEk3MTRTQUk4eW0xVlhJdEl3aGtpUnRraWhHb0pnNGRKXzlZS0FEZUYzbU9zWW11Ujg1a1FFaG9DU2dhcEJVZS1hV0xYUWFNNk5TMWpGckFzRFJuYVpiZmlVQ0F4Z2lBNkpINExnb2dqWW52ZGxQeFQ1bUVEdTk4WWRmRUhWYU9oUGJ3?oc=5",
-       "source": "Dealroom",
-       "date": "2026-08-19T05:04:28+00:00"
       }
      ]
     },
@@ -392,10 +392,10 @@
        "date": "2026-10-16T07:00:00+00:00"
       },
       {
-       "title": "Zacatecas Silver options Lourdes Gold-Silver Project, Mexico",
-       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeUhfOFNiSTF1aTBZbWs2Tzc3U2xveGpKN1BrNzQtT0hsNUJsdk56el9hUW0tMlZtTHh6ZV96aVRuRDBRZVZLUGFOazZUcHZyWVZGTVpxS18yLXlLNjVHZEMweDJGbl9yYXR0TG00aDBXdHBEc0p3eTRUbGwxazRjd1UyM2FCMjh0N3lGOTFTdw?oc=5",
-       "source": "Resource World Magazine",
-       "date": "2026-10-12T12:50:17+00:00"
+       "title": "Guanajuato Silver completes tunnel linking San Ignacio and Bolanitos mines",
+       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVkF4bWF3SkhJVEV1a3ZpZkM3aVJvWDVfc1lTelhmYkJOVjZkQ25ndVdPRS15eWFvSmwybEhsSzZjcTBYMF96WGtHYUVSX0dadFlZUmtNNXBBeW14ZVFjMGMwR3lMcHU4ajk0c05IbVZWU2pKMHZwZ3dadlp0THJyWFFJVjJCclFjcEpyNk5uWDA?oc=5",
+       "source": "Mining Technology",
+       "date": "2026-10-09T07:00:00+00:00"
       }
      ]
     },
@@ -506,9 +506,9 @@
      "symbol": "GC=F",
      "name": "Gold (USD/oz)",
      "quote": {
-      "price": 4030.89990234375,
+      "price": 4024.0,
       "prev": 4007.89990234375,
-      "chg": 0.5738666274212489,
+      "chg": 0.4017090757889141,
       "currency": "USD",
       "asof": "2026-10-26T00:00:00-04:00"
      },
@@ -530,9 +530,9 @@
      "symbol": "USDNOK=X",
      "name": "USD/NOK",
      "quote": {
-      "price": 9.31974983215332,
+      "price": 9.325149536132812,
       "prev": 9.325400352478027,
-      "chg": -0.06059279077713642,
+      "chg": -0.002689604046313132,
       "currency": "NOK",
       "asof": "2026-10-26T00:00:00+00:00"
      },
@@ -725,22 +725,16 @@
  "failed": [],
  "general_news": [
   {
-   "title": "The Stock Market May Be About To Break As The Earnings Trade Unwinds",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQTRPYzhyZVZvZ1dLTUxybFVrZ0lfRTc1WS0yV1BvY2RQZGJwT0tGUjhTV2tWQUczaFBBWFR3VFNFYXE0YmE4RWNLcUJrUVNpZWZkZUhaZjNqaXZHQ1dENC1rcG9TVjdmQ2lEVmhoS0FTR29VUlFzNERwcTl5eGc0b1dFSExTeWctbEZQaUFuNWEtX2J5Qm5UUzV6NTNoNS1SRjVr?oc=5",
-   "source": "Seeking Alpha",
-   "date": "2026-10-25T13:55:15+00:00"
+   "title": "Borr Drilling Limited - Prospector 5 Rig Incident",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcXJ0ek55bjZHamtJOHpSNlE2Z05WS0NaeFFqUWtNYTNRdXhUUnJUTS1LNEkySk81eXF6MEkzY3RzRFRaT012WXB4RkdkZ3MtVVVhRnZnanVBTDM1YXhhSHZZS29aMUItREdmLXlGQTNPbGlPT2Q5WnQ3N2pyUERVVFRiSTM5VnNmXzJEaVMyRWJHRGJLVnc?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-10-25T10:22:00+00:00"
   },
   {
-   "title": "Bloom Energy Raised Its 2026 Forecast for the Third Time. Is the Stock a Buy More Than a Third Below Its Record?",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQM0xkcWNLUDN5M3E1bzg4UkhBOW1PdXV0N1hQNXFpZTR4SVUtcHN6dWp0RGdoZ2FXMmtLTUptQS14dVkzZ0QzQ2JKVWtPUUxHNDNIWVhqQm5GYkFKbWk4eHRJUWV6UWczUENNbzI4ZFpzTFlXZnZnWmd6dXZ5NVpxbEY4LTZIUy03dEdxU3ZLX1FnNmVYZ0pMem9hRFlXa29DMlRyQUEzSmQ3UHM2Y0VVclpfYWcyMmZGWjJCWDJ3bkx2V0JQZ0FwcnVpVXU3X2hIN2NyUmZkQ2dhWVJVUkxZWUxiMmI0d2Ru?oc=5",
-   "source": "The Motley Fool",
-   "date": "2026-10-24T18:19:00+00:00"
-  },
-  {
-   "title": "The Puzzle Pieces for a Stock Market Crash Are Taking Shape, With 4 Historically Flawless Indicators Now Sounding the Alarm",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQanNLcGtIdW5GOHBLcmd2eUxuamNEV1E4aWJ6Vlp1MjJEdll2NF8ySXZwQ1VsdDhLVkhKZkhtZUQ2ZE9lN1Nvbk4xRHdBcnNoYXd6cWZiMFV2TmhWbDlZRFhuOHZFeWRsWHRTanY3QU9VRWRVQTlVSm5aRjI0OXVGMzRnNDNOamYtVWoxeDdBUHl0aGpISlVMa1pFRGhvMHRic004Wl82c0t2S0xJU2dwcnJzeUVMUXloNmRwSjZDVGVPRzlWZ2NCd1pRQjB2dlljb2U4LU5R?oc=5",
-   "source": "The Motley Fool",
-   "date": "2026-10-24T14:06:00+00:00"
+   "title": "Why Peter Schiff says a stock market crash could happen before 2026 midterm elections",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ0Ftajh0VEZWbXpMV2ZCNmZCSHU4QXNNMWJkX1RLTmFLalM3X3g4OUNSQXU1LWY3YzV3WHpFQnFCS2J1dU53TDh0Nk9lLTRGT3pGdi1tYU5oaC1BSE9UTVFaa3NDOVNtUE5uQTZHd3ktVkZkckdveGkyMEdNSkJ1b1U1eG10ak8zc0ZscmZtR2doUHp3RmZZ?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-10-24T13:30:00+00:00"
   },
   {
    "title": "Warren Buffett Has 1 Piece of Advice for Investors Worried About a Crash, and History Proves It Works",
@@ -755,22 +749,16 @@
    "date": "2026-10-24T05:00:01+00:00"
   },
   {
-   "title": "Gold and silver ALERT: Recession risks and what comes next?",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUS1WTktxSVY0Zl9rMnFjQ0JVTzdHUFloRVh1Y1Z4cFpBMEFNNklUc1NVZndEeGsxQm1ORk91YUZjRHJCVmlIWXBVU2dhWEk5QTlSYTJOVE1jcHN6V0tFRWY5VHVFcEVTNE12TzQxcldHbW1zNkhONTdvWmh1QUtlMGdMM0V2czBXbEJUbFdOUk9nS1M1eWp5VktJV2EycWs?oc=5",
-   "source": "Kitco",
-   "date": "2026-10-23T20:49:19+00:00"
-  },
-  {
    "title": "Allegion (ALLE) Stock Could Be 18% Overvalued After Raised Outlook",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNM3ZUcFlHNFFjUE40MUh1VV9HZGN2MUZDbUE4QUR2aTVwMDRWS3JqNXZCQUtjQ1FGd3RYd3hMZzBmY3dzenlPT3lRT1JYOHljZWFCdWNGSTNVYnRJdENrcTRaZUZxN2NPeXhxMWFGRmFrd2c3bEF3NjlUNFhuWmhiUXphdFp6czFhd0dhbkZYQ0VhdTJhTDg1eQ?oc=5",
    "source": "Yahoo Finance",
    "date": "2026-10-23T20:16:55+00:00"
   },
   {
-   "title": "Bloom Energy Stock Sinks Despite Record Revenue and a Stellar Outlook. Is It Time to Buy?",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNX3Nua3N2MUczbDBUaldoMWNYak9rQ19nSURsamdZTHRGQ2hUZGl1cEJUcWY1cl96NXRfcFY0MHkwSnE4UFpMczUzcnMycnVZVXFpSHktckZHR1Jzb3pCekpPamRqVC1QYmVnWlIxMnBPSnVndFVheXN2ZF9IWjlUUEctX0dpc0FTWnl0UGpremFlTHZmQVlYemR2T2hpVDg3OG85N3lFbWhPQWVUUkFDWHdmNVZkbFVoZV9IcEZuT2R6LTY3TEd5b21B?oc=5",
-   "source": "The Motley Fool",
-   "date": "2026-10-23T18:43:00+00:00"
+   "title": "The Cracks Are Spreading: The Recession Trade Is On (NASDAQ:TLT)",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdUVteUtobGEzcUY1dDdia3BXazJoYjV5clBvWHdTT2lqV1BLY0U5Qkp1bE0yYnhTRVhvVVRWd0tOYVpsTVBVeHBHeGFPMEQtV2JLZzF0cFg1VXBQV204TUVGV3RTSzFHWWVBS2FYM1ZNTk5UbXRZdVRMMGVnWTd1akpIMnlPcmVRd184V0cxbGFKRFlzRWc?oc=5",
+   "source": "Seeking Alpha",
+   "date": "2026-10-23T17:25:23+00:00"
   },
   {
    "title": "'A cyclical downturn is inevitable' in an AI crash: Strategist Dario Perkins",
@@ -795,6 +783,18 @@
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMkUyMVRhLXlTVkVnYi0xRC04MHRhWG9qa1Y1MHppMHZGZ081bzJkNjdBUWUxUDlMblB1UTNrdTl0LVRhdjIxQ2NVTWJ3TDU0a3V6U1U2V3NSYXdCWlppMlYtellKaDhTbW1qYzM4Y1NSanhiNzVwMWhkS1V6d21nalppaFdqRExrS1dmb2NGVURGelo2RjJiaXB2dGo?oc=5",
    "source": "Yahoo Finance",
    "date": "2026-10-22T19:20:00+00:00"
+  },
+  {
+   "title": "Gulf Keystone and ShaMaran agree to $601m all-share merger",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYjlUWU5FNjgxMTVfVFZJaWpYeHRZODBnMEpDX0IyUVpUZHQyV0IzbEYwc09Wd2tCMlNKNmp2SzRKbVd1S1l2T3dGbFRpQlRjRTJYSERoc0d3VTl5UUZrWktBNW9RRXdQUEJ5S3ZHLURKR0dwSXZiNUo2c2dhczBpTU9hWDFUUQ?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-10-21T09:13:30+00:00"
+  },
+  {
+   "title": "Gulf Keystone Announces $601 Million All-Share Merger With ShaMaran Petroleum",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMF9VMXA1akJZNkNzRG52Q1ZJT0t5RHQ3eGZHZUg1R3VmczhlNTl2UVJ3b1VkcmhWTXlJMWR2UmQ1MXIwVzlSYXNfV1hPS1Axd25QLXJMTnlReHdSMVBGQnRkR1V2R1p2Tm5peW03ZG1ldHlWSVpvc3VIaWE3aHM1eDh3eWZLZUY0MThZWQ?oc=5",
+   "source": "Yahoo Finance UK",
+   "date": "2026-10-20T09:11:08+00:00"
   }
  ]
 }
