@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-26T21:12:07.429452+00:00",
- "usdnok": 9.31035041809082,
+ "updated": "2026-10-26T21:53:31.354745+00:00",
+ "usdnok": 9.302720069885254,
  "btc": {
-  "price": 79841.140625,
+  "price": 79993.5390625,
   "prev": 80024.0078125,
-  "chg": -0.22851540743681342,
+  "chg": -0.038074511428354274,
   "currency": "USD",
   "asof": "2026-10-26T00:00:00+00:00"
  },
@@ -32,28 +32,28 @@
      },
      "news": [
       {
+       "title": "KONGSBERG Wins 10-Year Vessel Traffic Service Contract At Port Hedland",
+       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYkltQnNOWTJ2dXFMQmlTeU11Zy12RW51aHRLZ0Y5QmpPSTRpTVRJNmlMdjNmRjlXY0txV1B2TDhpT0VsM1N5TDlVaDFQZks3cXV0Sml4aWszTEFKbnlhQk9GMzRnRHBvZ3lHNGpnN3hxV1pucVVveXlrZG1SNjNnNnBXUVhQRUhjaUpKOTlsREh2R3dSSjEwUmVnaXFCS2NlQnFtNlk5bWZFNzk4VG11UXVPZDFBTEs5?oc=5",
+       "source": "Ocean News & Technology",
+       "date": "2026-10-21T13:38:48+00:00"
+      },
+      {
+       "title": "Kongsberg Gruppen Secures Contract With Pilbara Ports In Australia",
+       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSE1UY2RpQlZNOWd6UlZ3S3lwdVJ5ZnlDcF9aNVdnOEpxbGVRb3ZndkNaZ0wxczA3UTBCMHB4OHF2NUJlT2tabm8zcG5JUGZrXzRwc2FUN05zZC00TFNranlfUXFNcUN6d2tyTldaY3Q2QnI0S21DRnJJVTZPajZmX2dzWkRPQlhHc3JOT2xOWFVVVDVYdzFuVW9xaHhVUlFGN2hUX2NCRG9SWjlPMnFuWlhja0V0LVh6VVNybTI2RnVEYjBZeU55ZEkzLVBXNG05dmc?oc=5",
+       "source": "TradingView",
+       "date": "2026-10-21T10:10:06+00:00"
+      },
+      {
        "title": "Kongsberg signs NOK 400 million order as Nordea targets Kongsberg stock at NOK 400",
        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeURKMl83dmdGVzBweURYX1VyNjBPX2hMQTY4ZTVxTDVxUzNLZjhBMVlRbWMtZC1HWmhCU2FSSE1zZl80aTlwdUdFQ3FscXZ3YmJ2NElaMlZ2RllJeGdsMDdFYzBVMUo5d3prMGtsaV9PRm5pdnZJdUF1aG5lUFdSWExpNG91UXdFZjc4RGlPdE8zdExBTXp2U2M0WmRjOE5rSG93dkVrdFA1Yi1VQ3l2RDBaUXN5TnVEZ3otdFE5ZTlUeU1Ub3Y4bTlBZ21oT3lrNTJiRG1CclE?oc=5",
        "source": "ad-hoc-news.de",
        "date": "2026-10-20T11:56:07+00:00"
       },
       {
-       "title": "Kongsberg Gruppen (OB:KOG) Stock Forecast & Analyst Predictions",
-       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPczBYT2c3eDhYYUZhdlFkZUR1VUpZeEs4U2lGZTIzaWFLdFYtb29YRHgzVlQyT3lYQ3Itd1gxdzFsaVUtMHFwYWtZRXRISVZaeWdoc0VsT05lVG9FNjEtNkp4djR2cGdTbEJsSjNrclJfUXJQeld1enBQY3RUaFA1bU5ndmpUMlNCaUR4RA?oc=5",
-       "source": "Simply Wall Street",
-       "date": "2026-10-19T07:00:00+00:00"
-      },
-      {
-       "title": "BofA Sees Q3 Order Beat, 'Demanding' Margin Expectations for Kongsberg Gruppen",
-       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdXRIWU9SQVo2WlVPVHBvWFpkY25uWjRqTEpOVzdwdGJiNmpubnh1VWNDR3FNVnRzM0RiRlk2Y3RzcHhqeUFmYmZFNUE5aFV4UmhDelhmUUJUV1VyZW9kNXBHTTNzYnEwYUFmUXQxSFBpQ1lMOXB5UGNpM2Z3YVNiME1vV29yVzYtZ3I3ZHNzcmNtMkFONFlCU1hpZm55Zms1ZDVHbTNENnJ2Sk90ZWIwMzFBNTFCMENhTGZvX2FmQmp0LUtpXzBv?oc=5",
-       "source": "www.marketscreener.com",
-       "date": "2026-10-19T06:55:28+00:00"
-      },
-      {
-       "title": "Kongsberg plans EUR 45 million plant: NOK 277.3 billion values Kongsberg stock",
-       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcmZORnhqUDd3WkxTRWt4NnJQX2RDUHpuSHp2UjFSMTlvdkZWd1QxZUJaTDVKSDd4TjVLcUx2WXM0UGpHUVVLVnRZaGpwZHNSaEdPRnM2b05FMmFHTDJOMEp4blRsM3NwVjVxQUhzNERZeGtQOVBadVFMcEtOUXB1VzVSUjNRQnFOUmhPUWVleXV0akhpNi1PYmUwaWFMN1dNcFFxTXcwbkh6dUV1ZW9Cby1RZUpfRF9HQ29NWWdoSzNoZDZBYVNld0RTREs3M0hBMVE?oc=5",
-       "source": "AD HOC NEWS",
-       "date": "2026-10-18T11:51:21+00:00"
+       "title": "Denmark orders more Kongsberg Naval Strike Missiles for coastal defence",
+       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM052NnNWYnFlTW9nQ0JlLW52VGVfRlNic3NWcGdiVTlkR3gxUm9HdjZpQUJlUmR1Tllkcm14bF9ZWDRJckE0WVdZUnlaNFhncGtJelh2eHdERUtjbmlCbklPMzF3eElLZGNmMy1yeHB3LWlJRmM3Y2pBYXNfbjFRWUo4a0E4Nkg2ZklxaHlJa29BOU8wZ1dnZ0J6X0ttc2dYQkp0YTNOTlU?oc=5",
+       "source": "Dealroom",
+       "date": "2026-10-19T07:48:39+00:00"
       }
      ]
     },
@@ -242,10 +242,10 @@
        "date": "2026-10-16T07:00:00+00:00"
       },
       {
-       "title": "Why Did Hycroft Mining Holding (HYMC) Move Today?",
-       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUVlwcWxpQmlBSGJQUW5rVkstNzhBd2M1TUpFMTdWUEttYTUwTFRmNURtbVlhbURPZC1MODdQU1RfdWhEbzBGZ0tCOW1zUVpIT2lxWVdlU1BFX1FkaC10dkhLbWNLdERQNEF5Ymk3MEhSWDlqNW5FdDYyMFd4NS1OYUJmWWtsaGpVRWxWSVgtMXBSb3gyQmpubWljQ3dfY3dFUHNZaUpIYmpyRE9QRVZNMjhkOU1kTUEyLUVMOXQyZ3IycVdCUFhr0gHMAUFVX3lxTFA5bERkUmhZMFpEZTl5YmRDUnJ1NmFVUXB5NGpoaWVlWnBiZmFWOWlmZlYtY1FubVBKRjZTWFRNQzZJUzUyaVRmODlzTnhFLWY0RGV0OUZCUExHNnpiMmtDWFBobS1sd3hFc0JBT3AyV2dHaTJ0T2VhUlZzOXBUY294aWZiWTNnWXNYNTF2bVBKMng3ZXlUUkRtaU11clVzVFJ1MmtUdnlVUmVNVWFuRnhpd0dsZkFFQmxmVWlBd0RMeGlScXZxYnpmRzVFVg?oc=5",
-       "source": "Simply Wall Street",
-       "date": "2026-10-15T23:12:20+00:00"
+       "title": "Hycroft Mining Holding (HYMC) Hits Record Drill Results On Questions Over Whether Value Is Already Priced In",
+       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRm8xbUV6TGk2eW1CU2J5VnlkTmxicFUzeHk5eU81eUlrN21ROUhVOVVOcUplM1pMdUdBazBiSDF4R1JMeTNBRnBtQ3laM1R1cWNwRHlQU0NWZjEtN2l6X2xvTGdXcmhYajFXbXBjWkZSdnRSWXp6LTB5TFVPT3BPVlc1OHlKR08zUDhBUDlMamNncE9UdXNDZGRjSGxRUQ?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-14T07:00:00+00:00"
       }
      ]
     },
@@ -267,10 +267,10 @@
        "date": "2026-10-26T14:29:17+00:00"
       },
       {
-       "title": "Weekly Video (10/18/2026) (Aris Mining, Avino Silver) (NYSE:ARIS)",
-       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOG9OcDFXUmxUanJJZUFpUTFVaGdlclQyT1NBYjRheFFyaHUtZmRTMFRqaVNXSlFMdFd4SjZVTlNEWS1LR3dqYzlhZE83T05FQ3pYdjBNWnVmTE9Xc2FEYU1rdFRXRmZYNkh4aVZKTlhaLTVsaWJGR3ZHMWd4ejBhbXZCcnU1S2hwb0o4bVdzWmhRbmMxY0IzZEUtd0RNeFF3Z3hFUUJOVXVaMHVpbjhMTkw0YjQ5ZHNuQ1JVNXNfZGY?oc=5",
-       "source": "Seeking Alpha",
-       "date": "2026-10-19T00:06:32+00:00"
+       "title": "Avino schedules November 4 results: Roth sets CA$9.93 target for Avino Silver and Gold Mines stock",
+       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPQUxtUm1FUTg5M2JOdFVCVDI5VkI0SFR1a2NjWDBlVmNFNGNjTXZqd09hMTQtY19Xb29PY0hkdzVfRnFHZkZoeUM1eU4wSGE5QXg2Mkh5aXV6WjFaZzRVbGV0TzFRVWRBMF9EQ2ZtUGR4MXFMWkhtWWYxdXJRS3ZBR0FJQ1hZcWdFYTdBTnhyYVBQSXBmeFZwX2FfcnBLVGFKOFlKVXRleFpuQW9lMGZQTDNEcXlRc1pFMF9WTVROTHlGVGdGc3p1RmlOMXNrams1dUdHOGR3SDI1WXF0d3dBM3E5T0lKVHg5MktwbQ?oc=5",
+       "source": "AD HOC NEWS",
+       "date": "2026-10-20T18:02:15+00:00"
       }
      ]
     },
@@ -530,9 +530,9 @@
      "symbol": "USDNOK=X",
      "name": "USD/NOK",
      "quote": {
-      "price": 9.31035041809082,
+      "price": 9.302729606628418,
       "prev": 9.325400352478027,
-      "chg": -0.16138646940995205,
+      "chg": -0.24310748056607379,
       "currency": "NOK",
       "asof": "2026-10-26T00:00:00+00:00"
      },
@@ -606,16 +606,16 @@
      },
      "news": [
       {
-       "title": "98% Of Nvidia Analysts Have \u201cBuy\u201d Rating",
-       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYjJDYUtDR1hnU010clFaNW9FTkFWdXBKejZRTzZZTHdiRVNoeURHYWlyWW82UlJQSlFxNXlKVVczcUFQRkVXZDFiZWI0QjVVMWVwR1NtOFZ3S3NNWnJwaW1ibXVEZDlrUHJ5MnhyQ1V2amxYajg5MUt4QXl3NXJpVFRJbkJRcXRXN28wVEo1UnNlcUVpUEFOY3pB?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-26T14:51:45+00:00"
-      },
-      {
        "title": "The Mixed Blessing From Tech Earnings Weighing on Nvidia Stock",
        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMTFwZFVteGpUWTFvanFsalB1MUlMcmVua0FsbzB6c2tRUFhaQXpZWXNpaXVtUVAyaVZ3UFF1Vnk3SXI0NlhMTGgtWXdIM3hjdERWeDZOdkZlbjI3SjgzdHRlVU1USDN0TzNJeHdPcUtIbVZXcTBZSTFRc1hQYnpHbHpXVQ?oc=5",
        "source": "Barron's",
        "date": "2026-10-26T09:57:00+00:00"
+      },
+      {
+       "title": "Elon Musk and SpaceX Just Delivered Incredible News to Nvidia That Could Help the Stock Double in the Next Year",
+       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMFQzZmIyWlE4d3J4OVJyTVFvTmxHOEpYQjJSamZEek1GS1dQQ2huQWJlbTBTUnFNdUlxYkp2WTBiQksxWEpIVDBFd1BtU2RGMjNEZFhBRTFjODVLRTdNYTZlM05zX0F2b3dFZnExT0ZkVXdKWVJhS2VOdmVmQUQ4UHpFM1Y4d2xQeFRmbmVJVlUxN2hJcnFQclZkYXA?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-26T07:35:00+00:00"
       }
      ]
     },
@@ -737,12 +737,6 @@
    "date": "2026-10-26T13:13:13+00:00"
   },
   {
-   "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPd2JVVXpmNmVJNU5uQ1YydEY0NDZKOWhrQktUYmZxZFRpcVFqU2VORWg2d1BjejFOZ0htVi1tejBBSFZBaFB0YzdaeXhCVmdydm1OamlTRnVCNFdIWGpLOWwwalhpblhLWktaVTdqX3NvVF84S3JPTWlFNlVrMnEyZlRTWlNwMF9XaDRwdWFDS1AyUQ?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-10-26T05:52:05+00:00"
-  },
-  {
    "title": "Brazil stocks, real tumble as Lula win shifts investor focus",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN2NwbFFDLVhWTUJuTGZxYkI1YWtMOFNFM29UMndmRUp3V1RzM0wyeTdvS2dzalE3WFRKdUVvWTdpOXVzakNmajA1TFVkX1RmdG5xRmRWUm9pQ1lOMEYwM2tMQVY0emRfdjVWeks3QVBhdWNzVXd4dEN1TE5oc1Q2ZHpOUDE3NmM4bWE0Sk1mS3RSeF9CUUlqdjhkZmJiNFpRWUp3ZTRDb3ZHWkU?oc=5",
    "source": "Reuters",
@@ -765,6 +759,12 @@
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRmlUc05lb2JTUlJSZ00wQW9RUFB5VEY2UGZRRmxxTnFESmNnRC1KMDVzNVRzbG85TC1rWVZyUWhwckZVYll2T3J1b0ZEQ1RzZldYM2dyOWp3SzZOWkU4c2FPQnM5QVRJb19idEJyNF9QVTlJdkJ3Tl9oeW5pdm5iYmNxanMzRXh3QjZMcENCYVUtOG5pR0sxS3ExRHYyX1ZTcmxseVRYYjlCcTIxYjUyWE1UNmw4RXVVMDZkcTZHckxyWFA5WE5aRkdR?oc=5",
    "source": "Yahoo Finance",
    "date": "2026-10-23T17:05:39+00:00"
+  },
+  {
+   "title": "Montega Initiates Sponsored Equity Research Coverage of Agilyx",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTDRYbnBsLXZwYlJ0bF9ZT0x1elBXb1JSdlNqdG9HZ3ZEQ3IxbG9naTlDT2NITFRRbXpVV3RKTDlBRHBFQ25jUlROOHczUXItR2ZxNFZVTHZYaUhOXzViNUtDTVRoQXRZSjBWOUNBYWVKOVlFeHFST253cXE2WldpLUdGbVpkTXRfVE1QLW0tRW5lMTd6LVlsZjlwbVlrM09ISkE5cVFUVjhFTDhuUzRSVU5WQjNhb3ZqREw2ZllmMmY?oc=5",
+   "source": "TradingView",
+   "date": "2026-10-22T11:38:00+00:00"
   },
   {
    "title": "Euronext Oslo B\u00f8rs To Delist Next Biometrics Group Shares",
