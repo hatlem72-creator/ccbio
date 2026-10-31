@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-31T04:25:06.676596+00:00",
+ "updated": "2026-10-31T05:19:09.985211+00:00",
  "usdnok": 9.245949745178223,
  "btc": {
-  "price": 77132.7421875,
+  "price": 77113.5234375,
   "prev": 77775.109375,
-  "chg": -0.8259290056446766,
+  "chg": -0.8506396748477751,
   "currency": "USD",
   "asof": "2026-10-31T00:00:00+00:00"
  },
@@ -69,6 +69,12 @@
      },
      "news": [
       {
+       "title": "Kongsberg Maritime (OB:KMAR) - Stock Analysis",
+       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaFQ1enJmb0VXNnFoOTJwUEo2dWctY0N4bmJhNGtzV0JWcy1rTEdhUTFzOVFnN21KNGRLb3k5NlhVSXpwRmpJVXBiX2lCM3N0SEw3NDZ4V2NEQVJSWml4dGw2LWdDOVpkYmI5SDlNX0loUjZTc3k4aWZlUThuZmE1T05RVzJiUQ?oc=5",
+       "source": "Simply Wall St",
+       "date": "2026-10-29T18:37:20+00:00"
+      },
+      {
        "title": "Norway\u2019s Kongsberg doubles new orders in the third quarter",
        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbmRjd1B4R2N2UzJMajIyd1NaSUY5UV9pN29YcDVwREdqbXQ4WXN0aHJTeVU5QTZUT21ZNTRiWWM5dUxOY2xsblZUdXNBZTFZSE1aeldoaDd6Y3B5bW85ME9mWUNaLTUwRVFhLUNxZzBkYXljZFVBOEFTa3kza3p5WHVmYUlJbkp4R1pJ0gGQAUFVX3lxTE5hTFBnbnhjeWxlb3NPYkR5UzRMUVRVdDgxYXlkaFRNVHl6U2ZvOHBCM1ZTcUNaMENBUWIzUGh3VWtmTEs0Z2FZRmZjQUxvZEVqSzVRbWxzRk1oWEtLeE91eTFacFJiM0c5YW1od1lRYnJVVmRxWGtuWXVjc1FmbjA3XzNZYU92OE1XRUJpa21lUA?oc=5",
        "source": "The Defence Blog",
@@ -85,12 +91,6 @@
        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWEpuQTVWVnoxeUYzVE9kd1RsTWduZnVTNExza0NBbXlyajNfSGdNaWVBWjhiSk5NVExkSnJHWVRKa2NicWZJZTJva09GaHBXZVktZGJLcEF2a3hTWTJlbUFWVVh0bmRGZ1lVOTVVeHNJQXo1MmxqRGlGZmVvZGVvUkJpczZsQUhhOTB4a0c5NzBjT0I1RFBVdjRDU0pJQ0JCNDZBOVRvT3RHZTAz?oc=5",
        "source": "Ocean News & Technology",
        "date": "2026-10-23T13:59:44+00:00"
-      },
-      {
-       "title": "Invitation to presentation of Kongsberg Maritime\u2019s third quarter 2026 financial results",
-       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObGtEeEU0TGNkN0dKaF94NXhyX3hETWpuSWxvdFhSaU9GdEpUZzJUYWw2M0tHOVhiTVlacURjMWlvalZMcDFqVFBGZXZKRVNNWEt5WUxkUWQ4U3BLTFZmM0JGX1dnaHRaU3BpQlhaRDY2YXU4bWxNWGhZbUdCb0swYldvU2xhUTdJT0szMlR4RWlIOFlZZGZNZnhlNXpMQjk4cHItOHdpd3FCT25URVUyd2JIMndzODBzczhVcmxyNzhEZ3drVzVFaGdicWN1R0hiUm9iRm5mVE1ZZ2k1T0ZHdUNyRlVhTlJw?oc=5",
-       "source": "TradingView",
-       "date": "2026-10-20T07:00:00+00:00"
       }
      ]
     }
@@ -124,16 +124,16 @@
        "date": "2026-10-29T22:56:14+00:00"
       },
       {
+       "title": "VanEck Gold Miners ETF Cert Deposito Arg Repr 0.1 Sh Estimates \u2013 BCBA:GDXC",
+       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwZHJTNFRyLXlhY25zOTFDOUdNN1czZUQ0clFsaTNZaGtHWEdQVEMtWnVvc1JhRnMzNUgzelBUcGswYmxERUhycms5S3A5OW9JVk9JZ1hGVGRPNi1LSlhCYlZibUR3bTA5V2V0VWpjY2lxT0EzT3c?oc=5",
+       "source": "TradingView",
+       "date": "2026-10-26T00:10:23+00:00"
+      },
+      {
        "title": "Looking for a Hedge? These 2 Gold ETFs Offer Very Different Ways to Invest",
        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaGlfQlNuaUlEZVhxOG1sRWhlN2VndjQyNko5SFAxU2FnQ1VtVjRqcmpjNUdXak9ON3N5MVhJMGlfaEVkQncyS0YyS0VWRWNhclU1X2x3VDAwMlA2VmtPeHR6TnZ1OGRzWmxYdWt4cVozTUZBUXZuNHk5NkRsVFZaRmhqMmRNN2JkSzNsRUE4bTBsbU1IanA5QVJVVDgwb0NMRmltV2VVUlkxUXFyZjhzdzg0ckpiUmJBbW9ZTg?oc=5",
        "source": "The Motley Fool",
        "date": "2026-10-23T10:30:00+00:00"
-      },
-      {
-       "title": "VANECK UCITS ETFS PLC (GDGB) ETP Price and Quote",
-       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZWZqXy01cW1lVTFBU0ZDbXRCZkczR3ZTVzl3Zzk2NnZ1NURScmJRU21vMElucmtIWDU0dlUwOExncXdVY1JhX2FkdXpDSUtJSjU5Q24yZXJpekhYWXEzLWVteVJ2RzBRRUd6MnpEdm93Y0xxNTZDQWtBeGJXS2NkUS1R?oc=5",
-       "source": "London Stock Exchange",
-       "date": "2026-10-23T08:22:41+00:00"
       }
      ]
     },
@@ -323,10 +323,10 @@
        "date": "2026-10-30T16:43:52+00:00"
       },
       {
-       "title": "First Majestic Silver Corp. (FMV.F) Seasonal returns chart",
-       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9uckhxc0cyUDh0ZVBCQ19nQ2UyQ2VkVU5LTXRrd01GLUszU1laR212ZkNuSlNGeVFWaWZlSzE3WUJWTW1pUm1MNmNVbTBfbVZaNFdFZW1QdVhMa0VzTFY3ajRfYw?oc=5",
-       "source": "Yahoo Finance UK",
-       "date": "2026-10-30T12:58:09+00:00"
+       "title": "First Majestic Silver Corp. (TSX:AG) Climbs 5.02% as Positive Momentum Lifts Investor Interest",
+       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNmNSTThiNC1ydHBoNVd1S2pzaDNFSHF2NWxSY3p5VTRSTmZJUEdJZ2FweGd2M2g2X1lEUzJKcUtGdXdRYjlaRlVfWTNxdWNQY1VyZzV3aTNRdWMzam8zRm04eHRuRENuRlN2eFhzLVhjZ3R1VVFhNURlNVNaUXRfQnVGdEZVQTBQcWJKRjBkbTAxNjY1eUQ3aW55WkNtNUVlWUUyS3draWRpQTZyLS1tOS1GbWpDYlhFSnZr?oc=5",
+       "source": "kalkine.ca",
+       "date": "2026-10-16T14:17:00+00:00"
       }
      ]
     },
@@ -593,10 +593,10 @@
        "date": "2026-10-30T16:45:00+00:00"
       },
       {
-       "title": "Microsoft's Leadership in AI Remains 'Underappreciated,' Morgan Stanley Says",
-       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQkpMQUJtQWhYQS1LX2pITGhlcXgzdTNoYWpTT3FNSnJfTFNjbnJDV19yenktQ3hvVmpKTWkwMkFuS0JxTklCYXFTYXRtVmZtU0FVZnlYdnVyRTBNVHQ5eFlwSFNSSGV1NjdMUVZ1Y2FsclhoM3IxYWpRZEVreklyYjFUeUU2bW9LeFh6WHBzQ254eXFKQTBZRlNFWmhCcHFDVHc?oc=5",
+       "title": "Wall Street's top analysts are loving Microsoft's Q1 results",
+       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObEFmRTFLdVJVUW1Yc0dGQTYxTXdsR1N4X3pYUDlrNWFLSmFfbldGMXNFbWdwbWtmRUN6d2VrWDRlS0ZLVUQwdEM1U29hWG9GbW1vM2ZyLXFJenc5U0NWTVpoTHh5c05MODFQMjNwNjB5a3YwQjVZNjdvX3VsQ056WXpkUGVMM3Q1dFFxTldTVXVJbFdkek9XSTBzQWFZUXNhemN5enR0dEJYZy1sQllRZXo0Qy15VU9ndEE?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-10-29T15:34:49+00:00"
+       "date": "2026-10-29T16:18:37+00:00"
       }
      ]
     },
@@ -618,10 +618,10 @@
        "date": "2026-10-30T18:12:00+00:00"
       },
       {
-       "title": "Microsoft Just Announced Incredible News for Nvidia Shareholders",
-       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc2p0OGdQM0dSRm5QcU82WjBtYXlfVllhMDJoZF9ZZkgzWGxwUjFrV1oyZXRoVndWMXBSMEtTeDZacTRKRzdFTU9UTVB5dFBJUTN1Qk5ZdVRncnlWczBoN3NjTTlXbmVVN3cxaVptZWdpRmJ2d1FBVTYySzlYVlpVZHdydHR3d1d1ajFmZ3R6MG9iM1VxdlFHR2ZjZ2NBS2ltaE4zdTFqYXA?oc=5",
+       "title": "Market Chatter: Nvidia Chip Buyer AM Intelligence Plans Up to $3 Billion Capital Raise",
+       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPakNfT05JMkZEMTR1c2FKcGNIMnBDeVJoWGlGSGNPbG0xS2RGM0RYaE9PeXhwbUZyYWVaU0dESDNNdkl0WlBIanFORy1SNjlzazJVd0dIYkVfN2ZBdzlGNWVXSUlPWHhRZVBOZHZJSl9NNXg2TWlBaEh2bFNPQU5pZm54OURLN1VVXzJ1dGRqWnpHaGxPdGk4RkZ6dHR0QQ?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-10-30T10:25:02+00:00"
+       "date": "2026-10-30T09:23:11+00:00"
       }
      ]
     },
@@ -687,16 +687,16 @@
      },
      "news": [
       {
-       "title": "Meta\u2019s Unusual Stock Split Comes With a $60 Billion Twist Investors Should Know About",
-       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOM2xkR0Z4TFBwOUVtd2JTOFNTWmJOdENmNU9kUXViMXNlZVBHTEpwYzhaUzcxelZsNmFRQ09PdG1iTmFKOEdaOUFhVU1MNFhiWERYN0trQVc4WUtubGVWaEtwRnphTzFRX3UtU19SUUZYclpRNlB6YWV0ZnFIN3VKXzUzSG5IOEt1YWpGRXBXUnBBOUVvdE1uaGtJcw?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-29T14:32:18+00:00"
-      },
-      {
        "title": "Bank of America Clients Are Dumping Meta and Google Stocks at a Record Pace",
        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRVAzeTYwZnZIU3BUSTFyak1JNjFncW9BUDdrVUxaX1RTaXJtN3J1bllRZDhpb1ZoZU0tQWQ5N2NUUWViZ1ZqSzNUVnRtaEczZHpBajRna3YxYUI5MlhTc1BsTjAxVENtd0hwVEl4R0lfX0JubkU3cktDNzZvMHZseXp3ZFY5eDJieDFHTmhrUmktWGNZdHdsVGQ2R1oyeDA?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-10-29T12:18:06+00:00"
+      },
+      {
+       "title": "Meta Just Priced a Stock Sale at $625 a Share. I'd Consider Buying at the Same Price.",
+       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbS1wc3dOdl9YdEhwTXUxdDNfRzcwZzhTQ2ZXeVRKVXVMRTlJVDRnNjZ1V2FLbVo5ZERQa3dWMlM1NV9aaWFzUGhkYVlMel9ERHUyaHNwQTRWUGZ6alNtWDFPYVBCQ0JlQzZHUllDRVhSZlVwanhzSzdkU2RiMUpCUThka2cxTGM1QWtzdVp1VVpvU09IdGVz?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-28T20:57:02+00:00"
       }
      ]
     },
