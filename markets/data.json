@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-31T17:51:20.144866+00:00",
+ "updated": "2026-10-31T18:36:33.827065+00:00",
  "usdnok": 9.187100410461426,
  "btc": {
-  "price": 77583.203125,
+  "price": 77566.921875,
   "prev": 77198.2109375,
-  "chg": 0.4987061006008098,
+  "chg": 0.4776159097760857,
   "currency": "USD",
   "asof": "2026-10-31T00:00:00+00:00"
  },
@@ -124,16 +124,16 @@
        "date": "2026-10-29T22:56:14+00:00"
       },
       {
-       "title": "VanEck Gold Miners ETF Cert Deposito Arg Repr 0.1 Sh Estimates \u2013 BCBA:GDXC",
-       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwZHJTNFRyLXlhY25zOTFDOUdNN1czZUQ0clFsaTNZaGtHWEdQVEMtWnVvc1JhRnMzNUgzelBUcGswYmxERUhycms5S3A5OW9JVk9JZ1hGVGRPNi1LSlhCYlZibUR3bTA5V2V0VWpjY2lxT0EzT3c?oc=5",
-       "source": "TradingView",
-       "date": "2026-10-26T00:10:23+00:00"
+       "title": "Looking for a Hedge? These 2 Gold ETFs Offer Very Different Ways to Invest",
+       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaGlfQlNuaUlEZVhxOG1sRWhlN2VndjQyNko5SFAxU2FnQ1VtVjRqcmpjNUdXak9ON3N5MVhJMGlfaEVkQncyS0YyS0VWRWNhclU1X2x3VDAwMlA2VmtPeHR6TnZ1OGRzWmxYdWt4cVozTUZBUXZuNHk5NkRsVFZaRmhqMmRNN2JkSzNsRUE4bTBsbU1IanA5QVJVVDgwb0NMRmltV2VVUlkxUXFyZjhzdzg0ckpiUmJBbW9ZTg?oc=5",
+       "source": "The Motley Fool",
+       "date": "2026-10-23T07:00:00+00:00"
       },
       {
-       "title": "VANECK UCITS ETFS PLC (GDGB) ETP Price and Quote",
-       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZWZqXy01cW1lVTFBU0ZDbXRCZkczR3ZTVzl3Zzk2NnZ1NURScmJRU21vMElucmtIWDU0dlUwOExncXdVY1JhX2FkdXpDSUtJSjU5Q24yZXJpekhYWXEzLWVteVJ2RzBRRUd6MnpEdm93Y0xxNTZDQWtBeGJXS2NkUS1R?oc=5",
-       "source": "London Stock Exchange",
-       "date": "2026-10-23T08:22:41+00:00"
+       "title": "VanEck Gold Miners ETF (GDX) options chain",
+       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcUVYVVZWcFVsVWd1ZC10TlRWNUtlVTN3WGV6OHpSTmgyWWhCY19qNUxfNm14ZF9Dc0xwcS0zdklURGNwLTJHeVVCQXlXMFBXZGE3azRoSWl4QkY1bUN0TkIzTjljN0JpWVhLOElXTkI1dzl0YXFGNWRkV1R5VzNNN0RfRER2cUdWSmd5czBjUXk?oc=5",
+       "source": "Yahoo Finance UK",
+       "date": "2026-10-21T20:35:39+00:00"
       }
      ]
     },
@@ -292,16 +292,16 @@
      },
      "news": [
       {
-       "title": "Coeur Mining, Inc. (CDE) Seasonal returns chart",
-       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1YnB3SDFTaHhLbF85TXNlMUx4TjE2U01PbWZlcHRpUk5qRFNmMWRuWHFLVUt4RE8zaFZuM0YxckxKOFdXZnZlTWpLU3VyYVRzN2dQem1DbEp3TlNzM2hBQg?oc=5",
-       "source": "Yahoo Finance UK",
-       "date": "2026-10-30T00:26:13+00:00"
+       "title": "Coeur Mining, Inc. (CDE) Stock Forecasts",
+       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVFVsQTdlOG44dWo3TFI5enM0RHhQY1NhaDJrUThvUFRVR1pUOUZ6ZGhrZTdNejhyTkl5X05pN1huMUQ3cjRuUVBCRFhURUFpWVVmelpTaWhwMFRMWm1SNWVManV3WlNUc1U3ZVV6Q3doajlveVQ4dlN1QlM3NzNKa2tadlFBSENaZkx2b0pUYw?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-29T02:46:26+00:00"
       },
       {
-       "title": "Gross profit of Coeur Mining, Inc. \u2013 BSESOF:COER",
-       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQzRBYzJjOXRIYVZGQnlpUnFHS3hFa2pjaTdIR2l3WE1Od1J6QkZON2dxTkVFTHVUNmFhVnRyOEQ2bzZJcWdzdWJYZFZBYWl3RDJsYkoyZFgtUjhzLVFqN3JMZU1EX2VYU3JSYkdWNld0Rm0zRzF4cGxyaVhIalBvS2phUlY4dUktOXhVTGFZanh6c0k?oc=5",
-       "source": "TradingView",
-       "date": "2026-10-29T15:57:39+00:00"
+       "title": "Analysts Estimate Coeur Mining (CDE) to Report a Decline in Earnings: What to Look Out for",
+       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYXdSemN2RE1wYVRLZFJXWHVHUVMxOVFnLU8zLXhDN3JiS3JwbDNtbnoyaHh5RVN1dmZwYnFuVVVYWk1GNUVmZWxRcUlscmxIYUREbVJfQ0k0OWxTbG9UT0lVMG5mTVVhZHRWQXE3dnh6dzIzaVdScDFPeVpGekRUX0xla1pKbU03ekIwc0lrMkVnc3BFNUxUMnF4SlhhSWlt?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-28T13:00:12+00:00"
       }
      ]
     },
@@ -342,10 +342,10 @@
      },
      "news": [
       {
-       "title": "Defiance Silver Corp (D4E.DU) Latest Press Releases & Corporate News - Yahoo Finance",
-       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UODNIWWJMMzhNME11OGhlS1RUdU5OWXA4UmVtNkgtYTVpSjVBejJSR1RoTTdHODd4SUNtQ01uOGllWlhKZ3paaGNjajFQdTk4aFpDNHBCb1JlbmQtZ0lFQXQwTHFmNy15?oc=5",
-       "source": "Yahoo! Finance Canada",
-       "date": "2026-10-04T10:28:46+00:00"
+       "title": "Defiance Silver Corp.: Defiance Silver San Acacio Drilling Returns High Grade Silver; Additional Holes Pending from Lucita Drilling",
+       "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPelpFQ3ZQTkVBaWdVc0UyZ3g3MGNkUWRPVDM3ekV0VUh6TjdmZV9IODRvdkhORENZSFhGUzM2ZWpQa0szLXBfSEt5UUc4TnRGcUFYekZQOTI3V3JDUlBscXVQd1BPRkNzdk1nZU5tQTZTaDFmNUJXSDUwN2dfVFdmM2dLaWwzaGctTzRNNEFPbEx6cFJ1SmQ4UFZibkQ1UWdjRm9CdWNxSl91WUViNEwzTV95cEtMS0hQbHNnRTg4ZWVCU0NCZTFNUFBIODc0VkxIZWVVd2s3UDE1bEt3QlYtUVZVb2RjLUpaNjN0VjlQaVljUkFCQlQxaUFXRHAtTkFjYTBmV0Q3Z1d1bjF4cXM4Sm9PSXJkZk5PTjJmZDVKNlFocFlQ?oc=5",
+       "source": "FinanzNachrichten.de",
+       "date": "2026-09-09T07:00:00+00:00"
       },
       {
        "title": "Defiance Silver raises C$3.27M in private placement",
@@ -423,10 +423,10 @@
        "date": "2026-10-30T13:49:28+00:00"
       },
       {
-       "title": "TSX Penny Stocks With Promising Potential In October 2026",
-       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWVhpdWRPUDFMRUV5amNzMnZiSk13cDU0eGFPZWRJV2otUkFFRVU0eTk2blNUZGdOSDNSakFpdGpCQ2c1bG1FZnpMWjBia1drYks1Um04MWRTTjlOdEFkTDJJOG1hc291c0FLR2l0cVFpbFozVzlIQmVIMURHdkh3Y1FYZlVLRGdGWldhV3o1cG9aajVzcEZwT2poYjh6cFZrZU9KOENIbUVQMFhOdzlpU1RLdjhoUV9qekptcVlGRS16eUlROXMxWFY0bTdYbGJtYWfSAdcBQVVfeXFMTVA3aHQ0MUxQWWYxSGFtaUhzVjZTaEp3UU1aXzhtbGEybUZmak04WmFJUW5sdmRnRlctTFl1U19XS0Q2Tl9Xa0JSejI2SjZkM3gxNjlJUGhwVVpkSk5YZFhkcXJPVHV3ZDlQMF9WNEpOVThLZU5YS0FqcEpEOUV5LURfbjBQNmZxdks5UWpCa09yLS1fYVdJZmJzOFZYQ3R0OU4ySXVHSTFGaWlWb0JINmNfTDJhdVBQMkIxWTUtWXdlWGtSLTV1MzRRQjVyOWhnOHA3dFkzMWM?oc=5",
-       "source": "Simply Wall St",
-       "date": "2026-10-07T07:00:00+00:00"
+       "title": "PPX Mining Intercepts High-Grade Gold, Silver and Copper at Callanquitas in Peru",
+       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRjVHWm5tZEstTEpXZ0RuSDR4MEJsdXctTkFaSE5PUzFsMGk3ZmZmazJqU3F3ZGhGZnJLVHhqQjJBRnF2ZEtOTElITERsUWtLeE5yWjBtZFhqd1lMaWJHR242V1Y3NlV0b1Nab1lXVnA0WE9GTm9mdlN3S1VGRjVLWTIybWRIeEIxMnlWRlNZUG94amNwdk1Da2tHLVNGSVlIU0lkcg?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-27T17:17:54+00:00"
       }
      ]
     }
@@ -562,16 +562,16 @@
      },
      "news": [
       {
+       "title": "If Apple Grows At 10% a Year, Here\u2019s What $1,000 Becomes By 2030",
+       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVjlHd2l4LVM3X0pPNG9IbU9BQmNSOWxsSDhWRVAxM0dGOVo5Ul9ia1haUlFqakR4SWxFSG1XNzdDSzJjSUl2N1hYTDJVSEJmaENvZnpkYzdlM0w5YUlzSEhZcEFBZFVDaVpHTDhWTDV0ZmRNUHo4bUxmTWdwcDlpQlRNUU10ODJkRndOMENn?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-30T15:03:21+00:00"
+      },
+      {
        "title": "What to Expect From Apple\u2019s Q4",
        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSFdoSjlEX3l4d3Fha3ExR3hObW1OOXdEWWplN2VIMEVPV0tLd2gxUER4NVpHSE1TdUJyZ0NNNkhieTFYaU8xWl8wYmpCVzllZHloZ0trQ2FUYVItRklBSV81c09lNmF5anR2bzRPNks0RGdRanVuN2tqUnlpMkp2WXpCWXdUczQ?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-10-30T13:00:03+00:00"
-      },
-      {
-       "title": "What Are Wall Street Analysts' Target Price for Apple Stock?",
-       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZk1IMnBmandodTQ2QldQQjh1TjNuaklNcVpWcHM3VjgzRVdzSTZmZ1RJTTUxcDBuckZ3Wm9pMmpqdUk2SkpvbEVOeHdQc2pBanc1UEFsWGNEVm1JNjU0LVYwNVFTaUZ5TVBEQmxlREQzbDhqblhuYTNiQlJZOWtrbFFLTkdIUGlPd1hPUGhaNGNvVk5aZzJqQnpsSXFJbmM?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-30T12:51:07+00:00"
       }
      ]
     },
@@ -737,6 +737,12 @@
    "date": "2026-10-31T09:16:55+00:00"
   },
   {
+   "title": "French economy \"at a standstill\" adds to budget uncertainty",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVDNDajBpTDVHdUt6UXRncGtKMDNBUEdMRVNza2FqdE1KRWMzNWE3VEJ5SGJOb0FfelBYZ3daSjBXZ0RCNU43UVVWQV9RTWtBX0h2S1g1MXd2WlJPeDdKNnpkSXVEdE5obG0xRG96ZHM4QzhuRVlsTldtWm9jOVN3VVUtWlp3bl9PRTluRzU0RQ?oc=5",
+   "source": "Yahoo Finance UK",
+   "date": "2026-10-30T23:17:41+00:00"
+  },
+  {
    "title": "Has the tech bubble burst? Why the Nasdaq\u2019s rough ride looks eerily like 2000.",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSmd2MS1zcURTRFhzOVpLOWF0U2FWYnRHSVh6Y3lnNTd5MVFuSEZVXzFDamJyNlpsLW1LMHA0VFNBRUpKZFZXNzNEeTktWGd4Nk5KYjVPYTZINE5Wa2w5MlZXUzlhcHEtREQwN1NQTTdZNktuVEFrZHpzUmMzOTJmYVVBZDNvRjJmaTdhTE0yQkxvalRzOER1LQ?oc=5",
    "source": "Yahoo Finance",
@@ -759,12 +765,6 @@
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQY0RLWEVLaENJcjQ2NG0xRjkwa0tPbjNuSnFEX3JOWWxCMlRNakZrUXVOUWdadHNNY3pEZm5lcEc2RFdSdGdtRWhFdHdpUUxXRFhjZ3Z5ZFQwQ3hBLUJrR1ByanNwamE5OXdqaEZEbTdNZFpKRW9iUzlZMm9Sb2M3Z3FXcF92anVEejgyWHcwNnlUZHcwblhfbFZGLXdsdXRQUy1OOFhRaWdTYmE2aExXblhlUW82ekxybGpwQg?oc=5",
    "source": "Investing.com",
    "date": "2026-10-30T20:15:05+00:00"
-  },
-  {
-   "title": "Midterms, Apple earnings, jobs report. Wall Street faces a big week ahead just as investors dump tech",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRXRoRjlKQ2xUdm85RThaVVZWSEZLa3E0SkxqczlRN1YxWmtNc1FTZkJyZEUtQ3JES3RtTzE3TVlUY1JSTmNZYWFqbFNxcjJPOTZrajhpb19RTXJVTmFfSFhPTGh4SUlNc0g0YXJIV3QyRkVUYmhrQnBydGtuZTlZYlZSLU0xeERodlAzVA?oc=5",
-   "source": "CNBC",
-   "date": "2026-10-30T18:55:15+00:00"
   },
   {
    "title": "AI Bubble Warning - Why Larry McDonald Sees A 20-30% Market Crash Risk",
