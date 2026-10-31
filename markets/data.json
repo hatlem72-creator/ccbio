@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-31T01:52:11.793136+00:00",
+ "updated": "2026-10-31T02:42:55.464578+00:00",
  "usdnok": 9.245949745178223,
  "btc": {
-  "price": 77263.96875,
+  "price": 77319.359375,
   "prev": 77775.109375,
-  "chg": -0.65720335092746,
+  "chg": -0.5859843896876549,
   "currency": "USD",
   "asof": "2026-10-31T00:00:00+00:00"
  },
@@ -69,12 +69,6 @@
      },
      "news": [
       {
-       "title": "Kongsberg Maritime Q3 2026: Record-high order backlog and solid execution",
-       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWFltdV9xTXpvMEU5NDBWbzlxcFRzX0ZReTZfODBNcEQwa3JzaXVmdnIxcFFvUDZLa0VXZWIzTTFVSFFvU2pEa1JXRDMwOC1XaHF2MDFkNjlaRVcyRFVsMFIxbkJ6VEd6Q2s4WXpmZjhnUnBIcW16LUs4WjRySzZ4cUdjbkQ4ZkNCdV9DN2VkbWJPcFVwS25ZYmdHd3BtdTJ3OXowYVo5QUxFVTBaOEd2RXppWFZsdFlzeTVzQTZXWktySllsUnNmSWhHWWcxS1JVOUE5Tw?oc=5",
-       "source": "TradingView",
-       "date": "2026-10-30T06:00:00+00:00"
-      },
-      {
        "title": "Norway\u2019s Kongsberg doubles new orders in the third quarter",
        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbmRjd1B4R2N2UzJMajIyd1NaSUY5UV9pN29YcDVwREdqbXQ4WXN0aHJTeVU5QTZUT21ZNTRiWWM5dUxOY2xsblZUdXNBZTFZSE1aeldoaDd6Y3B5bW85ME9mWUNaLTUwRVFhLUNxZzBkYXljZFVBOEFTa3kza3p5WHVmYUlJbkp4R1pJ0gGQAUFVX3lxTE5hTFBnbnhjeWxlb3NPYkR5UzRMUVRVdDgxYXlkaFRNVHl6U2ZvOHBCM1ZTcUNaMENBUWIzUGh3VWtmTEs0Z2FZRmZjQUxvZEVqSzVRbWxzRk1oWEtLeE91eTFacFJiM0c5YW1od1lRYnJVVmRxWGtuWXVjc1FmbjA3XzNZYU92OE1XRUJpa21lUA?oc=5",
        "source": "The Defence Blog",
@@ -91,6 +85,12 @@
        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWEpuQTVWVnoxeUYzVE9kd1RsTWduZnVTNExza0NBbXlyajNfSGdNaWVBWjhiSk5NVExkSnJHWVRKa2NicWZJZTJva09GaHBXZVktZGJLcEF2a3hTWTJlbUFWVVh0bmRGZ1lVOTVVeHNJQXo1MmxqRGlGZmVvZGVvUkJpczZsQUhhOTB4a0c5NzBjT0I1RFBVdjRDU0pJQ0JCNDZBOVRvT3RHZTAz?oc=5",
        "source": "Ocean News & Technology",
        "date": "2026-10-23T13:59:44+00:00"
+      },
+      {
+       "title": "Invitation to presentation of Kongsberg Maritime\u2019s third quarter 2026 financial results",
+       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObGtEeEU0TGNkN0dKaF94NXhyX3hETWpuSWxvdFhSaU9GdEpUZzJUYWw2M0tHOVhiTVlacURjMWlvalZMcDFqVFBGZXZKRVNNWEt5WUxkUWQ4U3BLTFZmM0JGX1dnaHRaU3BpQlhaRDY2YXU4bWxNWGhZbUdCb0swYldvU2xhUTdJT0szMlR4RWlIOFlZZGZNZnhlNXpMQjk4cHItOHdpd3FCT25URVUyd2JIMndzODBzczhVcmxyNzhEZ3drVzVFaGdicWN1R0hiUm9iRm5mVE1ZZ2k1T0ZHdUNyRlVhTlJw?oc=5",
+       "source": "TradingView",
+       "date": "2026-10-20T07:00:00+00:00"
       }
      ]
     }
@@ -124,16 +124,16 @@
        "date": "2026-10-29T22:56:14+00:00"
       },
       {
-       "title": "VanEck Gold Miners ETF Cert Deposito Arg Repr 0.1 Sh Estimates \u2013 BCBA:GDXC",
-       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwZHJTNFRyLXlhY25zOTFDOUdNN1czZUQ0clFsaTNZaGtHWEdQVEMtWnVvc1JhRnMzNUgzelBUcGswYmxERUhycms5S3A5OW9JVk9JZ1hGVGRPNi1LSlhCYlZibUR3bTA5V2V0VWpjY2lxT0EzT3c?oc=5",
-       "source": "TradingView",
-       "date": "2026-10-26T00:10:23+00:00"
+       "title": "VanEck Gold Miners ETF (GDX) options chain",
+       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcUVYVVZWcFVsVWd1ZC10TlRWNUtlVTN3WGV6OHpSTmgyWWhCY19qNUxfNm14ZF9Dc0xwcS0zdklURGNwLTJHeVVCQXlXMFBXZGE3azRoSWl4QkY1bUN0TkIzTjljN0JpWVhLOElXTkI1dzl0YXFGNWRkV1R5VzNNN0RfRER2cUdWSmd5czBjUXk?oc=5",
+       "source": "Yahoo Finance UK",
+       "date": "2026-10-21T20:35:39+00:00"
       },
       {
-       "title": "Looking for a Hedge? These 2 Gold ETFs Offer Very Different Ways to Invest",
-       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaGlfQlNuaUlEZVhxOG1sRWhlN2VndjQyNko5SFAxU2FnQ1VtVjRqcmpjNUdXak9ON3N5MVhJMGlfaEVkQncyS0YyS0VWRWNhclU1X2x3VDAwMlA2VmtPeHR6TnZ1OGRzWmxYdWt4cVozTUZBUXZuNHk5NkRsVFZaRmhqMmRNN2JkSzNsRUE4bTBsbU1IanA5QVJVVDgwb0NMRmltV2VVUlkxUXFyZjhzdzg0ckpiUmJBbW9ZTg?oc=5",
-       "source": "The Motley Fool",
-       "date": "2026-10-23T10:30:00+00:00"
+       "title": "Form 4 VanEck Gold Miners ETF For: 20 October By Investing.com",
+       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOem11VXV1VDd5LVpxMkx2NDBnQTdKVUl1SlB5bDloMDl0V2h3NjJQemdZRWpYbzl1UWNraEZLYnZRbm5pQklYclBLbm9qM2JOdmNRLUZsR3Y3U1hidTZCbHU1U0piY3pzS1VodHlzNzJaOHVmMHNadS1mVk5wZXhkQzJOZkFXVHBNM2FmZURIVlNmZ1JLWFNQTnJMbGdVSUV3Mzk1M2owX3E?oc=5",
+       "source": "Investing.com India",
+       "date": "2026-10-21T07:00:00+00:00"
       }
      ]
     },
@@ -417,10 +417,10 @@
      },
      "news": [
       {
-       "title": "Silver X Mining Corp. (AGX.V) Seasonal returns chart",
-       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5OWmdpWmhPZXZEeWRpNWhHQ0FPS0hjWDZ1Q0trSFB4T3VWRVVCMkNBOFJLWU1IcmJiS0V4czJGTUpPdWtmS3FQZUVOLTdNNXZjZ2sxZnFLUHIySTQ4RUZlRHNnOA?oc=5",
-       "source": "Yahoo Finance UK",
-       "date": "2026-10-30T13:49:28+00:00"
+       "title": "Silver X Files NI 43-101 Technical Report for the Updated Nueva Recuperada Mineral Resource: 10.4 Mt Measured and Indicated at 202 g/t AgEq (67.3 Moz AgEq) and 21.6 Mt Inferred at 260 g/t AgEq (184.3 Moz AgEq)",
+       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWlhwU0dacGtfSWlCNy04WTFQYXk3Z2Y4Sl83ZVFNUTRqRjkxNGt2NXQ2T1dUbnI5MXN1OGh5UG5OMmNqVlV2a0s5WV9zcW92akcwb2dmQU5LSkh6NmN5V2k2d0RDZVZ6Z1VsRUpaSC1yZElOanppazE0V01KSjB6c0c5anloVC1xSElRbWNBTzRCcXdL?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-30T11:20:00+00:00"
       },
       {
        "title": "Silver X Mining Stock Slips as Profit-Taking, Silver Volatility and Expansion Risks Pressure Momentum",
@@ -562,16 +562,16 @@
      },
      "news": [
       {
+       "title": "If Apple Grows At 10% a Year, Here\u2019s What $1,000 Becomes By 2030",
+       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVjlHd2l4LVM3X0pPNG9IbU9BQmNSOWxsSDhWRVAxM0dGOVo5Ul9ia1haUlFqakR4SWxFSG1XNzdDSzJjSUl2N1hYTDJVSEJmaENvZnpkYzdlM0w5YUlzSEhZcEFBZFVDaVpHTDhWTDV0ZmRNUHo4bUxmTWdwcDlpQlRNUU10ODJkRndOMENn?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-30T15:03:21+00:00"
+      },
+      {
        "title": "What to Expect From Apple\u2019s Q4",
        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSFdoSjlEX3l4d3Fha3ExR3hObW1OOXdEWWplN2VIMEVPV0tLd2gxUER4NVpHSE1TdUJyZ0NNNkhieTFYaU8xWl8wYmpCVzllZHloZ0trQ2FUYVItRklBSV81c09lNmF5anR2bzRPNks0RGdRanVuN2tqUnlpMkp2WXpCWXdUczQ?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-10-30T13:00:03+00:00"
-      },
-      {
-       "title": "What Are Wall Street Analysts' Target Price for Apple Stock?",
-       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZk1IMnBmandodTQ2QldQQjh1TjNuaklNcVpWcHM3VjgzRVdzSTZmZ1RJTTUxcDBuckZ3Wm9pMmpqdUk2SkpvbEVOeHdQc2pBanc1UEFsWGNEVm1JNjU0LVYwNVFTaUZ5TVBEQmxlREQzbDhqblhuYTNiQlJZOWtrbFFLTkdIUGlPd1hPUGhaNGNvVk5aZzJqQnpsSXFJbmM?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-30T12:51:07+00:00"
       }
      ]
     },
@@ -593,10 +593,10 @@
        "date": "2026-10-30T16:45:00+00:00"
       },
       {
-       "title": "Microsoft's Leadership in AI Remains 'Underappreciated,' Morgan Stanley Says",
-       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQkpMQUJtQWhYQS1LX2pITGhlcXgzdTNoYWpTT3FNSnJfTFNjbnJDV19yenktQ3hvVmpKTWkwMkFuS0JxTklCYXFTYXRtVmZtU0FVZnlYdnVyRTBNVHQ5eFlwSFNSSGV1NjdMUVZ1Y2FsclhoM3IxYWpRZEVreklyYjFUeUU2bW9LeFh6WHBzQ254eXFKQTBZRlNFWmhCcHFDVHc?oc=5",
+       "title": "The Memory Crunch Is Crushing Microsoft Windows PC Sales",
+       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeUJhYXF3WjNQRDhQbFhNc3BmdjhZUGVnWWdqZ1A1MU1DOHlLTVhpdG5aOEx3c2UtVGhZNEVxeHAtUS1hQVBpcEdkZVM4ZVdJS2xBeG5ucHlOSGdVV0VtUjAtelJQbExzZEFEZHNKRGg4WWN1eWRWTF9ycVU0UmFMYVlsZ2llVWtzckNOb09DZ3NnejRqZzVodFFBRkE4eDBodFVZSGFGTzY?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-10-29T15:34:49+00:00"
+       "date": "2026-10-29T17:06:14+00:00"
       }
      ]
     },
@@ -618,7 +618,7 @@
        "date": "2026-10-30T18:12:00+00:00"
       },
       {
-       "title": "NVDA Stock Drops: Nvidia May Back Data Center Loan For Its Own Customer, Analyst Sees Little Impact From Intel\u2019s Weak Report",
+       "title": "NVDA Stock Drops: Nvidia May Back Data Center Loan Its Own Customer, Analyst Sees Little Impact From Intel\u2019s Weak Report",
        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTGdFWTJ1Wm1ISjFPRjVLdVowSFF0RHpiODd4cldVU1VEX3FUU1VFc3hROVlzM3Nsd0RONGE2emNfZ1hsTm9MUUNUR05IWFFnVTJpeEV4TjMzRTZ5eG1scm0yT1VOTWF1X2F1VmoxeG9NaUJqa1hKX0JlbDhGVmY5dEhZcUc0d2hBMGdNUWo2eDdyMlJ0Y3dZ?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-10-30T07:22:38+00:00"
@@ -731,18 +731,6 @@
  "failed": [],
  "general_news": [
   {
-   "title": "French economy \"at a standstill\" adds to France's budget crisis risk",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVDNDajBpTDVHdUt6UXRncGtKMDNBUEdMRVNza2FqdE1KRWMzNWE3VEJ5SGJOb0FfelBYZ3daSjBXZ0RCNU43UVVWQV9RTWtBX0h2S1g1MXd2WlJPeDdKNnpkSXVEdE5obG0xRG96ZHM4QzhuRVlsTldtWm9jOVN3VVUtWlp3bl9PRTluRzU0RQ?oc=5",
-   "source": "Yahoo Finance UK",
-   "date": "2026-10-30T20:19:51+00:00"
-  },
-  {
-   "title": "AMD stock falls as Intel\u2019s weak PC outlook weighs on sector",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQY0RLWEVLaENJcjQ2NG0xRjkwa0tPbjNuSnFEX3JOWWxCMlRNakZrUXVOUWdadHNNY3pEZm5lcEc2RFdSdGdtRWhFdHdpUUxXRFhjZ3Z5ZFQwQ3hBLUJrR1ByanNwamE5OXdqaEZEbTdNZFpKRW9iUzlZMm9Sb2M3Z3FXcF92anVEejgyWHcwNnlUZHcwblhfbFZGLXdsdXRQUy1OOFhRaWdTYmE2aExXblhlUW82ekxybGpwQg?oc=5",
-   "source": "Investing.com",
-   "date": "2026-10-30T20:15:05+00:00"
-  },
-  {
    "title": "Midterms, Apple earnings, jobs report. Wall Street faces a big week ahead just as investors dump tech",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRXRoRjlKQ2xUdm85RThaVVZWSEZLa3E0SkxqczlRN1YxWmtNc1FTZkJyZEUtQ3JES3RtTzE3TVlUY1JSTmNZYWFqbFNxcjJPOTZrajhpb19RTXJVTmFfSFhPTGh4SUlNc0g0YXJIV3QyRkVUYmhrQnBydGtuZTlZYlZSLU0xeERodlAzVA?oc=5",
    "source": "CNBC",
@@ -753,12 +741,6 @@
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORFB0eUlHUndiMWdzRDRqWExlUGI0ZHdwM0FMeVRSNHVla0I2QS10aUxmdWV2VHpMUkZLUVZTb1NvcFJ1SnJiVjlkc0ltTjFGRjRacTE0NDNCemZqSHNzeUI5TmxncHhQLTFac1I1cUFPRm5ySFB0THFJc0JEb0xNMTB1S0t3d3lMNzNJRmRXWU9KU2phb0tEQnp5VU5SOEZpUjlqWEU2cm5udXoxdVNqV0Rxaw?oc=5",
    "source": "Yahoo Finance",
    "date": "2026-10-30T16:32:47+00:00"
-  },
-  {
-   "title": "AI Bubble Warning - Why Larry McDonald Sees A 20-30% Market Crash Risk",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdjFabmpOUHExWEw5TVVnSWMxekVnQ0t2dGE0Y0xwWURrWVZNNm5vRGprOVExU24wYnV3X2hDbjN5UGhXSFdyOVlER0ROakhRRktoMmxiTjR5UVN2RUFUWWFMZzYxckU3WE05Ui1iODdLVmJvd1BRVl9RWnVhMXBCQXRnV1g4QWpFUHM2ZVhROFYycUtiTHVsZTdrTGtrcnA1UGJQOXQzdkUweXNhdUcw?oc=5",
-   "source": "Seeking Alpha",
-   "date": "2026-10-30T16:05:00+00:00"
   },
   {
    "title": "JPMorgan Raises NII Outlook: Is JPM Stock Too Expensive?",
@@ -773,16 +755,34 @@
    "date": "2026-10-30T11:01:55+00:00"
   },
   {
-   "title": "The Stock Market Is Doing Something for Only the 3rd Time in 156 Years -- and if Historical Precedent Is Accurate, the S&P 500 May Be Headed for Disaster",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMVZBRkZzZldLMnI5LW5rYWVLZkdLUzdVSjNSLVJjaklkNWpXZHFzS1lVQmpaa0NCdGpWbng3MHlvcEZxSzRoUl9uclBZSzRxRlhBZldUdmZMdWktZ09TS2VER0w0M2ZKbk85QlI3RUVWZ2hrckFseGFJZWcxTkpnN3gxclh6anFRTk02OXd6aGY0MTJ3WDJKTnQyLWZjOU0?oc=5",
+   "title": "AMD Shares Fall 6.5% as Intel\u2019s Weak PC Market Forecast Raises Semiconductor Demand Concerns",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeUoycS1rbkxSeHhVdV9DR3ZpQkhGem5HUGJNQ3pqM0ctRkE4a0tHdjl4Zi1mZG51dGpQTEdvN0RSTmFVUDJwZ0hYbkpGS2pRVnJIYzBRWWx2S29VajhNeEhZRmJuZmhWeVhzWXdjRFliQ0lybnpVbkd4UFBsUm1NWEFTV1ExbUxBZ0ZNNw?oc=5",
    "source": "Yahoo Finance",
-   "date": "2026-10-30T10:20:00+00:00"
+   "date": "2026-10-30T10:26:11+00:00"
+  },
+  {
+   "title": "Intel Shares Plunge 25% as Weak Fourth-Quarter Outlook Overshadows Strong Q3 Earnings",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdFNRaHF2SGlhOHFsX2tfclRxeWpGRUtkUmVlcThSeGpseVRWV2NOUDhCT3FGeU1XeWxVZThqbDN6cWs1aGFEcUVWRUJVTlhjdXFwWmg2VHQyZ1FoWGNXQUtRWHFfZjFMNDl1YnVycDAtTkhuOTdfZTRTRThodGp1MlVjNlJmMHNvS2FPREtidjN5UmdsTlgw?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-10-30T10:20:52+00:00"
+  },
+  {
+   "title": "SFM Stock Heads For Worst Week Ever: Sprouts Farmers Market Faces Wall Street\u2019s Ire As Analysts Slash Price Targets On Weak Outlook",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOckJrUWhfU2FHU2J1Yk50NFBhWEVlR2lEaUpmYy1pOGdNWmJXa19rUy1EWkVkbzlPWjJlNHZoYWxOeENPMHFrYzcxaElLM1NtQ2kxS3lOWXRiSjFjaG8zNFVRamdNelRlaVhwUUhnekMxRzJtSG5XTWdVWUdWWXkxcUJuczRnci1jMW8xWGF1UVZEcEhVcFE?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-10-30T07:52:22+00:00"
   },
   {
    "title": "Oslo B\u00f8rs Mutual Fund Index_GI (OSEFX.OL) Seasonal returns chart",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6UDVlQVNyd1RFc2s2SGo4ZFNxbWlMWWRmY0k4bGJpSzVhTWFKMnJ0cERENnY0Vk9QclFRVlNRMm44OWlJVlphMXQ4UER3VDFYVEVsbEpvMnBqbERRZFk3bXVwaklsWnc?oc=5",
    "source": "Yahoo Finance Australia",
    "date": "2026-10-30T06:07:57+00:00"
+  },
+  {
+   "title": "SNDK Tumbles Amid Tech Selloff Despite Upbeat Q1 Report; Retail Turns Bullish",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbEh4emZRZHlTMk5ZYVNxamlrMTU5TXlXdlBJOFRNSHRnaV9jSl96b1o1Yks3S3Z4ZWRKejJDRS03X1g3RzVkX3hoUXZBRWtzQjFEZUlTRm9ZcW55aDY5R1d1VkJtd2Z5WnlCTXlKT293Yml0dEZZRmhpZ1ZPSFNsZzh4U2RzcXNMUXQyamxxV0dLN0htdEJwNG1Idw?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-10-30T03:05:00+00:00"
   },
   {
    "title": "Intel Stock Crash: Chipmaker plunges 23% after weak results, guidance, PC slowdown warning",
@@ -797,10 +797,10 @@
    "date": "2026-10-29T10:28:00+00:00"
   },
   {
-   "title": "What Happens to Your Portfolio if the Stock Market Crashes? There's Good and Bad News for Investors.",
-   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPWFVkcmFOQWI1MmtVMUhsZVZ0d3NkSWRSN2UxSWZFTzYxM2lUdnl2ZzhBZTg1b29VdzNZQXNNZTRsYXBOM0tSVDhUUGpFbVlPY1dxakcya2xRQUtjS0lVaE9kY3RoREZNeXVOQUxzWlFoRmlONDk0Uk9vZGJELWtFd0hKTERGaWREdk9NUWF4WWtkem5wZUFHU3ViaW4yZXA1UGk5b1gxQjJwQWx4X3IzM3h5MkNpRFAyMUk4dWhQTUpteGZGVWtRTjhlOWdEdG1hYlBFWTlkbWdBbnk0TkwzOC1ldEMzem9HenRvYTlqMlFTcGxSOWZuZFRhU3UxQUI4QjROc2tZZXc?oc=5",
-   "source": "The Globe and Mail",
-   "date": "2026-10-29T03:36:00+00:00"
+   "title": "Investors Who Piled Into China\u2019s AI Boom Just Watched About $480 Billion Vanish in Under Four Months. Are America\u2019s AI Bulls Next?",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWHhhS014Y2VNaThmTmFXRE9fS1ZFQVhaakVLbTRSdUlWYVkzaW1OX2xRbEU3WnI2Z0dWZnVyYURrVkNxaDByTWRBMUZPU01xaDhtMGhRd05pS244dGN2QnZsdmJVdjh4YlNPWHJNSnVJdzRrV3h1S0t5TXNGNnBsR2M4c1liWlNnczROYW5rOVlHRnVINkV2MjZ3?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-10-28T17:15:02+00:00"
   }
  ]
 }
