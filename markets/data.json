@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-31T10:18:04.982286+00:00",
+ "updated": "2026-10-31T10:55:54.021771+00:00",
  "usdnok": 9.187100410461426,
  "btc": {
-  "price": 77347.9375,
+  "price": 77300.7890625,
   "prev": 77198.2109375,
-  "chg": 0.19395081917277235,
+  "chg": 0.13287629823837133,
   "currency": "USD",
   "asof": "2026-10-31T00:00:00+00:00"
  },
@@ -69,6 +69,18 @@
      },
      "news": [
       {
+       "title": "Kongsberg Maritime Q3 2026: Record-high order backlog and solid execution",
+       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWFltdV9xTXpvMEU5NDBWbzlxcFRzX0ZReTZfODBNcEQwa3JzaXVmdnIxcFFvUDZLa0VXZWIzTTFVSFFvU2pEa1JXRDMwOC1XaHF2MDFkNjlaRVcyRFVsMFIxbkJ6VEd6Q2s4WXpmZjhnUnBIcW16LUs4WjRySzZ4cUdjbkQ4ZkNCdV9DN2VkbWJPcFVwS25ZYmdHd3BtdTJ3OXowYVo5QUxFVTBaOEd2RXppWFZsdFlzeTVzQTZXWktySllsUnNmSWhHWWcxS1JVOUE5Tw?oc=5",
+       "source": "TradingView",
+       "date": "2026-10-30T06:00:00+00:00"
+      },
+      {
+       "title": "Norway\u2019s Kongsberg doubles new orders in the third quarter",
+       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbmRjd1B4R2N2UzJMajIyd1NaSUY5UV9pN29YcDVwREdqbXQ4WXN0aHJTeVU5QTZUT21ZNTRiWWM5dUxOY2xsblZUdXNBZTFZSE1aeldoaDd6Y3B5bW85ME9mWUNaLTUwRVFhLUNxZzBkYXljZFVBOEFTa3kza3p5WHVmYUlJbkp4R1pJ0gGQAUFVX3lxTE5hTFBnbnhjeWxlb3NPYkR5UzRMUVRVdDgxYXlkaFRNVHl6U2ZvOHBCM1ZTcUNaMENBUWIzUGh3VWtmTEs0Z2FZRmZjQUxvZEVqSzVRbWxzRk1oWEtLeE91eTFacFJiM0c5YW1od1lRYnJVVmRxWGtuWXVjc1FmbjA3XzNZYU92OE1XRUJpa21lUA?oc=5",
+       "source": "The Defence Blog",
+       "date": "2026-10-29T06:07:53+00:00"
+      },
+      {
        "title": "Kongsberg Maritime ASA Estimates \u2013 OSL:KMAR",
        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wM2FGLVVjS29IM2xGcGMwYXdBal9vTTNvbW9fZ0lRaDAyTWY0T3dvUS1uT2dvamVBUnlkc3lhYWRjOU9OWVdnSUtmaHV6eUZNMVc0Y2ozOHQ3anFESUlrUnAtbG1kQ1JGaW81MmlDN2h5dmk5?oc=5",
        "source": "TradingView",
@@ -79,18 +91,6 @@
        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWEpuQTVWVnoxeUYzVE9kd1RsTWduZnVTNExza0NBbXlyajNfSGdNaWVBWjhiSk5NVExkSnJHWVRKa2NicWZJZTJva09GaHBXZVktZGJLcEF2a3hTWTJlbUFWVVh0bmRGZ1lVOTVVeHNJQXo1MmxqRGlGZmVvZGVvUkJpczZsQUhhOTB4a0c5NzBjT0I1RFBVdjRDU0pJQ0JCNDZBOVRvT3RHZTAz?oc=5",
        "source": "Ocean News & Technology",
        "date": "2026-10-23T13:59:44+00:00"
-      },
-      {
-       "title": "Invitation to presentation of Kongsberg Maritime\u2019s third quarter 2026 financial results",
-       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObGtEeEU0TGNkN0dKaF94NXhyX3hETWpuSWxvdFhSaU9GdEpUZzJUYWw2M0tHOVhiTVlacURjMWlvalZMcDFqVFBGZXZKRVNNWEt5WUxkUWQ4U3BLTFZmM0JGX1dnaHRaU3BpQlhaRDY2YXU4bWxNWGhZbUdCb0swYldvU2xhUTdJT0szMlR4RWlIOFlZZGZNZnhlNXpMQjk4cHItOHdpd3FCT25URVUyd2JIMndzODBzczhVcmxyNzhEZ3drVzVFaGdicWN1R0hiUm9iRm5mVE1ZZ2k1T0ZHdUNyRlVhTlJw?oc=5",
-       "source": "TradingView",
-       "date": "2026-10-20T07:00:00+00:00"
-      },
-      {
-       "title": "Kongsberg Maritime wins contract for four offshore wind service vessels",
-       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOFBwNUUxbWIxMkhBTGFFeER0MG5EWlVYMklFTkwwTHp3QjZ6SlBZYnIxaEpSUzJQajNtY3FpU2tkeTJObV8teTZKLXhoVWNlRk91UmRFNnBFUm0zQklEQW52elQ4Nmw5dXhyNXEyMDBFc1F0YVdtdjlEdzl0YzVUdnVpZWpUZ2tEaHd4Nw?oc=5",
-       "source": "Power Technology",
-       "date": "2026-10-14T07:00:00+00:00"
       }
      ]
     }
@@ -124,16 +124,16 @@
        "date": "2026-10-29T22:56:14+00:00"
       },
       {
+       "title": "VANECK UCITS ETFS PLC (GDGB) ETP Price and Quote",
+       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZWZqXy01cW1lVTFBU0ZDbXRCZkczR3ZTVzl3Zzk2NnZ1NURScmJRU21vMElucmtIWDU0dlUwOExncXdVY1JhX2FkdXpDSUtJSjU5Q24yZXJpekhYWXEzLWVteVJ2RzBRRUd6MnpEdm93Y0xxNTZDQWtBeGJXS2NkUS1R?oc=5",
+       "source": "London Stock Exchange",
+       "date": "2026-10-23T08:22:41+00:00"
+      },
+      {
        "title": "VanEck Gold Miners ETF (GDX) options chain",
        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcUVYVVZWcFVsVWd1ZC10TlRWNUtlVTN3WGV6OHpSTmgyWWhCY19qNUxfNm14ZF9Dc0xwcS0zdklURGNwLTJHeVVCQXlXMFBXZGE3azRoSWl4QkY1bUN0TkIzTjljN0JpWVhLOElXTkI1dzl0YXFGNWRkV1R5VzNNN0RfRER2cUdWSmd5czBjUXk?oc=5",
        "source": "Yahoo Finance UK",
        "date": "2026-10-21T20:35:39+00:00"
-      },
-      {
-       "title": "Form 4 VanEck Gold Miners ETF For: 18 October By Investing.com",
-       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWWlNeFZjdDk4MV9hTGhEUUJsdnZfa1RrbnVhMGJqME5ldXdiN1dJRzNRM3NWcVYtX20xTFNMVFRUejJUOVplTUtxNlBObjZqQzdaNFFrYWNxZ2U4LVM0SmdKclV1bzByMF96alJtdkVMYVNSQWIzNmcxR01CVHptelpRVUEzRFlSQ28xUkY0OGlfYVB0WUdLeDJiVFBtNWFzOUJHUXRFdFE?oc=5",
-       "source": "Investing.com Nigeria",
-       "date": "2026-10-18T07:34:57+00:00"
       }
      ]
     },
@@ -217,16 +217,16 @@
      },
      "news": [
       {
-       "title": "Why Is Hecla Mining (NYSE:HL) on Radars as Silver and Gold Search for Direction?",
-       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeEcyMllnU0lDcTRjbnNLS3BTaGxHS3FxR0o2RFh3YUVJMHh3S3cyQjQyNHJzckRxZXBFZzhIbjVxSWNHaDNzN0NJWk5GYktsNUxfdThCUG16U20yaHE2ZncwUUR4ZFNsQUpXeU5wbjltRUlueEZSWktNaklOcDhXUE1Yd1Q4QXZiaXo4TnJLWnFmVzJzZUJaRjJOWXVSbjBnNl9rdlY0SjJVbmVjOEt0dnQyVmZnNjA?oc=5",
-       "source": "Kalkine Media",
-       "date": "2026-10-29T06:34:00+00:00"
-      },
-      {
        "title": "Earnings Preview: Hecla Mining to Report Financial Results Post-market on November 03",
        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTm9IQjVtWmwweDFQd1pTMlFfbmpkX3RCQ2lVeF8xRG9nUE1sUmdDSzI2MDRSbnZRaXZtRFJiSHJiRmV6cWFKZDZzbWJfeHp0Q3BEM0NsdS1ROEx3Um9DVlQtQkJaeGR4QmthNGczOEZEN2MzN0pESURFcDhmR2NyQ3E3RXV2Y3Badm9pT0d6b25idXNwT3NScHB4S0R1OXlFTUFKa1B4a3VGRzVOOUJuQmpTSQ?oc=5",
        "source": "Moomoo",
        "date": "2026-10-29T01:00:44+00:00"
+      },
+      {
+       "title": "Hecla Mining (HL) Expected to Release Quarterly Earnings on Wednesday",
+       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQekdqWXp6eS1xeFdsX0hTY2QzeWJYWUdYcU00TXBUcmV2eDRQRTJxWncyc19UWmRKZE1hYVkyNW9Kb0YxQmhDVnlsOHZuTXdYRzNTNnRydm11QVpydzlLRHJUOXlpZjZ1VU5UTlFISnBhc3FxdFJfQXBrYjZaTDlmNHhtWGp0Y29EVnVzNmRrYURwZjgtYjN1LXpnTTh2SUhHQnFFeHBMeWZINXBCQUtwaXhSRDk3ZlZBTk5vT2Z4bjJLcmkwTjhCcmVB?oc=5",
+       "source": "MarketBeat",
+       "date": "2026-10-28T12:43:19+00:00"
       }
      ]
     },
@@ -618,10 +618,10 @@
        "date": "2026-10-30T18:12:00+00:00"
       },
       {
-       "title": "NVDA Stock Drops: Nvidia May Back Data Center Loan Its Own Customer, Analyst Sees Little Impact From Intel\u2019s Weak Report",
-       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTGdFWTJ1Wm1ISjFPRjVLdVowSFF0RHpiODd4cldVU1VEX3FUU1VFc3hROVlzM3Nsd0RONGE2emNfZ1hsTm9MUUNUR05IWFFnVTJpeEV4TjMzRTZ5eG1scm0yT1VOTWF1X2F1VmoxeG9NaUJqa1hKX0JlbDhGVmY5dEhZcUc0d2hBMGdNUWo2eDdyMlJ0Y3dZ?oc=5",
+       "title": "Microsoft Just Announced Incredible News for Nvidia Shareholders",
+       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc2p0OGdQM0dSRm5QcU82WjBtYXlfVllhMDJoZF9ZZkgzWGxwUjFrV1oyZXRoVndWMXBSMEtTeDZacTRKRzdFTU9UTVB5dFBJUTN1Qk5ZdVRncnlWczBoN3NjTTlXbmVVN3cxaVptZWdpRmJ2d1FBVTYySzlYVlpVZHdydHR3d1d1ajFmZ3R6MG9iM1VxdlFHR2ZjZ2NBS2ltaE4zdTFqYXA?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-10-30T07:22:38+00:00"
+       "date": "2026-10-30T10:25:02+00:00"
       }
      ]
     },
@@ -643,10 +643,10 @@
        "date": "2026-10-31T06:41:00+00:00"
       },
       {
-       "title": "Could Alphabet Actually Climb 67%? Or Is Pivotal Research Totally Wrong?",
-       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZVVLN1NKS0tmdjY0d0FDa3QxVlB1YmdvMjBmUi1GMlFLMG5VY29DaEg1ZU1INXlVS2dvVnBzOUkyM3ZyV1FjaEIwYkxhM1MwWlJvb1FPd2p1WkZreUVIbDAxQ2ZWYVRlc1BVbFcycy1nRGNYZ3BpVDVzWjIzQmxzYU9NZlRUaE1WeHIxYzJDeHd1WG56Zk1QMExyMzA3Zw?oc=5",
+       "title": "Alphabet Shares Plunge. Why Now Is a Great Time to Buy the Dip.",
+       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOLXZLRVNkdjktbHYzSkdIeWJDOXYzNnVzUnVDRFNOZHhkcXVtaWtUWHRzdk9hU0JZdHhsSExCUWxfdVY3c0Q1NWhhT0gtaUtVOGZ1elhIUGVOZUtIY2g3T1YyZk5iamx4LUxua3ZFQVVla1FLdVpxT1p1T29LZjZESEVoSGtfNjRfdl9TbThaZU5HOFBJZWNscXRmaw?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-10-30T13:20:32+00:00"
+       "date": "2026-10-30T13:21:50+00:00"
       }
      ]
     },
@@ -719,9 +719,9 @@
       },
       {
        "title": "Tesla Stock Gets Dragged Down by Alphabet\u2019s Misery",
-       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQekJyTFhHVmdxczdOblVROVN3d1R0V3JzaWV2b2VwOHlQckZWSVp2REhnS1Q0bUFKVWJLUjFoNk45OVdhVUlFbGtKQ1c0QnNRWnlILXJiUUlPXzFpalN1aGxnbVFnbUlVRXpzbnJvTDY3WEl3NlVtQ0dTMFhrV2FGaWZ5WEJ0Yy13ZmlDVDJFYno4RDMyaGc?oc=5",
+       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdnd1NHJVaUJnR2ZZSFhQSVZnRWRybm1tRlhuVHR5cjc1ZFlvOE1TWUdpLXRUQWxrVkwwZkdOTUtmYUUzWk43NUZBempTVUM2ZVJKRkpfeXBYeW9EdWhnQ3dNMGJodGFkVEVHQWdzbzJGWXpvV2tEVTBfMURUcHpwNFEyclF0N2tKb2lV?oc=5",
        "source": "Barron's",
-       "date": "2026-10-29T13:12:00+00:00"
+       "date": "2026-10-29T15:39:00+00:00"
       }
      ]
     }
@@ -730,6 +730,12 @@
  ],
  "failed": [],
  "general_news": [
+  {
+   "title": "French economy \"at a standstill\" adds to budget uncertainty",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVDNDajBpTDVHdUt6UXRncGtKMDNBUEdMRVNza2FqdE1KRWMzNWE3VEJ5SGJOb0FfelBYZ3daSjBXZ0RCNU43UVVWQV9RTWtBX0h2S1g1MXd2WlJPeDdKNnpkSXVEdE5obG0xRG96ZHM4QzhuRVlsTldtWm9jOVN3VVUtWlp3bl9PRTluRzU0RQ?oc=5",
+   "source": "Yahoo Finance UK",
+   "date": "2026-10-30T23:17:41+00:00"
+  },
   {
    "title": "Midterms, Apple earnings, jobs report. Wall Street faces a big week ahead just as investors dump tech",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRXRoRjlKQ2xUdm85RThaVVZWSEZLa3E0SkxqczlRN1YxWmtNc1FTZkJyZEUtQ3JES3RtTzE3TVlUY1JSTmNZYWFqbFNxcjJPOTZrajhpb19RTXJVTmFfSFhPTGh4SUlNc0g0YXJIV3QyRkVUYmhrQnBydGtuZTlZYlZSLU0xeERodlAzVA?oc=5",
@@ -773,6 +779,12 @@
    "date": "2026-10-30T10:20:52+00:00"
   },
   {
+   "title": "The Stock Market Is Doing Something for Only the 3rd Time in 156 Years -- and if Historical Precedent Is Accurate, the S&P 500 May Be Headed for Disaster",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMVZBRkZzZldLMnI5LW5rYWVLZkdLUzdVSjNSLVJjaklkNWpXZHFzS1lVQmpaa0NCdGpWbng3MHlvcEZxSzRoUl9uclBZSzRxRlhBZldUdmZMdWktZ09TS2VER0w0M2ZKbk85QlI3RUVWZ2hrckFseGFJZWcxTkpnN3gxclh6anFRTk02OXd6aGY0MTJ3WDJKTnQyLWZjOU0?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-10-30T10:20:00+00:00"
+  },
+  {
    "title": "SFM Stock Heads For Worst Week Ever: Sprouts Farmers Market Faces Wall Street\u2019s Ire As Analysts Slash Price Targets On Weak Outlook",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOckJrUWhfU2FHU2J1Yk50NFBhWEVlR2lEaUpmYy1pOGdNWmJXa19rUy1EWkVkbzlPWjJlNHZoYWxOeENPMHFrYzcxaElLM1NtQ2kxS3lOWXRiSjFjaG8zNFVRamdNelRlaVhwUUhnekMxRzJtSG5XTWdVWUdWWXkxcUJuczRnci1jMW8xWGF1UVZEcEhVcFE?oc=5",
    "source": "Yahoo Finance",
@@ -789,18 +801,6 @@
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNOTA2TTdGb2RsWWZyLWYzekNJZ24wRUFjVDA5MTBoaGt4N2txb2JobnQ3VG9TTm4ydXh0T0d3MWJIR284NWdyNVA3UGc5WVFMLVIwdzRWbFVKT0tWTjRjUk41aGdOOFQyUU80U2phV3h5OEtjeVVZaXJMd19yUUpLTVVMc09JalMzOWlQcFVZSGt0SFRvX0s3b01ST2N3QzFvQS0zVFU2bEJnVTQ1c1BITkVDVFdxbzJnakpPUXpSdUpwRVhYZ1g2VDRaX1Iwcm1GUTlheWJmRmtqMXl3SWNF0gHkAUFVX3lxTE4wQ2hDNDNIdkhDbWtCbHBpYkdIamJoRGlNMXI1X1FRNVJMT3dYX3N4NS1ZSDJraXpxelBpVkEtYnQwVWN6ZFltZDdvdVF1RjJjNF9lUDU4Vlhnay0tZDMzdTJUUVJ3QVY3ZUphYlFGcjFjOEVFYXhHaFp0UFlfYXpSb2pzR1Q0NTNZSEo1Q1ZnSmVRTExwd0RHUWhKQi1DM18tSV9hbWFSYXJlWUhteVN0NkVSYWtGLVJYUHMzbTNDU0d2NnBsSFh3dEp1dy1sZGhPb1BxaFZ1dDdDY1NpTzVmdU1GeQ?oc=5",
    "source": "CNBC TV18",
    "date": "2026-10-29T23:54:05+00:00"
-  },
-  {
-   "title": "3 Indications a Market Crash Could Be Coming Soon",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZk92VEsxYnQ3NkZBV0VMTHZOd2RPdlVvUDVBNGtvNnNMcGp1TkZsYWFfZWJSYkw1MHdxNWVvam1XaWxKNllBQ2tNOVBnd3dsXy1Rci14LTU3eThDVlhIUmlfTmVBUnp1TlJzX2lkZVptbmRfY1JObXQzZnNlaGNxdGZPLXR6WGNBUXpxS0I0Q0tfckhNei1KX01VaC1udw?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-10-29T10:28:00+00:00"
-  },
-  {
-   "title": "What Happens to Your Portfolio if the Stock Market Crashes? There's Good and Bad News for Investors.",
-   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPWFVkcmFOQWI1MmtVMUhsZVZ0d3NkSWRSN2UxSWZFTzYxM2lUdnl2ZzhBZTg1b29VdzNZQXNNZTRsYXBOM0tSVDhUUGpFbVlPY1dxakcya2xRQUtjS0lVaE9kY3RoREZNeXVOQUxzWlFoRmlONDk0Uk9vZGJELWtFd0hKTERGaWREdk9NUWF4WWtkem5wZUFHU3ViaW4yZXA1UGk5b1gxQjJwQWx4X3IzM3h5MkNpRFAyMUk4dWhQTUpteGZGVWtRTjhlOWdEdG1hYlBFWTlkbWdBbnk0TkwzOC1ldEMzem9HenRvYTlqMlFTcGxSOWZuZFRhU3UxQUI4QjROc2tZZXc?oc=5",
-   "source": "The Globe and Mail",
-   "date": "2026-10-29T03:36:00+00:00"
   }
  ]
 }
