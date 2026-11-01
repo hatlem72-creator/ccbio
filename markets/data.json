@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-01T10:17:31.133028+00:00",
+ "updated": "2026-11-01T10:59:02.228963+00:00",
  "usdnok": 9.187100410461426,
  "btc": {
-  "price": 78010.140625,
+  "price": 77887.8203125,
   "prev": 77434.75,
-  "chg": 0.7430651290279977,
+  "chg": 0.5850994708448187,
   "currency": "USD",
   "asof": "2026-11-01T00:00:00+00:00"
  },
@@ -44,16 +44,16 @@
        "date": "2026-10-30T01:11:00+00:00"
       },
       {
-       "title": "Kongsberg Gruppen (OB:KOG) Earnings And Defence Wins Put Fair Value Back In Focus",
-       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMlBUbmt1dS00X3JYc0R1c3BkeHFnWThYbnZMakI4cWdRZWhfYTBUY05qakhtLVhqVEVSX1A5MXJTdHdueUtFNjUyVW1DUzcwdF9HY0FOVDliX3MxYUY0Ulctc0NXbDl2Y2dUZUx3dk5jVmtxUzJrVVNpVGFpcVBMZTFFZVJpcV9jYzlhd2RPcGM1ZVRybGtJYkhpX1FmcDNvV0NneF9IeWxNS3dKUmJkTWppakVHWHFrWC1zem5GQzlLVFZwR2k3YzFoM3RCUi03ZFpxTDZHam9yMjjSAeABQVVfeXFMTmFGTmJpanczRGNZMjJySFA4eWE1dy1LNXdKTWZmM0w3VlBNQzJ2dDYxMXk4amhvc0ZUX1pDd2hvdkZmSWtmMk1pcl9XSjkxX1R6LXZURGtMVUtENkpvUVE4bld0WUdhMWVkUTdmVHo3OVBxQ2tEZEZyLU1sLTdlaU53c3BXNGw3RVhxMUdBc1BsMXUxZ0NubFF0OE83U0lzelhQZFBqSFgzLWZNOGtPM2JXRFZNcHh1bGltTUQyeGpnb0dKa0RWMXlleUdzNUo2NlJPZ29wX2hfV003eHpNQXo?oc=5",
-       "source": "Simply Wall St",
-       "date": "2026-10-29T15:56:10+00:00"
-      },
-      {
        "title": "Kongsberg Gruppen ASA (NSKFF) (Q3 2026) Earnings Call Highlights: Record NOK174 Billion Backlog ...",
        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSzFCM094bk1BSTFEQkVkMUk4VXo4VGN6OGx5Z21KRm1mZlRMcUJDT3JoczFCSmo4WXhHY0pNU1N0amRaNWg2ZFdYNHdfTHR4Z04wcmxYNGRuRWE3TTJjM1lXa1VnN1R5akdvcGY1YjJMZFpaYXNpaXk0cEh2ZExWNHRENHR4aTJwVlNLdEE0REFKQWhGLTUzTC1FWQ?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-10-29T15:07:36+00:00"
+      },
+      {
+       "title": "Kongsberg Gruppen Asa Secures Us Government Contract for Autonomous Underwater Capabilities",
+       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUTMwMzNXVWRYdm51ZFhzMXdlZEVGcGpsQXhmaEhRelJsUk13di1UVXV0U3NuQmtCQWRsc1RoejF5TC1VaXVFalJENHgxMXF1eXZNS0RQWE5iTVdEenBHcjQxSkF1V091QmszZGRWdGlCYTBhaEJWNk5PS1hRcTRabmZYQ1c3NWFLMDhub0NJbmttQnNDRmM1NVVJbnNGSDVidklGbDJjVWpXY0x2ZXBabFJ1NE5sOGlWVWNxQXc1Q0tPbVFoMURkSmhOb000N3owN2pTZUF6Nl9WTUYt?oc=5",
+       "source": "www.marketscreener.com",
+       "date": "2026-10-29T14:08:05+00:00"
       }
      ]
     },
@@ -69,6 +69,18 @@
      },
      "news": [
       {
+       "title": "Kongsberg Maritime Q3 2026 slides show record backlog amid profit miss",
+       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQk9KT1V6TjZWYi16cWRNeUtMZlZlb0JPcTUtVmQxVnMzU2Q1UE5kMmZiVzE0MzNHOFJCdzdZbjBZNUROYllFZnFhUDlqenJmdktZTk1qYWg0M01oZXYzNTJjR3BuNnI4aS1IZ2M2anJLWEU4aUNEc212X2hrOHZNM29pZDNPNllWbkNfdFUwVWhIQm9YVVNjV1B3M1FMZy1saXNDemd3NEVlZkxtVnRBVnpScVNXbldEYXVBeW90dzQzMmZpUFczNUU1VQ?oc=5",
+       "source": "Investing.com Nigeria",
+       "date": "2026-11-01T10:49:28+00:00"
+      },
+      {
+       "title": "Earnings call transcript: Kongsberg Maritime misses Q3 2026 profit estimates By Investing.com",
+       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNU2ZmdHRTdmZYQURjUV9QdFF1aGo1TC0xaTN6R25rSFR4VG9pakRlbGJ3R2djc0ZqNUdGY20tZzRUd1EzWFhWd215YWlQdW85b19kQzg5MG5YbEdNYVJKbmFHLU10MHFvVGxRUzFXby1tWHZ4eTI5a3lzaDVtT1E1WnZPekZfM1RaMHV5cUlMWTU3T3RzN0VmRktDc3NxWlJIeDUyY0JmX1JQMHJfdkZhTXNvdDY2Q0dOZXdxYWZ0bDY1R0VMN3RtQ0JQWVZzekh4NXc?oc=5",
+       "source": "Investing.com UK",
+       "date": "2026-11-01T10:32:00+00:00"
+      },
+      {
        "title": "Kongsberg Maritime ASA Estimates \u2013 OSL:KMAR",
        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wM2FGLVVjS29IM2xGcGMwYXdBal9vTTNvbW9fZ0lRaDAyTWY0T3dvUS1uT2dvamVBUnlkc3lhYWRjOU9OWVdnSUtmaHV6eUZNMVc0Y2ozOHQ3anFESUlrUnAtbG1kQ1JGaW81MmlDN2h5dmk5?oc=5",
        "source": "TradingView",
@@ -79,18 +91,6 @@
        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWEpuQTVWVnoxeUYzVE9kd1RsTWduZnVTNExza0NBbXlyajNfSGdNaWVBWjhiSk5NVExkSnJHWVRKa2NicWZJZTJva09GaHBXZVktZGJLcEF2a3hTWTJlbUFWVVh0bmRGZ1lVOTVVeHNJQXo1MmxqRGlGZmVvZGVvUkJpczZsQUhhOTB4a0c5NzBjT0I1RFBVdjRDU0pJQ0JCNDZBOVRvT3RHZTAz?oc=5",
        "source": "Ocean News & Technology",
        "date": "2026-10-23T13:59:44+00:00"
-      },
-      {
-       "title": "Invitation to presentation of Kongsberg Maritime\u2019s third quarter 2026 financial results",
-       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObGtEeEU0TGNkN0dKaF94NXhyX3hETWpuSWxvdFhSaU9GdEpUZzJUYWw2M0tHOVhiTVlacURjMWlvalZMcDFqVFBGZXZKRVNNWEt5WUxkUWQ4U3BLTFZmM0JGX1dnaHRaU3BpQlhaRDY2YXU4bWxNWGhZbUdCb0swYldvU2xhUTdJT0szMlR4RWlIOFlZZGZNZnhlNXpMQjk4cHItOHdpd3FCT25URVUyd2JIMndzODBzczhVcmxyNzhEZ3drVzVFaGdicWN1R0hiUm9iRm5mVE1ZZ2k1T0ZHdUNyRlVhTlJw?oc=5",
-       "source": "TradingView",
-       "date": "2026-10-20T07:00:00+00:00"
-      },
-      {
-       "title": "Kongsberg Maritime wins contract for four offshore wind service vessels",
-       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOFBwNUUxbWIxMkhBTGFFeER0MG5EWlVYMklFTkwwTHp3QjZ6SlBZYnIxaEpSUzJQajNtY3FpU2tkeTJObV8teTZKLXhoVWNlRk91UmRFNnBFUm0zQklEQW52elQ4Nmw5dXhyNXEyMDBFc1F0YVdtdjlEdzl0YzVUdnVpZWpUZ2tEaHd4Nw?oc=5",
-       "source": "Power Technology",
-       "date": "2026-10-14T07:00:00+00:00"
       }
      ]
     }
@@ -124,16 +124,16 @@
        "date": "2026-10-29T22:56:14+00:00"
       },
       {
-       "title": "VanEck Gold Miners ETF Cert Deposito Arg Repr 0.1 Sh Estimates \u2013 BCBA:GDXC",
-       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwZHJTNFRyLXlhY25zOTFDOUdNN1czZUQ0clFsaTNZaGtHWEdQVEMtWnVvc1JhRnMzNUgzelBUcGswYmxERUhycms5S3A5OW9JVk9JZ1hGVGRPNi1LSlhCYlZibUR3bTA5V2V0VWpjY2lxT0EzT3c?oc=5",
-       "source": "TradingView",
-       "date": "2026-10-26T00:10:23+00:00"
+       "title": "Looking for a Hedge? These 2 Gold ETFs Offer Very Different Ways to Invest",
+       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaGlfQlNuaUlEZVhxOG1sRWhlN2VndjQyNko5SFAxU2FnQ1VtVjRqcmpjNUdXak9ON3N5MVhJMGlfaEVkQncyS0YyS0VWRWNhclU1X2x3VDAwMlA2VmtPeHR6TnZ1OGRzWmxYdWt4cVozTUZBUXZuNHk5NkRsVFZaRmhqMmRNN2JkSzNsRUE4bTBsbU1IanA5QVJVVDgwb0NMRmltV2VVUlkxUXFyZjhzdzg0ckpiUmJBbW9ZTg?oc=5",
+       "source": "The Motley Fool",
+       "date": "2026-10-23T07:00:00+00:00"
       },
       {
-       "title": "VANECK UCITS ETFS PLC (GDGB) ETP Price and Quote",
-       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZWZqXy01cW1lVTFBU0ZDbXRCZkczR3ZTVzl3Zzk2NnZ1NURScmJRU21vMElucmtIWDU0dlUwOExncXdVY1JhX2FkdXpDSUtJSjU5Q24yZXJpekhYWXEzLWVteVJ2RzBRRUd6MnpEdm93Y0xxNTZDQWtBeGJXS2NkUS1R?oc=5",
-       "source": "London Stock Exchange",
-       "date": "2026-10-23T08:22:41+00:00"
+       "title": "Form 4 VanEck Gold Miners ETF For: 20 October By Investing.com",
+       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOem11VXV1VDd5LVpxMkx2NDBnQTdKVUl1SlB5bDloMDl0V2h3NjJQemdZRWpYbzl1UWNraEZLYnZRbm5pQklYclBLbm9qM2JOdmNRLUZsR3Y3U1hidTZCbHU1U0piY3pzS1VodHlzNzJaOHVmMHNadS1mVk5wZXhkQzJOZkFXVHBNM2FmZURIVlNmZ1JLWFNQTnJMbGdVSUV3Mzk1M2owX3E?oc=5",
+       "source": "Investing.com India",
+       "date": "2026-10-21T07:00:00+00:00"
       }
      ]
     },
@@ -155,10 +155,10 @@
        "date": "2026-10-30T07:36:45+00:00"
       },
       {
-       "title": "GLOBAL X URANIUM ETF (URACO.CL) stock price, news, quote and history",
-       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1XMkhGajJyYVNSYzJ1cjZUblVYUkFFcFp4RXZER2FmbWZlUVdqODdlc0ZpMDlvdWhRbDZFZzNldVM5MFZzazV1Y3hiNThyd0l0OXhxbWNSVQ?oc=5",
-       "source": "Yahoo Finance UK",
-       "date": "2026-10-24T13:02:49+00:00"
+       "title": "KCR Stock Price and Chart \u2014 OMXHEX:KCR",
+       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZbDBQOEYtOG11c1gxNFY1eXh6TU83R2lpblBEVDJaVEpWVmljZHdkMklDeldKYlNZNk9rWFNaQmtPUjBXcktpYTdMdFVxQzNyLVB0NnlMTmFlbEE?oc=5",
+       "source": "TradingView",
+       "date": "2026-10-23T07:00:00+00:00"
       },
       {
        "title": "EAM SK Fond bud\u00facnosti",
@@ -292,16 +292,16 @@
      },
      "news": [
       {
-       "title": "Earnings Preview: Coeur Mining to Report Financial Results Post-market on November 04",
-       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNV2JIRWRQcUNGWDdwNzBYZEJ0aGx5S2I5dmVrWk01c016QWZtamJ5UGdtWUcwVkYzLVhNODRnRktaV0wzbW5xWngzaDdiTTVRN0hIQW1uYlRjdkRmMkJyZzEyejZ4OGxEX0dKam1fc3BzWUNXSXNJZHlsSGdWSlZPZGJFQTY5b1lleFpXVHFUZXVFeXRYaGhXRXY4d09qcVgzVi1GNFBFdGFiZ3JUQzN5cU5yQQ?oc=5",
-       "source": "Moomoo",
-       "date": "2026-10-30T01:00:42+00:00"
-      },
-      {
        "title": "Coeur Mining, Inc. (CDE) Seasonal returns chart",
        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1YnB3SDFTaHhLbF85TXNlMUx4TjE2U01PbWZlcHRpUk5qRFNmMWRuWHFLVUt4RE8zaFZuM0YxckxKOFdXZnZlTWpLU3VyYVRzN2dQem1DbEp3TlNzM2hBQg?oc=5",
        "source": "Yahoo Finance UK",
        "date": "2026-10-30T00:26:13+00:00"
+      },
+      {
+       "title": "CDE Stock Pulls Back As Bulls Test Key Support",
+       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9RNTNwQm56TjlVNFQ0QTFUOHhrVmtyYmJxVUVOMnNqU0hTQU5XT2JUa3RnbXVJUjJGSWNiY3MtZzNqQ1QtelhSRDZzSDQ4bDNoMEhjeTV3SDdKc3Q1MTlpQ1NQQmxvMWJ5dG1sQ3ZZdDZId2pzSjEw?oc=5",
+       "source": "StocksToTrade",
+       "date": "2026-10-29T20:03:00+00:00"
       }
      ]
     },
@@ -342,10 +342,10 @@
      },
      "news": [
       {
-       "title": "Defiance Silver Corp (D4E.DU) Latest Press Releases & Corporate News - Yahoo Finance",
-       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UODNIWWJMMzhNME11OGhlS1RUdU5OWXA4UmVtNkgtYTVpSjVBejJSR1RoTTdHODd4SUNtQ01uOGllWlhKZ3paaGNjajFQdTk4aFpDNHBCb1JlbmQtZ0lFQXQwTHFmNy15?oc=5",
-       "source": "Yahoo! Finance Canada",
-       "date": "2026-10-04T10:28:46+00:00"
+       "title": "Defiance Silver Corp. Reports Earnings Results for the Full Year Ended June 30, 2026",
+       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQc180cE45amExU3k2S2RSejVoMGlEM3A0OHNXcjJ6Z2tUbHZtc2FMenNhaGI0QWwyWkNnLU8zbGNWcXhGVFJaMFdjVVRfOEtleUNQUTd3UnVVbmI1RC1XM3h5SHpmMHdCNF9mNjI1bHhGZFdzME5IZkZsTVVVbGYyQmMyY2VZbG1HeEZMbl9Rd2RvZWtpajQ2eUs1SlVPTGJYV1dBRC1RSm0yYWdiQVpjN0xEUmswcG1xNnNJZ0lQckt3TE9lWFB1b3N2eV9EQXlZ?oc=5",
+       "source": "www.marketscreener.com",
+       "date": "2026-10-28T21:08:00+00:00"
       },
       {
        "title": "Defiance Silver raises C$3.27M in private placement",
@@ -593,10 +593,10 @@
        "date": "2026-10-30T16:45:00+00:00"
       },
       {
-       "title": "Microsoft (MSFT) Stock Shrugs Off Q1 Earnings As AI Spending Looms",
-       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcVl0VWhEWUhhTi1wb2pFS2EwdEhvem12dWtCNENMNGRhNjVCbkJ4OHJsLWgtaVRSa2xXcFFoQ1I0RzNLRVdUTmhjYVVkZDJQTmM3SUdZUk5jcWFxZjZfcnJrQnF4Qm5ickpyOU01QmJqMUNsQ2l4UjNmWU9BcDN3Nzk1NUVsTklzTmtUQnM4dTlFLVZEQzRpVkgtUWo?oc=5",
+       "title": "Wall Street's top analysts are loving Microsoft's Q1 results",
+       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObEFmRTFLdVJVUW1Yc0dGQTYxTXdsR1N4X3pYUDlrNWFLSmFfbldGMXNFbWdwbWtmRUN6d2VrWDRlS0ZLVUQwdEM1U29hWG9GbW1vM2ZyLXFJenc5U0NWTVpoTHh5c05MODFQMjNwNjB5a3YwQjVZNjdvX3VsQ056WXpkUGVMM3Q1dFFxTldTVXVJbFdkek9XSTBzQWFZUXNhemN5enR0dEJYZy1sQllRZXo0Qy15VU9ndEE?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-10-30T03:20:00+00:00"
+       "date": "2026-10-29T16:18:37+00:00"
       }
      ]
     },
@@ -618,10 +618,10 @@
        "date": "2026-10-30T18:12:00+00:00"
       },
       {
-       "title": "NVIDIA Stock: Analyst Estimates & Ratings",
-       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS3F4WldNbXdBemQ2d2I5OUZkQmJrYTdFcUZGRHpCSlV3TDlQSjZVbzRsMUFXWmh4M2RIYjRKUERieUhBUkN2Ym9ENElqZ19JWEtLWHkyaEZBTTRYemR1MVR0WHltSlNpN0tZcy1vTE0yRTJUVGdlckNxX0JNeVRZdlpqbEFTUHcwci1FZEhCOUtQM19FRG9WNERqa0Uxd293a1lKSHpR?oc=5",
+       "title": "Nvidia's relationship with China just got even more complicated as report says Jensen Huang was target of spy plot",
+       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQZEtab0tTUzA0MEtoX2xaenB3THdSLUFwNF94eUUtLWtZbG9BUm5TajVNZTBURlNfb0wxWExIcmFQSFJGV3h1YktYNXlCVjJpOWVzT3EzRjdSVV9jakZETlNQU1hyS1p3SERyVU93QzJZZmE5TXRGSlFoU1E1cFFSeW9RbFBIR0FlVXhwZW1lWTgwTU1JX3NTQm4tanVVdEEtd0VOSjJmZ3dVaXk5T2dvUC1tWDlGZGpWT1A5YVp3blczSEJIOHlGblFfOS1ubEdUbFpxejZwYVJaMld2XzVTM3J2NTBMc2N3ZHVNeHc0RURmdGpPTVZQZE10bXZSZUtUcFpN?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-10-30T15:42:30+00:00"
+       "date": "2026-10-30T11:16:08+00:00"
       }
      ]
     },
@@ -687,16 +687,16 @@
      },
      "news": [
       {
-       "title": "Meta's Muse Is a Breakout Success. But There's 1 Glaring Problem With It.",
-       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQWowRG5Zd0g4bHVVSG9tb1k5aGtiWDJCVXlQOS1LNUpyV3h4SUlIVDVYR01vQ0dBZkZOVFVXaVd6MFFUeXdrVEVUWWtiYzRXWjJHZmFMTFZ1M2t3bDF3QkhXYWlQUjY3R1V3aDgtX2lwaDdBbTJ5X2doZWFBV2xaNFZlOGlFdnJXSHFKcG9lbU9DZ1B1ck9FeWE0S1VTUTg?oc=5",
+       "title": "Should You Buy or Sell Meta Stock After Its $95 Billion Bombshell Announcement?",
+       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQWNueG1FVWtlamZtX2VsZ1pNcS11bDJ1SUdqakY0ek4zZE92UVJ2RGlPWU1pX1BMS1h0WmhaeGp3NGRNNmtQamJ4WTM3eXhtVzA3SU9ndjNkYmk0ZXk2U2R4aUZvMEVzZldnQUhwR3BiemdpaGM1SzRnc2c5YnY2dG5GMDFMZVVSd1p1dTVndjU?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-10-30T16:08:00+00:00"
+       "date": "2026-10-30T11:00:00+00:00"
       },
       {
-       "title": "Will AI Equity Raise Change Meta (META) Stock Narrative",
-       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTnBGN0VHMkVnVU15TE1iaS1ZMDVSYklISTZVdzFidFlFcVVkN05NVG9Ldm9rYnlFc2NjNjh4NVNscE9mZ1VuSTNqcjFqVHd5eXlycGRwb196ZE8xQ2wySGx4WE5lZHNrblB5RnY1NjZmUzNEbGIweXR5cWJWa3hsQm5n?oc=5",
-       "source": "Yahoo Finance Australia",
-       "date": "2026-10-30T13:10:51+00:00"
+       "title": "Meta\u2019s Unusual Stock Split Comes With a $60 Billion Twist Investors Should Know About",
+       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOM2xkR0Z4TFBwOUVtd2JTOFNTWmJOdENmNU9kUXViMXNlZVBHTEpwYzhaUzcxelZsNmFRQ09PdG1iTmFKOEdaOUFhVU1MNFhiWERYN0trQVc4WUtubGVWaEtwRnphTzFRX3UtU19SUUZYclpRNlB6YWV0ZnFIN3VKXzUzSG5IOEt1YWpGRXBXUnBBOUVvdE1uaGtJcw?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-29T14:32:18+00:00"
       }
      ]
     },
@@ -732,9 +732,9 @@
  "general_news": [
   {
    "title": "The U.S. Labor Market Just Delivered Its Strongest Signal in 57 Years. But There's a Catch.",
-   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNOXFTS00xNkpITVBUZlNvc00xaHE2Q093TGxxeEtMYVc4MTRQOE0tRFUzeVk2aUxOcFlZRXZja2pSTlJvcjVzazlNMWNCamQzTTJjNVFhNjFhX1A0TnFtY3NoSDI4Nm1OeEI3Vml2ai1LcHFTbWdRdmVBTTc2cnhteVB6RExJV0hnUkI0WVZ1Tm1wNUhmeDNUY0oyQ2lWVDhudEN3a3YyQTkzM2tuS0RpRlRnT3FOZ0tscktsVU5FTklmZnAwb3dWQVBFdGxBRnF3XzVwc29yYl9SVHo5S0NxY1JLS0U1dG9SVWdBYkY5OV9zQVAxYTZJRFdJemVzaDZU?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNd0d4bWdkV2N2RzJHSTRHWF95TTFXQUt3UlUwSjBQVk94S3JuU1U1dzVFaGNWWWZPSHp0dXF5MWx3SmZwMzlrSlBXY1Nnb0NSZzVmdkVFSkdva1FHUGNUYUJOdE9aVDJzMk41aGdyWmZPUUZaR2VBWmJxVzBWTFV5a0V4VmZqVmJyOXZvRlg0aUxDdW9BTkNWdW9xQ3BXWUt6VDZsMHlQZjY3UlVaQkJOUFhWa2NkLUJLYkhpSkg0bm12X25oLUs1cGhSdFVlZy1BSWwwR3FoaDUwQUJ3OU1OWFd0WV9ybUdCRDQ3YWRtOWFrM1lXTnQzU2o4c1l4ZjgxWjhaTQ?oc=5",
    "source": "The Globe and Mail",
-   "date": "2026-10-31T20:25:01+00:00"
+   "date": "2026-10-31T20:05:40+00:00"
   },
   {
    "title": "How Lowered Outlook At Sprouts Farmers Market Stock Has Changed Its Investment Story",
@@ -785,10 +785,10 @@
    "date": "2026-10-30T06:07:57+00:00"
   },
   {
-   "title": "Cavendish Hydrogen ASA: Invitation to Third Quarter 2026 Results Presentation",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNHQ5MWF0THE5VWZDX3BFOGpfa2xUYzVFcHppNmJXeFVNbjNtTVZjSER0ZTZXMFBEWjZIZHVjdTNXbFgtS0JIUU1qZ2FfV3FpM0FhVERLazZhOVBLZGF6OHYzdGNsYXVwU1NTVGVIWmJtS29FMWRraFFvVzI5Z19EcmRMU0xnNmJlZWhvcF9ZblhiUFYtdlYyN0NGcW5FMG1FTFdVa1FzZVBEeTJhZldyeUVaV25lVDRoMjdKMDB6M2JfdlptamJyTU1ubk8tNU9tdURXOExQR0NiQQ?oc=5",
-   "source": "TradingView",
-   "date": "2026-10-29T11:00:00+00:00"
+   "title": "Saurabh Mukherjea on how to invest if there's a bubble around a stock you like",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUXJ0eHd4LW12N0dHR2J4NDl0cEdxTTBXRXJic3pvQXpkcmdaRHdpQXpLUU9kQjk3TTJFVHN3eERMd0VoOHp5MFZ1Y3FMOEl3VXJ5UVMxeWpOcG5LNm5FOHl0SXFMQW54VUhaOE9HTmgxOVkzdFc5SjNwU05LLW5WRjlWc2lYS3RLLTBXVUp2SWd2VGhDZDVhMlFTRlRWbHlpVWhuUXZRWTI5aThVQzNGcjZwZklYOU4wcmxydzR6bHlPUkhXUnJfSg?oc=5",
+   "source": "Livemint",
+   "date": "2026-10-30T03:14:39+00:00"
   },
   {
    "title": "Envipco appointed exclusive supplier of 1,700 reverse vending machines in the United Kingdom",
