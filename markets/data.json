@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-04T18:52:20.763090+00:00",
- "usdnok": 9.309809684753418,
+ "updated": "2026-11-04T19:53:51.410733+00:00",
+ "usdnok": 9.307290077209473,
  "btc": {
-  "price": 80355.9609375,
+  "price": 79974.328125,
   "prev": 77345.046875,
-  "chg": 3.8928337161215243,
+  "chg": 3.399417747136768,
   "currency": "USD",
   "asof": "2026-11-04T00:00:00+00:00"
  },
  "silver": {
-  "price": 52.21500015258789,
+  "price": 52.2400016784668,
   "prev": 49.58700180053711,
-  "chg": 5.299772635219724,
+  "chg": 5.350192150356925,
   "currency": "USD",
   "asof": "2026-11-04T00:00:00-05:00"
  },
@@ -81,14 +81,14 @@
        "date": "2026-11-01T11:13:05+00:00"
       },
       {
-       "title": "Kongsberg Maritime hits record order backlog as newbuild demand surges",
-       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdG9UOER4U2h6V2hBeGNYS0hneTB3ejlMV0kxek1BM1ROWW1xM3c4UWlpekF6T1pIbjZiWDFsbDZWZXRPZVBIc0VPRUktZVpWNWZzN1Bxc29iMjNKaHFWamdPRnpvZUJEQzVUQWNrcllMTGg3TE45cUtiSHppM3pLU0U2ZElLTm1peUtzeVpZMnJrWFZTYU1KX0hoMTAtUmpVUUdtS1BUOTZGRzRsV0doQW1jZHVtRm95SmVyam9PUlJaZw?oc=5",
-       "source": "TradeWinds News",
-       "date": "2026-10-30T06:49:22+00:00"
-      },
-      {
        "title": "Kongsberg Maritime Q3 2026: Record-high order backlog and solid execution",
        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWFltdV9xTXpvMEU5NDBWbzlxcFRzX0ZReTZfODBNcEQwa3JzaXVmdnIxcFFvUDZLa0VXZWIzTTFVSFFvU2pEa1JXRDMwOC1XaHF2MDFkNjlaRVcyRFVsMFIxbkJ6VEd6Q2s4WXpmZjhnUnBIcW16LUs4WjRySzZ4cUdjbkQ4ZkNCdV9DN2VkbWJPcFVwS25ZYmdHd3BtdTJ3OXowYVo5QUxFVTBaOEd2RXppWFZsdFlzeTVzQTZXWktySllsUnNmSWhHWWcxS1JVOUE5Tw?oc=5",
+       "source": "TradingView",
+       "date": "2026-10-30T06:00:00+00:00"
+      },
+      {
+       "title": "Kongsberg Maritime ASA (KMAR) Posts Record Backlog, Q3 EBITDA MNOK 1,041",
+       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOX2QwU05CaFlCbEVDREVUZkVoZnpobnFJWEhnaU9uVWVLN0tOcFVvblZHdkNrejYtVFJvejhXUGpTXzF1Q0UyX0xJVnVHY29RUmpObVlOZG1ZWDY3TzVlUFNHYVVYdVBncEJqSTk5d1JvYndkTmpNUlVZUU9WRFhQa013dHhnLXJaNTBsUFZzS2RtMHQxQnpBQzVzMjdNeWpSM1J4aHdsdDd6VVVxaXZWYmJDd1VlRkZFNEhGa2UzeFE2RHc2bnR6NGNIcw?oc=5",
        "source": "TradingView",
        "date": "2026-10-30T06:00:00+00:00"
       }
@@ -148,12 +148,6 @@
       "asof": "2026-11-04T00:00:00+01:00"
      },
      "news": [
-      {
-       "title": "ETFs Investing in Yaskawa Electric Corporation Stocks",
-       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1CNHJxYldfM3o0RXFXbnM2SDA1bEdEVHM1OXFxc3FYZjQyQk9oaWI4eTdjcHFqMHBaWEl4UDJ4VWhoM21ad2ozTVJQNnNiNWVZbFpxMGJCdmRZMkxkZUc5SGF3?oc=5",
-       "source": "TradingView",
-       "date": "2026-10-29T13:18:03+00:00"
-      },
       {
        "title": "Best Growth ETFs For UK Investors In 2026",
        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9MQ1YzYmEybHBIMnpRZ2FOSWNEbklKc1FfT2h3eThPS3k5WWhsRzdROFFwVmpEQlc2UGZwZDY2OVdqZU55SWZILXNEdlRBQjVjbnZUeWVKZjRjUGVVSkh0bG9MNzdDa21uVGczS1pB?oc=5",
@@ -215,9 +209,9 @@
      "symbol": "HL",
      "name": "Hecla Mining",
      "quote": {
-      "price": 14.795000076293945,
+      "price": 14.885000228881836,
       "prev": 13.210000038146973,
-      "chg": 11.998486249582996,
+      "chg": 12.679789446615498,
       "currency": "USD",
       "asof": "2026-11-04T00:00:00-05:00"
      },
@@ -240,9 +234,9 @@
      "symbol": "HYMC",
      "name": "Hycroft Mining",
      "quote": {
-      "price": 17.790000915527344,
+      "price": 17.73240089416504,
       "prev": 16.09000015258789,
-      "chg": 10.565573317698362,
+      "chg": 10.207586861414587,
       "currency": "USD",
       "asof": "2026-11-04T00:00:00-05:00"
      },
@@ -265,9 +259,9 @@
      "symbol": "ASM",
      "name": "Avino Silver & Gold",
      "quote": {
-      "price": 4.675000190734863,
+      "price": 4.679999828338623,
       "prev": 4.269999980926514,
-      "chg": 9.484782473476084,
+      "chg": 9.601870005703073,
       "currency": "USD",
       "asof": "2026-11-04T00:00:00-05:00"
      },
@@ -290,9 +284,9 @@
      "symbol": "CDE",
      "name": "Coeur Mining",
      "quote": {
-      "price": 14.630000114440918,
+      "price": 14.604999542236328,
       "prev": 13.40999984741211,
-      "chg": 9.097690387105018,
+      "chg": 8.911258079207451,
       "currency": "USD",
       "asof": "2026-11-04T00:00:00-05:00"
      },
@@ -301,7 +295,7 @@
        "title": "Final Trades: Amazon, Coeur Mining, FTAI Aviation and Apple",
        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcVBEbk1VVWlxVldNb05BODVkWHdoTUpXOGJOR25tS1NrZ1VjdjM3LUxYZ1pDRjR1RmVfN2x3d1FVcnczRzVNcGtGOE03RXJsN2ZOMHpIc1h3N3VzZVIyMUJvQnJGdWtRQkZtWnU3V3pwMVZfM1lob21CZTdmSmpZMWQwU3VlcUw2MjZCNFBCX3paekhVZjNfY0VhSQ?oc=5",
        "source": "CNBC",
-       "date": "2026-11-04T18:15:53+00:00"
+       "date": "2026-11-04T17:51:35+00:00"
       },
       {
        "title": "Why Coeur Mining Bears Were Right Before The Drop",
@@ -315,24 +309,24 @@
      "symbol": "AG.TO",
      "name": "First Majestic Silver",
      "quote": {
-      "price": 21.229999542236328,
+      "price": 21.360000610351562,
       "prev": 19.770000457763672,
-      "chg": 7.3849218546644835,
+      "chg": 8.042489204715707,
       "currency": "CAD",
       "asof": "2026-11-04T00:00:00-05:00"
      },
      "news": [
       {
-       "title": "First Majestic Silver earnings up next after production miss By Investing.com",
-       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYUtwcm5zR0tvNDVzeGE4YVBhcVVLbmRHQkQzeDREeUZzd21MeVdXQWdtcGY0Z1VSQ1JTZmxpV1ZfT3FUX3RWRzZBRUU4Nk1VN0RVLXJ0UGYwUmFVRm1FVV9EN25VUUNxYmVseDUtZ0trMk1hc1BCNnNRcmNvU2Y2UF9aVUU5NEFySVJkQm9sV2RGQm9hcGNhamdBM29sSzhoalVtM0ppcHhkZkNuQ2FtYTk1WmFOU3NWQU1uWEF3?oc=5",
-       "source": "Investing.com Canada",
-       "date": "2026-11-04T17:33:37+00:00"
+       "title": "First Majestic Silver earnings up next after production miss",
+       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYnpDRWpsWFpXSVNWWmk3S0puV1V4dDRLOUl2UHdhNlE5azI2TGs1QnBsakpUbENGc2xjV3RCaHhKRXY5WFlWNUhISDE4amJxbGx0ay0wSWRSR2NXSmtXZHNVVk5IZndMZE1oaC1OZG5jN1dVMGEyd1hNM0lFaDVmZGhjODgxVEdNanI5RG9mcUJ1VE53VlduREFaZFpvNTJhczhTdDltLW1LajJlTm9YeGp1bw?oc=5",
+       "source": "Investing.com",
+       "date": "2026-11-04T17:32:30+00:00"
       },
       {
-       "title": "First Majestic Silver Corp. (FMV.F) Seasonal returns chart",
-       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9uckhxc0cyUDh0ZVBCQ19nQ2UyQ2VkVU5LTXRrd01GLUszU1laR212ZkNuSlNGeVFWaWZlSzE3WUJWTW1pUm1MNmNVbTBfbVZaNFdFZW1QdVhMa0VzTFY3ajRfYw?oc=5",
+       "title": "First Majestic Silver Corp. (AG.TO) Seasonal returns chart",
+       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBxOVFlV0ZVWlhtNTlpYmZkekFZLVlHMWZtVFZFcWdfdkxFUTlDWURBSE85TnRaclFBWmNGYkNMeDR3VWRBY1hfTTdGTEdwbmlyMjYtQTUtN3NqWnk0clJ5MDlPWQ?oc=5",
        "source": "Yahoo Finance UK",
-       "date": "2026-10-30T12:58:09+00:00"
+       "date": "2026-11-02T14:56:22+00:00"
       }
      ]
     },
@@ -365,9 +359,9 @@
      "symbol": "GRSL.V",
      "name": "GR Silver Mining",
      "quote": {
-      "price": 0.25,
+      "price": 0.25999999046325684,
       "prev": 0.2199999988079071,
-      "chg": 13.636364252114097,
+      "chg": 18.181814487315396,
       "currency": "CAD",
       "asof": "2026-11-04T00:00:00-05:00"
      },
@@ -390,9 +384,9 @@
      "symbol": "GSVR.V",
      "name": "Guanajuato Silver",
      "quote": {
-      "price": 0.32499998807907104,
+      "price": 0.33500000834465027,
       "prev": 0.30000001192092896,
-      "chg": 8.333325054910778,
+      "chg": 11.666665010982147,
       "currency": "CAD",
       "asof": "2026-11-04T00:00:00-05:00"
      },
@@ -415,9 +409,9 @@
      "symbol": "AGX.V",
      "name": "Silver X Mining",
      "quote": {
-      "price": 0.7350000143051147,
+      "price": 0.7400000095367432,
       "prev": 0.6700000166893005,
-      "chg": 9.701491939806427,
+      "chg": 10.447759866236495,
       "currency": "CAD",
       "asof": "2026-11-04T00:00:00-05:00"
      },
@@ -446,9 +440,9 @@
      "symbol": "^GSPC",
      "name": "S&P 500",
      "quote": {
-      "price": 7701.33984375,
+      "price": 7698.4501953125,
       "prev": 7568.919921875,
-      "chg": 1.7495220354002194,
+      "chg": 1.7113442178604998,
       "currency": "USD",
       "asof": "2026-11-04T00:00:00-05:00"
      },
@@ -458,9 +452,9 @@
      "symbol": "^IXIC",
      "name": "Nasdaq Composite",
      "quote": {
-      "price": 25834.078125,
+      "price": 25811.58203125,
       "prev": 25372.009765625,
-      "chg": 1.8211736620132868,
+      "chg": 1.7325086569237813,
       "currency": "USD",
       "asof": "2026-11-04T00:00:00-05:00"
      },
@@ -470,9 +464,9 @@
      "symbol": "^DJI",
      "name": "Dow Jones",
      "quote": {
-      "price": 53316.0390625,
+      "price": 53321.01171875,
       "prev": 51786.71875,
-      "chg": 2.9531129784120536,
+      "chg": 2.9627151628524473,
       "currency": "USD",
       "asof": "2026-11-04T00:00:00-05:00"
      },
@@ -506,9 +500,9 @@
      "symbol": "^VIX",
      "name": "VIX volatility",
      "quote": {
-      "price": 16.979999542236328,
+      "price": 16.809999465942383,
       "prev": 20.829999923706055,
-      "chg": -18.482959172208858,
+      "chg": -19.299090122360585,
       "currency": "USD",
       "asof": "2026-11-04T00:00:00-06:00"
      },
@@ -518,9 +512,9 @@
      "symbol": "GC=F",
      "name": "Gold (USD/oz)",
      "quote": {
-      "price": 4071.699951171875,
+      "price": 4068.699951171875,
       "prev": 3940.39990234375,
-      "chg": 3.332150342152529,
+      "chg": 3.256015937666934,
       "currency": "USD",
       "asof": "2026-11-04T00:00:00-05:00"
      },
@@ -530,9 +524,9 @@
      "symbol": "^TNX",
      "name": "US 10-year yield (%)",
      "quote": {
-      "price": 4.900000095367432,
+      "price": 4.8919997215271,
       "prev": 4.952000141143799,
-      "chg": -1.0500816699160365,
+      "chg": -1.211640103120848,
       "currency": "USD",
       "asof": "2026-11-04T00:00:00-06:00"
      },
@@ -542,9 +536,9 @@
      "symbol": "USDNOK=X",
      "name": "USD/NOK",
      "quote": {
-      "price": 9.309809684753418,
+      "price": 9.307290077209473,
       "prev": 9.30111026763916,
-      "chg": 0.09353095344462048,
+      "chg": 0.06644163322968577,
       "currency": "NOK",
       "asof": "2026-11-04T00:00:00+00:00"
      },
@@ -560,24 +554,24 @@
      "symbol": "AAPL",
      "name": "Apple",
      "quote": {
-      "price": 352.9599914550781,
+      "price": 352.4700012207031,
       "prev": 331.8999938964844,
-      "chg": 6.345284105417037,
+      "chg": 6.197652215273708,
       "currency": "USD",
       "asof": "2026-11-04T00:00:00-05:00"
      },
      "news": [
       {
-       "title": "Apple (AAPL) Stock Faces Q4 Earnings Margin Squeeze",
-       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdDdteU5mbzM5MUZVUnZKLWJkdUNXX3JKVlhQVXMtRFdhWExJb2s1Q1Y4VDNrMVRZQ1JnYTVfaHpCeEhrZFpWbVQySDZUM3k1V3RtdXJuNmRuVHpxRDFIdWU3VWY5VURSeDZackdpRFZaRHFYb3FnalBHaWRLWUxXcFNMYmRfU3M0bWRGTi1YUG1Pdkxt?oc=5",
+       "title": "Apple\u2019s \u2018Free-Rider\u2019 Status Isn\u2019t Changing Anytime Soon",
+       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQl9DUlJ6Um1GN0pHU2NPQmVKNmJPZHBUX0FpeXVMOTd2cHhoX2p2YS1ramtNdHhHbktfV21LbGE3T2k2OHZKUlBzZ2U0cXBzX0w4aFhrMndmZTZSNWt3SWlNZjNJVDRscnRsMjBfdVQ5UW1pX0ZJYVpaLThiZkFGVExSQkIxeFNncnpVNExVa1BHSlZlWWpF?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-11-04T06:23:00+00:00"
+       "date": "2026-11-04T12:15:11+00:00"
       },
       {
-       "title": "What analysts are telling us while Apple\u2019s stock falls after earnings report",
-       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSi1VSkN0WV84bHdPV2Fydm9ETUxMMjhzbnlFSFc3MjZvMzVhRG5GRHFvMVV6dlB2LUFNdm5JeWdfVjJUZkhpeDVUbjJMZjdweTFKRDdpM2hPSlF5VDJERWZwSlctVkdENVljX2JSWG5nQVpHOGRQaDJaV0NyRmdQdGkxVDhQaENHS1VIUTlCTVFDVzRSWTZZYllpekJuQ1JNMGZ5MTZoSS1KTjJydWN0WQ?oc=5",
-       "source": "MarketWatch",
-       "date": "2026-11-03T22:48:00+00:00"
+       "title": "The AI sell-off saved Apple from a sell-off of its own",
+       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOekR3ZmQyR2d6ajJlMzBNd0ZKcThDblF3ZVZYRF9rM2dXQUYteHVBa245QXVtSXJxTXdfS3dmQTZVQ3owWmRwYk9VV2gza1ZReVRxYmVyWnh5T3BuWkdObFFoY3Zyazl1QnRtdHZJeGVQWVlHbVNVV3l2SXliM3NVTVFkNm5kMWFsVTZ2TkU3ZzFWSUNza3djZnRZYlAyUEl5cE5iUE84YzZLVjRNWl9rZ3QwU2g?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-11-04T11:00:00+00:00"
       }
      ]
     },
@@ -585,9 +579,9 @@
      "symbol": "MSFT",
      "name": "Microsoft",
      "quote": {
-      "price": 555.1799926757812,
+      "price": 557.2000122070312,
       "prev": 520.989990234375,
-      "chg": 6.562506589814787,
+      "chg": 6.950233718764287,
       "currency": "USD",
       "asof": "2026-11-04T00:00:00-05:00"
      },
@@ -610,9 +604,9 @@
      "symbol": "NVDA",
      "name": "Nvidia",
      "quote": {
-      "price": 203.42999267578125,
+      "price": 202.82000732421875,
       "prev": 206.69000244140625,
-      "chg": -1.577245985349085,
+      "chg": -1.8723668641324798,
       "currency": "USD",
       "asof": "2026-11-04T00:00:00-05:00"
      },
@@ -621,7 +615,7 @@
        "title": "Why Nvidia Stock Can Ride Out a Data-Center Crackdown",
        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xS01LbkZsaFVHUndoOHltS1lFSzg3dnI0SVdRZ1p1Mm40MEtoM2QxcWxnb01OOFJhTlBPZ09WdjZxYy1XWjdJZzJ2NEo4clZjOGljMm9zb0RZNzJlVU1XRGwtVmF4LUlpelh6V1Bsbl8teG84MTBDbFZGeF9FZw?oc=5",
        "source": "Barron's",
-       "date": "2026-11-04T15:06:00+00:00"
+       "date": "2026-11-04T18:29:00+00:00"
       },
       {
        "title": "Where Could NVIDIA's Next Growth Come From?",
@@ -635,9 +629,9 @@
      "symbol": "GOOGL",
      "name": "Alphabet",
      "quote": {
-      "price": 290.67999267578125,
+      "price": 291.5400085449219,
       "prev": 280.0299987792969,
-      "chg": 3.803161783705211,
+      "chg": 4.110277404492124,
       "currency": "USD",
       "asof": "2026-11-04T00:00:00-05:00"
      },
@@ -660,18 +654,18 @@
      "symbol": "AMZN",
      "name": "Amazon",
      "quote": {
-      "price": 267.82000732421875,
+      "price": 268.4100036621094,
       "prev": 250.69000244140625,
-      "chg": 6.833142413334281,
+      "chg": 7.068491383035824,
       "currency": "USD",
       "asof": "2026-11-04T00:00:00-05:00"
      },
      "news": [
       {
-       "title": "Amazon Stock Fell After Earnings. Should Investors Be Worried?",
-       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSVBfMXRvdzNsc0JLeXdUYmw0TGJfOEV4UHZScDlmOUR5Vkxsd1ZmelljMnNub25wREJqTDRKRUlDcjBSQnl2ODhDblhTZ0lPVkJhWnJQNVdnRl9TeFJrd0RPWHJVZ0cwM0lhTVNKOW1obDJaOWx0bDg2V0VCQ21KdzlUclowUS12Wnl6cWZGOWpEbDI1bWZZSjUweXB6Vk9SSm9r?oc=5",
+       "title": "As Holidays Approach, No One Cares About Amazon\u2019s Biggest Business",
+       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMk5KVWNFbFJfcEVHNVZtTGk1VGptTlFZVlM4NjlFRTdqNlVTdjNuMWpOWGxlY09BMzJ4VFJQV2tFRGNJUGV0dU5McVAwOGhzS19rYThDYmVZc0NFT1ROOVZHeG9VWWNXRGRaNjgwZml6X2c1WFZjSzBkQTdhVGlVSTJXS3VqYm9oVU5RYWlTaXZsWGUzX09mVzFqRQ?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-11-04T15:20:00+00:00"
+       "date": "2026-11-04T14:45:51+00:00"
       },
       {
        "title": "Amazon\u2019s Good Problems to Have Keep Me Hitting The Buy Button",
@@ -685,9 +679,9 @@
      "symbol": "META",
      "name": "Meta Platforms",
      "quote": {
-      "price": 630.0050048828125,
+      "price": 628.1099853515625,
       "prev": 621.030029296875,
-      "chg": 1.445175782578323,
+      "chg": 1.1400344139080199,
       "currency": "USD",
       "asof": "2026-11-04T00:00:00-05:00"
      },
@@ -710,9 +704,9 @@
      "symbol": "TSLA",
      "name": "Tesla",
      "quote": {
-      "price": 389.156005859375,
+      "price": 389.70001220703125,
       "prev": 398.5,
-      "chg": -2.3447915032935973,
+      "chg": -2.2082779907073413,
       "currency": "USD",
       "asof": "2026-11-04T00:00:00-05:00"
      },
@@ -724,10 +718,10 @@
        "date": "2026-11-04T15:22:00+00:00"
       },
       {
-       "title": "Tesla Has Cash But It Won\u2019t Matter for The Rest of 2026",
-       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMFRmaW1XcTNvMjRINlhjZUNzQ0RxRVlqQzhla3RkUnkyMEl5YUpIMjJzaWJaMFI3ajI4V09EUzNTMjdLbTBfUEFFdXNmakZtc2xMTGZzWkdzWjZoMUpoRE5CQjFpT3BONWJGeEc5OWdUa3FLWEFLaFN2ekdoYmUzX2JzSTc5LTV3bkRLc1Y2cng0TGkyQ05HaURQQ3VUR3M?oc=5",
-       "source": "24/7 Wall St.",
-       "date": "2026-11-04T13:45:00+00:00"
+       "title": "Why are SpaceX and Tesla shares crashing",
+       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1rM1lhbWV2NTZzOFhQQk90Q21Mc0thc254ZThLOU9wWXVWRlZYeldhOFRuaWVibW56VzcxOE5CMlNtVnVGODhidWNkRF9GT21yRmMyVWhGTlRSaU5QVEtwWHJlT3oyeUZDaU54bUt3?oc=5",
+       "source": "Finbold",
+       "date": "2026-11-04T14:37:46+00:00"
       }
      ]
     }
