@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-05T14:21:55.709444+00:00",
- "usdnok": 9.291339874267578,
+ "updated": "2026-11-05T15:34:19.708063+00:00",
+ "usdnok": 9.294099807739258,
  "btc": {
-  "price": 79284.7265625,
+  "price": 76438.0,
   "prev": 80405.2890625,
-  "chg": -1.3936427728391987,
+  "chg": -4.9341145448978825,
   "currency": "USD",
   "asof": "2026-11-05T00:00:00+00:00"
  },
  "silver": {
-  "price": 52.84000015258789,
+  "price": 52.20500183105469,
   "prev": 52.119998931884766,
-  "chg": 1.3814298454688956,
+  "chg": 0.16309075386016225,
   "currency": "USD",
   "asof": "2026-11-05T00:00:00-05:00"
  },
@@ -24,9 +24,9 @@
      "symbol": "KOG.OL",
      "name": "Kongsberg Gruppen",
      "quote": {
-      "price": 337.29998779296875,
+      "price": 338.5,
       "prev": 354.20001220703125,
-      "chg": -4.771322369177211,
+      "chg": -4.432527291347055,
       "currency": "NOK",
       "asof": "2026-11-05T00:00:00+01:00"
      },
@@ -61,9 +61,9 @@
      "symbol": "KMAR.OL",
      "name": "Kongsberg Maritime",
      "quote": {
-      "price": 58.2400016784668,
+      "price": 57.58000183105469,
       "prev": 57.720001220703125,
-      "chg": 0.9009016749243592,
+      "chg": -0.2425491799855073,
       "currency": "NOK",
       "asof": "2026-11-05T00:00:00+01:00"
      },
@@ -104,18 +104,18 @@
      "symbol": "G2X.DE",
      "name": "VanEck Gold Miners UCITS ETF",
      "quote": {
-      "price": 87.48999786376953,
+      "price": 85.30999755859375,
       "prev": 84.04000091552734,
-      "chg": 4.105184329674083,
+      "chg": 1.5111811390184693,
       "currency": "EUR",
       "asof": "2026-11-05T00:00:00+01:00"
      },
      "news": [
       {
        "title": "Form 4 VanEck Gold Miners ETF For: 4 November By Investing.com",
-       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbzQ4dy1WWWdTMThXTmYxb2xJVWVvY0tLV1RSZTV5VFhLbWczZU93S3NsR0NaSVBhTHFUYXJHZXViNEpKU0JCWndLS2xuQUI0TWprVjBxdXJlYmJrRmY4VjlEcFhrMXZMZ2NfanczWktYRXd5LXpNemhHQ3lYVFFEVkVXWG1YMWhUc0pOWWdscldmTnVkdE9rY2V3VDB3VmYwLW5HdWVpWGU?oc=5",
-       "source": "Investing.com India",
-       "date": "2026-11-04T22:27:03+00:00"
+       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORU1YalAzcDg0OVVjcDBOc0g2ajFFbmRPM2VLd1hfMlAydV9Rcm5IMkM0bDJvTFQ5dDZoOTFIWWFnbklqU091MFd5RGxCel96dE9ieEp3NGFGUXE5Rzk0Wkx4S0hvYlNHdEVsZDlmRS1fWGtGZEpwVDNzN29VR2VkWmpnel9pZjJaQ1pxZDN6N1pYWlh5eUpxVXVQQlQyck9lRHJuYU94RXQ?oc=5",
+       "source": "Investing.com UK",
+       "date": "2026-11-04T22:02:00+00:00"
       },
       {
        "title": "VanEck Gold Miners ETF (GDX) options chain",
@@ -141,19 +141,13 @@
      "symbol": "2B76.DE",
      "name": "iShares Automation & Robotics UCITS ETF",
      "quote": {
-      "price": 17.81999969482422,
+      "price": 17.356000900268555,
       "prev": 18.22800064086914,
-      "chg": -2.238319792079335,
+      "chg": -4.783847432205313,
       "currency": "EUR",
       "asof": "2026-11-05T00:00:00+01:00"
      },
      "news": [
-      {
-       "title": "iShares Automation & Robotics UCITS ETF USD (Acc) (RBTX.L) Seasonal returns chart",
-       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE93blVPdm92bXptV29rNng4elQ2TGlCMHg0bnNJc09HdmdxdVZkWVdreW5EazJIaTk4UGE2ZWxka2ZybG9ycjlVdjN2NXdpN0YxWUIwNHVYNkFZSjYxc2lFRXFvbWo?oc=5",
-       "source": "Yahoo Finance UK",
-       "date": "2026-11-05T01:24:56+00:00"
-      },
       {
        "title": "Best Growth ETFs For UK Investors In 2026",
        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9MQ1YzYmEybHBIMnpRZ2FOSWNEbklKc1FfT2h3eThPS3k5WWhsRzdROFFwVmpEQlc2UGZwZDY2OVdqZU55SWZILXNEdlRBQjVjbnZUeWVKZjRjUGVVSkh0bG9MNzdDa21uVGczS1pB?oc=5",
@@ -215,11 +209,11 @@
      "symbol": "HL",
      "name": "Hecla Mining",
      "quote": {
-      "price": 14.949999809265137,
-      "prev": 13.210000038146973,
-      "chg": 13.171837744841074,
+      "price": 14.229999542236328,
+      "prev": 14.949999809265137,
+      "chg": -4.8160553592956905,
       "currency": "USD",
-      "asof": "2026-11-04T00:00:00-05:00"
+      "asof": "2026-11-05T00:00:00-05:00"
      },
      "news": [
       {
@@ -240,11 +234,11 @@
      "symbol": "HYMC",
      "name": "Hycroft Mining",
      "quote": {
-      "price": 17.469999313354492,
-      "prev": 16.09000015258789,
-      "chg": 8.57675045170614,
+      "price": 16.15999984741211,
+      "prev": 17.469999313354492,
+      "chg": -7.498566213113634,
       "currency": "USD",
-      "asof": "2026-11-04T00:00:00-05:00"
+      "asof": "2026-11-05T00:00:00-05:00"
      },
      "news": [
       {
@@ -265,11 +259,11 @@
      "symbol": "ASM",
      "name": "Avino Silver & Gold",
      "quote": {
-      "price": 4.739999771118164,
-      "prev": 4.269999980926514,
-      "chg": 11.007020896746432,
+      "price": 4.554999828338623,
+      "prev": 4.739999771118164,
+      "chg": -3.902952567778284,
       "currency": "USD",
-      "asof": "2026-11-04T00:00:00-05:00"
+      "asof": "2026-11-05T00:00:00-05:00"
      },
      "news": [
       {
@@ -290,11 +284,11 @@
      "symbol": "CDE",
      "name": "Coeur Mining",
      "quote": {
-      "price": 14.579999923706055,
-      "prev": 13.40999984741211,
-      "chg": 8.724832882975274,
+      "price": 13.994999885559082,
+      "prev": 14.579999923706055,
+      "chg": -4.012345961647112,
       "currency": "USD",
-      "asof": "2026-11-04T00:00:00-05:00"
+      "asof": "2026-11-05T00:00:00-05:00"
      },
      "news": [
       {
@@ -315,11 +309,11 @@
      "symbol": "AG.TO",
      "name": "First Majestic Silver",
      "quote": {
-      "price": 21.510000228881836,
-      "prev": 19.770000457763672,
-      "chg": 8.801212599035967,
+      "price": 20.469999313354492,
+      "prev": 21.510000228881836,
+      "chg": -4.834964688335597,
       "currency": "CAD",
-      "asof": "2026-11-04T00:00:00-05:00"
+      "asof": "2026-11-05T00:00:00-05:00"
      },
      "news": [
       {
@@ -341,10 +335,10 @@
      "name": "Defiance Silver",
      "quote": {
       "price": 0.11999999731779099,
-      "prev": 0.10999999940395355,
-      "chg": 9.090907243657686,
+      "prev": 0.11999999731779099,
+      "chg": 0.0,
       "currency": "CAD",
-      "asof": "2026-11-04T00:00:00-05:00"
+      "asof": "2026-11-05T00:00:00-05:00"
      },
      "news": [
       {
@@ -365,11 +359,11 @@
      "symbol": "GRSL.V",
      "name": "GR Silver Mining",
      "quote": {
-      "price": 0.27000001072883606,
-      "prev": 0.2199999988079071,
-      "chg": 22.727278269026918,
+      "price": 0.24500000476837158,
+      "prev": 0.27000001072883606,
+      "chg": -9.259261098908711,
       "currency": "CAD",
-      "asof": "2026-11-04T00:00:00-05:00"
+      "asof": "2026-11-05T00:00:00-05:00"
      },
      "news": [
       {
@@ -390,11 +384,11 @@
      "symbol": "GSVR.V",
      "name": "Guanajuato Silver",
      "quote": {
-      "price": 0.3400000035762787,
-      "prev": 0.30000001192092896,
-      "chg": 13.333330021964308,
+      "price": 0.3149999976158142,
+      "prev": 0.3400000035762787,
+      "chg": -7.35294285220669,
       "currency": "CAD",
-      "asof": "2026-11-04T00:00:00-05:00"
+      "asof": "2026-11-05T00:00:00-05:00"
      },
      "news": [
       {
@@ -415,11 +409,11 @@
      "symbol": "AGX.V",
      "name": "Silver X Mining",
      "quote": {
-      "price": 0.75,
-      "prev": 0.6700000166893005,
-      "chg": 11.94029571909665,
+      "price": 0.6899999976158142,
+      "prev": 0.75,
+      "chg": -8.000000317891443,
       "currency": "CAD",
-      "asof": "2026-11-04T00:00:00-05:00"
+      "asof": "2026-11-05T00:00:00-05:00"
      },
      "news": [
       {
@@ -446,11 +440,11 @@
      "symbol": "^GSPC",
      "name": "S&P 500",
      "quote": {
-      "price": 7688.6201171875,
-      "prev": 7568.919921875,
-      "chg": 1.5814699659663978,
+      "price": 7499.52001953125,
+      "prev": 7688.6201171875,
+      "chg": -2.4594803069217464,
       "currency": "USD",
-      "asof": "2026-11-04T00:00:00-05:00"
+      "asof": "2026-11-05T00:00:00-05:00"
      },
      "news": null
     },
@@ -458,11 +452,11 @@
      "symbol": "^IXIC",
      "name": "Nasdaq Composite",
      "quote": {
-      "price": 25736.509765625,
-      "prev": 25372.009765625,
-      "chg": 1.4366224960776997,
+      "price": 24748.96875,
+      "prev": 25736.509765625,
+      "chg": -3.8371209795665884,
       "currency": "USD",
-      "asof": "2026-11-04T00:00:00-05:00"
+      "asof": "2026-11-05T00:00:00-05:00"
      },
      "news": null
     },
@@ -470,11 +464,11 @@
      "symbol": "^DJI",
      "name": "Dow Jones",
      "quote": {
-      "price": 53356.12109375,
-      "prev": 51786.71875,
-      "chg": 3.030511261635005,
+      "price": 52550.359375,
+      "prev": 53356.12109375,
+      "chg": -1.5101579766906736,
       "currency": "USD",
-      "asof": "2026-11-04T00:00:00-05:00"
+      "asof": "2026-11-05T00:00:00-05:00"
      },
      "news": null
     },
@@ -482,9 +476,9 @@
      "symbol": "OSEBX.OL",
      "name": "Oslo B\u00f8rs (OSEBX)",
      "quote": {
-      "price": 2088.469970703125,
+      "price": 2082.97998046875,
       "prev": 2102.14990234375,
-      "chg": -0.6507590931252305,
+      "chg": -0.9119198328162437,
       "currency": "NOK",
       "asof": "2026-11-05T00:00:00+01:00"
      },
@@ -494,9 +488,9 @@
      "symbol": "^GDAXI",
      "name": "DAX",
      "quote": {
-      "price": 26669.0,
+      "price": 26392.390625,
       "prev": 26437.669921875,
-      "chg": 0.8750017638036844,
+      "chg": -0.17126810724547026,
       "currency": "EUR",
       "asof": "2026-11-05T00:00:00+01:00"
      },
@@ -506,9 +500,9 @@
      "symbol": "^VIX",
      "name": "VIX volatility",
      "quote": {
-      "price": 16.770000457763672,
+      "price": 23.0,
       "prev": 16.610000610351562,
-      "chg": 0.9632741814133094,
+      "chg": 38.4707956342043,
       "currency": "USD",
       "asof": "2026-11-05T00:00:00-06:00"
      },
@@ -518,9 +512,9 @@
      "symbol": "GC=F",
      "name": "Gold (USD/oz)",
      "quote": {
-      "price": 4129.7001953125,
+      "price": 4118.5,
       "prev": 4073.0,
-      "chg": 1.3920990746992379,
+      "chg": 1.1171126933464226,
       "currency": "USD",
       "asof": "2026-11-05T00:00:00-05:00"
      },
@@ -530,9 +524,9 @@
      "symbol": "^TNX",
      "name": "US 10-year yield (%)",
      "quote": {
-      "price": 4.9070000648498535,
+      "price": 4.870999813079834,
       "prev": 4.894000053405762,
-      "chg": 0.2656316163103689,
+      "chg": -0.4699681257649746,
       "currency": "USD",
       "asof": "2026-11-05T00:00:00-06:00"
      },
@@ -542,9 +536,9 @@
      "symbol": "USDNOK=X",
      "name": "USD/NOK",
      "quote": {
-      "price": 9.291339874267578,
+      "price": 9.294099807739258,
       "prev": 9.270000457763672,
-      "chg": 0.23019865642006643,
+      "chg": 0.25997140005966646,
       "currency": "NOK",
       "asof": "2026-11-05T00:00:00+00:00"
      },
@@ -560,11 +554,11 @@
      "symbol": "AAPL",
      "name": "Apple",
      "quote": {
-      "price": 349.510009765625,
-      "prev": 331.8999938964844,
-      "chg": 5.305819883393248,
+      "price": 349.3088073730469,
+      "prev": 349.510009765625,
+      "chg": -0.0575669900593212,
       "currency": "USD",
-      "asof": "2026-11-04T00:00:00-05:00"
+      "asof": "2026-11-05T00:00:00-05:00"
      },
      "news": [
       {
@@ -574,10 +568,10 @@
        "date": "2026-11-04T21:17:00+00:00"
       },
       {
-       "title": "Why the Democrat blue wave could be a good thing for Apple stock",
-       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbzZxNU01Z0RMd3lqLXNsQ2o3cEVfZ18xcWhydHlsZHVMY3UtNFliYzBnNEMtdXBnMzhLdENvcGctdXJMV1hYTmtVMlZIM0NVc0l2VWV5M3BLdUtoXy1NVEphRnowV05yQWgwYTZfYTgyZGRBaGlESUF1c3RVMUw1OTBkNG9GdHZFTFBqSEFmQVhTN2kwWFc4X01iZHhRWGY5MWhqMlk1dVhnTkFmWG0wY1hJbVJHMGNpaUNrMl9uMHZoZHZ1b21B?oc=5",
+       "title": "The AI sell-off saved Apple from a sell-off of its own",
+       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOekR3ZmQyR2d6ajJlMzBNd0ZKcThDblF3ZVZYRF9rM2dXQUYteHVBa245QXVtSXJxTXdfS3dmQTZVQ3owWmRwYk9VV2gza1ZReVRxYmVyWnh5T3BuWkdObFFoY3Zyazl1QnRtdHZJeGVQWVlHbVNVV3l2SXliM3NVTVFkNm5kMWFsVTZ2TkU3ZzFWSUNza3djZnRZYlAyUEl5cE5iUE84YzZLVjRNWl9rZ3QwU2g?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-11-04T15:06:48+00:00"
+       "date": "2026-11-04T11:00:00+00:00"
       }
      ]
     },
@@ -585,11 +579,11 @@
      "symbol": "MSFT",
      "name": "Microsoft",
      "quote": {
-      "price": 555.7999877929688,
-      "prev": 520.989990234375,
-      "chg": 6.681509858362911,
+      "price": 541.8099975585938,
+      "prev": 555.7999877929688,
+      "chg": -2.517090777552544,
       "currency": "USD",
-      "asof": "2026-11-04T00:00:00-05:00"
+      "asof": "2026-11-05T00:00:00-05:00"
      },
      "news": [
       {
@@ -610,11 +604,11 @@
      "symbol": "NVDA",
      "name": "Nvidia",
      "quote": {
-      "price": 200.1300048828125,
-      "prev": 206.69000244140625,
-      "chg": -3.1738339934721416,
+      "price": 187.375,
+      "prev": 200.1300048828125,
+      "chg": -6.373359602065309,
       "currency": "USD",
-      "asof": "2026-11-04T00:00:00-05:00"
+      "asof": "2026-11-05T00:00:00-05:00"
      },
      "news": [
       {
@@ -635,11 +629,11 @@
      "symbol": "GOOGL",
      "name": "Alphabet",
      "quote": {
-      "price": 288.92999267578125,
-      "prev": 280.0299987792969,
-      "chg": 3.1782287380927476,
+      "price": 285.32000732421875,
+      "prev": 288.92999267578125,
+      "chg": -1.24943254181763,
       "currency": "USD",
-      "asof": "2026-11-04T00:00:00-05:00"
+      "asof": "2026-11-05T00:00:00-05:00"
      },
      "news": [
       {
@@ -660,24 +654,24 @@
      "symbol": "AMZN",
      "name": "Amazon",
      "quote": {
-      "price": 266.0299987792969,
-      "prev": 250.69000244140625,
-      "chg": 6.119109732537509,
+      "price": 257.7900085449219,
+      "prev": 266.0299987792969,
+      "chg": -3.0973913739747228,
       "currency": "USD",
-      "asof": "2026-11-04T00:00:00-05:00"
+      "asof": "2026-11-05T00:00:00-05:00"
      },
      "news": [
       {
-       "title": "AWS Is on Fire, But Here\u2019s Why Amazon Stock Isn\u2019t Ready to Fly",
-       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcUFMek9tMUZ1ZkMzZzZUZ0lNOVpNZkdfYUpVUERqaDZMNENrWlFFNVowOE9TeWlHeDRxWmtBQlpaYWFXbG9BU2NNVGdmSlZXc2VaS0ZuYWdZZVBLazF0SU84WkgxclRXTjZlc01nS0RfTEdFMkR5UXgxaVh2V05ydWNrZTloWFFNV2M5ZE5aRGpUaUox?oc=5",
+       "title": "What Could Derail Amazon Stock?",
+       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOV3pYc0g3dEF6TjVUcVk0YmotYUQ1ZDhqMzRDWXFPSEpPUkNSLTNZa2pjczRFcERhT3U5MEc0MEp6cTk3R3lvdmVMS2RqYWJQM0tIMURsa3F4N09fbGFzd2U4WkNSOUNLTlJWRkNReklWMDNfVkxLU204MWRia09mWXVYdllZaGx4VHkxLWtzaW5pbGtU?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-11-04T18:27:59+00:00"
+       "date": "2026-11-05T12:06:23+00:00"
       },
       {
-       "title": "Amazon Stock Fell After Earnings. Should Investors Be Worried?",
-       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSVBfMXRvdzNsc0JLeXdUYmw0TGJfOEV4UHZScDlmOUR5Vkxsd1ZmelljMnNub25wREJqTDRKRUlDcjBSQnl2ODhDblhTZ0lPVkJhWnJQNVdnRl9TeFJrd0RPWHJVZ0cwM0lhTVNKOW1obDJaOWx0bDg2V0VCQ21KdzlUclowUS12Wnl6cWZGOWpEbDI1bWZZSjUweXB6Vk9SSm9r?oc=5",
+       "title": "1 Number That Should Concern Every Amazon Investor",
+       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObDd5bUxGdFR4dUx0RWphRkxCVTZLdUlQWF9Ocl9oQjBsN0picVJLYkcxNnJRR1lBazh6eTRycVMwWGI5Mms1REkxSDI1LXVhaFM2NkdjS2Jpc1BVZ2tWazlEQ0QzWlhwdUdNXzd5QnhEZXpOd2lKU1FCOGZqZm1QTU14QlRKc2dycll3UG8wVkEyRlp5U0xRMHdB?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-11-04T15:20:00+00:00"
+       "date": "2026-11-05T09:20:00+00:00"
       }
      ]
     },
@@ -685,24 +679,24 @@
      "symbol": "META",
      "name": "Meta Platforms",
      "quote": {
-      "price": 630.0,
-      "prev": 621.030029296875,
-      "chg": 1.444369882287444,
+      "price": 596.77001953125,
+      "prev": 630.0,
+      "chg": -5.274600074404767,
       "currency": "USD",
-      "asof": "2026-11-04T00:00:00-05:00"
+      "asof": "2026-11-05T00:00:00-05:00"
      },
      "news": [
       {
        "title": "The Wait Is Over: 2 Historic Artificial Intelligence (AI) Stock Splits Were Just Announced",
-       "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOcThtaFZvZGhWQS02NFFpaXpJYkVqVnQ3czdqZGdOdVRWS0g1SUp2UVVrWGZ3VjZ5eWN4LVhkZG9MZTBEQ1JMNFFIVC1qRWxiVHYtTUJfRU5ybUFLX1JIVWIwaTk2WDRtNFJTTlRyd2Y1TlFrV1o3VWJra0hRbzUxanQyRFVOM0JhN1RVbTZhQzc4VFpYNENqdnJqeHJIem1ZMzlwMWV6Q0IteFNaUE91R0hzc0Rlb3N6LUpDQ1pWSDFXQld4LU9WTjM5V0p2QXlsMjh0QnQwM1ZjZkJzVF9ubmdGa3FqYjFwd095dVFxVGw5RlVmSlM4QmRnZmlESkJzZWc?oc=5",
+       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxObW0xczk5Sk9ocTlYdC1aNWI0Vy1BZFh1S3JWSkNwNWVHNVBsX3NhRTVfRF80eURTMlE1UlFmVWZQNjBfMEVIR0VDblZtbG1DMDNZR05pdUdVYkNiekNfUTlDdy0wd3V1WGZ6b1FrTFg1NzRNQU03dXlLSlFUSGV6b2ZSMEZKVHBCVUdvdTlIV2txSGxuM3I4YnBGVktCZGo1QUZkaTJQMFFhSl92ZXZSN1NMZkpJOFNmY3JFdkhOVlhaU1Jtb2N5REh2VUZWbUZmTXYtRzF1SHdYRWhMTDZ1TXl4WmVSMUF3MXJfZTUtQ01DVU9Za2tuMmlxS1hKUFh6UnpkZA?oc=5",
        "source": "The Globe and Mail",
-       "date": "2026-11-05T11:42:33+00:00"
+       "date": "2026-11-05T11:28:34+00:00"
       },
       {
-       "title": "Meta Platforms (META) COO sells 1,575 shares under a prearranged trading plan.",
-       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX0dBTW5CaF93bzJqMjVaZ09yemdsSWx6ZDc2S2NIdXlBMHVTTGxQTDZMVlJMbWpfSTZzQ2Y5dW9sMkM2a25ubHI4TUV1VUJvVnlWZWg2RDVRQXl4cldVNFptS1FYSnJXUEVqWGIwRENUeHJaUGJOVWg4RU1adjd6S3g1RHl3M19EN0ZKZUN5VVFyVEVqaUo4X3pnel8yV1hKSnZYQ1ZoTEpscHBEeGlwUkdn?oc=5",
+       "title": "Across eight transactions, an Andreessen Horowitz fund sells 20,951 Meta Platforms (META) shares.",
+       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT3FaYU1hVmY1c21UamdjM3E0a3hMTUxHME54R3hhT2Y1LWJYN2ZDcmdSeG85Mm91Nk1FOGN0NlBhc3NkWmF4YkxqTkVYbVpGTkZERGw4R2RyMEJ5OXR4MGxnRWhyWC1mTnNZZ3RkS0syR3Z5aEE5UDZPdjVJUEpKYzh0bHhia0FiMjB6ZXJ3ZjRienJBNEFUUG1yQUFmVmpZZmthVW5EeXBCcnlyYVkzWEN3?oc=5",
        "source": "Stock Titan",
-       "date": "2026-11-04T23:36:55+00:00"
+       "date": "2026-11-04T21:11:03+00:00"
       }
      ]
     },
@@ -710,11 +704,11 @@
      "symbol": "TSLA",
      "name": "Tesla",
      "quote": {
-      "price": 385.19000244140625,
-      "prev": 398.5,
-      "chg": -3.340024481453885,
+      "price": 349.9993896484375,
+      "prev": 385.19000244140625,
+      "chg": -9.135910218314091,
       "currency": "USD",
-      "asof": "2026-11-04T00:00:00-05:00"
+      "asof": "2026-11-05T00:00:00-05:00"
      },
      "news": [
       {
@@ -773,22 +767,22 @@
    "date": "2026-11-05T09:09:00+00:00"
   },
   {
-   "title": "Indian shares log biggest gains in seven months on oil slide, foreign flows",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVmJaMVVmaUE0cUtPUW9iRklDNUNCV2k4c1NXYzllRGYzeUdXOFJkeGVEOUNsdkhwc0pfc3pkSVdvb3Nwc3FMSE0xTVBnbEtiQ29Gd2NzbmFtMU9rVXNoNXF3MkRrMEtHczdSX0VGUExrTDkyNHAxYWI0SGFWbVRSZWhDaGlvNkhLdUtiZGdDaWVQaFJ0NkRkckJvQ0ZzSnM2dmFUd2tZXzdQaWZBaFN4Y3BNYXo0UkVZRGpQTkdTUQ?oc=5",
-   "source": "Reuters",
-   "date": "2026-11-05T02:37:00+00:00"
+   "title": "Stock Rotation Rolls On as Chipmakers Retreat: Markets Wrap",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaHBnOEludEdwalhTMXRiLWFQbk9RRVVIVGYzY3cwZUk4TmxLY1hnZExZQTZBTExfR2l2TmpJNXUwRWUwc21Jd0EzZklqc2hCbnRta19OU1lQV2NTdjhuNUZxaGQwaHlBZG51eG44WXFxNTNuX1FRYVluOGdaTFptSWRFY3J1ZTdMTlFzY3VmYVhkbDJH?oc=5",
+   "source": "Bloomberg.com",
+   "date": "2026-11-04T22:15:04+00:00"
   },
   {
-   "title": "Wall Street ends higher after Democrats win Congress; data center stocks tumble",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbWpBY1VHMFd5a2tJXzM1RFFFQTl5Y09aVDgza095UkJKVzNnQ3F4VW1pMzBEazJKMGhlS21zUEdCLXJPOVhWdXRnZmlLRHliMDdqYmt2b2ZWYk5FeW85VnBSalpRd1E5b3BVSUZDU2VLMUNiQm41YWw1SUgxV2dWaUFZUkI2MllhY0Z5ZkZHcWNuQmdCaHBKbVRhck1meTRz?oc=5",
-   "source": "Reuters",
-   "date": "2026-11-04T23:54:37+00:00"
+   "title": "Stock Market Today, Nov. 4: Dow Surges 3% in Biggest Post-Midterm Rally in 44 Years",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUnk0b3YwWmNBZnYyQktYVHA3Wl85ak9BSG1aR0ZpNUdGRjFUX1BZMS1iTFVQYWRxekNxSmNOT1lrQVgzUXFTdk12cjlsTzg1N0UtZEc5bWhGZWF5SUc4dFJRNGpOajNseVByMWhjYXBXdl8zUkxPWlFXTGRHbS03elhqRnNkZXVSeVJxTW4yY0F5TUZxbXF0OVZNSkFHWWZpVWdXTTFLNnBaOXRWb29kelBnV0lvd3RjOVhHU0JTdVE1OU5BUVk4M3NxWGxodU81VkxCOUc4WQ?oc=5",
+   "source": "The Motley Fool",
+   "date": "2026-11-04T21:50:00+00:00"
   },
   {
-   "title": "Singapore's DBS sees heightened global uncertainty but stays upbeat despite earnings miss",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZTU3NHZrQ0JWNGxYMThkNGxJdWF0SDRrZ3NXUlpZem83cEoxRlp6MnI5QlNMeVRMdUJGRTJHNUFzdFlvZ293eXJ5RlRzUjJHV2xLZ1dlaC1xLW1uV0RfQnQ4bVBNQ0dFcG9vcVFEZmQwdS1tNEFtd2hXN2RyOE9NRmVYZjdOck1KR2F5bjlNekdlYmJGUlpreHlmRzZXMDBsRnVfaHBvUGlscUVVeEtOWG5vSk0yVm9KeS1jRTk3dGtFZw?oc=5",
-   "source": "Reuters",
-   "date": "2026-11-04T22:39:00+00:00"
+   "title": "Prediction: Nov. 6 Will Be a Huge Day for the Stock Market",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYWZQa0g3SjhzTjJWQ3FWUE1lRVpQSS1xVnFvN2gwbk9GYU4wWWsxVFRweDBqVTZOcG00elhWQ0pTeXRWUlJQVGUwYVc2OHpsQzZIRUpxck9LYzd3TjF1VGtBNjg2c3QxUl95UGFhNjdDcGJyclRIanJ3Z05aZUtqQzhMTzhySEVMVHdrTFJVT3lzcXg0?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-04T18:35:00+00:00"
   },
   {
    "title": "Morgan Stanley Warns of Stock Market Drop Amid 3 \u2018Clearing Events\u2019: \u2018Much of the Damage Already Done\u2019",
