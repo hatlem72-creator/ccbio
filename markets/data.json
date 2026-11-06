@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-06T22:41:10.542979+00:00",
+ "updated": "2026-11-06T23:33:24.219807+00:00",
  "usdnok": 9.44674015045166,
  "btc": {
-  "price": 75916.0703125,
+  "price": 75840.6484375,
   "prev": 75942.125,
-  "chg": -0.0343086100105805,
+  "chg": -0.13362354885381178,
   "currency": "USD",
   "asof": "2026-11-06T00:00:00+00:00"
  },
@@ -24,13 +24,19 @@
      "symbol": "KOG.OL",
      "name": "Kongsberg Gruppen",
      "quote": {
-      "price": 335.3999938964844,
-      "prev": 339.3999938964844,
-      "chg": -1.1785504042230444,
+      "price": 335.4,
+      "prev": 338.6000061035156,
+      "chg": -0.9450697122956764,
       "currency": "NOK",
       "asof": "2026-11-06T00:00:00+01:00"
      },
      "news": [
+      {
+       "title": "Kongsberg Gruppen ASA (KOG.OL) stock price, news, quote and history",
+       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1yMlNacXI5WnUtMXZQWV8zLXhmM3NWd3Qycm81d2N3QzRoTWRuVkItdU1DTFBmZGFZX25HbUQzRVQ5aHZwdTJRU0VFZGVXV0VKMmVjSA?oc=5",
+       "source": "Yahoo Finance UK",
+       "date": "2026-11-06T14:45:36+00:00"
+      },
       {
        "title": "Kongsberg Gruppen ASA (KOG.OL) Seasonal returns chart - Yahoo Finance",
        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55cDhIUnpRZHJWS2pnWk5nVHVvZWtya1hoS2F4MFNxakFycTBydUJtbXVJRmphWnQ5RGZ1b2dLX1V0SE90bDZwbGJmTjhsaU9uMHNVZ08tYklVMHdlOFh6ME45T00?oc=5",
@@ -44,12 +50,6 @@
        "date": "2026-11-01T23:04:24+00:00"
       },
       {
-       "title": "Kongsberg Gruppen ASA (KOZ1.F) stock price, news, quote and history",
-       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5wWWppZGp1TEtYbUNOU2laaFBBT3VXLTduZXVVZnFIdkZ1el94R3Z1YW8xaGhQZnJvN1laZFhXUDdneWRwMzVCblFLemVoQjcwM2dRZw?oc=5",
-       "source": "Yahoo Finance UK",
-       "date": "2026-10-31T01:28:30+00:00"
-      },
-      {
        "title": "Kongsberg Gruppen (OB:KOG) Stock Forecast & Analyst Predictions",
        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPczBYT2c3eDhYYUZhdlFkZUR1VUpZeEs4U2lGZTIzaWFLdFYtb29YRHgzVlQyT3lYQ3Itd1gxdzFsaVUtMHFwYWtZRXRISVZaeWdoc0VsT05lVG9FNjEtNkp4djR2cGdTbEJsSjNrclJfUXJQeld1enBQY3RUaFA1bU5ndmpUMlNCaUR4RA?oc=5",
        "source": "Simply Wall St",
@@ -61,9 +61,9 @@
      "symbol": "KMAR.OL",
      "name": "Kongsberg Maritime",
      "quote": {
-      "price": 57.2599983215332,
-      "prev": 57.91999816894531,
-      "chg": -1.139502535008674,
+      "price": 57.26,
+      "prev": 57.599998474121094,
+      "chg": -0.5902751443194076,
       "currency": "NOK",
       "asof": "2026-11-06T00:00:00+01:00"
      },
@@ -81,16 +81,16 @@
        "date": "2026-11-01T10:35:27+00:00"
       },
       {
+       "title": "Kongsberg Maritime (OB:KMAR) Q3 Results Reflect Persistent Margin Pressure",
+       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUzdreVB5X2V3NExiTm1NU1Zfc0JaOFVtMWpoUGs4VzhqQW5JM3dRYndhaC02Nm01bnd2Sl9UNkxkQ25JTGNQWW5yZnMyMENPMl9xNnR4MF9fOGZLTmhMZkNyYnNpUjlrZG1HQlViVFdxNWhpVFpVbDJMaVZHSkVnYjlDdEVzM0stdHRYMGhpT2tpaWJJa05hOXQzTnE1S25Td1MtdUpCM2hnNjhSbHBvQUwwQkpvaXQzZnNYNXlJVllhTU10Vk9BdTdjOXJTZDZLSHctS1RoSWE0SWE0WEHSAeMBQVVfeXFMUFQwdUlYYXhOd3BOMURqS21HTFpXUUdSN0YyQXJ6ZFlWcjR0eHpmWVdQS3JSV3ZfVm1hUHQ1dHo0TGRwZnVLdkIwWVRnbWE5QllTakpnZ1AyQWEwWXVEMmZIcHZ6dWdUeUY2dnY2VlFJYXd6MmNlb0hNbldRMUkxLVUxY1JFQjdITnJUd0xSRmU4Ylh4VVNERHZkZF9UNkZfNkVBZDBNTk1aWHJyNjEteGZLUXR4UXVBR1Q5T2FUckEzT1NXUi1SWXF3ZElEZV9nT3k0WjA4cFRDd2hCclNWVFcwSm8?oc=5",
+       "source": "Simply Wall St",
+       "date": "2026-11-01T01:28:24+00:00"
+      },
+      {
        "title": "Kongsberg Maritime ASA Reports Earnings Results for the Third Quarter and Nine Months Ended September 30, 2026",
        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQTmh0SUxqY044N09mY1otWFdieGo0a0NkaEE5NEtteFZLN2N3NFl0M3BfUUZSM0c0eXFsWGxDSHpvaXN3aElGc3Rud1lsY1dDY0VsYWV6NzlDTUVyZ3o5U0pOdUtTNVcwS2FYTTNqWllnZEhqanFqYlJPZHhiTWREUTRtUjM1MjFXc3pWTlFLcEtodHI3eHBHOEZERWRmcXd2ZnMzR2ZISU16bW1jMWE5bmkxLXgtZFBXeU9WWGFDSm11NWtiYndCMVdVR050V2F2c3Z4NGtGSU1vdFNnVi1jblNwR2hWcXFZ?oc=5",
        "source": "www.marketscreener.com",
        "date": "2026-10-30T09:05:31+00:00"
-      },
-      {
-       "title": "Kongsberg Maritime Q3 2026 Earnings Call Is Live",
-       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU3FHamZYWXBFS28taGtycEFvSGloT2g3Wm02ZXAxQzVEc1QwMHQxOFIxdUhSNzdpVWtWSVl0bURwTkpyVHdxazNsS2k5eUFNX2NRWl83SUs0VHZkUndfeVdsSHk1eUVYdmxDUTI3cnNtNUFKa2thX3VkSTFaeDdnMXVCQUNHcjIxT0Q1VkRuTW4tNDRpUjY4TDllb2lVb2JFQU80RWtycEtTNE1Zb2tKMEljTGpyNEFa?oc=5",
-       "source": "TradingView",
-       "date": "2026-10-30T07:13:24+00:00"
       }
      ]
     }
@@ -104,9 +104,9 @@
      "symbol": "G2X.DE",
      "name": "VanEck Gold Miners UCITS ETF",
      "quote": {
-      "price": 88.19000244140625,
-      "prev": 86.16999816894531,
-      "chg": 2.3442083270101888,
+      "price": 88.19,
+      "prev": 86.1500015258789,
+      "chg": 2.367961042355038,
       "currency": "EUR",
       "asof": "2026-11-06T00:00:00+01:00"
      },
@@ -141,9 +141,9 @@
      "symbol": "2B76.DE",
      "name": "iShares Automation & Robotics UCITS ETF",
      "quote": {
-      "price": 17.173999786376953,
-      "prev": 17.281999588012695,
-      "chg": -0.6249265374977497,
+      "price": 17.174,
+      "prev": 17.24799919128418,
+      "chg": -0.42903058182872655,
       "currency": "EUR",
       "asof": "2026-11-06T00:00:00+01:00"
      },
@@ -367,10 +367,10 @@
      },
      "news": [
       {
-       "title": "Gr Silver Mining Ltd (GPE.HA) stock major holders",
-       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45OHkzV3c4RXIzaEtkdVBNT0ZsQzJkck5pbGNHYTg3YXdDTzdFMUlsRnlLTS1IYjlKOVhvZlFXVWZ2TS1XRFFXY1pmdXZEemEwTGNLand0cHFHVjRyWjhJ?oc=5",
+       "title": "Gr Silver Mining Ltd (GPE.HA) valuation measures and financial statistics",
+       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1QMGFOQTlUaUgtYWZVdmg5SU1hQUxnbHBOZm9lZm1Wd1RhQWthdzZxWkxIYkdxX3R4Q253SDFNS241XzVKakZDYzlRak9fSjk2MHZlQnhJVnlhMG9NMGl3WFJIeWxJczR0?oc=5",
        "source": "Yahoo Finance UK",
-       "date": "2026-10-30T02:31:36+00:00"
+       "date": "2026-10-30T02:33:19+00:00"
       },
       {
        "title": "GR Silver Mining Welcomes Shareholder Support at AGM",
@@ -476,9 +476,9 @@
      "symbol": "OSEBX.OL",
      "name": "Oslo B\u00f8rs (OSEBX)",
      "quote": {
-      "price": 2053.360107421875,
-      "prev": 2080.590087890625,
-      "chg": -1.3087623855959407,
+      "price": 2053.36,
+      "prev": 2082.449951171875,
+      "chg": -1.3969099788210926,
       "currency": "NOK",
       "asof": "2026-11-06T00:00:00+01:00"
      },
@@ -488,11 +488,11 @@
      "symbol": "^GDAXI",
      "name": "DAX",
      "quote": {
-      "price": 25820.359375,
-      "prev": 26325.009765625,
-      "chg": -1.9169998230502805,
+      "price": 26325.009765625,
+      "prev": 26437.669921875,
+      "chg": -0.42613496795639305,
       "currency": "EUR",
-      "asof": "2026-11-06T00:00:00+01:00"
+      "asof": "2026-11-05T00:00:00+01:00"
      },
      "news": null
     },
@@ -562,16 +562,16 @@
      },
      "news": [
       {
+       "title": "Apple Stocks Move Lower as Investors Revisit Earnings Quality",
+       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUVI2MEFva0FhMWItYzNMZkdJLTFDQjhOR2VYZnZjc09iZVJqRzFCUzdLTkJoOVYyYmtXdDdtVXdvVVJQQk9FbHppWG9xSEx5QmVNQmVlZXR1dndfM2YzbHI4NzlaN1NEdzNRS0d0SnFRR2taa0gtWGlibGhndzBDWkdjOFl5Z0d6dGZIRFExSkJrTzF6bkZ4T2thZkJZRXM?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-11-05T19:20:48+00:00"
+      },
+      {
        "title": "Apple Stock Is Up 22%, but 1 Slowing Business Could Test That Valuation",
        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSWlhaUxkMVpIazBXTmFyYTlmLU41NUplZnFrZjY1RTZhN0VudFJOcHdCTnBjaDBhYnd2dXZPRXBNQTN6dGlOY2tzbllzRkdQaXlYdDNwSGJST3ZubkxTbllBU0dIZ0JZMXhKOTV5bTgxZ3N2dWpqTVltUEoyVGJvNWJETXdTRlRhdnF1ei1VWXBQRDQ?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-11-05T13:50:00+00:00"
-      },
-      {
-       "title": "Give Your Daughter $100,000 of Apple Stock Now and She Can Sell It at 0% in the Year She\u2019s Between Jobs. Leave It to Her Instead and the Step-Up Erases the Gain Entirely, and the Crossover Comes Down to One Number",
-       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZThqLVFHWnNTNkJqTjVtYll5UERxRGNmVXU0WGlHaXJ1ZVd2dlM3X2NVZDB2eEJsV0tmM3BPME4yakdaVTVsaWxKWXBRejJsRVRSc2ZXaWQ0NHdhRVhWaFVVWkpUMU9EaUthNVRNZmtRUVd2TEprWVdqcDFYSFMxdjQ2ZGFSUzZ2NUdfaTExMklETkI1QlhEUA?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-11-05T10:21:54+00:00"
       }
      ]
     },
@@ -618,10 +618,10 @@
        "date": "2026-11-06T15:12:00+00:00"
       },
       {
-       "title": "Nvidia Just Had Its Worst Day Since DeepSeek, Losing About $450 Billion",
-       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcV9uZUtoOFJZdmVFeHdoQTExOXZ2RkE0RUFSOUZMbkFZSnZrSTh6ajRIVExXZmxhbG9SbXNPVUhGUV9PTWw3VDk3RHNHSEZ0dVFzVlN1S3NhT0RQZFFicG1TZ2V2dGZDS004MmNWWWVfZGJERmNyZVM5eENGblI3QzZpYktnOWNsVzdkLU1TcDJnWlVi?oc=5",
+       "title": "AMD Jumps 8%, Intel and NVIDIA Climb 5% as Chip Stocks Rebound From Worst Sell-Off Since 2020",
+       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMW1ORFRuT241UWRmRjRmYTlsWWFNV3dYUm9EMGU3dy1qdTVnRnRrODJOVnRZeFltam1icENSd1Z4UWlyRlhUT1dmQ2s3SGhkSTVSRmpmTFNBVDZPYlNic0VnRlo2UEpCVDlRV0pUUGxrcnJUcVlMbDZ0R3UxcHhLbmxWdDRXWGxLbVJpaDZaaFdvemc?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-11-06T12:37:04+00:00"
+       "date": "2026-11-06T14:05:02+00:00"
       }
      ]
     },
@@ -637,16 +637,16 @@
      },
      "news": [
       {
+       "title": "Cathie Wood Sells $12.8 Million Of Alphabet, Days After The Stock Suffered Its Worst Day Since Its 2004 IPO, Losing Nearly Half A Trillion Dollars In Market Value",
+       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPX0kwZFpaaFJEZzh1aS12bE1lOHFZcHhiY1VvTXFyUEI4UmlSNU95d1BrX25RWlN4SFJ4a0JVZEd2a3d4RG83NFZPZ0JUclZZcFZtTHNkaG1wRmxqemRNa0l2dGVjVC1XbExEbWV6Y05HeWxGT2paeFl3SzhfWWN0RlRrWERoSE4yeWQxdDl0dU8?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-11-06T01:35:47+00:00"
+      },
+      {
        "title": "Marc Chaikin Sees Alphabet (GOOGL) as a Conglomerate Hiding Three World-Class Businesses",
        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZGUwTUFsMVZQeEZPSnFCZ3dnMDZNTVNFeGVXelVQN1ZtcFo3SnY2dzdmSHhIM2J2OGgwRXZScGYxajZuSDNQd3ZvTGdrMDU5QWNEdWhXM0hnb1lPMmNoQ3ZST0lTcnVDRllVRnpwWG9VdWxxQ1I5R0w5Q3BsZ0NaMkJ1b0FRc05nZnRWdFRhdFBBYVg3aEkwSWd4NlktZw?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-11-05T22:31:23+00:00"
-      },
-      {
-       "title": "Alphabet\u2019s Search Dominance Is at Risk From Its Own AI Success",
-       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbTF2OHBFeFNxbS1qNnpKOWFVTFBtX3JHRTItV3hydi1XWHBSZFZPc3ptdlZiRFk1U2tTbnFqZmNkZU82OFhpa3VFVXBtZlpYQ2x4V1pubHlsS2E2TTNfemlDQWRfbnBGUXNyX3dCWTBqMmpsNVVpdzhjWlBwTE9RWGZucThrQVlfbnZDb1ZfYXIyLTM3TTNOSUhPX2czMTA?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-11-05T10:05:58+00:00"
       }
      ]
     },
@@ -731,16 +731,16 @@
  "failed": [],
  "general_news": [
   {
-   "title": "Stock Market Today, Nov. 6: AMD Surges 11% on Record Quarterly Revenue and Stronger Growth Outlook",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZjBKVy1TeU1tU1RNWEQ3YXZGRmxEaVJMSWFjVEtOX0hNYkpVbkxwcXJkWGNDeFFzNENKdWJFWXVfdVBaVUpVU3pLaERCTVBVS015S3dsRUhTczBRYjdtWWMtbl90a3lYaV9TcjIzRFozVXd3eHE0cHdnUWpFY2tZbUhhZzBnZEszU2loeXJiby14M1E?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-06T22:25:02+00:00"
-  },
-  {
    "title": "FormFactor Stock Gains Focus After Earnings Beat And Strong Q4 Outlook",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOODg4MUNWcXMwRVREaEJVWjMxMllsVGR2YVVNTFBGOThVbEQ0dkN2Z0laSFg5T1VNcjI2dlVNWVRWTDR1Y29naDBrUVlmNjgzSWtfblhRT3pjLXpEV2k0UURtc2lhTnNKZ3BWSFY3NlN0N3d3OXd6VFpZRlpyS0hyanpZMjN2M1hOSm5KUHd2NEtiZnVGX3p3V0RyUUlWcW1wNk41Qw?oc=5",
    "source": "Yahoo Finance",
    "date": "2026-11-06T22:12:54+00:00"
+  },
+  {
+   "title": "US labor market regains ground as job growth surges, unemployment rate falls to 4.1%",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPakNLaDVCMElHQkc5cjV5SmVJcFNPdVpMbnZHRmVFMkoxR3hhbERYTnBZcUlmQVZBanhMeVhEZHpsN3JxM0xrUHNsYVZPWW1EdXBWam1pNk5lSEZVNHkwcUV1VG9xbmVYek80a3JXelRIcW9fQjQ3TUljTUdpZkhYWUJaZHhxNTUybWQwME81bUtPTmJ4UUg4ZjVrZjVlLUx2azFkWjhmeThDWkp2MHJwdTVR?oc=5",
+   "source": "Reuters",
+   "date": "2026-11-06T22:04:06+00:00"
   },
   {
    "title": "Fed policymakers consider rate hike after strong jobs report",
@@ -767,10 +767,10 @@
    "date": "2026-11-06T18:57:46+00:00"
   },
   {
-   "title": "Atlassian Stocks Fall 14% as Fiscal 2027 Growth Outlook Slows Sharply",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcXpJUHVSZlRZZkNWa1oxT3ZrcVE5N1ppbEwxM0RnT3EzQkVJUERzSmQ2am5hMXRfazQ0bVIyYW1yaU5YWjJEdjItWVA0ZDI1OUx3SDYyc0dIZWJqY01pX0o4Mk1KaUNRZWZXNHpnZ21QWi1WeFNvOWxPcF9IQWJKTXd1U2JyMXhUYXJ0bHJBc29CQ0J1a0dSRUNvdkM?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-06T17:04:37+00:00"
+   "title": "Post-Election Strategy: Selling Stock Market Rallies, Buying More Oil Stocks On Dips (SPY)",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQUY0dWJKWGE0SEJua3VzWk9XeDRGOFB1VEluQlRQclBadVBKQmU3OEt3YjdITGd1XzYwd3pCRjdnTGZRZmVhUmtXaVltR3pOdlNzNTNjN3JhV3k2cHpoVFVvRzhMeTQySEVKYU9ZWlF2RlNWQ2lzNFZXVkNORkF5NHhwY2IzX3RaTzZpeXA4TTBRQUZKVmhYcEpnVDFSaXJlWEpNX2VDellLeXQta1RldWJNQkd6ajhJTHYxTGJveTg?oc=5",
+   "source": "Seeking Alpha",
+   "date": "2026-11-06T18:47:13+00:00"
   },
   {
    "title": "If a Stock Market Crash Is Coming, Warren Buffett Says This Is the Wisest Move You Can Make",
