@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-06T17:14:11.973085+00:00",
- "usdnok": 9.4479398727417,
+ "updated": "2026-11-06T18:03:48.709104+00:00",
+ "usdnok": 9.457719802856445,
  "btc": {
-  "price": 75830.5703125,
+  "price": 75588.0,
   "prev": 75942.125,
-  "chg": -0.14689434552956904,
+  "chg": -0.4663090478440046,
   "currency": "USD",
   "asof": "2026-11-06T00:00:00+00:00"
  },
  "silver": {
-  "price": 51.939998626708984,
+  "price": 51.71500015258789,
   "prev": 52.233001708984375,
-  "chg": -0.5609539423138132,
+  "chg": -0.9917131687788627,
   "currency": "USD",
   "asof": "2026-11-06T00:00:00-05:00"
  },
@@ -50,10 +50,10 @@
        "date": "2026-10-31T01:28:30+00:00"
       },
       {
-       "title": "SEB raises its price target for Kongsberg Gruppen to 420 Norwegian kroner (380), reiterates buy",
-       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWHlkanAtajk3dG1uc0tDQTU0ZXl1N2I0emRYTkxnYW4yemRlbGUxTm5Ha1VjYkQ0TzI0R3pPLURrSXgwVVloT0lSWXRqVmdVZWdXRDlWWlJJb2FyZU0ySC1vdzA3Q1h2Sld6ZnF1WWZxUTNKYzhGOGtGNF9TUElGNjFmaC1hQU5PY21WS202dUFGeE51WU1kWnF6a3ZhX25JcEdlMElFcWxGZV9ZUnpVX3JiRjYwTmV5Z1RXb25Kdy1BeERSNmJiVmpMZWFqTmJSQnNsVXJ1Z09aZjBySFE?oc=5",
-       "source": "marketscreener.com",
-       "date": "2026-10-30T06:24:21+00:00"
+       "title": "Kongsberg Gruppen (OB:KOG) Q3 Results Spotlight Backlog Strength And Margin Risk",
+       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOb0JkOXBtTzFMb0dOZTRkbDRlQ2ZTNmtxT1Y5N3hST1B6THgyNzRIOTBvd2lsRHNFc1F3YnV4LV8wU1ZMYzJRaTlQb3Y0TTlMSkYwZ2lLRi0wWFlETk56U3I1bVRhZERoeFo1Wi1TOWdTS1Y2LXRSNFFNejN0QVFQcXRTM2hBeHZjV1JCenZhczZLX0RWWk81REZSTUV4LWxlVWp2a2hLbklOSkdUTGl4TU5aVGRRQlFWMzBENTdoUG40T3hteWxVdjdTZ19KdDVkQzRCd2l0U1ZEWGPSAeABQVVfeXFMTlZhRXFBT0JnT0ZWT0p5SkNrUW5mZjRUeFc4LTY1V3lfNzBlRFUyNTJwYVVNSExLSmttU2YwXzNZb0NQaktHQVFKa3Q4QkNWb29RYVg5Wk1qbzExbFZkOFFzekNoenVtbWNwQk1VWWpIdWF1S2p0bkZlQVpGcVc2eDlDTTUtNm5SbE11MURBNU1WXzZ0RmhhU0FBUFh6OTVrbEZJa3ZCYzh5M181V2hQMHBkcS1Cbk56Ql9zMF9lakdzWVJzZ2dVUVNYcGM5VHhFUXZTRWJPemExZDRTbHhabzQ?oc=5",
+       "source": "Simply Wall St",
+       "date": "2026-10-30T04:26:33+00:00"
       }
      ]
     },
@@ -75,10 +75,10 @@
        "date": "2026-11-01T11:13:05+00:00"
       },
       {
-       "title": "Earnings call transcript: Kongsberg Maritime misses Q3 2026 profit estimates By Investing.com",
-       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNU2ZmdHRTdmZYQURjUV9QdFF1aGo1TC0xaTN6R25rSFR4VG9pakRlbGJ3R2djc0ZqNUdGY20tZzRUd1EzWFhWd215YWlQdW85b19kQzg5MG5YbEdNYVJKbmFHLU10MHFvVGxRUzFXby1tWHZ4eTI5a3lzaDVtT1E1WnZPekZfM1RaMHV5cUlMWTU3T3RzN0VmRktDc3NxWlJIeDUyY0JmX1JQMHJfdkZhTXNvdDY2Q0dOZXdxYWZ0bDY1R0VMN3RtQ0JQWVZzekh4NXc?oc=5",
-       "source": "Investing.com UK",
-       "date": "2026-11-01T10:32:00+00:00"
+       "title": "Earnings call transcript: Kongsberg Maritime misses Q3 2026 profit estimates",
+       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTEh3QzdUZURwbG1XN0FIcUdPUEZpTTA1X1poa0g4UkJ1RFRlLVBtRWxGT3pvaGh3NTdkUFRiakxYTmpGTGUzamY5bUJ2Y0h3UjBRZkxqQlhGbDNZQWJzdUpVanJkaVpTTHV3enIwZnJFOThQVkhkYks0VDZZZzBqdGwwWWNTX2hwRGdWb3Nwa1J3QU1sTkVkOWVwdFhaREQ1ZUZRT3hqbFhzQnJFRzFhbEVCa1NQU2ZFRTlTOWNkRmtESkFyVEFmWUJQbw?oc=5",
+       "source": "Investing.com",
+       "date": "2026-11-01T10:35:27+00:00"
       },
       {
        "title": "Kongsberg Maritime Q3 2026 Earnings Call Is Live",
@@ -209,24 +209,24 @@
      "symbol": "HL",
      "name": "Hecla Mining",
      "quote": {
-      "price": 14.609999656677246,
+      "price": 14.475000381469727,
       "prev": 14.449999809265137,
-      "chg": 1.107265394630108,
+      "chg": 0.17301434279992645,
       "currency": "USD",
       "asof": "2026-11-06T00:00:00-05:00"
      },
      "news": [
       {
-       "title": "Hecla Mining Q3 Earnings, Revenue Rise",
-       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM0xnVVZTd3R0cVF5b0Mzc3ZITXcydk5uRVg5NnZISWNjeVEtM2ZFWTlITnctT3ppLUJ3S1Z2UmZ4MG5teTc4OWZYcU9qSVdNckY1VFVtT3hZUUZiRnRwcG42MXZObE5YOVFtSm5IVExWZ3UxaWNKUUVMbkY3THkwMFc3MG80VW1fYzdsSGZicWlUcWV6NExnVElrTWxVQQ?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-11-04T08:40:08+00:00"
+       "title": "Hecla Mining Company 2026 Q3 - Results - Earnings Call Presentation (NYSE:HL) 2026-11-04",
+       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVmZtVG1sYThUQ3pObENZYVhzUURfSk1rNGlzZDN6aW1rTUtjS0c3QjJTNUJNOS1SLVpRNnA4bExabDVTU3N1S3c2eVNHeWNoZG5iV0MzTHZwVG5KM2UxN184SmtpQzh1S01lYk5KT2tTeVl4Vm5tN0phV05URlUyTUd1cWlidGstQzB3SUg1c2pmdVBhTzRVZHppeDVLVGxzZkdwcGhaRQ?oc=5",
+       "source": "Seeking Alpha",
+       "date": "2026-11-04T15:34:52+00:00"
       },
       {
-       "title": "Hecla Mining Company Q3 2026 Earnings Call Summary",
-       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSVpmY3ZNU3dWN2Y1MG53c3Bqb1FEN0pTd21FUEsybExtcnl3U09kSDdWVUJDT1ZrSVgwdjAyMHNhT1hpQnhveWh2M04xU3VQMmk4Z2FuaUcxaG5rMDFCLTVsS0lhUUtCR3I3NTVmWm1LWjRrQVpMNV8tT3JqRnNiZmY0OUs4OEh1WXo0R1g3YXZCWUdpRG85RE9DVTlpY2M?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-11-04T08:00:00+00:00"
+       "title": "Hecla Mining Company Declares Quarterly Cash Dividend, Payable on or About December 8, 2026",
+       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxONzdyNmFidktCei1nWmVMZDlQbmdNX1pGTFpYY3MyZDM0Wi1RM0ZtRl9NbVFGLU5IX0dsLVpjX1JmN1AtRFJ2LUVCVy1Xc3NrbkJHa2JzREwzNXdhWjItMkZhY1Mwc2RLVHNBY3NTVUJSNWVZWC0xMnphLTRSdEZKdWtuVi1zb3h6T05KbFZNXzFtUlBqdWU4WVluN0pobi1CZFQ0dEVHbmgwQ2xqUjBxQlRFMUpuaGY5SkltREd3Yjd3VWxZUEhxc0tsMGloSmZOWEZ4UEJ5djItQQ?oc=5",
+       "source": "www.marketscreener.com",
+       "date": "2026-11-04T12:46:47+00:00"
       }
      ]
     },
@@ -234,9 +234,9 @@
      "symbol": "HYMC",
      "name": "Hycroft Mining",
      "quote": {
-      "price": 18.260000228881836,
+      "price": 18.110000610351562,
       "prev": 17.020000457763672,
-      "chg": 7.285544875250216,
+      "chg": 6.4042310415490356,
       "currency": "USD",
       "asof": "2026-11-06T00:00:00-05:00"
      },
@@ -259,9 +259,9 @@
      "symbol": "ASM",
      "name": "Avino Silver & Gold",
      "quote": {
-      "price": 4.579999923706055,
+      "price": 4.550000190734863,
       "prev": 4.579999923706055,
-      "chg": 0.0,
+      "chg": -0.6550160146491013,
       "currency": "USD",
       "asof": "2026-11-06T00:00:00-05:00"
      },
@@ -284,9 +284,9 @@
      "symbol": "CDE",
      "name": "Coeur Mining",
      "quote": {
-      "price": 15.350000381469727,
+      "price": 15.354999542236328,
       "prev": 14.630000114440918,
-      "chg": 4.921396181795745,
+      "chg": 4.955566795107402,
       "currency": "USD",
       "asof": "2026-11-06T00:00:00-05:00"
      },
@@ -309,9 +309,9 @@
      "symbol": "AG.TO",
      "name": "First Majestic Silver",
      "quote": {
-      "price": 21.09000015258789,
+      "price": 21.1200008392334,
       "prev": 20.84000015258789,
-      "chg": 1.1996161140572559,
+      "chg": 1.343573342588189,
       "currency": "CAD",
       "asof": "2026-11-06T00:00:00-05:00"
      },
@@ -440,9 +440,9 @@
      "symbol": "^GSPC",
      "name": "S&P 500",
      "quote": {
-      "price": 7414.56982421875,
+      "price": 7384.5400390625,
       "prev": 7353.72998046875,
-      "chg": 0.8273331209003976,
+      "chg": 0.4189718506877549,
       "currency": "USD",
       "asof": "2026-11-06T00:00:00-05:00"
      },
@@ -452,9 +452,9 @@
      "symbol": "^IXIC",
      "name": "Nasdaq Composite",
      "quote": {
-      "price": 24682.525390625,
+      "price": 24553.822265625,
       "prev": 24315.0,
-      "chg": 1.5115171319144638,
+      "chg": 0.9822013803207907,
       "currency": "USD",
       "asof": "2026-11-06T00:00:00-05:00"
      },
@@ -464,9 +464,9 @@
      "symbol": "^DJI",
      "name": "Dow Jones",
      "quote": {
-      "price": 51551.33984375,
+      "price": 51431.76171875,
       "prev": 51523.05859375,
-      "chg": 0.054890471901125615,
+      "chg": -0.17719614768963998,
       "currency": "USD",
       "asof": "2026-11-06T00:00:00-05:00"
      },
@@ -500,9 +500,9 @@
      "symbol": "^VIX",
      "name": "VIX volatility",
      "quote": {
-      "price": 23.719999313354492,
+      "price": 25.860000610351562,
       "prev": 28.18000030517578,
-      "chg": -15.826830885456477,
+      "chg": -8.232788040098448,
       "currency": "USD",
       "asof": "2026-11-06T00:00:00-06:00"
      },
@@ -512,9 +512,9 @@
      "symbol": "GC=F",
      "name": "Gold (USD/oz)",
      "quote": {
-      "price": 4069.0,
+      "price": 4064.89990234375,
       "prev": 4113.5,
-      "chg": -1.0818038167011101,
+      "chg": -1.1814780030691585,
       "currency": "USD",
       "asof": "2026-11-06T00:00:00-05:00"
      },
@@ -524,9 +524,9 @@
      "symbol": "^TNX",
      "name": "US 10-year yield (%)",
      "quote": {
-      "price": 4.85099983215332,
+      "price": 4.835000038146973,
       "prev": 4.836999893188477,
-      "chg": 0.2894343451311343,
+      "chg": -0.041344946985011344,
       "currency": "USD",
       "asof": "2026-11-06T00:00:00-06:00"
      },
@@ -536,9 +536,9 @@
      "symbol": "USDNOK=X",
      "name": "USD/NOK",
      "quote": {
-      "price": 9.4479398727417,
+      "price": 9.457719802856445,
       "prev": 9.294440269470215,
-      "chg": 1.6515206814087469,
+      "chg": 1.7567441250073035,
       "currency": "NOK",
       "asof": "2026-11-06T00:00:00+00:00"
      },
@@ -554,9 +554,9 @@
      "symbol": "AAPL",
      "name": "Apple",
      "quote": {
-      "price": 343.8949890136719,
+      "price": 344.1600036621094,
       "prev": 344.1700134277344,
-      "chg": -0.07990946431486456,
+      "chg": -0.0029083781952099486,
       "currency": "USD",
       "asof": "2026-11-06T00:00:00-05:00"
      },
@@ -579,9 +579,9 @@
      "symbol": "MSFT",
      "name": "Microsoft",
      "quote": {
-      "price": 534.5700073242188,
+      "price": 533.4400024414062,
       "prev": 535.9299926757812,
-      "chg": -0.25376175436131465,
+      "chg": -0.46461110003249706,
       "currency": "USD",
       "asof": "2026-11-06T00:00:00-05:00"
      },
@@ -604,9 +604,9 @@
      "symbol": "NVDA",
      "name": "Nvidia",
      "quote": {
-      "price": 187.97000122070312,
+      "price": 185.9600067138672,
       "prev": 181.60000610351562,
-      "chg": 3.507706444435077,
+      "chg": 2.400881312672576,
       "currency": "USD",
       "asof": "2026-11-06T00:00:00-05:00"
      },
@@ -629,9 +629,9 @@
      "symbol": "GOOGL",
      "name": "Alphabet",
      "quote": {
-      "price": 285.9599914550781,
+      "price": 284.939697265625,
       "prev": 282.57000732421875,
-      "chg": 1.1996970814279528,
+      "chg": 0.8386204763364269,
       "currency": "USD",
       "asof": "2026-11-06T00:00:00-05:00"
      },
@@ -654,9 +654,9 @@
      "symbol": "AMZN",
      "name": "Amazon",
      "quote": {
-      "price": 262.32000732421875,
+      "price": 261.260009765625,
       "prev": 260.2099914550781,
-      "chg": 0.8108896423774992,
+      "chg": 0.4035272837431103,
       "currency": "USD",
       "asof": "2026-11-06T00:00:00-05:00"
      },
@@ -679,9 +679,9 @@
      "symbol": "META",
      "name": "Meta Platforms",
      "quote": {
-      "price": 619.8099975585938,
+      "price": 617.030029296875,
       "prev": 605.0800170898438,
-      "chg": 2.4343855445093654,
+      "chg": 1.9749474234011632,
       "currency": "USD",
       "asof": "2026-11-06T00:00:00-05:00"
      },
@@ -704,24 +704,24 @@
      "symbol": "TSLA",
      "name": "Tesla",
      "quote": {
-      "price": 360.1199951171875,
+      "price": 358.8299865722656,
       "prev": 343.69000244140625,
-      "chg": 4.780468608068489,
+      "chg": 4.4051278836487295,
       "currency": "USD",
       "asof": "2026-11-06T00:00:00-05:00"
      },
      "news": [
       {
+       "title": "Elon Musk Is Killing the Cybertruck. What It Means for Tesla Stock.",
+       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU1BjRWpvRk9HZ21UWmN4Q3dkcmlOMEktZnpTMmRZYXg3N3pGUlhEaFNXQ1pjeE85QTlidTBlblZja3NPNnE4cTh5VGoxNEVSOTZ4UEJzVTBSNmtLN3ZPOVljVXNvRy10N1ZMZ3NUU29fWTJpb3A4WGZwX0ZEWUlhSFowZFg?oc=5",
+       "source": "Barron's",
+       "date": "2026-11-06T17:57:00+00:00"
+      },
+      {
        "title": "SpaceX and Tesla Shares Drop After Historic Nasdaq Rout: What Investors Should Know",
        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUnpvZ0ljUHRNSjB4MVZmWGJ5TnY0Z3V4V29BXzBHODd3U0VXZkJzU21oZy00ZHM2cWotWEg2QWFRX2tpT0Rta2lrOS11TDRFUGVvVW03ckR4OHFMdFViX3dDRnB5bndVYThSZkV5Wm1qUld5TV9CdGlBbGZQZjFKMTZvWDVOTUlFekx2LVhabG9wMW8?oc=5",
        "source": "Barron's",
        "date": "2026-11-06T15:08:00+00:00"
-      },
-      {
-       "title": "Tesla\u2019s Primary Growth Drivers Just Got Choked Out",
-       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObGdLYlJ0eVN0dGNGTHEzNnpNS29fWnlTQWtZODg5LWhpRUZ4TmY0S09XMVd1VnpwV2tqU2hER082aFJnWG8xSzZGaldmLTRQS005MldnYUpBeEp5VkJIQVN6RlRkUFlNYldSaUdQTTNhMmo2eDhZamNRWVN3VlFNdTItVHJvM1dnbXJfckk4M1hWR0ZCMmlscmMyRkRfeDQ?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-11-06T13:45:13+00:00"
       }
      ]
     }
@@ -730,6 +730,12 @@
  ],
  "failed": [],
  "general_news": [
+  {
+   "title": "Atlassian Stocks Fall 14% as Fiscal 2027 Growth Outlook Slows Sharply",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcXpJUHVSZlRZZkNWa1oxT3ZrcVE5N1ppbEwxM0RnT3EzQkVJUERzSmQ2am5hMXRfazQ0bVIyYW1yaU5YWjJEdjItWVA0ZDI1OUx3SDYyc0dIZWJqY01pX0o4Mk1KaUNRZWZXNHpnZ21QWi1WeFNvOWxPcF9IQWJKTXd1U2JyMXhUYXJ0bHJBc29CQ0J1a0dSRUNvdkM?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-06T17:04:37+00:00"
+  },
   {
    "title": "US Stock Rout Pauses as Dip Buyers Offer Support: Markets Wrap",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOX2RxUlFvNmxoUFFUd2pmeUk3MTJoSkNvTkxwOS1TUlNFd1hDZkNZZ0huMHIxQXhDeWtpWVdVcmJGcDQwdVcwMFJTaHg2Q040OTBCZm5Ja2doTnpQcTh1OFFSdDNucHFXVzFRR2EyTEJfa3BRWDFUY19lcFNNXzRmR2F2UEw4dlVOUW1xSnFqNmI1Wmtr?oc=5",
@@ -777,12 +783,6 @@
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQnJGSjlwU0QtMjEyYUFVWVBEb19zM1Q4cDIzMkN4ZFFRdGNDa29lZkpMa0hmc1pGYXdXYlAtN1BSZ3FsVE1fcHpiSTV1N3V1OXc1WE1YNVVSMzd6akViSGc2MmZxaFNBV0dLM3JoaVpHVWxZLWpMMWpzVk9YSldVY0NRV0JWVDZSWTdzUE9Ra190cm9Wd1E?oc=5",
    "source": "Yahoo Finance UK",
    "date": "2026-11-05T11:05:00+00:00"
-  },
-  {
-   "title": "UK Recession Risk If AI Investment Slows, Oxford Economics Warns - News and Statistics",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNFFJYUxMVmJlZFB2RzRESHRXdEtUZTJQa2liQXRUVkJlWG42eHRUeklmX1FyTW9KMXRuZzJPeEFiTy1oMm9qbko1LVhUSXdUSG5CTm8yMjJDUWNjTFlIUWcyYlNBWDZ1RnFPZUwyWjREUTM5ZnZ1TW9OVDI2WHJBYVZEMlh4cWxDNTNWcmMtNGVTOHBEVXFISG5FbXdQaHpJNzNCRQ?oc=5",
-   "source": "IndexBox",
-   "date": "2026-11-03T12:01:13+00:00"
   },
   {
    "title": "Oslo B\u00f8rs Equity Certificate I (OSEEX.OL) Seasonal Returns Chart - Yahoo Finance",
