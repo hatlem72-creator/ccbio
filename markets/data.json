@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-07T11:58:08.337744+00:00",
+ "updated": "2026-11-07T12:47:28.136779+00:00",
  "usdnok": 9.453700065612793,
  "btc": {
-  "price": 75882.5,
+  "price": 75761.0,
   "prev": 75746.9296875,
-  "chg": 0.1789779639376876,
+  "chg": 0.018575422869338,
   "currency": "USD",
   "asof": "2026-11-07T00:00:00+00:00"
  },
@@ -50,10 +50,10 @@
        "date": "2026-11-01T23:04:24+00:00"
       },
       {
-       "title": "KONGSBERG secures US government contract for underwater capabilities",
-       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa0J0WVlGSWkwZ3VHR2t3cWNqN1Q0M2ZmX0tqdmJhUzZrQkxwNVljUWFvMG1xcF8zUVpFa1EyTWNNVFhhMmRfNFdTVVp6R2JpaDQtdXg2UDMxMzRRV1JUSEQwNDlFZVFQTW80SGVjZ2hQdGtwWVd6bVpfOXJoSFhGdzEwOU5YWVhxTDU3d1hUU2RSWl9PUlF0QkF1RERRa3otTWNGVzN3RW5RYW5kclVnMWpLVC0?oc=5",
-       "source": "Naval News",
-       "date": "2026-10-30T13:56:33+00:00"
+       "title": "SB1 Markets raises its price target for Kongsberg Gruppen to NOK 425 (400), reiterates Buy",
+       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQR3FOZmVUVEhhTWUzcksxaUw5alB2Z1J0bUFLSElVYzBueXdUX2lQNVhZUEFGU3RBUWtXUlF3NENTTjRGeEJlSXRYX2hfRFhueEhsM19tV0hhWWxORldxV1NER3oxUkRwaUU2WW1EVEI0VTFXN0kxcVNmQ3ZMal9mRDZVWTVvWDR0Vnh1eHVpbzdmaHpPV1BoUmo3X0lKSFN3SGc0cEJjV01LNkdxMjlQZXhycXpfNkl0cGViUkRRU3NzVjV3aGVGY1FjamN1Qno3a3IyZ040dw?oc=5",
+       "source": "www.marketscreener.com",
+       "date": "2026-10-30T07:55:20+00:00"
       }
      ]
     },
@@ -112,12 +112,6 @@
      },
      "news": [
       {
-       "title": "VanEck Gold Miners UCITS ETF (GDGB.L) Seasonal returns chart",
-       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tWlpPaHgtMGwyamx4d0huWHFTdTJxdWxDaGhHNnhERi1FSUhtdUhxRHpuOTRtZHBGNzREbjhFRC1iN1dIY3hYMGVDamtWUmlxTEhvR1ptQnlCMTFHSVUyRkVNSVo?oc=5",
-       "source": "Yahoo Finance UK",
-       "date": "2026-11-06T16:35:24+00:00"
-      },
-      {
        "title": "Form 4 VanEck Gold Miners ETF For: 4 November By Investing.com",
        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORU1YalAzcDg0OVVjcDBOc0g2ajFFbmRPM2VLd1hfMlAydV9Rcm5IMkM0bDJvTFQ5dDZoOTFIWWFnbklqU091MFd5RGxCel96dE9ieEp3NGFGUXE5Rzk0Wkx4S0hvYlNHdEVsZDlmRS1fWGtGZEpwVDNzN29VR2VkWmpnel9pZjJaQ1pxZDN6N1pYWlh5eUpxVXVQQlQyck9lRHJuYU94RXQ?oc=5",
        "source": "Investing.com UK",
@@ -134,6 +128,12 @@
        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16Z25BX1NDRlZjTkdwRy1PeGlJN09nYXdzcU1NX0ViSlE5eGFrUXAtVHlaemFCRWI0eHBVOGNISHRpcWMzV1ZQUTFZQzZUNEtDdGZQMWlsT1FMS2lsTGQxbno5cms0Zw?oc=5",
        "source": "Yahoo Finance UK",
        "date": "2026-11-04T02:40:49+00:00"
+      },
+      {
+       "title": "VanEck Gold Miners UCITS ETF (GDX.L) Seasonal returns chart",
+       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB1R1NBSjM5UlhxNTZlLW5ZeVZYcURwaEsycE5rLWZZdS03U09oSEpOc3ROLUJlZHJ5QWdweDNpTTBmSi10ZVlKeEwzNGxmMVo2cHdqM1BBZEo1QjNqdjUxcE9qQQ?oc=5",
+       "source": "Yahoo Finance Australia",
+       "date": "2026-11-02T19:58:20+00:00"
       }
      ]
     },
@@ -242,16 +242,16 @@
      },
      "news": [
       {
-       "title": "Hycroft Mining Holding Corp (R5A.HA) latest stock news and headlines \u2013 Yahoo Finance",
-       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BQ2tpNE9tZm5CYjZ1ZG1yN2RZcHdFcUJqd21oWlJSc2dGM0t6QnUzM3JWS0I3dEhXdXpHaUR4WGo3LUlxMW5pT19kdVozdUlUR0JXbjRIc1ppbGc?oc=5",
-       "source": "Yahoo Finance Singapore",
-       "date": "2026-11-06T06:28:47+00:00"
-      },
-      {
        "title": "Hycroft Mining Holding Corp (R5A.DU) Seasonal returns chart",
        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMd3I1dWdjczdyX1JNeHQ2YXVQcGxGNkwxek9MLW5OTWRDNjY0amQ2REo5b013c0RwUGFGUTZsVE10YVZrdkdVNHNKN1dHaG5NRXNNdzRPbXFWLVU1c0kyZFNTOGM?oc=5",
        "source": "Yahoo Finance UK",
        "date": "2026-11-04T05:43:14+00:00"
+      },
+      {
+       "title": "Hycroft Mining Holding (HYMC) Looks Pricey Following Wider Losses And Leadership Changes",
+       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYTl5WVByNjJUN3hRVi02U2VYb3RSTWNEZUlzT1I4TUZPTWxMd1h3RHFCUUU1ZklQRF9PR2FYZldmdk1pcHJ4ZVJ4c1RVUThwWXhFS1FaVFlVcEppbWhDVmJpZnVnYzFORkhiOFJRbS1BZUF1cE10dnhiVFJGdVhyTHp3Z3JmRWtKWkdMb2R6a0puYTBFVE4xc25hek9vMjA?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-29T09:16:43+00:00"
       }
      ]
     },
@@ -348,10 +348,10 @@
        "date": "2026-10-30T06:55:59+00:00"
       },
       {
-       "title": "Defiance Silver raises C$3.27M in private placement",
-       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVThvVEk3MTRTQUk4eW0xVlhJdEl3aGtpUnRraWhHb0pnNGRKXzlZS0FEZUYzbU9zWW11Ujg1a1FFaG9DU2dhcEJVZS1hV0xYUWFNNk5TMWpGckFzRFJuYVpiZmlVQ0F4Z2lBNkpINExnb2dqWW52ZGxQeFQ1bUVEdTk4WWRmRUhWYU9oUGJ3?oc=5",
-       "source": "Dealroom",
-       "date": "2026-08-19T05:04:28+00:00"
+       "title": "Defiance Silver Corp. Reports Earnings Results for the Full Year Ended June 30, 2026",
+       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQc180cE45amExU3k2S2RSejVoMGlEM3A0OHNXcjJ6Z2tUbHZtc2FMenNhaGI0QWwyWkNnLU8zbGNWcXhGVFJaMFdjVVRfOEtleUNQUTd3UnVVbmI1RC1XM3h5SHpmMHdCNF9mNjI1bHhGZFdzME5IZkZsTVVVbGYyQmMyY2VZbG1HeEZMbl9Rd2RvZWtpajQ2eUs1SlVPTGJYV1dBRC1RSm0yYWdiQVpjN0xEUmswcG1xNnNJZ0lQckt3TE9lWFB1b3N2eV9EQXlZ?oc=5",
+       "source": "www.marketscreener.com",
+       "date": "2026-10-28T21:08:00+00:00"
       }
      ]
     },
@@ -367,16 +367,16 @@
      },
      "news": [
       {
-       "title": "Gr Silver Mining Ltd (GPE.HA) stock major holders",
-       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45OHkzV3c4RXIzaEtkdVBNT0ZsQzJkck5pbGNHYTg3YXdDTzdFMUlsRnlLTS1IYjlKOVhvZlFXVWZ2TS1XRFFXY1pmdXZEemEwTGNLand0cHFHVjRyWjhJ?oc=5",
+       "title": "GR Silver Mining Ltd. (GPE.F) Seasonal returns chart",
+       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xRGs4MWpqRXlIZWUwcE1yR3N1d3l3T3R5QnltZEpra3pzRXpTdVRfaG9DRklVc1RFZGowWENQRkljZ3JpaFNlYzNoNndhOWp1M3FQdmItWUVZWGZTS3RsbG8tbw?oc=5",
        "source": "Yahoo Finance UK",
-       "date": "2026-10-30T02:31:36+00:00"
+       "date": "2026-11-02T17:20:37+00:00"
       },
       {
        "title": "GR Silver Mining Welcomes Shareholder Support at AGM",
        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSWJPMTlBNjZOb2wzMXVDSklIRUpPX29nY3g4emh3cm1zX0ZwRkp0QUNXcmFDOE1taUpiTjhkb2JJM095bEtiUU9wMHdEcFRIZThUbDVrQ2kzcVZFMG1wNy1taVVrd0dPQWNxMFFIam50UTFXZ2FleVVnYkdXV2pSTHFJVE10LWxIckREc0pURFhOcTl1NkpLZGhmOC0xbG5SUzB3Zw?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-10-26T07:00:00+00:00"
+       "date": "2026-10-26T20:17:00+00:00"
       }
      ]
     },
@@ -417,16 +417,16 @@
      },
      "news": [
       {
+       "title": "Silver X Files NI 43-101 Technical Report for the Updated Nueva Recuperada Mineral Resource: 10.4 Mt Measured and Indicated at 202 g/t AgEq (67.3 Moz AgEq) and 21.6 Mt Inferred at 260 g/t AgEq (184.3 Moz AgEq)",
+       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWlhwU0dacGtfSWlCNy04WTFQYXk3Z2Y4Sl83ZVFNUTRqRjkxNGt2NXQ2T1dUbnI5MXN1OGh5UG5OMmNqVlV2a0s5WV9zcW92akcwb2dmQU5LSkh6NmN5V2k2d0RDZVZ6Z1VsRUpaSC1yZElOanppazE0V01KSjB6c0c5anloVC1xSElRbWNBTzRCcXdL?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-30T12:20:00+00:00"
+      },
+      {
        "title": "Silver X Mining Corp. (TSXV:AGX) Advances 3.49% as Investor Optimism and Upside Momentum Improve",
        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLUxsTHJEU0tuaEZvMW9kYVZOZ1dyQi1xby13RE8yUU5FTk9xazAxTHExdXFER2Z6d3RUNG56TVdwZ005UW1xT1BGNjU5Vl9CSF80SFNKc1p4TzN3a252M2c4UDRGc3dfZ05ld3NyT0xBYTJDUjdmUTNKc0lTWnlOTkphQzFMblU1bHBYZUZwR0tYd0k4OG1HYUxrQVduSk9WaXVVTThlWU82Umg4dXlOSVJEeFdfX2dzOUFYcEFB?oc=5",
        "source": "kalkine.ca",
        "date": "2026-10-09T07:00:00+00:00"
-      },
-      {
-       "title": "Press Release Distribution & Media Outreach Platform for PR Agencies",
-       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZ0kyLWU3a2lnV1BndzhBdHRMb0t3UVBQRGx1Ry1BY2l6dnFJTjBmQVZyUnFneFhjS0tGQVVGdDhWd2lkek1UMHRaNjlZV21zeURmemJPRVdRdHAxSDA4YzJrRWJ1aXV0c0RPbWxnVFJzVnBuRlZXZDJYSU1RNXBqOVRsT1MxbDZVd21tLTRLcURvN21KTEJpeDVEYnNVMS1fRFBaalVMbGZvNjZRTWRqZ1czVmZyb3RDVFlSb0JlYWp5T2p2TGZkbnh6bnBaWk1DSEs4UFRvMDJHM1lfdlQtcERVQnU?oc=5",
-       "source": "ACCESS Newswire",
-       "date": "2026-10-08T11:42:03+00:00"
       }
      ]
     }
@@ -618,10 +618,10 @@
        "date": "2026-11-06T15:12:00+00:00"
       },
       {
-       "title": "Nvidia stock oversold setup: Key levels after a 9% drop",
-       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNjhTc0JFcEFDRDdXX3N3VDROUHZWS25HV0loYWVGV2tYaC05U3Vvc3hxdW91UERlREdKQVIxS2Y0c1M1UmE5LXUtdU9WT0pqVFJBRWZzRU0zS1hPWTByX2QtRUp3SFN2dGRyekZPSV9VdVY2NHBkSEJjdnc4T2JaRU9RdVhiaDdRY1VUR2NYWUI5cnVVMHJVaE1faGE?oc=5",
+       "title": "AMD Jumps 8%, Intel and NVIDIA Climb 5% as Chip Stocks Rebound From Worst Sell-Off Since 2020",
+       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMW1ORFRuT241UWRmRjRmYTlsWWFNV3dYUm9EMGU3dy1qdTVnRnRrODJOVnRZeFltam1icENSd1Z4UWlyRlhUT1dmQ2s3SGhkSTVSRmpmTFNBVDZPYlNic0VnRlo2UEpCVDlRV0pUUGxrcnJUcVlMbDZ0R3UxcHhLbmxWdDRXWGxLbVJpaDZaaFdvemc?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-11-06T15:09:36+00:00"
+       "date": "2026-11-06T14:05:02+00:00"
       }
      ]
     },
@@ -731,6 +731,18 @@
  "failed": [],
  "general_news": [
   {
+   "title": "How Investors Are Reacting To Shift4 Payments (FOUR) Lowered Profit Outlook",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcTNzRl9LZThiczRaTnE2VFJkR2JOX1NKTTZISjBzRThRbVViaVZiTkZldWRzQ3owdGFCX2gwb1o1d21Ud2d0Y3Zhb21vTTRLV0pPeWZCbG9HY0xRNDFpSTNiNE5oY1c3R3p6QmR0R3pIX25XV083ZmR6N3VWQTNfRXNUTE1sNGI0d21IUEJaNFZUZUVOMzhvUTM4Qk9QZnljUEh3YW5KUQ?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-07T10:12:16+00:00"
+  },
+  {
+   "title": "Mobileye Stock In Focus After Revenue Outlook Lifted And Losses Narrowed",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOXE0ZzVVWUdyMzhYQWF5RlZxMVFTNDFjcTdFbENZRmw5Q0F6cG5pMlZ6cVlEMnY3MXRybnROQzVzSHpnQkUxU3dtVHE0YWZpVWZJMDkwclNmRnB2dXNETngwVEMyU1hFaExUZnBWYUlqbkNxZ3kxb3BQMjNwMzU4dzZRcFh5bTd0QjNQVkpFTWpwN3dnaXRmQ1V4SlJ6Q1owNVlV?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-07T08:14:08+00:00"
+  },
+  {
    "title": "Stock Market Today, Nov. 6: AMD Surges 11% on Record Quarterly Revenue and Stronger Growth Outlook",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZjBKVy1TeU1tU1RNWEQ3YXZGRmxEaVJMSWFjVEtOX0hNYkpVbkxwcXJkWGNDeFFzNENKdWJFWXVfdVBaVUpVU3pLaERCTVBVS015S3dsRUhTczBRYjdtWWMtbl90a3lYaV9TcjIzRFozVXd3eHE0cHdnUWpFY2tZbUhhZzBnZEszU2loeXJiby14M1E?oc=5",
    "source": "Yahoo Finance",
@@ -759,18 +771,6 @@
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdVM5RWx2cGx4U3R0Z3pJMzRzQ1NWaURpbkhvRnRXbzhPU3dVcVRmbVBuT05DOUJ4aXduWGhWYXBzQVZSbVhpU3FHVkQxdnBIWEFLSHBzNGJuc2VWR0Exb3F4dkFSazFNM0ZvQkhrYm1jMzlQcDVGVGQ0RUlYWW5ZVUIzRng1Z3YxZFZmaC1TbWUzSVhoTUJfY3Nn?oc=5",
    "source": "Barron's",
    "date": "2026-11-06T19:57:00+00:00"
-  },
-  {
-   "title": "Market Outlook: Strong earnings offer support after tech selloff",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRnFKUzBYSDhmWnhsbUxHTUNsYXZ0Tk4tejFudGNXa3FUWnZfVXo2ZEx4U2tveU4yTGNrUlZUT2xRazRIby1CRkZHTUQ1TDRsMzdrVVFtbE0zdms3aWM4eXhZbExnNVV4VWk4NlNHQklHVGhwZW1yZl9tSnBiWVhIaWFKVkxKS2k1U3Zqci1nRTk4S1p1ZVBuN1JDbmtTbXlHLTNEVmgtZmhhV2NUYTFoUTNBX2Q5TVRBUE9uQzlBMWJ5UlBTWjBv?oc=5",
-   "source": "BNN Bloomberg",
-   "date": "2026-11-06T19:30:59+00:00"
-  },
-  {
-   "title": "DraftKings Plunges After Cutting Its Outlook. Here\u2019s Which ETFs Feel It Most",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU3V1YkpFRDFONHNiR2ZBMGlyRUd2Wk5MS2lfR0JSLUtDRmcxSDZXYzg1akREaF90Vkh1UXBWV2lTck9OcGs2VWZHZWNoUzNhaHVoSHd0ZDZIY2E1NWFoZnhzXzdFd3U2YzM2SE9ubXJiM1ItV0JkUG9TTWNSajhjS0ZRb09fM2Z1REZqZER4bEZOelFSandpNkNwdU83aTlvamxxSXBvSQ?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-06T18:57:46+00:00"
   },
   {
    "title": "If a Stock Market Crash Is Coming, Warren Buffett Says This Is the Wisest Move You Can Make",
