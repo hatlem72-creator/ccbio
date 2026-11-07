@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-07T06:27:50.472519+00:00",
+ "updated": "2026-11-07T07:41:59.238564+00:00",
  "usdnok": 9.453700065612793,
  "btc": {
-  "price": 75923.9765625,
-  "prev": 75942.125,
-  "chg": -0.023897721455645726,
+  "price": 75930.921875,
+  "prev": 75746.9296875,
+  "chg": 0.24290382231870744,
   "currency": "USD",
   "asof": "2026-11-07T00:00:00+00:00"
  },
@@ -217,16 +217,16 @@
      },
      "news": [
       {
+       "title": "Hecla Mining Co (HL) (Q3 2026) Earnings Call Highlights: Record Cash Flow, Fortress Balance ...",
+       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5hY0JVRXdsUnVWRGJEUXpuM1BaenlrSmNaRnN6ODR3S0JOMFg3UG1NdGpmMUN2SENDQW1DUVpvVDlvdmRORUppT2hpVERvSnZFMlZRSk5SbW4teFhuT2pjWEZGdk1JWG4tanZ5SmxCNzFldFdOQzNsVlBR?oc=5",
+       "source": "Yahoo Finance Singapore",
+       "date": "2026-11-07T07:26:00+00:00"
+      },
+      {
        "title": "Hecla Mining Company 2026 Q3 - Results - Earnings Call Presentation (NYSE:HL) 2026-11-04",
        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVmZtVG1sYThUQ3pObENZYVhzUURfSk1rNGlzZDN6aW1rTUtjS0c3QjJTNUJNOS1SLVpRNnA4bExabDVTU3N1S3c2eVNHeWNoZG5iV0MzTHZwVG5KM2UxN184SmtpQzh1S01lYk5KT2tTeVl4Vm5tN0phV05URlUyTUd1cWlidGstQzB3SUg1c2pmdVBhTzRVZHppeDVLVGxzZkdwcGhaRQ?oc=5",
        "source": "Seeking Alpha",
        "date": "2026-11-04T15:34:52+00:00"
-      },
-      {
-       "title": "Hecla Mining Q3 2026 Sales Rise 25% to $394.8 Million on Higher Revenue",
-       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZV9NcHFwcEpTSFVnRllzT0RfMGV5Ti1wNGZLRndfVTJlM29ZUmlBSzVhckFYLWxldnhjUHJkOTROcWZ5ZTJuZEphMThjLVBudjd3ZUpiM1hlTFpmTzJCV0U0Vy01dUN5Y3JOai1QeFNPMFV0aW5UamdMc1JsZE5Dc2l3MTR1bU91cHFUVzJ6QXlabmN1ajJubF9kMFhYWXJuNmtYX2tFZ1pFaDkza0pZ?oc=5",
-       "source": "Minichart",
-       "date": "2026-11-04T13:00:00+00:00"
       }
      ]
     },
@@ -417,10 +417,10 @@
      },
      "news": [
       {
-       "title": "Press Release Distribution & Media Outreach Platform for PR Agencies",
-       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZ0kyLWU3a2lnV1BndzhBdHRMb0t3UVBQRGx1Ry1BY2l6dnFJTjBmQVZyUnFneFhjS0tGQVVGdDhWd2lkek1UMHRaNjlZV21zeURmemJPRVdRdHAxSDA4YzJrRWJ1aXV0c0RPbWxnVFJzVnBuRlZXZDJYSU1RNXBqOVRsT1MxbDZVd21tLTRLcURvN21KTEJpeDVEYnNVMS1fRFBaalVMbGZvNjZRTWRqZ1czVmZyb3RDVFlSb0JlYWp5T2p2TGZkbnh6bnBaWk1DSEs4UFRvMDJHM1lfdlQtcERVQnU?oc=5",
-       "source": "ACCESS Newswire",
-       "date": "2026-10-08T11:42:03+00:00"
+       "title": "Silver X Files NI 43-101 Technical Report for the Updated Nueva Recuperada Mineral Resource: 10.4 Mt Measured and Indicated at 202 g/t AgEq (67.3 Moz AgEq) and 21.6 Mt Inferred at 260 g/t AgEq (184.3 Moz AgEq)",
+       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWlhwU0dacGtfSWlCNy04WTFQYXk3Z2Y4Sl83ZVFNUTRqRjkxNGt2NXQ2T1dUbnI5MXN1OGh5UG5OMmNqVlV2a0s5WV9zcW92akcwb2dmQU5LSkh6NmN5V2k2d0RDZVZ6Z1VsRUpaSC1yZElOanppazE0V01KSjB6c0c5anloVC1xSElRbWNBTzRCcXdL?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-30T12:20:00+00:00"
       },
       {
        "title": "Silver X Mining Stock Faces Fresh Pressure as Weak Sentiment Raises Correction Risk",
@@ -637,16 +637,16 @@
      },
      "news": [
       {
+       "title": "Marc Chaikin Sees Alphabet (GOOGL) as a Conglomerate Hiding Three World-Class Businesses",
+       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZGUwTUFsMVZQeEZPSnFCZ3dnMDZNTVNFeGVXelVQN1ZtcFo3SnY2dzdmSHhIM2J2OGgwRXZScGYxajZuSDNQd3ZvTGdrMDU5QWNEdWhXM0hnb1lPMmNoQ3ZST0lTcnVDRllVRnpwWG9VdWxxQ1I5R0w5Q3BsZ0NaMkJ1b0FRc05nZnRWdFRhdFBBYVg3aEkwSWd4NlktZw?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-11-05T22:31:23+00:00"
+      },
+      {
        "title": "What Is Alphabet Getting For All That Spending?",
        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPangtdEhxc2c1dHpxLUVWX3AyT3J4SFZqbFRwZHBjYUdNZ20waGdCZ3RheXVNOElSNGxhaWlpcnd4S3NlX0VmT3IyU054ZzR4STBoaTcyRGI4cldNUllSLW5NWVl2MjlNUDZwQlJEN3VLYXJyRVQ2TFQ2b2UzaHd2ZEZiSE1aMzlRX0VsS1F1elRGLS1L?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-11-05T12:06:25+00:00"
-      },
-      {
-       "title": "Alphabet\u2019s Search Dominance Is at Risk From Its Own AI Success",
-       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbTF2OHBFeFNxbS1qNnpKOWFVTFBtX3JHRTItV3hydi1XWHBSZFZPc3ptdlZiRFk1U2tTbnFqZmNkZU82OFhpa3VFVXBtZlpYQ2x4V1pubHlsS2E2TTNfemlDQWRfbnBGUXNyX3dCWTBqMmpsNVVpdzhjWlBwTE9RWGZucThrQVlfbnZDb1ZfYXIyLTM3TTNOSUhPX2czMTA?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-11-05T10:05:58+00:00"
       }
      ]
     },
@@ -731,12 +731,6 @@
  "failed": [],
  "general_news": [
   {
-   "title": "Stock Market Today, Nov. 6: AMD Surges 11% on Record Quarterly Revenue and Stronger Growth Outlook",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSGNRQWt0a2psYzBKVk1LaGVQZXFTcHRXNWZKVWVacVB5eE1xcjFOeXZxSERaVWd6SmpkN0R4RmNJSmpjbk5Paml1WEJCbHFqRkVVc29HR1dYV0s1dENnQzdBYUJmU1dEYTZpZm11cC05Mi04Y05KdFlzdnZXLVd5YnJKUnRXaGJLNTJCcGJTbVhQZWhWM1JwUDg5amhGZ1JTY2tIYzU3OGhYRnF6eHExdEZXREJVSFZzRldZWG5SNXR4UkdJcEN5Y0F4UWEzSjM1MXFrN3NyZ0NMbW5nNzl0VTQ0WG9lQWRGQ0Z3?oc=5",
-   "source": "The Motley Fool",
-   "date": "2026-11-06T22:30:55+00:00"
-  },
-  {
    "title": "FormFactor Stock Gains Focus After Earnings Beat And Strong Q4 Outlook",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOODg4MUNWcXMwRVREaEJVWjMxMllsVGR2YVVNTFBGOThVbEQ0dkN2Z0laSFg5T1VNcjI2dlVNWVRWTDR1Y29naDBrUVlmNjgzSWtfblhRT3pjLXpEV2k0UURtc2lhTnNKZ3BWSFY3NlN0N3d3OXd6VFpZRlpyS0hyanpZMjN2M1hOSm5KUHd2NEtiZnVGX3p3V0RyUUlWcW1wNk41Qw?oc=5",
    "source": "Yahoo Finance",
@@ -758,13 +752,19 @@
    "title": "Stock Market Outlook: Nvidia Earnings, Anthropic\u2019s IPO, and the Fed Rate Decision",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdVM5RWx2cGx4U3R0Z3pJMzRzQ1NWaURpbkhvRnRXbzhPU3dVcVRmbVBuT05DOUJ4aXduWGhWYXBzQVZSbVhpU3FHVkQxdnBIWEFLSHBzNGJuc2VWR0Exb3F4dkFSazFNM0ZvQkhrYm1jMzlQcDVGVGQ0RUlYWW5ZVUIzRng1Z3YxZFZmaC1TbWUzSVhoTUJfY3Nn?oc=5",
    "source": "Barron's",
-   "date": "2026-11-06T19:59:08+00:00"
+   "date": "2026-11-06T19:57:00+00:00"
   },
   {
    "title": "Market Outlook: Strong earnings offer support after tech selloff",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRnFKUzBYSDhmWnhsbUxHTUNsYXZ0Tk4tejFudGNXa3FUWnZfVXo2ZEx4U2tveU4yTGNrUlZUT2xRazRIby1CRkZHTUQ1TDRsMzdrVVFtbE0zdms3aWM4eXhZbExnNVV4VWk4NlNHQklHVGhwZW1yZl9tSnBiWVhIaWFKVkxKS2k1U3Zqci1nRTk4S1p1ZVBuN1JDbmtTbXlHLTNEVmgtZmhhV2NUYTFoUTNBX2Q5TVRBUE9uQzlBMWJ5UlBTWjBv?oc=5",
    "source": "BNN Bloomberg",
    "date": "2026-11-06T19:30:59+00:00"
+  },
+  {
+   "title": "Post-Election Strategy: Selling Stock Market Rallies, Buying More Oil Stocks On Dips (SPY)",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQUY0dWJKWGE0SEJua3VzWk9XeDRGOFB1VEluQlRQclBadVBKQmU3OEt3YjdITGd1XzYwd3pCRjdnTGZRZmVhUmtXaVltR3pOdlNzNTNjN3JhV3k2cHpoVFVvRzhMeTQySEVKYU9ZWlF2RlNWQ2lzNFZXVkNORkF5NHhwY2IzX3RaTzZpeXA4TTBRQUZKVmhYcEpnVDFSaXJlWEpNX2VDellLeXQta1RldWJNQkd6ajhJTHYxTGJveTg?oc=5",
+   "source": "Seeking Alpha",
+   "date": "2026-11-06T18:47:13+00:00"
   },
   {
    "title": "Atlassian Stocks Fall 14% as Fiscal 2027 Growth Outlook Slows Sharply",
@@ -786,7 +786,7 @@
   },
   {
    "title": "Here's what the Democratic election rout could mean for the U.S. economy",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LSmFYdU84c0huOFFRc0RjSkUxcXVTNlVSbTlVck9YYVY2MlNyTzdKaTJZM1R3TU5CclVfN1dyT0ZFaXBvYjg2VkFpMy1JcTFQRmkzVWp1cFVmNXg2Skd4VzhxWUhCSHhoRDBDUXNQONIBdEFVX3lxTE1ROExhcXBmYXZNYWxhMmZNSU53MDVac0REOU1IY1Npcl9qaHhsNFNqQzV1UXBoRjFkbUw5OFlVNVQ1SGtCSkY1Zks3NkdJYTNWNHFLSWtuQ2hkeThvVlJ1ZUtIMXM3QjE5Wm5KWjhmTXVCcVFZ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LSmFYdU84c0huOFFRc0RjSkUxcXVTNlVSbTlVck9YYVY2MlNyTzdKaTJZM1R3TU5CclVfN1dyT0ZFaXBvYjg2VkFpMy1JcTFQRmkzVWp1cFVmNXg2Skd4VzhxWUhCSHhoRDBDUXNQOA?oc=5",
    "source": "CNBC",
    "date": "2026-11-05T12:11:05+00:00"
   },
