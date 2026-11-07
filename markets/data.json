@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-07T02:26:18.305576+00:00",
+ "updated": "2026-11-07T03:27:52.634906+00:00",
  "usdnok": 9.453700065612793,
  "btc": {
-  "price": 75969.0234375,
+  "price": 75908.28125,
   "prev": 75942.125,
-  "chg": 0.035419653453194755,
+  "chg": -0.044565186976264215,
   "currency": "USD",
   "asof": "2026-11-07T00:00:00+00:00"
  },
@@ -32,10 +32,10 @@
      },
      "news": [
       {
-       "title": "Kongsberg Gruppen ASA (KOG.OL) stock price, news, quote and history",
-       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1yMlNacXI5WnUtMXZQWV8zLXhmM3NWd3Qycm81d2N3QzRoTWRuVkItdU1DTFBmZGFZX25HbUQzRVQ5aHZwdTJRU0VFZGVXV0VKMmVjSA?oc=5",
+       "title": "Kongsberg Gruppen ASA (KOGO.OL) cash flow",
+       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9IZm1mM0poU0QwZTFEMi0yWWR0U25HMDctXzhGWUpEM1daYk03SWdBMXE4N19ISXNabWcyUEtwV1lsaU5QZVFRVlhTRkI4MmVjRUdsQ2RPRlUyOGNwNklONmlUMA?oc=5",
        "source": "Yahoo Finance UK",
-       "date": "2026-11-06T14:45:36+00:00"
+       "date": "2026-11-06T21:12:13+00:00"
       },
       {
        "title": "Kongsberg Gruppen ASA (KOG.OL) Seasonal returns chart - Yahoo Finance",
@@ -50,10 +50,10 @@
        "date": "2026-11-01T23:04:24+00:00"
       },
       {
-       "title": "SB1 Markets raises its price target for Kongsberg Gruppen to NOK 425 (400), reiterates Buy",
-       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQR3FOZmVUVEhhTWUzcksxaUw5alB2Z1J0bUFLSElVYzBueXdUX2lQNVhZUEFGU3RBUWtXUlF3NENTTjRGeEJlSXRYX2hfRFhueEhsM19tV0hhWWxORldxV1NER3oxUkRwaUU2WW1EVEI0VTFXN0kxcVNmQ3ZMal9mRDZVWTVvWDR0Vnh1eHVpbzdmaHpPV1BoUmo3X0lKSFN3SGc0cEJjV01LNkdxMjlQZXhycXpfNkl0cGViUkRRU3NzVjV3aGVGY1FjamN1Qno3a3IyZ040dw?oc=5",
-       "source": "www.marketscreener.com",
-       "date": "2026-10-30T07:55:20+00:00"
+       "title": "KONGSBERG secures US government contract for underwater capabilities",
+       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa0J0WVlGSWkwZ3VHR2t3cWNqN1Q0M2ZmX0tqdmJhUzZrQkxwNVljUWFvMG1xcF8zUVpFa1EyTWNNVFhhMmRfNFdTVVp6R2JpaDQtdXg2UDMxMzRRV1JUSEQwNDlFZVFQTW80SGVjZ2hQdGtwWVd6bVpfOXJoSFhGdzEwOU5YWVhxTDU3d1hUU2RSWl9PUlF0QkF1RERRa3otTWNGVzN3RW5RYW5kclVnMWpLVC0?oc=5",
+       "source": "Naval News",
+       "date": "2026-10-30T13:56:33+00:00"
       }
      ]
     },
@@ -69,6 +69,12 @@
      },
      "news": [
       {
+       "title": "Kongsberg Gruppen ASA (KOG.OL) stock price, news, quote and history",
+       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1yMlNacXI5WnUtMXZQWV8zLXhmM3NWd3Qycm81d2N3QzRoTWRuVkItdU1DTFBmZGFZX25HbUQzRVQ5aHZwdTJRU0VFZGVXV0VKMmVjSA?oc=5",
+       "source": "Yahoo Finance UK",
+       "date": "2026-11-06T14:45:36+00:00"
+      },
+      {
        "title": "Kongsberg Maritime Q3 2026 slides show record backlog amid profit miss",
        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRUJtOUd6eDJnNUhCTk5TN1RyRFc5em05cExBX1p0V2pvc25QUGY2ZjVNTFByQ25LTGFHZXh2b01uLUNCb1liczN0cVpBSFJhbV9STms5WnlxUUVTTHJCM2hzaXhKWnh2VENuSU8zNDBNX3l1YndscW42aDhhb1d0QzJQb3lOc2Rmczlxclp2bW1TZzJVa0NlX3FzbXZuOVU0eWJBMERrWW81dmprelRraDJ3V004ei1rMGhYQU1TZnJjZjlwV1E?oc=5",
        "source": "Investing.com",
@@ -79,12 +85,6 @@
        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTEh3QzdUZURwbG1XN0FIcUdPUEZpTTA1X1poa0g4UkJ1RFRlLVBtRWxGT3pvaGh3NTdkUFRiakxYTmpGTGUzamY5bUJ2Y0h3UjBRZkxqQlhGbDNZQWJzdUpVanJkaVpTTHV3enIwZnJFOThQVkhkYks0VDZZZzBqdGwwWWNTX2hwRGdWb3Nwa1J3QU1sTkVkOWVwdFhaREQ1ZUZRT3hqbFhzQnJFRzFhbEVCa1NQU2ZFRTlTOWNkRmtESkFyVEFmWUJQbw?oc=5",
        "source": "Investing.com",
        "date": "2026-11-01T10:35:27+00:00"
-      },
-      {
-       "title": "Kongsberg Maritime ASA Reports Earnings Results for the Third Quarter and Nine Months Ended September 30, 2026",
-       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQTmh0SUxqY044N09mY1otWFdieGo0a0NkaEE5NEtteFZLN2N3NFl0M3BfUUZSM0c0eXFsWGxDSHpvaXN3aElGc3Rud1lsY1dDY0VsYWV6NzlDTUVyZ3o5U0pOdUtTNVcwS2FYTTNqWllnZEhqanFqYlJPZHhiTWREUTRtUjM1MjFXc3pWTlFLcEtodHI3eHBHOEZERWRmcXd2ZnMzR2ZISU16bW1jMWE5bmkxLXgtZFBXeU9WWGFDSm11NWtiYndCMVdVR050V2F2c3Z4NGtGSU1vdFNnVi1jblNwR2hWcXFZ?oc=5",
-       "source": "www.marketscreener.com",
-       "date": "2026-10-30T09:05:31+00:00"
       },
       {
        "title": "Kongsberg Maritime Q3 2026 Earnings Call Is Live",
@@ -186,12 +186,6 @@
        "date": "2026-10-30T21:00:00+00:00"
       },
       {
-       "title": "AuAg Funds launches in Germany",
-       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQODlSOUtkREQyUndIOGRLdUFVNTJsNXVjX3JRcUs3SkcyV0Uza0dCY3lCc1N2SVZfRm9KWTRsbUlQZWlYLTdER05NTk1XQjZHX0R6LXZKdVVfaVFEMU54NWxpdHpXR1BDUE1RaWlfWTBubEZZMlhPaElLNG9obzlNdWpWZzVWRHN0cEkxRlVyQzNMVUJrYkZJaUdZQTY?oc=5",
-       "source": "TradingView",
-       "date": "2026-10-28T08:00:00+00:00"
-      },
-      {
        "title": "Monthly letter October 2026",
        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQb2VuZ21na2FjQUMyVVNjNHBqMnlmU0dwMlpaTXhfcUdKMkk0OUpxX0ltZUQzZFZVeFBnS0hoZVIwX3Zab3kwMm5jS1hHYnotZ3NBVWI2TjVhaHhDWWtLNU1LSEpaOUZJdnlQWDI3YklRZEF0WEQ1M1ZvVHpvN29INkhiLTVTTDBSX3kxbzBDQnlOUUJuM2VLSw?oc=5",
        "source": "TradingView",
@@ -234,9 +228,9 @@
      "symbol": "HYMC",
      "name": "Hycroft Mining",
      "quote": {
-      "price": 18.77,
-      "prev": 16.61,
-      "chg": 13.004214328717634,
+      "price": 18.770000457763672,
+      "prev": 17.020000457763672,
+      "chg": 10.282020875044907,
       "currency": "USD",
       "asof": "2026-11-06T00:00:00-05:00"
      },
@@ -273,10 +267,10 @@
        "date": "2026-11-05T13:30:00+00:00"
       },
       {
-       "title": "Avino Silver (ASM) Q3 Earnings and Revenues Beat Estimates",
-       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVG5IT2gyQndPRXZzY3VUelJiQmp1M0dHNk8zSS1yRXBzR09PalVIY0laYWpJR0lueDJRQUVtdmNNcndCX1k0RHBKMWphUHFmNVBPeGxvX3R3NFdXd19RLVpnam40d2ltcC1HQ0dlUm5PQVFzVVg5cWw0UDFneUJlRE9tVklLbk5VVmNMOU9hajBfVVlqb1N4cg?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-11-04T23:45:24+00:00"
+       "title": "Avino Silver Gold earnings missed by $0.07, revenue fell short of estimates",
+       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVkVRMnA0MzJaNVBCT25GUnVuV3BGT0JXRTZkZTRhZVJVcTBFSmpPWVRaNWtMZkpNeUpJM19GdzY2Vl9OSk9fNFl2UDA4WlBLUVNuMVZnMzJzeFRldFdQZU4yVXRmcEdIUmdQaU1Cdk1wLWVFTHR0d0h4dkFycU84eXJNZ3BXcEc5emNIakxNTUdCQkxkSzNBdVc3TDd2M19ibWtPajIzZzE4VHZTa3pZcUVhRDJsYUEzVFBCMQ?oc=5",
+       "source": "Investing.com",
+       "date": "2026-11-05T04:49:52+00:00"
       }
      ]
     },
@@ -476,9 +470,9 @@
      "symbol": "OSEBX.OL",
      "name": "Oslo B\u00f8rs (OSEBX)",
      "quote": {
-      "price": 2053.36,
-      "prev": 2082.449951171875,
-      "chg": -1.3969099788210926,
+      "price": 2053.360107421875,
+      "prev": 2080.590087890625,
+      "chg": -1.3087623855959407,
       "currency": "NOK",
       "asof": "2026-11-06T00:00:00+01:00"
      },
@@ -637,16 +631,16 @@
      },
      "news": [
       {
-       "title": "Marc Chaikin Sees Alphabet (GOOGL) as a Conglomerate Hiding Three World-Class Businesses",
-       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZGUwTUFsMVZQeEZPSnFCZ3dnMDZNTVNFeGVXelVQN1ZtcFo3SnY2dzdmSHhIM2J2OGgwRXZScGYxajZuSDNQd3ZvTGdrMDU5QWNEdWhXM0hnb1lPMmNoQ3ZST0lTcnVDRllVRnpwWG9VdWxxQ1I5R0w5Q3BsZ0NaMkJ1b0FRc05nZnRWdFRhdFBBYVg3aEkwSWd4NlktZw?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-11-05T22:31:23+00:00"
-      },
-      {
        "title": "Alphabet\u2019s Search Dominance Is at Risk From Its Own AI Success",
        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbTF2OHBFeFNxbS1qNnpKOWFVTFBtX3JHRTItV3hydi1XWHBSZFZPc3ptdlZiRFk1U2tTbnFqZmNkZU82OFhpa3VFVXBtZlpYQ2x4V1pubHlsS2E2TTNfemlDQWRfbnBGUXNyX3dCWTBqMmpsNVVpdzhjWlBwTE9RWGZucThrQVlfbnZDb1ZfYXIyLTM3TTNOSUhPX2czMTA?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-11-05T10:05:58+00:00"
+      },
+      {
+       "title": "Why Alphabet Stock Popped on Wednesday",
+       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOY2x0VEZ1NElpamNUWU40UGFZdDZHVVpiYlVKb3A1MWQxalJ6dlhnd3laR0dBYTluaFdmT05ZNGZrS19qU1FyUmdmUzVhRFo3VFFraGx3XzdveUdzUlp3aE4tRW5RWTgzV3hvS2UxamFXSjktdGRkWURpVmVDTzJnMG9SWTBoNTc2WV9keFBIeDNXcVFMdkt5YWdUTFBsQ1hrRWc?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-11-05T00:20:11+00:00"
       }
      ]
     },
@@ -679,9 +673,9 @@
      "symbol": "META",
      "name": "Meta Platforms",
      "quote": {
-      "price": 610.15,
-      "prev": 596.27,
-      "chg": 2.3278045180874507,
+      "price": 610.1500244140625,
+      "prev": 605.0800170898438,
+      "chg": 0.8379069182623322,
       "currency": "USD",
       "asof": "2026-11-06T00:00:00-05:00"
      },
