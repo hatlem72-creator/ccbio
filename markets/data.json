@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-07T14:37:30.196475+00:00",
+ "updated": "2026-11-07T15:17:44.638174+00:00",
  "usdnok": 9.453700065612793,
  "btc": {
-  "price": 75860.5703125,
+  "price": 75784.5703125,
   "prev": 75746.9296875,
-  "chg": 0.15002670797197304,
+  "chg": 0.04969260820906207,
   "currency": "USD",
   "asof": "2026-11-07T00:00:00+00:00"
  },
@@ -32,6 +32,12 @@
      },
      "news": [
       {
+       "title": "Kongsberg Gruppen ASA (KOG.OL) stock price, news, quote and history",
+       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1yMlNacXI5WnUtMXZQWV8zLXhmM3NWd3Qycm81d2N3QzRoTWRuVkItdU1DTFBmZGFZX25HbUQzRVQ5aHZwdTJRU0VFZGVXV0VKMmVjSA?oc=5",
+       "source": "Yahoo Finance UK",
+       "date": "2026-11-07T05:07:40+00:00"
+      },
+      {
        "title": "Kongsberg Gruppen ASA (KOGO.OL) cash flow",
        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9IZm1mM0poU0QwZTFEMi0yWWR0U25HMDctXzhGWUpEM1daYk03SWdBMXE4N19ISXNabWcyUEtwV1lsaU5QZVFRVlhTRkI4MmVjRUdsQ2RPRlUyOGNwNklONmlUMA?oc=5",
        "source": "Yahoo Finance UK",
@@ -48,12 +54,6 @@
        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWWM5aV9PbGNsUFJoT3hqNTduOFhNbUpZcUtOVC1EWm8zVHNlSjlHSGZ2cExNTkNIejVXSTVRUFh0eWdPYlcyUFpxUTZmMjJSaXh2QlZ2dFI2OEQtR2djVUdxdElqTGQzTTJNTDBueEJQbDkwTDNYaVc4aXZnUHZmZUhjVDlncjRTY2Z2cnlfQXZjWk15ZlRwZDhuOUxsYVg5STdkZk1HMTQ?oc=5",
        "source": "Seeking Alpha",
        "date": "2026-11-01T23:04:24+00:00"
-      },
-      {
-       "title": "SEB raises its price target for Kongsberg Gruppen to 420 Norwegian kroner (380), reiterates buy",
-       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWHlkanAtajk3dG1uc0tDQTU0ZXl1N2I0emRYTkxnYW4yemRlbGUxTm5Ha1VjYkQ0TzI0R3pPLURrSXgwVVloT0lSWXRqVmdVZWdXRDlWWlJJb2FyZU0ySC1vdzA3Q1h2Sld6ZnF1WWZxUTNKYzhGOGtGNF9TUElGNjFmaC1hQU5PY21WS202dUFGeE51WU1kWnF6a3ZhX25JcEdlMElFcWxGZV9ZUnpVX3JiRjYwTmV5Z1RXb25Kdy1BeERSNmJiVmpMZWFqTmJSQnNsVXJ1Z09aZjBySFE?oc=5",
-       "source": "marketscreener.com",
-       "date": "2026-10-30T06:24:21+00:00"
       }
      ]
     },
@@ -81,16 +81,16 @@
        "date": "2026-11-01T10:35:27+00:00"
       },
       {
-       "title": "Kongsberg Maritime Q3 2026 Earnings Call Is Live",
-       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU3FHamZYWXBFS28taGtycEFvSGloT2g3Wm02ZXAxQzVEc1QwMHQxOFIxdUhSNzdpVWtWSVl0bURwTkpyVHdxazNsS2k5eUFNX2NRWl83SUs0VHZkUndfeVdsSHk1eUVYdmxDUTI3cnNtNUFKa2thX3VkSTFaeDdnMXVCQUNHcjIxT0Q1VkRuTW4tNDRpUjY4TDllb2lVb2JFQU80RWtycEtTNE1Zb2tKMEljTGpyNEFa?oc=5",
-       "source": "TradingView",
-       "date": "2026-10-30T07:13:24+00:00"
-      },
-      {
        "title": "Kongsberg Maritime hits record order backlog as newbuild demand surges",
        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdG9UOER4U2h6V2hBeGNYS0hneTB3ejlMV0kxek1BM1ROWW1xM3c4UWlpekF6T1pIbjZiWDFsbDZWZXRPZVBIc0VPRUktZVpWNWZzN1Bxc29iMjNKaHFWamdPRnpvZUJEQzVUQWNrcllMTGg3TE45cUtiSHppM3pLU0U2ZElLTm1peUtzeVpZMnJrWFZTYU1KX0hoMTAtUmpVUUdtS1BUOTZGRzRsV0doQW1jZHVtRm95SmVyam9PUlJaZw?oc=5",
        "source": "TradeWinds News",
        "date": "2026-10-30T06:49:22+00:00"
+      },
+      {
+       "title": "Kongsberg Maritime Q3 2026 Record-High Order Backlog",
+       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQb01id256WTlVVXlwSUg3SzFIcDlrQUZUeWVlaU1xTVNtT1dxNlQ2MjBGUUZrdjFPSWMyenNJcG1maXhuMTI1TDZRcll4VUh3UHlQaWV0TmhvbHBCaVVjcmhMbXRoTFdKQUhocV95SEtkY1ZicFJUTWRlVk1nbTZtTDRmM0g2NWhTS080N2MyakljZXVKa3Y2X0FLVHYwcjZNZWlqWmlBcWRFT2RLMlJkZVNzaU56YWNPUVBkN0I0dw?oc=5",
+       "source": "TradingView",
+       "date": "2026-10-30T06:05:20+00:00"
       }
      ]
     }
@@ -112,16 +112,10 @@
      },
      "news": [
       {
-       "title": "VanEck Gold Miners UCITS ETF (GDGB.L) Seasonal returns chart",
-       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tWlpPaHgtMGwyamx4d0huWHFTdTJxdWxDaGhHNnhERi1FSUhtdUhxRHpuOTRtZHBGNzREbjhFRC1iN1dIY3hYMGVDamtWUmlxTEhvR1ptQnlCMTFHSVUyRkVNSVo?oc=5",
-       "source": "Yahoo Finance UK",
-       "date": "2026-11-06T16:35:24+00:00"
-      },
-      {
-       "title": "Form 4 VanEck Gold Miners ETF For: 4 November By Investing.com",
-       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORU1YalAzcDg0OVVjcDBOc0g2ajFFbmRPM2VLd1hfMlAydV9Rcm5IMkM0bDJvTFQ5dDZoOTFIWWFnbklqU091MFd5RGxCel96dE9ieEp3NGFGUXE5Rzk0Wkx4S0hvYlNHdEVsZDlmRS1fWGtGZEpwVDNzN29VR2VkWmpnel9pZjJaQ1pxZDN6N1pYWlh5eUpxVXVQQlQyck9lRHJuYU94RXQ?oc=5",
-       "source": "Investing.com UK",
-       "date": "2026-11-04T22:02:00+00:00"
+       "title": "VanEck Gold Miners ETF (Derivatives) Price (GDX/USD) Today | Live Price, Market Cap & Chart",
+       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96VDJMTzhRV09OZmxpc29uUjFZMEJ5TTJSaEpjRjJLQUpDUWJKMFdVdVd2N3NxM3phckhiWHNqdVhUUGZXRHh4ZVlYdE1YMmRCYzdBbzhOV0lTSjBqTFZQU0k3eEdGZ0xWNkV3WldjRkQwc1JW?oc=5",
+       "source": "Binance",
+       "date": "2026-11-04T10:20:00+00:00"
       },
       {
        "title": "VanEck Gold Miners ETF (GDX) options chain",
@@ -134,6 +128,12 @@
        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16Z25BX1NDRlZjTkdwRy1PeGlJN09nYXdzcU1NX0ViSlE5eGFrUXAtVHlaemFCRWI0eHBVOGNISHRpcWMzV1ZQUTFZQzZUNEtDdGZQMWlsT1FMS2lsTGQxbno5cms0Zw?oc=5",
        "source": "Yahoo Finance UK",
        "date": "2026-11-04T02:40:49+00:00"
+      },
+      {
+       "title": "Form 4 VanEck Gold Miners ETF For: 2 November By Investing.com",
+       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTGwyTmpFbnozYWtreGdDUmRTTXJMV1d2VFJEZXJXTW5sVXAyeXVGSjRpZjJ6VkpxaGxFMENjWEdGbHZfa3lFQlM2ZUF4MHNVTjlvd0g1QW4yQXF5eXRMN1NDWjBNSUFtODZVRkdOYzBITDh2Qk5pd1ZmYTN6NGlrSHF6aTVlck9PVmNPT1hTNGIzS19RQ25sNEp5RzVObG9HZ3kwYnNDMlk?oc=5",
+       "source": "Investing.com UK",
+       "date": "2026-11-03T04:16:00+00:00"
       }
      ]
     },
@@ -273,10 +273,10 @@
        "date": "2026-11-05T13:30:00+00:00"
       },
       {
-       "title": "Avino Silver (ASM) Q3 Earnings and Revenues Beat Estimates",
-       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVG5IT2gyQndPRXZzY3VUelJiQmp1M0dHNk8zSS1yRXBzR09PalVIY0laYWpJR0lueDJRQUVtdmNNcndCX1k0RHBKMWphUHFmNVBPeGxvX3R3NFdXd19RLVpnam40d2ltcC1HQ0dlUm5PQVFzVVg5cWw0UDFneUJlRE9tVklLbk5VVmNMOU9hajBfVVlqb1N4cg?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-11-04T23:45:24+00:00"
+       "title": "Avino Silver Gold earnings missed by $0.07, revenue fell short of estimates",
+       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVkVRMnA0MzJaNVBCT25GUnVuV3BGT0JXRTZkZTRhZVJVcTBFSmpPWVRaNWtMZkpNeUpJM19GdzY2Vl9OSk9fNFl2UDA4WlBLUVNuMVZnMzJzeFRldFdQZU4yVXRmcEdIUmdQaU1Cdk1wLWVFTHR0d0h4dkFycU84eXJNZ3BXcEc5emNIakxNTUdCQkxkSzNBdVc3TDd2M19ibWtPajIzZzE4VHZTa3pZcUVhRDJsYUEzVFBCMQ?oc=5",
+       "source": "Investing.com",
+       "date": "2026-11-05T04:49:52+00:00"
       }
      ]
     },
@@ -348,10 +348,10 @@
        "date": "2026-10-30T06:55:59+00:00"
       },
       {
-       "title": "Defiance Silver raises C$3.27M in private placement",
-       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVThvVEk3MTRTQUk4eW0xVlhJdEl3aGtpUnRraWhHb0pnNGRKXzlZS0FEZUYzbU9zWW11Ujg1a1FFaG9DU2dhcEJVZS1hV0xYUWFNNk5TMWpGckFzRFJuYVpiZmlVQ0F4Z2lBNkpINExnb2dqWW52ZGxQeFQ1bUVEdTk4WWRmRUhWYU9oUGJ3?oc=5",
-       "source": "Dealroom",
-       "date": "2026-08-19T05:04:28+00:00"
+       "title": "Defiance Silver Corp. Reports Earnings Results for the Full Year Ended June 30, 2026",
+       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQc180cE45amExU3k2S2RSejVoMGlEM3A0OHNXcjJ6Z2tUbHZtc2FMenNhaGI0QWwyWkNnLU8zbGNWcXhGVFJaMFdjVVRfOEtleUNQUTd3UnVVbmI1RC1XM3h5SHpmMHdCNF9mNjI1bHhGZFdzME5IZkZsTVVVbGYyQmMyY2VZbG1HeEZMbl9Rd2RvZWtpajQ2eUs1SlVPTGJYV1dBRC1RSm0yYWdiQVpjN0xEUmswcG1xNnNJZ0lQckt3TE9lWFB1b3N2eV9EQXlZ?oc=5",
+       "source": "www.marketscreener.com",
+       "date": "2026-10-28T21:08:00+00:00"
       }
      ]
     },
@@ -367,16 +367,16 @@
      },
      "news": [
       {
-       "title": "Gr Silver Mining Ltd (GPE.HA) valuation measures and financial statistics",
-       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1QMGFOQTlUaUgtYWZVdmg5SU1hQUxnbHBOZm9lZm1Wd1RhQWthdzZxWkxIYkdxX3R4Q253SDFNS241XzVKakZDYzlRak9fSjk2MHZlQnhJVnlhMG9NMGl3WFJIeWxJczR0?oc=5",
+       "title": "GR Silver Mining Ltd. (GPE.F) Seasonal returns chart",
+       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xRGs4MWpqRXlIZWUwcE1yR3N1d3l3T3R5QnltZEpra3pzRXpTdVRfaG9DRklVc1RFZGowWENQRkljZ3JpaFNlYzNoNndhOWp1M3FQdmItWUVZWGZTS3RsbG8tbw?oc=5",
        "source": "Yahoo Finance UK",
-       "date": "2026-10-30T02:33:19+00:00"
+       "date": "2026-11-02T17:20:37+00:00"
       },
       {
        "title": "GR Silver Mining Welcomes Shareholder Support at AGM",
        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSWJPMTlBNjZOb2wzMXVDSklIRUpPX29nY3g4emh3cm1zX0ZwRkp0QUNXcmFDOE1taUpiTjhkb2JJM095bEtiUU9wMHdEcFRIZThUbDVrQ2kzcVZFMG1wNy1taVVrd0dPQWNxMFFIam50UTFXZ2FleVVnYkdXV2pSTHFJVE10LWxIckREc0pURFhOcTl1NkpLZGhmOC0xbG5SUzB3Zw?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-10-26T07:00:00+00:00"
+       "date": "2026-10-26T20:17:00+00:00"
       }
      ]
     },
@@ -417,16 +417,16 @@
      },
      "news": [
       {
-       "title": "Silverco Mining Ltd. (SICO.V) Seasonal returns chart",
-       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE56amJ0Z0xnaVdHM0RZYjhqNThYenBHZnhkZkJaVlcwdERHaE9KYzE1Tkx4b0xiVTRITVgwd2FkcmdzcnM3eE1NZzF1XzBUUzdnTmwzVHd4eUJwMFNCSzdkWFQwRGo?oc=5",
-       "source": "Yahoo Finance UK",
-       "date": "2026-11-04T05:09:34+00:00"
+       "title": "Silver X grows processed ounces at Nueva Recuperada",
+       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzT3NMWFlCRXd2MnZpUGt5VHJ6QWgtd05FS0IxV2c2M1JmbUgtVEl6ODNydU1zUmZ4QklDbUxyaS02WjBYdjdmVGF3dDJOMnM1bFAyZjhSUks2T2hnQTBGOVpKZk5XWHBvc1o2V2lZUUhtb3E2bjFES0E0TlI1cjQ?oc=5",
+       "source": "Mining.com.au",
+       "date": "2026-10-10T07:00:00+00:00"
       },
       {
-       "title": "Silver X Files NI 43-101 Technical Report for the Updated Nueva Recuperada Mineral Resource: 10.4 Mt Measured and Indicated at 202 g/t AgEq (67.3 Moz AgEq) and 21.6 Mt Inferred at 260 g/t AgEq (184.3 Moz AgEq)",
-       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWlhwU0dacGtfSWlCNy04WTFQYXk3Z2Y4Sl83ZVFNUTRqRjkxNGt2NXQ2T1dUbnI5MXN1OGh5UG5OMmNqVlV2a0s5WV9zcW92akcwb2dmQU5LSkh6NmN5V2k2d0RDZVZ6Z1VsRUpaSC1yZElOanppazE0V01KSjB6c0c5anloVC1xSElRbWNBTzRCcXdL?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-30T12:20:00+00:00"
+       "title": "Silver X Mining Corp. (TSXV:AGX) Advances 3.49% as Investor Optimism and Upside Momentum Improve",
+       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLUxsTHJEU0tuaEZvMW9kYVZOZ1dyQi1xby13RE8yUU5FTk9xazAxTHExdXFER2Z6d3RUNG56TVdwZ005UW1xT1BGNjU5Vl9CSF80SFNKc1p4TzN3a252M2c4UDRGc3dfZ05ld3NyT0xBYTJDUjdmUTNKc0lTWnlOTkphQzFMblU1bHBYZUZwR0tYd0k4OG1HYUxrQVduSk9WaXVVTThlWU82Umg4dXlOSVJEeFdfX2dzOUFYcEFB?oc=5",
+       "source": "kalkine.ca",
+       "date": "2026-10-09T07:00:00+00:00"
       }
      ]
     }
