@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-07T03:27:52.634906+00:00",
+ "updated": "2026-11-07T04:30:25.111110+00:00",
  "usdnok": 9.453700065612793,
  "btc": {
-  "price": 75908.28125,
+  "price": 75756.890625,
   "prev": 75942.125,
-  "chg": -0.044565186976264215,
+  "chg": -0.24391518541257984,
   "currency": "USD",
   "asof": "2026-11-07T00:00:00+00:00"
  },
@@ -32,12 +32,6 @@
      },
      "news": [
       {
-       "title": "Kongsberg Gruppen ASA (KOGO.OL) cash flow",
-       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9IZm1mM0poU0QwZTFEMi0yWWR0U25HMDctXzhGWUpEM1daYk03SWdBMXE4N19ISXNabWcyUEtwV1lsaU5QZVFRVlhTRkI4MmVjRUdsQ2RPRlUyOGNwNklONmlUMA?oc=5",
-       "source": "Yahoo Finance UK",
-       "date": "2026-11-06T21:12:13+00:00"
-      },
-      {
        "title": "Kongsberg Gruppen ASA (KOG.OL) Seasonal returns chart - Yahoo Finance",
        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55cDhIUnpRZHJWS2pnWk5nVHVvZWtya1hoS2F4MFNxakFycTBydUJtbXVJRmphWnQ5RGZ1b2dLX1V0SE90bDZwbGJmTjhsaU9uMHNVZ08tYklVMHdlOFh6ME45T00?oc=5",
        "source": "Yahoo Finance Singapore",
@@ -54,6 +48,12 @@
        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa0J0WVlGSWkwZ3VHR2t3cWNqN1Q0M2ZmX0tqdmJhUzZrQkxwNVljUWFvMG1xcF8zUVpFa1EyTWNNVFhhMmRfNFdTVVp6R2JpaDQtdXg2UDMxMzRRV1JUSEQwNDlFZVFQTW80SGVjZ2hQdGtwWVd6bVpfOXJoSFhGdzEwOU5YWVhxTDU3d1hUU2RSWl9PUlF0QkF1RERRa3otTWNGVzN3RW5RYW5kclVnMWpLVC0?oc=5",
        "source": "Naval News",
        "date": "2026-10-30T13:56:33+00:00"
+      },
+      {
+       "title": "SB1 Markets raises its price target for Kongsberg Gruppen to NOK 425 (400), reiterates Buy",
+       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQR3FOZmVUVEhhTWUzcksxaUw5alB2Z1J0bUFLSElVYzBueXdUX2lQNVhZUEFGU3RBUWtXUlF3NENTTjRGeEJlSXRYX2hfRFhueEhsM19tV0hhWWxORldxV1NER3oxUkRwaUU2WW1EVEI0VTFXN0kxcVNmQ3ZMal9mRDZVWTVvWDR0Vnh1eHVpbzdmaHpPV1BoUmo3X0lKSFN3SGc0cEJjV01LNkdxMjlQZXhycXpfNkl0cGViUkRRU3NzVjV3aGVGY1FjamN1Qno3a3IyZ040dw?oc=5",
+       "source": "www.marketscreener.com",
+       "date": "2026-10-30T07:55:20+00:00"
       }
      ]
     },
@@ -87,10 +87,10 @@
        "date": "2026-11-01T10:35:27+00:00"
       },
       {
-       "title": "Kongsberg Maritime Q3 2026 Earnings Call Is Live",
-       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU3FHamZYWXBFS28taGtycEFvSGloT2g3Wm02ZXAxQzVEc1QwMHQxOFIxdUhSNzdpVWtWSVl0bURwTkpyVHdxazNsS2k5eUFNX2NRWl83SUs0VHZkUndfeVdsSHk1eUVYdmxDUTI3cnNtNUFKa2thX3VkSTFaeDdnMXVCQUNHcjIxT0Q1VkRuTW4tNDRpUjY4TDllb2lVb2JFQU80RWtycEtTNE1Zb2tKMEljTGpyNEFa?oc=5",
-       "source": "TradingView",
-       "date": "2026-10-30T07:13:24+00:00"
+       "title": "Kongsberg Maritime hits record order backlog as newbuild demand surges",
+       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdG9UOER4U2h6V2hBeGNYS0hneTB3ejlMV0kxek1BM1ROWW1xM3c4UWlpekF6T1pIbjZiWDFsbDZWZXRPZVBIc0VPRUktZVpWNWZzN1Bxc29iMjNKaHFWamdPRnpvZUJEQzVUQWNrcllMTGg3TE45cUtiSHppM3pLU0U2ZElLTm1peUtzeVpZMnJrWFZTYU1KX0hoMTAtUmpVUUdtS1BUOTZGRzRsV0doQW1jZHVtRm95SmVyam9PUlJaZw?oc=5",
+       "source": "TradeWinds News",
+       "date": "2026-10-30T06:49:22+00:00"
       }
      ]
     }
@@ -184,6 +184,12 @@
        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuTWtUY1ZFVDd0SW1OY3I3czk2MTdnaE9YYmE3Z3o5S1lfamJ1WlNRV2x6ZFdoaTN0OTJjWmMyakZoeGl3TUM3dVE2X0E1a1R4bU5obk5Jc2RDSG8tRmIwM3FkVHhGSEtJaTU3Ng?oc=5",
        "source": "Yahoo! Finance Canada",
        "date": "2026-10-30T21:00:00+00:00"
+      },
+      {
+       "title": "AuAg Funds launches in Germany",
+       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQODlSOUtkREQyUndIOGRLdUFVNTJsNXVjX3JRcUs3SkcyV0Uza0dCY3lCc1N2SVZfRm9KWTRsbUlQZWlYLTdER05NTk1XQjZHX0R6LXZKdVVfaVFEMU54NWxpdHpXR1BDUE1RaWlfWTBubEZZMlhPaElLNG9obzlNdWpWZzVWRHN0cEkxRlVyQzNMVUJrYkZJaUdZQTY?oc=5",
+       "source": "TradingView",
+       "date": "2026-10-28T08:00:00+00:00"
       },
       {
        "title": "Monthly letter October 2026",
@@ -286,16 +292,16 @@
      },
      "news": [
       {
+       "title": "2027 Will Bring Very Attractive Earnings For Coeur Mining (NYSE:CDE)",
+       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ3ZvaU9lWDk0S0x1WG8xbEdZOS1xeW9pS0NSck5yTWswQm9vNUl3RENxSmQ3NWN6VnJEc1J1VTRpc0dXZkxxa2lqbFRRYUl5R09tUUlUWUxIeWZCd1lSTVhmUG4zdXNrYV9xMFVzQXpkNVBCUFZFZGg4ZmVTUWNqc28xZEFBMDRFM0FJRGRubE44b3JQNzNKdHVxQzlmejA?oc=5",
+       "source": "Seeking Alpha",
+       "date": "2026-11-06T15:11:47+00:00"
+      },
+      {
        "title": "Coeur Mining Inc (CDE) Q3 2026 Earnings Call Highlights: Record EBITDA, Strong Free Cash Flow, ... By GuruFocus",
        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRmRZLVJhMGJTUWM3aE5hbk9GaHVTT09KQXFSWnhtbWw0QmNuNXZhVUpESUxsQXFtS2wwTFJ2VFlhR3I2WV9aODJQb09ybVVJOFB3dlpxSkIwdmtacVFZTkJQajNtMy1BZElhZEkxVXJXWkJhWV9UVUdtRzhZSXJKWGxwT2syRmJlSVJ1MFFEX2FNQXlvUVotUmJJNE5BRGhrYXRBb0NpQkJMVnZsQTc0T1hPN2FiNzNYQWY1ZzhFN1h1eENVd3h5eWljQVoydlFRZ19uYXVXdFE?oc=5",
        "source": "Investing.com Canada",
        "date": "2026-11-06T04:06:19+00:00"
-      },
-      {
-       "title": "Coeur Mining (CDE) Q3 Earnings Leave Stock Focused On Canadian Ramp Execution",
-       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcVBPejloQkg3NDVPem9KSHd2Y1NYWTVpb1dEWFM1RWVVdmlSU3UxeWtQd1FRY2gyYVZkMl9OdzlSeTMxcURITFBaNXI4MHZUMHA2Mk1hdG44aWtyLWVzQTh6Z0dRNWstUER0VDl5YVlzNm5MNW9yRUdHdUZtZDk3YVdkX1RNdFp5RVJpY3k2a2I1aEZnTGhRRA?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-11-05T23:20:15+00:00"
       }
      ]
     },
@@ -458,9 +464,9 @@
      "symbol": "^DJI",
      "name": "Dow Jones",
      "quote": {
-      "price": 51285.73046875,
+      "price": 51285.69921875,
       "prev": 51523.05859375,
-      "chg": -0.46062507055586455,
+      "chg": -0.46068572301100064,
       "currency": "USD",
       "asof": "2026-11-06T00:00:00-05:00"
      },
@@ -755,16 +761,16 @@
    "date": "2026-11-06T19:30:59+00:00"
   },
   {
+   "title": "Post-Election Strategy: Selling Stock Market Rallies, Buying More Oil Stocks On Dips (SPY)",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQUY0dWJKWGE0SEJua3VzWk9XeDRGOFB1VEluQlRQclBadVBKQmU3OEt3YjdITGd1XzYwd3pCRjdnTGZRZmVhUmtXaVltR3pOdlNzNTNjN3JhV3k2cHpoVFVvRzhMeTQySEVKYU9ZWlF2RlNWQ2lzNFZXVkNORkF5NHhwY2IzX3RaTzZpeXA4TTBRQUZKVmhYcEpnVDFSaXJlWEpNX2VDellLeXQta1RldWJNQkd6ajhJTHYxTGJveTg?oc=5",
+   "source": "Seeking Alpha",
+   "date": "2026-11-06T18:47:13+00:00"
+  },
+  {
    "title": "Atlassian Stocks Fall 14% as Fiscal 2027 Growth Outlook Slows Sharply",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcXpJUHVSZlRZZkNWa1oxT3ZrcVE5N1ppbEwxM0RnT3EzQkVJUERzSmQ2am5hMXRfazQ0bVIyYW1yaU5YWjJEdjItWVA0ZDI1OUx3SDYyc0dIZWJqY01pX0o4Mk1KaUNRZWZXNHpnZ21QWi1WeFNvOWxPcF9IQWJKTXd1U2JyMXhUYXJ0bHJBc29CQ0J1a0dSRUNvdkM?oc=5",
    "source": "Yahoo Finance",
    "date": "2026-11-06T17:04:37+00:00"
-  },
-  {
-   "title": "MRNA Q3 Earnings Beat on COVID Sales, Raises '26 Outlook, Stock Rises",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTFc3SXVZTEdSWXVJWUV4eGhIMlAwQkphM0c5QWR0QkgyeGpTdXUtdkc2Wm1sU3Fvc2ppMVpyNnpkUnpoRWJXaVlidlRxTkRRenowQjBubVhyc0VTVmV4STdYZUpFUlJodk9XZm1KZWVadlNjSDR5YngzVDVES2JOazdmVXg0YVVXNEszS2xDMmxJZw?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-06T17:00:00+00:00"
   },
   {
    "title": "If a Stock Market Crash Is Coming, Warren Buffett Says This Is the Wisest Move You Can Make",
@@ -780,7 +786,7 @@
   },
   {
    "title": "Here's what the Democratic election rout could mean for the U.S. economy",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LSmFYdU84c0huOFFRc0RjSkUxcXVTNlVSbTlVck9YYVY2MlNyTzdKaTJZM1R3TU5CclVfN1dyT0ZFaXBvYjg2VkFpMy1JcTFQRmkzVWp1cFVmNXg2Skd4VzhxWUhCSHhoRDBDUXNQONIBdEFVX3lxTE1ROExhcXBmYXZNYWxhMmZNSU53MDVac0REOU1IY1Npcl9qaHhsNFNqQzV1UXBoRjFkbUw5OFlVNVQ1SGtCSkY1Zks3NkdJYTNWNHFLSWtuQ2hkeThvVlJ1ZUtIMXM3QjE5Wm5KWjhmTXVCcVFZ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LSmFYdU84c0huOFFRc0RjSkUxcXVTNlVSbTlVck9YYVY2MlNyTzdKaTJZM1R3TU5CclVfN1dyT0ZFaXBvYjg2VkFpMy1JcTFQRmkzVWp1cFVmNXg2Skd4VzhxWUhCSHhoRDBDUXNQOA?oc=5",
    "source": "CNBC",
    "date": "2026-11-05T12:11:05+00:00"
   },
