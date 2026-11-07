@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-07T07:41:59.238564+00:00",
+ "updated": "2026-11-07T08:46:31.054232+00:00",
  "usdnok": 9.453700065612793,
  "btc": {
-  "price": 75930.921875,
+  "price": 76068.7578125,
   "prev": 75746.9296875,
-  "chg": 0.24290382231870744,
+  "chg": 0.4248728315823902,
   "currency": "USD",
   "asof": "2026-11-07T00:00:00+00:00"
  },
@@ -24,19 +24,13 @@
      "symbol": "KOG.OL",
      "name": "Kongsberg Gruppen",
      "quote": {
-      "price": 335.4,
-      "prev": 338.6000061035156,
-      "chg": -0.9450697122956764,
+      "price": 335.3999938964844,
+      "prev": 339.3999938964844,
+      "chg": -1.1785504042230444,
       "currency": "NOK",
       "asof": "2026-11-06T00:00:00+01:00"
      },
      "news": [
-      {
-       "title": "Kongsberg Gruppen ASA (KOGO.OL) cash flow",
-       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9IZm1mM0poU0QwZTFEMi0yWWR0U25HMDctXzhGWUpEM1daYk03SWdBMXE4N19ISXNabWcyUEtwV1lsaU5QZVFRVlhTRkI4MmVjRUdsQ2RPRlUyOGNwNklONmlUMA?oc=5",
-       "source": "Yahoo Finance UK",
-       "date": "2026-11-06T21:12:13+00:00"
-      },
       {
        "title": "Kongsberg Gruppen ASA (KOG.OL) Seasonal returns chart - Yahoo Finance",
        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55cDhIUnpRZHJWS2pnWk5nVHVvZWtya1hoS2F4MFNxakFycTBydUJtbXVJRmphWnQ5RGZ1b2dLX1V0SE90bDZwbGJmTjhsaU9uMHNVZ08tYklVMHdlOFh6ME45T00?oc=5",
@@ -54,6 +48,12 @@
        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQR3FOZmVUVEhhTWUzcksxaUw5alB2Z1J0bUFLSElVYzBueXdUX2lQNVhZUEFGU3RBUWtXUlF3NENTTjRGeEJlSXRYX2hfRFhueEhsM19tV0hhWWxORldxV1NER3oxUkRwaUU2WW1EVEI0VTFXN0kxcVNmQ3ZMal9mRDZVWTVvWDR0Vnh1eHVpbzdmaHpPV1BoUmo3X0lKSFN3SGc0cEJjV01LNkdxMjlQZXhycXpfNkl0cGViUkRRU3NzVjV3aGVGY1FjamN1Qno3a3IyZ040dw?oc=5",
        "source": "www.marketscreener.com",
        "date": "2026-10-30T07:55:20+00:00"
+      },
+      {
+       "title": "SEB raises its price target for Kongsberg Gruppen to 420 Norwegian kroner (380), reiterates buy",
+       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWHlkanAtajk3dG1uc0tDQTU0ZXl1N2I0emRYTkxnYW4yemRlbGUxTm5Ha1VjYkQ0TzI0R3pPLURrSXgwVVloT0lSWXRqVmdVZWdXRDlWWlJJb2FyZU0ySC1vdzA3Q1h2Sld6ZnF1WWZxUTNKYzhGOGtGNF9TUElGNjFmaC1hQU5PY21WS202dUFGeE51WU1kWnF6a3ZhX25JcEdlMElFcWxGZV9ZUnpVX3JiRjYwTmV5Z1RXb25Kdy1BeERSNmJiVmpMZWFqTmJSQnNsVXJ1Z09aZjBySFE?oc=5",
+       "source": "marketscreener.com",
+       "date": "2026-10-30T06:24:21+00:00"
       }
      ]
     },
@@ -61,9 +61,9 @@
      "symbol": "KMAR.OL",
      "name": "Kongsberg Maritime",
      "quote": {
-      "price": 57.26,
-      "prev": 57.599998474121094,
-      "chg": -0.5902751443194076,
+      "price": 57.2599983215332,
+      "prev": 57.91999816894531,
+      "chg": -1.139502535008674,
       "currency": "NOK",
       "asof": "2026-11-06T00:00:00+01:00"
      },
@@ -186,16 +186,22 @@
      },
      "news": [
       {
+       "title": "Monthly letter October 2026",
+       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWDhQalFndWVXTThtbXNMc2Ryb29OdndLV2hnczhtVWxLN3U0U0N3di1DdTVIak54c2JGaGVuMkxoaUNvWEZneDgyTXJuS1dkTDZ6WVpwWlowTHRHdzhlRWFzMEdPTWN4UTZDV0VrYUxSdmVWVlF0cDVtUk1zLTR1RXduN1B2RmFUSDBVRlRVcV96TnJ0YzIzWg?oc=5",
+       "source": "TradingView",
+       "date": "2026-11-06T09:21:35+00:00"
+      },
+      {
        "title": "AuAg Silver Bullet B (0P0001IMY8.F) Seasonal Returns Chart",
        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuTWtUY1ZFVDd0SW1OY3I3czk2MTdnaE9YYmE3Z3o5S1lfamJ1WlNRV2x6ZFdoaTN0OTJjWmMyakZoeGl3TUM3dVE2X0E1a1R4bU5obk5Jc2RDSG8tRmIwM3FkVHhGSEtJaTU3Ng?oc=5",
        "source": "Yahoo! Finance Canada",
        "date": "2026-10-30T21:00:00+00:00"
       },
       {
-       "title": "Monthly letter October 2026",
-       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQb2VuZ21na2FjQUMyVVNjNHBqMnlmU0dwMlpaTXhfcUdKMkk0OUpxX0ltZUQzZFZVeFBnS0hoZVIwX3Zab3kwMm5jS1hHYnotZ3NBVWI2TjVhaHhDWWtLNU1LSEpaOUZJdnlQWDI3YklRZEF0WEQ1M1ZvVHpvN29INkhiLTVTTDBSX3kxbzBDQnlOUUJuM2VLSw?oc=5",
+       "title": "AuAg Funds launches in Germany",
+       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQODlSOUtkREQyUndIOGRLdUFVNTJsNXVjX3JRcUs3SkcyV0Uza0dCY3lCc1N2SVZfRm9KWTRsbUlQZWlYLTdER05NTk1XQjZHX0R6LXZKdVVfaVFEMU54NWxpdHpXR1BDUE1RaWlfWTBubEZZMlhPaElLNG9obzlNdWpWZzVWRHN0cEkxRlVyQzNMVUJrYkZJaUdZQTY?oc=5",
        "source": "TradingView",
-       "date": "2026-10-08T07:00:00+00:00"
+       "date": "2026-10-28T08:00:00+00:00"
       }
      ]
     }
@@ -273,10 +279,10 @@
        "date": "2026-11-05T13:30:00+00:00"
       },
       {
-       "title": "Avino Silver Gold earnings missed by $0.07, revenue fell short of estimates",
-       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVkVRMnA0MzJaNVBCT25GUnVuV3BGT0JXRTZkZTRhZVJVcTBFSmpPWVRaNWtMZkpNeUpJM19GdzY2Vl9OSk9fNFl2UDA4WlBLUVNuMVZnMzJzeFRldFdQZU4yVXRmcEdIUmdQaU1Cdk1wLWVFTHR0d0h4dkFycU84eXJNZ3BXcEc5emNIakxNTUdCQkxkSzNBdVc3TDd2M19ibWtPajIzZzE4VHZTa3pZcUVhRDJsYUEzVFBCMQ?oc=5",
-       "source": "Investing.com",
-       "date": "2026-11-05T04:49:52+00:00"
+       "title": "Avino Silver (ASM) Q3 Earnings and Revenues Beat Estimates",
+       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVG5IT2gyQndPRXZzY3VUelJiQmp1M0dHNk8zSS1yRXBzR09PalVIY0laYWpJR0lueDJRQUVtdmNNcndCX1k0RHBKMWphUHFmNVBPeGxvX3R3NFdXd19RLVpnam40d2ltcC1HQ0dlUm5PQVFzVVg5cWw0UDFneUJlRE9tVklLbk5VVmNMOU9hajBfVVlqb1N4cg?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-11-04T23:45:24+00:00"
       }
      ]
     },
@@ -342,10 +348,10 @@
      },
      "news": [
       {
-       "title": "Defiance Silver Corp. (D4E.F) Seasonal returns chart",
-       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE93V3VidFIxTGZ3WjZtbUdGUGRXMHpqbE5FR2Ffa0F2YTV4OE45YnByN05rbkVmRGx4MURZVXJsNkJ5MjBuOHA0aFZCam95cFRSNlZpbnhJVHY1cHZtU05xQmstRQ?oc=5",
-       "source": "Yahoo Finance UK",
-       "date": "2026-10-30T06:55:59+00:00"
+       "title": "Defiance Silver Corp. (DNCVF) Seasonal returns chart - Yahoo Finance",
+       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xU3FpQWJaZ3ZoX2hpVEZjSC01bWtEOTZhU2hpR25YVmdmcGk3cDI2enppQmt2eHoyZnMtYUk3bWFFMUV6aUtTV2FtemtaRjBxcWZDOEQ2ZVBXX2lKWTNQbUNfZw?oc=5",
+       "source": "Yahoo Finance Singapore",
+       "date": "2026-11-03T23:58:45+00:00"
       },
       {
        "title": "Defiance Silver raises C$3.27M in private placement",
@@ -359,24 +365,24 @@
      "symbol": "GRSL.V",
      "name": "GR Silver Mining",
      "quote": {
-      "price": 0.245,
+      "price": 0.24500000476837158,
       "prev": 0.24500000476837158,
-      "chg": -1.9462740752373975e-06,
+      "chg": 0.0,
       "currency": "CAD",
       "asof": "2026-11-06T00:00:00-05:00"
      },
      "news": [
       {
-       "title": "Gr Silver Mining Ltd (GPE.HA) stock major holders",
-       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45OHkzV3c4RXIzaEtkdVBNT0ZsQzJkck5pbGNHYTg3YXdDTzdFMUlsRnlLTS1IYjlKOVhvZlFXVWZ2TS1XRFFXY1pmdXZEemEwTGNLand0cHFHVjRyWjhJ?oc=5",
+       "title": "Gr Silver Mining Ltd (GPE.HA) valuation measures and financial statistics",
+       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1QMGFOQTlUaUgtYWZVdmg5SU1hQUxnbHBOZm9lZm1Wd1RhQWthdzZxWkxIYkdxX3R4Q253SDFNS241XzVKakZDYzlRak9fSjk2MHZlQnhJVnlhMG9NMGl3WFJIeWxJczR0?oc=5",
        "source": "Yahoo Finance UK",
-       "date": "2026-10-30T02:31:36+00:00"
+       "date": "2026-10-30T02:33:19+00:00"
       },
       {
        "title": "GR Silver Mining Welcomes Shareholder Support at AGM",
        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSWJPMTlBNjZOb2wzMXVDSklIRUpPX29nY3g4emh3cm1zX0ZwRkp0QUNXcmFDOE1taUpiTjhkb2JJM095bEtiUU9wMHdEcFRIZThUbDVrQ2kzcVZFMG1wNy1taVVrd0dPQWNxMFFIam50UTFXZ2FleVVnYkdXV2pSTHFJVE10LWxIckREc0pURFhOcTl1NkpLZGhmOC0xbG5SUzB3Zw?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-10-26T20:17:00+00:00"
+       "date": "2026-10-26T07:00:00+00:00"
       }
      ]
     },
@@ -417,16 +423,16 @@
      },
      "news": [
       {
-       "title": "Silver X Files NI 43-101 Technical Report for the Updated Nueva Recuperada Mineral Resource: 10.4 Mt Measured and Indicated at 202 g/t AgEq (67.3 Moz AgEq) and 21.6 Mt Inferred at 260 g/t AgEq (184.3 Moz AgEq)",
-       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWlhwU0dacGtfSWlCNy04WTFQYXk3Z2Y4Sl83ZVFNUTRqRjkxNGt2NXQ2T1dUbnI5MXN1OGh5UG5OMmNqVlV2a0s5WV9zcW92akcwb2dmQU5LSkh6NmN5V2k2d0RDZVZ6Z1VsRUpaSC1yZElOanppazE0V01KSjB6c0c5anloVC1xSElRbWNBTzRCcXdL?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-30T12:20:00+00:00"
+       "title": "Silver X Mining Corp. (TSXV:AGX) Advances 3.49% as Investor Optimism and Upside Momentum Improve",
+       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLUxsTHJEU0tuaEZvMW9kYVZOZ1dyQi1xby13RE8yUU5FTk9xazAxTHExdXFER2Z6d3RUNG56TVdwZ005UW1xT1BGNjU5Vl9CSF80SFNKc1p4TzN3a252M2c4UDRGc3dfZ05ld3NyT0xBYTJDUjdmUTNKc0lTWnlOTkphQzFMblU1bHBYZUZwR0tYd0k4OG1HYUxrQVduSk9WaXVVTThlWU82Umg4dXlOSVJEeFdfX2dzOUFYcEFB?oc=5",
+       "source": "kalkine.ca",
+       "date": "2026-10-09T07:00:00+00:00"
       },
       {
-       "title": "Silver X Mining Stock Faces Fresh Pressure as Weak Sentiment Raises Correction Risk",
-       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdFVMZTM4V1Etb3h5Z1Y3NU1sWTJzRlFNRGp4bDBYNlA2SkVja3ZZM2tZTWc1cTNaQkpwWEU4aFpacEdrUVJ5aWpoZlpEeURHQ2xZeE5SQ29WQzZpRUpZYnlIOHVCYXpWRVpsNUNUUE1qeFRqWS1xQk5lajhMVUo1RnJHMEtFeHBWamYtSVB4WGZ2VEhKaFZzb251Y09ndzF1Qm9nNHJId09Fc3NFb0hzemR4eVY?oc=5",
-       "source": "kalkine.ca",
-       "date": "2026-10-08T07:00:00+00:00"
+       "title": "Press Release Distribution & Media Outreach Platform for PR Agencies",
+       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZ0kyLWU3a2lnV1BndzhBdHRMb0t3UVBQRGx1Ry1BY2l6dnFJTjBmQVZyUnFneFhjS0tGQVVGdDhWd2lkek1UMHRaNjlZV21zeURmemJPRVdRdHAxSDA4YzJrRWJ1aXV0c0RPbWxnVFJzVnBuRlZXZDJYSU1RNXBqOVRsT1MxbDZVd21tLTRLcURvN21KTEJpeDVEYnNVMS1fRFBaalVMbGZvNjZRTWRqZ1czVmZyb3RDVFlSb0JlYWp5T2p2TGZkbnh6bnBaWk1DSEs4UFRvMDJHM1lfdlQtcERVQnU?oc=5",
+       "source": "ACCESS Newswire",
+       "date": "2026-10-08T11:42:03+00:00"
       }
      ]
     }
@@ -618,10 +624,10 @@
        "date": "2026-11-06T15:12:00+00:00"
       },
       {
-       "title": "Nvidia Just Had Its Worst Day Since DeepSeek, Losing About $450 Billion",
-       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcV9uZUtoOFJZdmVFeHdoQTExOXZ2RkE0RUFSOUZMbkFZSnZrSTh6ajRIVExXZmxhbG9SbXNPVUhGUV9PTWw3VDk3RHNHSEZ0dVFzVlN1S3NhT0RQZFFicG1TZ2V2dGZDS004MmNWWWVfZGJERmNyZVM5eENGblI3QzZpYktnOWNsVzdkLU1TcDJnWlVi?oc=5",
+       "title": "AMD Jumps 8%, Intel and NVIDIA Climb 5% as Chip Stocks Rebound From Worst Sell-Off Since 2020",
+       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMW1ORFRuT241UWRmRjRmYTlsWWFNV3dYUm9EMGU3dy1qdTVnRnRrODJOVnRZeFltam1icENSd1Z4UWlyRlhUT1dmQ2s3SGhkSTVSRmpmTFNBVDZPYlNic0VnRlo2UEpCVDlRV0pUUGxrcnJUcVlMbDZ0R3UxcHhLbmxWdDRXWGxLbVJpaDZaaFdvemc?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-11-06T12:37:04+00:00"
+       "date": "2026-11-06T14:05:02+00:00"
       }
      ]
     },
@@ -731,6 +737,12 @@
  "failed": [],
  "general_news": [
   {
+   "title": "Mobileye Stock In Focus After Revenue Outlook Lifted And Losses Narrowed",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOXE0ZzVVWUdyMzhYQWF5RlZxMVFTNDFjcTdFbENZRmw5Q0F6cG5pMlZ6cVlEMnY3MXRybnROQzVzSHpnQkUxU3dtVHE0YWZpVWZJMDkwclNmRnB2dXNETngwVEMyU1hFaExUZnBWYUlqbkNxZ3kxb3BQMjNwMzU4dzZRcFh5bTd0QjNQVkpFTWpwN3dnaXRmQ1V4SlJ6Q1owNVlV?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-07T08:14:08+00:00"
+  },
+  {
    "title": "FormFactor Stock Gains Focus After Earnings Beat And Strong Q4 Outlook",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOODg4MUNWcXMwRVREaEJVWjMxMllsVGR2YVVNTFBGOThVbEQ0dkN2Z0laSFg5T1VNcjI2dlVNWVRWTDR1Y29naDBrUVlmNjgzSWtfblhRT3pjLXpEV2k0UURtc2lhTnNKZ3BWSFY3NlN0N3d3OXd6VFpZRlpyS0hyanpZMjN2M1hOSm5KUHd2NEtiZnVGX3p3V0RyUUlWcW1wNk41Qw?oc=5",
    "source": "Yahoo Finance",
@@ -752,7 +764,7 @@
    "title": "Stock Market Outlook: Nvidia Earnings, Anthropic\u2019s IPO, and the Fed Rate Decision",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdVM5RWx2cGx4U3R0Z3pJMzRzQ1NWaURpbkhvRnRXbzhPU3dVcVRmbVBuT05DOUJ4aXduWGhWYXBzQVZSbVhpU3FHVkQxdnBIWEFLSHBzNGJuc2VWR0Exb3F4dkFSazFNM0ZvQkhrYm1jMzlQcDVGVGQ0RUlYWW5ZVUIzRng1Z3YxZFZmaC1TbWUzSVhoTUJfY3Nn?oc=5",
    "source": "Barron's",
-   "date": "2026-11-06T19:57:00+00:00"
+   "date": "2026-11-06T19:58:51+00:00"
   },
   {
    "title": "Market Outlook: Strong earnings offer support after tech selloff",
@@ -761,16 +773,10 @@
    "date": "2026-11-06T19:30:59+00:00"
   },
   {
-   "title": "Post-Election Strategy: Selling Stock Market Rallies, Buying More Oil Stocks On Dips (SPY)",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQUY0dWJKWGE0SEJua3VzWk9XeDRGOFB1VEluQlRQclBadVBKQmU3OEt3YjdITGd1XzYwd3pCRjdnTGZRZmVhUmtXaVltR3pOdlNzNTNjN3JhV3k2cHpoVFVvRzhMeTQySEVKYU9ZWlF2RlNWQ2lzNFZXVkNORkF5NHhwY2IzX3RaTzZpeXA4TTBRQUZKVmhYcEpnVDFSaXJlWEpNX2VDellLeXQta1RldWJNQkd6ajhJTHYxTGJveTg?oc=5",
-   "source": "Seeking Alpha",
-   "date": "2026-11-06T18:47:13+00:00"
-  },
-  {
-   "title": "Atlassian Stocks Fall 14% as Fiscal 2027 Growth Outlook Slows Sharply",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcXpJUHVSZlRZZkNWa1oxT3ZrcVE5N1ppbEwxM0RnT3EzQkVJUERzSmQ2am5hMXRfazQ0bVIyYW1yaU5YWjJEdjItWVA0ZDI1OUx3SDYyc0dIZWJqY01pX0o4Mk1KaUNRZWZXNHpnZ21QWi1WeFNvOWxPcF9IQWJKTXd1U2JyMXhUYXJ0bHJBc29CQ0J1a0dSRUNvdkM?oc=5",
+   "title": "DraftKings Plunges After Cutting Its Outlook. Here\u2019s Which ETFs Feel It Most",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU3V1YkpFRDFONHNiR2ZBMGlyRUd2Wk5MS2lfR0JSLUtDRmcxSDZXYzg1akREaF90Vkh1UXBWV2lTck9OcGs2VWZHZWNoUzNhaHVoSHd0ZDZIY2E1NWFoZnhzXzdFd3U2YzM2SE9ubXJiM1ItV0JkUG9TTWNSajhjS0ZRb09fM2Z1REZqZER4bEZOelFSandpNkNwdU83aTlvamxxSXBvSQ?oc=5",
    "source": "Yahoo Finance",
-   "date": "2026-11-06T17:04:37+00:00"
+   "date": "2026-11-06T18:57:46+00:00"
   },
   {
    "title": "If a Stock Market Crash Is Coming, Warren Buffett Says This Is the Wisest Move You Can Make",
