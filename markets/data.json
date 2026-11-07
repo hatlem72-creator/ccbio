@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-07T22:16:25.358711+00:00",
+ "updated": "2026-11-07T22:56:18.411639+00:00",
  "usdnok": 9.453700065612793,
  "btc": {
-  "price": 75659.53125,
+  "price": 75675.09375,
   "prev": 75746.9296875,
-  "chg": -0.11538215193747092,
+  "chg": -0.09483676473273084,
   "currency": "USD",
   "asof": "2026-11-07T00:00:00+00:00"
  },
@@ -112,16 +112,10 @@
      },
      "news": [
       {
-       "title": "VanEck Gold Miners UCITS ETF (GDGB.L) Seasonal returns chart",
-       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tWlpPaHgtMGwyamx4d0huWHFTdTJxdWxDaGhHNnhERi1FSUhtdUhxRHpuOTRtZHBGNzREbjhFRC1iN1dIY3hYMGVDamtWUmlxTEhvR1ptQnlCMTFHSVUyRkVNSVo?oc=5",
-       "source": "Yahoo Finance UK",
-       "date": "2026-11-06T16:35:24+00:00"
-      },
-      {
-       "title": "Form 4 VanEck Gold Miners ETF For: 4 November By Investing.com",
-       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYjMyUGJnVzFqQmZNZHZnaUlubEhkMXBjZFpvREJOMGw0YUFFMmt1UlhHajJhM1QxWjk4QUJ2NzlxUFBjeThGQXFNSWhvM2lNWGVKdzNMNHppYThjY3g2ci1oRHA5eWZnR25NYkN3dWM1anVQcjhGZzZVLVlob1E1QWExRlVkTmFiVGNSOEp4cmNPMi1reGtFRm9wYzdzNHBHdmZ3akswRE8?oc=5",
-       "source": "Investing.com Canada",
-       "date": "2026-11-04T22:19:19+00:00"
+       "title": "VanEck Gold Miners ETF (Derivatives) Price (GDX/USD) Today | Live Price, Market Cap & Chart",
+       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96VDJMTzhRV09OZmxpc29uUjFZMEJ5TTJSaEpjRjJLQUpDUWJKMFdVdVd2N3NxM3phckhiWHNqdVhUUGZXRHh4ZVlYdE1YMmRCYzdBbzhOV0lTSjBqTFZQU0k3eEdGZ0xWNkV3WldjRkQwc1JW?oc=5",
+       "source": "Binance",
+       "date": "2026-11-04T10:20:00+00:00"
       },
       {
        "title": "VanEck Gold Miners ETF (GDX) options chain",
@@ -134,6 +128,12 @@
        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16Z25BX1NDRlZjTkdwRy1PeGlJN09nYXdzcU1NX0ViSlE5eGFrUXAtVHlaemFCRWI0eHBVOGNISHRpcWMzV1ZQUTFZQzZUNEtDdGZQMWlsT1FMS2lsTGQxbno5cms0Zw?oc=5",
        "source": "Yahoo Finance UK",
        "date": "2026-11-04T02:40:49+00:00"
+      },
+      {
+       "title": "Form 4 VanEck Gold Miners ETF For: 2 November By Investing.com",
+       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTGwyTmpFbnozYWtreGdDUmRTTXJMV1d2VFJEZXJXTW5sVXAyeXVGSjRpZjJ6VkpxaGxFMENjWEdGbHZfa3lFQlM2ZUF4MHNVTjlvd0g1QW4yQXF5eXRMN1NDWjBNSUFtODZVRkdOYzBITDh2Qk5pd1ZmYTN6NGlrSHF6aTVlck9PVmNPT1hTNGIzS19RQ25sNEp5RzVObG9HZ3kwYnNDMlk?oc=5",
+       "source": "Investing.com UK",
+       "date": "2026-11-03T04:16:00+00:00"
       }
      ]
     },
@@ -342,16 +342,16 @@
      },
      "news": [
       {
-       "title": "Defiance Silver Corp. (D4E.F) Seasonal returns chart",
-       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE93V3VidFIxTGZ3WjZtbUdGUGRXMHpqbE5FR2Ffa0F2YTV4OE45YnByN05rbkVmRGx4MURZVXJsNkJ5MjBuOHA0aFZCam95cFRSNlZpbnhJVHY1cHZtU05xQmstRQ?oc=5",
-       "source": "Yahoo Finance UK",
-       "date": "2026-10-30T06:55:59+00:00"
+       "title": "Defiance Silver Corp. (DNCVF) Seasonal returns chart - Yahoo Finance",
+       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xU3FpQWJaZ3ZoX2hpVEZjSC01bWtEOTZhU2hpR25YVmdmcGk3cDI2enppQmt2eHoyZnMtYUk3bWFFMUV6aUtTV2FtemtaRjBxcWZDOEQ2ZVBXX2lKWTNQbUNfZw?oc=5",
+       "source": "Yahoo Finance Singapore",
+       "date": "2026-11-03T23:58:45+00:00"
       },
       {
-       "title": "Defiance Silver Corp. Reports Earnings Results for the Full Year Ended June 30, 2026",
-       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQc180cE45amExU3k2S2RSejVoMGlEM3A0OHNXcjJ6Z2tUbHZtc2FMenNhaGI0QWwyWkNnLU8zbGNWcXhGVFJaMFdjVVRfOEtleUNQUTd3UnVVbmI1RC1XM3h5SHpmMHdCNF9mNjI1bHhGZFdzME5IZkZsTVVVbGYyQmMyY2VZbG1HeEZMbl9Rd2RvZWtpajQ2eUs1SlVPTGJYV1dBRC1RSm0yYWdiQVpjN0xEUmswcG1xNnNJZ0lQckt3TE9lWFB1b3N2eV9EQXlZ?oc=5",
-       "source": "www.marketscreener.com",
-       "date": "2026-10-28T21:08:00+00:00"
+       "title": "Defiance Silver raises C$3.27M in private placement",
+       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVThvVEk3MTRTQUk4eW0xVlhJdEl3aGtpUnRraWhHb0pnNGRKXzlZS0FEZUYzbU9zWW11Ujg1a1FFaG9DU2dhcEJVZS1hV0xYUWFNNk5TMWpGckFzRFJuYVpiZmlVQ0F4Z2lBNkpINExnb2dqWW52ZGxQeFQ1bUVEdTk4WWRmRUhWYU9oUGJ3?oc=5",
+       "source": "Dealroom",
+       "date": "2026-08-19T05:04:28+00:00"
       }
      ]
     },
@@ -376,7 +376,7 @@
        "title": "GR Silver Mining Welcomes Shareholder Support at AGM",
        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSWJPMTlBNjZOb2wzMXVDSklIRUpPX29nY3g4emh3cm1zX0ZwRkp0QUNXcmFDOE1taUpiTjhkb2JJM095bEtiUU9wMHdEcFRIZThUbDVrQ2kzcVZFMG1wNy1taVVrd0dPQWNxMFFIam50UTFXZ2FleVVnYkdXV2pSTHFJVE10LWxIckREc0pURFhOcTl1NkpLZGhmOC0xbG5SUzB3Zw?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-10-26T20:17:00+00:00"
+       "date": "2026-10-26T07:00:00+00:00"
       }
      ]
     },
@@ -637,16 +637,16 @@
      },
      "news": [
       {
+       "title": "Google's $900 Million SpaceX Bet Is Now Worth $69 Billion. It Added Millions More Shares",
+       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQY2lHNjR2UjRZbXNKLXN0VjNNV2NOcUdDWFRlREJmQWgwZnRTbUdiakZKeTBrTk9QRFJuVXgtOU5DWDllTk1HeHd3Mk9WWnRQRWF6RFNaWVI3Q2p4dzlfZTgwQXpzdnpYMmpyb1hucEMtVktnVTdwb2x2UV9EcGRMeDhMNFI0V0tfckltREhvWTAtdFdEV2FySG9VVQ?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-11-06T16:31:21+00:00"
+      },
+      {
        "title": "Google parent reveals $548 million bet on beaten-down chip stock",
        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNFdHMFhfc0p5eUg4UWVkYWEwZl96ZTFEeDI3VzJCSUd2ajV0QWhjRkVDVkU5RjJhYjF3cEM5VncwRnFPY0RQbVpsVFZfM2FjN3pCWnFFaE9QdlNUdWV2c0M3dkZRU2tqZFZqQmJaNWF3MmVvcldIbkU3bzVBbXlUQlJiVjF4RElzc2pqQlRtdld4ck9fdTBqYkNxdUZRejg?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-11-06T13:36:11+00:00"
-      },
-      {
-       "title": "This Could be a Major Problem for Alphabet Investors",
-       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX2lFUmhRZFRUTGhRRndBVHpMdkNLaVl0NXVheFpINHdjSFFwMFJ0Zm5YMm9wUEJ1dUV3ZXZWRHJCMm5jMVoxVkFKdFItR3BfWFBMbnRzN1FNUjlxcGlhcmFGLVpvR1JFUlJCUnd1Y1ExV0FaeXZ3dVdwbXJwam5XUC1CSnB3c0VEUkpXYnM2Vnhvci1IVmQwMFFYeUFBczdScmxXSw?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-11-05T23:03:02+00:00"
       }
      ]
     },
@@ -786,7 +786,7 @@
   },
   {
    "title": "Here's what the Democratic election rout could mean for the U.S. economy",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LSmFYdU84c0huOFFRc0RjSkUxcXVTNlVSbTlVck9YYVY2MlNyTzdKaTJZM1R3TU5CclVfN1dyT0ZFaXBvYjg2VkFpMy1JcTFQRmkzVWp1cFVmNXg2Skd4VzhxWUhCSHhoRDBDUXNQOA?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LSmFYdU84c0huOFFRc0RjSkUxcXVTNlVSbTlVck9YYVY2MlNyTzdKaTJZM1R3TU5CclVfN1dyT0ZFaXBvYjg2VkFpMy1JcTFQRmkzVWp1cFVmNXg2Skd4VzhxWUhCSHhoRDBDUXNQONIBdEFVX3lxTE1ROExhcXBmYXZNYWxhMmZNSU53MDVac0REOU1IY1Npcl9qaHhsNFNqQzV1UXBoRjFkbUw5OFlVNVQ1SGtCSkY1Zks3NkdJYTNWNHFLSWtuQ2hkeThvVlJ1ZUtIMXM3QjE5Wm5KWjhmTXVCcVFZ?oc=5",
    "source": "CNBC",
    "date": "2026-11-05T12:11:05+00:00"
   },
