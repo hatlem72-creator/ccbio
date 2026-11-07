@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-06T23:33:24.219807+00:00",
- "usdnok": 9.44674015045166,
+ "updated": "2026-11-07T00:15:21.953506+00:00",
+ "usdnok": 9.453700065612793,
  "btc": {
-  "price": 75840.6484375,
+  "price": 75851.4921875,
   "prev": 75942.125,
-  "chg": -0.13362354885381178,
+  "chg": -0.1193445831282669,
   "currency": "USD",
-  "asof": "2026-11-06T00:00:00+00:00"
+  "asof": "2026-11-07T00:00:00+00:00"
  },
  "silver": {
   "price": 51.96500015258789,
@@ -32,12 +32,6 @@
      },
      "news": [
       {
-       "title": "Kongsberg Gruppen ASA (KOG.OL) stock price, news, quote and history",
-       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1yMlNacXI5WnUtMXZQWV8zLXhmM3NWd3Qycm81d2N3QzRoTWRuVkItdU1DTFBmZGFZX25HbUQzRVQ5aHZwdTJRU0VFZGVXV0VKMmVjSA?oc=5",
-       "source": "Yahoo Finance UK",
-       "date": "2026-11-06T14:45:36+00:00"
-      },
-      {
        "title": "Kongsberg Gruppen ASA (KOG.OL) Seasonal returns chart - Yahoo Finance",
        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55cDhIUnpRZHJWS2pnWk5nVHVvZWtya1hoS2F4MFNxakFycTBydUJtbXVJRmphWnQ5RGZ1b2dLX1V0SE90bDZwbGJmTjhsaU9uMHNVZ08tYklVMHdlOFh6ME45T00?oc=5",
        "source": "Yahoo Finance Singapore",
@@ -50,10 +44,16 @@
        "date": "2026-11-01T23:04:24+00:00"
       },
       {
-       "title": "Kongsberg Gruppen (OB:KOG) Stock Forecast & Analyst Predictions",
-       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPczBYT2c3eDhYYUZhdlFkZUR1VUpZeEs4U2lGZTIzaWFLdFYtb29YRHgzVlQyT3lYQ3Itd1gxdzFsaVUtMHFwYWtZRXRISVZaeWdoc0VsT05lVG9FNjEtNkp4djR2cGdTbEJsSjNrclJfUXJQeld1enBQY3RUaFA1bU5ndmpUMlNCaUR4RA?oc=5",
-       "source": "Simply Wall St",
-       "date": "2026-10-30T07:00:00+00:00"
+       "title": "Kongsberg Gruppen ASA (KOZ1.F) stock price, news, quote and history",
+       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5wWWppZGp1TEtYbUNOU2laaFBBT3VXLTduZXVVZnFIdkZ1el94R3Z1YW8xaGhQZnJvN1laZFhXUDdneWRwMzVCblFLemVoQjcwM2dRZw?oc=5",
+       "source": "Yahoo Finance UK",
+       "date": "2026-10-31T01:28:30+00:00"
+      },
+      {
+       "title": "SB1 Markets raises its price target for Kongsberg Gruppen to NOK 425 (400), reiterates Buy",
+       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQR3FOZmVUVEhhTWUzcksxaUw5alB2Z1J0bUFLSElVYzBueXdUX2lQNVhZUEFGU3RBUWtXUlF3NENTTjRGeEJlSXRYX2hfRFhueEhsM19tV0hhWWxORldxV1NER3oxUkRwaUU2WW1EVEI0VTFXN0kxcVNmQ3ZMal9mRDZVWTVvWDR0Vnh1eHVpbzdmaHpPV1BoUmo3X0lKSFN3SGc0cEJjV01LNkdxMjlQZXhycXpfNkl0cGViUkRRU3NzVjV3aGVGY1FjamN1Qno3a3IyZ040dw?oc=5",
+       "source": "www.marketscreener.com",
+       "date": "2026-10-30T07:55:20+00:00"
       }
      ]
     },
@@ -223,10 +223,10 @@
        "date": "2026-11-04T15:34:52+00:00"
       },
       {
-       "title": "Hecla Mining Company Declares Quarterly Cash Dividend, Payable on or About December 8, 2026",
-       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxONzdyNmFidktCei1nWmVMZDlQbmdNX1pGTFpYY3MyZDM0Wi1RM0ZtRl9NbVFGLU5IX0dsLVpjX1JmN1AtRFJ2LUVCVy1Xc3NrbkJHa2JzREwzNXdhWjItMkZhY1Mwc2RLVHNBY3NTVUJSNWVZWC0xMnphLTRSdEZKdWtuVi1zb3h6T05KbFZNXzFtUlBqdWU4WVluN0pobi1CZFQ0dEVHbmgwQ2xqUjBxQlRFMUpuaGY5SkltREd3Yjd3VWxZUEhxc0tsMGloSmZOWEZ4UEJ5djItQQ?oc=5",
-       "source": "www.marketscreener.com",
-       "date": "2026-11-04T12:46:47+00:00"
+       "title": "Hecla Mining Q3 2026 Sales Rise 25% to $394.8 Million on Higher Revenue",
+       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZV9NcHFwcEpTSFVnRllzT0RfMGV5Ti1wNGZLRndfVTJlM29ZUmlBSzVhckFYLWxldnhjUHJkOTROcWZ5ZTJuZEphMThjLVBudjd3ZUpiM1hlTFpmTzJCV0U0Vy01dUN5Y3JOai1QeFNPMFV0aW5UamdMc1JsZE5Dc2l3MTR1bU91cHFUVzJ6QXlabmN1ajJubF9kMFhYWXJuNmtYX2tFZ1pFaDkza0pZ?oc=5",
+       "source": "Minichart",
+       "date": "2026-11-04T13:00:00+00:00"
       }
      ]
     },
@@ -367,10 +367,10 @@
      },
      "news": [
       {
-       "title": "Gr Silver Mining Ltd (GPE.HA) valuation measures and financial statistics",
-       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1QMGFOQTlUaUgtYWZVdmg5SU1hQUxnbHBOZm9lZm1Wd1RhQWthdzZxWkxIYkdxX3R4Q253SDFNS241XzVKakZDYzlRak9fSjk2MHZlQnhJVnlhMG9NMGl3WFJIeWxJczR0?oc=5",
+       "title": "Gr Silver Mining Ltd (GPE.HA) stock major holders",
+       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45OHkzV3c4RXIzaEtkdVBNT0ZsQzJkck5pbGNHYTg3YXdDTzdFMUlsRnlLTS1IYjlKOVhvZlFXVWZ2TS1XRFFXY1pmdXZEemEwTGNLand0cHFHVjRyWjhJ?oc=5",
        "source": "Yahoo Finance UK",
-       "date": "2026-10-30T02:33:19+00:00"
+       "date": "2026-10-30T02:31:36+00:00"
       },
       {
        "title": "GR Silver Mining Welcomes Shareholder Support at AGM",
@@ -417,10 +417,10 @@
      },
      "news": [
       {
-       "title": "Press Release Distribution & Media Outreach Platform for PR Agencies",
-       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZ0kyLWU3a2lnV1BndzhBdHRMb0t3UVBQRGx1Ry1BY2l6dnFJTjBmQVZyUnFneFhjS0tGQVVGdDhWd2lkek1UMHRaNjlZV21zeURmemJPRVdRdHAxSDA4YzJrRWJ1aXV0c0RPbWxnVFJzVnBuRlZXZDJYSU1RNXBqOVRsT1MxbDZVd21tLTRLcURvN21KTEJpeDVEYnNVMS1fRFBaalVMbGZvNjZRTWRqZ1czVmZyb3RDVFlSb0JlYWp5T2p2TGZkbnh6bnBaWk1DSEs4UFRvMDJHM1lfdlQtcERVQnU?oc=5",
-       "source": "ACCESS Newswire",
-       "date": "2026-10-08T11:42:03+00:00"
+       "title": "Silver X Files NI 43-101 Technical Report for the Updated Nueva Recuperada Mineral Resource: 10.4 Mt Measured and Indicated at 202 g/t AgEq (67.3 Moz AgEq) and 21.6 Mt Inferred at 260 g/t AgEq (184.3 Moz AgEq)",
+       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWlhwU0dacGtfSWlCNy04WTFQYXk3Z2Y4Sl83ZVFNUTRqRjkxNGt2NXQ2T1dUbnI5MXN1OGh5UG5OMmNqVlV2a0s5WV9zcW92akcwb2dmQU5LSkh6NmN5V2k2d0RDZVZ6Z1VsRUpaSC1yZElOanppazE0V01KSjB6c0c5anloVC1xSElRbWNBTzRCcXdL?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-30T12:20:00+00:00"
       },
       {
        "title": "Silver X Mining Stock Faces Fresh Pressure as Weak Sentiment Raises Correction Risk",
@@ -536,11 +536,11 @@
      "symbol": "USDNOK=X",
      "name": "USD/NOK",
      "quote": {
-      "price": 9.44674015045166,
-      "prev": 9.294440269470215,
-      "chg": 1.6386127250901827,
+      "price": 9.453700065612793,
+      "prev": 9.300009727478027,
+      "chg": 1.652582552474846,
       "currency": "NOK",
-      "asof": "2026-11-06T00:00:00+00:00"
+      "asof": "2026-11-07T00:00:00+00:00"
      },
      "news": null
     }
