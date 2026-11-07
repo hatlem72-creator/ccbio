@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-07T17:17:11.691559+00:00",
+ "updated": "2026-11-07T17:54:20.003892+00:00",
  "usdnok": 9.453700065612793,
  "btc": {
-  "price": 75677.46875,
+  "price": 75753.3515625,
   "prev": 75746.9296875,
-  "chg": -0.09170132411513432,
+  "chg": 0.008478066406780727,
   "currency": "USD",
   "asof": "2026-11-07T00:00:00+00:00"
  },
@@ -348,10 +348,10 @@
        "date": "2026-11-03T23:58:45+00:00"
       },
       {
-       "title": "Defiance Silver Corp. Reports Earnings Results for the Full Year Ended June 30, 2026",
-       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQc180cE45amExU3k2S2RSejVoMGlEM3A0OHNXcjJ6Z2tUbHZtc2FMenNhaGI0QWwyWkNnLU8zbGNWcXhGVFJaMFdjVVRfOEtleUNQUTd3UnVVbmI1RC1XM3h5SHpmMHdCNF9mNjI1bHhGZFdzME5IZkZsTVVVbGYyQmMyY2VZbG1HeEZMbl9Rd2RvZWtpajQ2eUs1SlVPTGJYV1dBRC1RSm0yYWdiQVpjN0xEUmswcG1xNnNJZ0lQckt3TE9lWFB1b3N2eV9EQXlZ?oc=5",
-       "source": "www.marketscreener.com",
-       "date": "2026-10-28T21:08:00+00:00"
+       "title": "Defiance Silver raises C$3.27M in private placement",
+       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVThvVEk3MTRTQUk4eW0xVlhJdEl3aGtpUnRraWhHb0pnNGRKXzlZS0FEZUYzbU9zWW11Ujg1a1FFaG9DU2dhcEJVZS1hV0xYUWFNNk5TMWpGckFzRFJuYVpiZmlVQ0F4Z2lBNkpINExnb2dqWW52ZGxQeFQ1bUVEdTk4WWRmRUhWYU9oUGJ3?oc=5",
+       "source": "Dealroom",
+       "date": "2026-08-19T05:04:28+00:00"
       }
      ]
     },
@@ -417,16 +417,16 @@
      },
      "news": [
       {
-       "title": "Silverco Mining Ltd. (SICO.V) Seasonal returns chart",
-       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE56amJ0Z0xnaVdHM0RZYjhqNThYenBHZnhkZkJaVlcwdERHaE9KYzE1Tkx4b0xiVTRITVgwd2FkcmdzcnM3eE1NZzF1XzBUUzdnTmwzVHd4eUJwMFNCSzdkWFQwRGo?oc=5",
-       "source": "Yahoo Finance UK",
-       "date": "2026-11-04T05:09:34+00:00"
+       "title": "Silver X grows processed ounces at Nueva Recuperada",
+       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzT3NMWFlCRXd2MnZpUGt5VHJ6QWgtd05FS0IxV2c2M1JmbUgtVEl6ODNydU1zUmZ4QklDbUxyaS02WjBYdjdmVGF3dDJOMnM1bFAyZjhSUks2T2hnQTBGOVpKZk5XWHBvc1o2V2lZUUhtb3E2bjFES0E0TlI1cjQ?oc=5",
+       "source": "Mining.com.au",
+       "date": "2026-10-10T07:00:00+00:00"
       },
       {
-       "title": "Silver X Files NI 43-101 Technical Report for the Updated Nueva Recuperada Mineral Resource: 10.4 Mt Measured and Indicated at 202 g/t AgEq (67.3 Moz AgEq) and 21.6 Mt Inferred at 260 g/t AgEq (184.3 Moz AgEq)",
-       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWlhwU0dacGtfSWlCNy04WTFQYXk3Z2Y4Sl83ZVFNUTRqRjkxNGt2NXQ2T1dUbnI5MXN1OGh5UG5OMmNqVlV2a0s5WV9zcW92akcwb2dmQU5LSkh6NmN5V2k2d0RDZVZ6Z1VsRUpaSC1yZElOanppazE0V01KSjB6c0c5anloVC1xSElRbWNBTzRCcXdL?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-30T12:20:00+00:00"
+       "title": "Silver X Mining Corp. (TSXV:AGX) Advances 3.49% as Investor Optimism and Upside Momentum Improve",
+       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLUxsTHJEU0tuaEZvMW9kYVZOZ1dyQi1xby13RE8yUU5FTk9xazAxTHExdXFER2Z6d3RUNG56TVdwZ005UW1xT1BGNjU5Vl9CSF80SFNKc1p4TzN3a252M2c4UDRGc3dfZ05ld3NyT0xBYTJDUjdmUTNKc0lTWnlOTkphQzFMblU1bHBYZUZwR0tYd0k4OG1HYUxrQVduSk9WaXVVTThlWU82Umg4dXlOSVJEeFdfX2dzOUFYcEFB?oc=5",
+       "source": "kalkine.ca",
+       "date": "2026-10-09T07:00:00+00:00"
       }
      ]
     }
@@ -562,16 +562,16 @@
      },
      "news": [
       {
+       "title": "Apple Stocks Move Lower as Investors Revisit Earnings Quality",
+       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUVI2MEFva0FhMWItYzNMZkdJLTFDQjhOR2VYZnZjc09iZVJqRzFCUzdLTkJoOVYyYmtXdDdtVXdvVVJQQk9FbHppWG9xSEx5QmVNQmVlZXR1dndfM2YzbHI4NzlaN1NEdzNRS0d0SnFRR2taa0gtWGlibGhndzBDWkdjOFl5Z0d6dGZIRFExSkJrTzF6bkZ4T2thZkJZRXM?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-11-05T19:20:48+00:00"
+      },
+      {
        "title": "Apple Stock Is Up 22%, but 1 Slowing Business Could Test That Valuation",
        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSWlhaUxkMVpIazBXTmFyYTlmLU41NUplZnFrZjY1RTZhN0VudFJOcHdCTnBjaDBhYnd2dXZPRXBNQTN6dGlOY2tzbllzRkdQaXlYdDNwSGJST3ZubkxTbllBU0dIZ0JZMXhKOTV5bTgxZ3N2dWpqTVltUEoyVGJvNWJETXdTRlRhdnF1ei1VWXBQRDQ?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-11-05T13:50:00+00:00"
-      },
-      {
-       "title": "Give Your Daughter $100,000 of Apple Stock Now and She Can Sell It at 0% in the Year She\u2019s Between Jobs. Leave It to Her Instead and the Step-Up Erases the Gain Entirely, and the Crossover Comes Down to One Number",
-       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZThqLVFHWnNTNkJqTjVtYll5UERxRGNmVXU0WGlHaXJ1ZVd2dlM3X2NVZDB2eEJsV0tmM3BPME4yakdaVTVsaWxKWXBRejJsRVRSc2ZXaWQ0NHdhRVhWaFVVWkpUMU9EaUthNVRNZmtRUVd2TEprWVdqcDFYSFMxdjQ2ZGFSUzZ2NUdfaTExMklETkI1QlhEUA?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-11-05T10:21:54+00:00"
       }
      ]
     },
@@ -637,16 +637,16 @@
      },
      "news": [
       {
+       "title": "This Could be a Major Problem for Alphabet Investors",
+       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX2lFUmhRZFRUTGhRRndBVHpMdkNLaVl0NXVheFpINHdjSFFwMFJ0Zm5YMm9wUEJ1dUV3ZXZWRHJCMm5jMVoxVkFKdFItR3BfWFBMbnRzN1FNUjlxcGlhcmFGLVpvR1JFUlJCUnd1Y1ExV0FaeXZ3dVdwbXJwam5XUC1CSnB3c0VEUkpXYnM2Vnhvci1IVmQwMFFYeUFBczdScmxXSw?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-11-05T23:03:02+00:00"
+      },
+      {
        "title": "Marc Chaikin Sees Alphabet (GOOGL) as a Conglomerate Hiding Three World-Class Businesses",
        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZGUwTUFsMVZQeEZPSnFCZ3dnMDZNTVNFeGVXelVQN1ZtcFo3SnY2dzdmSHhIM2J2OGgwRXZScGYxajZuSDNQd3ZvTGdrMDU5QWNEdWhXM0hnb1lPMmNoQ3ZST0lTcnVDRllVRnpwWG9VdWxxQ1I5R0w5Q3BsZ0NaMkJ1b0FRc05nZnRWdFRhdFBBYVg3aEkwSWd4NlktZw?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-11-05T22:31:23+00:00"
-      },
-      {
-       "title": "What Is Alphabet Getting For All That Spending?",
-       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPangtdEhxc2c1dHpxLUVWX3AyT3J4SFZqbFRwZHBjYUdNZ20waGdCZ3RheXVNOElSNGxhaWlpcnd4S3NlX0VmT3IyU054ZzR4STBoaTcyRGI4cldNUllSLW5NWVl2MjlNUDZwQlJEN3VLYXJyRVQ2TFQ2b2UzaHd2ZEZiSE1aMzlRX0VsS1F1elRGLS1L?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-11-05T12:06:25+00:00"
       }
      ]
     },
@@ -687,16 +687,16 @@
      },
      "news": [
       {
-       "title": "Meta (META) Stock May Be A Bargain After Huge AI Fundraising",
-       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYWo4WHVSb0lrclRUVUZ6N1VJb3dERjlDQVFRSnFDMVNJRkU5NlFkQVRDTEdNRkMtZFB3dEFuMkdEUHdZLVM3a1IxdkNJbGY4ZGUwcWxwTmZEWkpzTzQ1Z19wX204ZUdzTjZmNjhlRDRXeXJYZFZZT0hCdXRtTm1aeGZuVDdEcVFtWHZ1bUlQOUVlOUFCOHRB?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-11-06T16:12:28+00:00"
-      },
-      {
        "title": "Rethinking Meta Following The Blue Wave and It Isn\u2019t Just Lawsuits",
        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcFpKbldISHkyTTBXcWhMaHpWWW1JTVFEVEZaaG0tSlo4TzNkLXVoWUJFM1l3V1pXcVFqNTFLZkF6V3ZIX3BqTjdWT2JPclpEWlBKMllqTEd0eEJETDEtcGlQUUdBSmhRQnZZZVZHeXRKZWNCZHZSX2hUeGJ0b21JS2FoMlhOd3h0UTQ1Y0M5WDVWT2xWVnQyRTBFLTd3ajFKT1E?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-11-06T15:45:51+00:00"
+      },
+      {
+       "title": "Meta's former security chief Alex Stamos says giving Muse AI your passwords and finances is \"totally insane\"",
+       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVVhCVnBFcGNmd2ZpdVpadEJnX1RtcFI1NWdYbWF4cS1BbnA1SHhFaDR3T3pVX0s0VTl6OXJLdWRZcWNjVHlLQTZYNjR1QkU0RktsUDd3WG4tT1Y5THQxelhrOFdJOVROY1FEZ3JxRmI4WndDT1V4NUFzajVPejdNRHhESGFrZmpUemJuVGg4XzVmTFpMTXVNTGF1cS0?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-11-06T14:00:00+00:00"
       }
      ]
     },
