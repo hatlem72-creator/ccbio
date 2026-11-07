@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-07T05:27:33.148947+00:00",
+ "updated": "2026-11-07T06:27:50.472519+00:00",
  "usdnok": 9.453700065612793,
  "btc": {
-  "price": 75931.96875,
+  "price": 75923.9765625,
   "prev": 75942.125,
-  "chg": -0.013373671068594994,
+  "chg": -0.023897721455645726,
   "currency": "USD",
   "asof": "2026-11-07T00:00:00+00:00"
  },
@@ -32,6 +32,12 @@
      },
      "news": [
       {
+       "title": "Kongsberg Gruppen ASA (KOGO.OL) cash flow",
+       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9IZm1mM0poU0QwZTFEMi0yWWR0U25HMDctXzhGWUpEM1daYk03SWdBMXE4N19ISXNabWcyUEtwV1lsaU5QZVFRVlhTRkI4MmVjRUdsQ2RPRlUyOGNwNklONmlUMA?oc=5",
+       "source": "Yahoo Finance UK",
+       "date": "2026-11-06T21:12:13+00:00"
+      },
+      {
        "title": "Kongsberg Gruppen ASA (KOG.OL) Seasonal returns chart - Yahoo Finance",
        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55cDhIUnpRZHJWS2pnWk5nVHVvZWtya1hoS2F4MFNxakFycTBydUJtbXVJRmphWnQ5RGZ1b2dLX1V0SE90bDZwbGJmTjhsaU9uMHNVZ08tYklVMHdlOFh6ME45T00?oc=5",
        "source": "Yahoo Finance Singapore",
@@ -42,12 +48,6 @@
        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWWM5aV9PbGNsUFJoT3hqNTduOFhNbUpZcUtOVC1EWm8zVHNlSjlHSGZ2cExNTkNIejVXSTVRUFh0eWdPYlcyUFpxUTZmMjJSaXh2QlZ2dFI2OEQtR2djVUdxdElqTGQzTTJNTDBueEJQbDkwTDNYaVc4aXZnUHZmZUhjVDlncjRTY2Z2cnlfQXZjWk15ZlRwZDhuOUxsYVg5STdkZk1HMTQ?oc=5",
        "source": "Seeking Alpha",
        "date": "2026-11-01T23:04:24+00:00"
-      },
-      {
-       "title": "KONGSBERG secures US government contract for underwater capabilities",
-       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa0J0WVlGSWkwZ3VHR2t3cWNqN1Q0M2ZmX0tqdmJhUzZrQkxwNVljUWFvMG1xcF8zUVpFa1EyTWNNVFhhMmRfNFdTVVp6R2JpaDQtdXg2UDMxMzRRV1JUSEQwNDlFZVFQTW80SGVjZ2hQdGtwWVd6bVpfOXJoSFhGdzEwOU5YWVhxTDU3d1hUU2RSWl9PUlF0QkF1RERRa3otTWNGVzN3RW5RYW5kclVnMWpLVC0?oc=5",
-       "source": "Naval News",
-       "date": "2026-10-30T13:56:33+00:00"
       },
       {
        "title": "SB1 Markets raises its price target for Kongsberg Gruppen to NOK 425 (400), reiterates Buy",
@@ -192,12 +192,6 @@
        "date": "2026-10-30T21:00:00+00:00"
       },
       {
-       "title": "AuAg Funds launches in Germany",
-       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQODlSOUtkREQyUndIOGRLdUFVNTJsNXVjX3JRcUs3SkcyV0Uza0dCY3lCc1N2SVZfRm9KWTRsbUlQZWlYLTdER05NTk1XQjZHX0R6LXZKdVVfaVFEMU54NWxpdHpXR1BDUE1RaWlfWTBubEZZMlhPaElLNG9obzlNdWpWZzVWRHN0cEkxRlVyQzNMVUJrYkZJaUdZQTY?oc=5",
-       "source": "TradingView",
-       "date": "2026-10-28T08:00:00+00:00"
-      },
-      {
        "title": "Monthly letter October 2026",
        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQb2VuZ21na2FjQUMyVVNjNHBqMnlmU0dwMlpaTXhfcUdKMkk0OUpxX0ltZUQzZFZVeFBnS0hoZVIwX3Zab3kwMm5jS1hHYnotZ3NBVWI2TjVhaHhDWWtLNU1LSEpaOUZJdnlQWDI3YklRZEF0WEQ1M1ZvVHpvN29INkhiLTVTTDBSX3kxbzBDQnlOUUJuM2VLSw?oc=5",
        "source": "TradingView",
@@ -298,16 +292,16 @@
      },
      "news": [
       {
-       "title": "Coeur Mining Inc (CDE) Q3 2026 Earnings Call Highlights: Record EBITDA, Strong Free Cash Flow, ... By GuruFocus",
-       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRmRZLVJhMGJTUWM3aE5hbk9GaHVTT09KQXFSWnhtbWw0QmNuNXZhVUpESUxsQXFtS2wwTFJ2VFlhR3I2WV9aODJQb09ybVVJOFB3dlpxSkIwdmtacVFZTkJQajNtMy1BZElhZEkxVXJXWkJhWV9UVUdtRzhZSXJKWGxwT2syRmJlSVJ1MFFEX2FNQXlvUVotUmJJNE5BRGhrYXRBb0NpQkJMVnZsQTc0T1hPN2FiNzNYQWY1ZzhFN1h1eENVd3h5eWljQVoydlFRZ19uYXVXdFE?oc=5",
-       "source": "Investing.com Canada",
-       "date": "2026-11-06T04:06:19+00:00"
+       "title": "Coeur Mining Q3 Earnings Call Highlights",
+       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNa1EyYTRqY1c0RDI1QTItQUFEaEJkMGlDbHd0QmpoakhCMm5SOUhMdm9Mem1uWTJSbVpmQW5hYVNfU2k5TS1kbC1RYVlmdmw0emY4M2xNVU4wbDlTUW1kbFdxQ3ZlekpFRUdpR0VXRGQ5WVI3S25jeDZqWjUwd3M3b19tSUpQWks4LW5KaFctM202Yk5JSXNsaUV3?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-11-07T05:14:00+00:00"
       },
       {
-       "title": "Coeur Mining (CDE) Q3 Earnings Leave Stock Focused On Canadian Ramp Execution",
-       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcVBPejloQkg3NDVPem9KSHd2Y1NYWTVpb1dEWFM1RWVVdmlSU3UxeWtQd1FRY2gyYVZkMl9OdzlSeTMxcURITFBaNXI4MHZUMHA2Mk1hdG44aWtyLWVzQTh6Z0dRNWstUER0VDl5YVlzNm5MNW9yRUdHdUZtZDk3YVdkX1RNdFp5RVJpY3k2a2I1aEZnTGhRRA?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-11-05T23:20:15+00:00"
+       "title": "2027 Will Bring Very Attractive Earnings For Coeur Mining (NYSE:CDE)",
+       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ3ZvaU9lWDk0S0x1WG8xbEdZOS1xeW9pS0NSck5yTWswQm9vNUl3RENxSmQ3NWN6VnJEc1J1VTRpc0dXZkxxa2lqbFRRYUl5R09tUUlUWUxIeWZCd1lSTVhmUG4zdXNrYV9xMFVzQXpkNVBCUFZFZGg4ZmVTUWNqc28xZEFBMDRFM0FJRGRubE44b3JQNzNKdHVxQzlmejA?oc=5",
+       "source": "Seeking Alpha",
+       "date": "2026-11-06T15:11:47+00:00"
       }
      ]
     },
@@ -373,16 +367,16 @@
      },
      "news": [
       {
-       "title": "Gr Silver Mining Ltd (GPE.HA) valuation measures and financial statistics",
-       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1QMGFOQTlUaUgtYWZVdmg5SU1hQUxnbHBOZm9lZm1Wd1RhQWthdzZxWkxIYkdxX3R4Q253SDFNS241XzVKakZDYzlRak9fSjk2MHZlQnhJVnlhMG9NMGl3WFJIeWxJczR0?oc=5",
+       "title": "Gr Silver Mining Ltd (GPE.HA) stock major holders",
+       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45OHkzV3c4RXIzaEtkdVBNT0ZsQzJkck5pbGNHYTg3YXdDTzdFMUlsRnlLTS1IYjlKOVhvZlFXVWZ2TS1XRFFXY1pmdXZEemEwTGNLand0cHFHVjRyWjhJ?oc=5",
        "source": "Yahoo Finance UK",
-       "date": "2026-10-30T02:33:19+00:00"
+       "date": "2026-10-30T02:31:36+00:00"
       },
       {
        "title": "GR Silver Mining Welcomes Shareholder Support at AGM",
        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSWJPMTlBNjZOb2wzMXVDSklIRUpPX29nY3g4emh3cm1zX0ZwRkp0QUNXcmFDOE1taUpiTjhkb2JJM095bEtiUU9wMHdEcFRIZThUbDVrQ2kzcVZFMG1wNy1taVVrd0dPQWNxMFFIam50UTFXZ2FleVVnYkdXV2pSTHFJVE10LWxIckREc0pURFhOcTl1NkpLZGhmOC0xbG5SUzB3Zw?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-10-26T07:00:00+00:00"
+       "date": "2026-10-26T20:17:00+00:00"
       }
      ]
     },
@@ -593,16 +587,16 @@
      },
      "news": [
       {
+       "title": "Oracle falls 4% as Microsoft reportedly winds down AI cloud capacity deal",
+       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN25DZl82VVZGblFmVjNxOHdaeFk0WnNFLWV4RWNYSDA2WUtobWRFR2RCOXM2b0pDeW5LenJTLVpwQ09VMmNqTHJvNlA2TGxmNWpZNzV6RDdNU3FlZ3U2cjVodXRjejduQnhXZFRsR1pVTzZ4VHhuYVBXSDExZmEzUWt2ZXZ1cFdNNDlyUFhSMDZCR0owcVEzY2hOdk52RkZa?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-11-06T18:17:18+00:00"
+      },
+      {
        "title": "Microsoft Reportedly Steps Back From Renewing Data Center Contract With Nvidia-Backed Nscale",
        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTWNPVjRQUkY3M1RtSzc1aDZZbFQ0Sm5Eb2RQVFJEQzhhcTd0NEM1Wmwwa3IwSXB2TWVPTVdlYWJaWFNVWTRkdDFSVmhlaGRLRTJ5MkkwdGs2SUUzTllUV1Y1WGVrc2FqMnNNS092Wm1TWWlsZXhqcy1mSTkzN2tsSjZMSnVFWHU1anhLQXB2QjBBT2NwS21VMXlDYzQxM3pWSmhoTjRvQQ?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-11-05T18:04:58+00:00"
-      },
-      {
-       "title": "Why Microsoft Stock is Down Today",
-       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOXdXVjR3ejR5bVVIZ1lHMTd0N3NadWtHaWNtWE9nb0xMUWdpdHZYMEpoMW5HOVNibTcweVROcnNJMS10VmlVaUJSYzdXOFhlbVBtb1N1TGNoMEFJM2xyS2djMllUcTFqOWxzTVFkaUdZbl9rSjJlUTk2bFdVRDVqRllPc0RtNDhoSFYtZkhnQkZUdUU5WGRSM1ZQOA?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-11-05T17:59:13+00:00"
       }
      ]
     },
@@ -737,6 +731,18 @@
  "failed": [],
  "general_news": [
   {
+   "title": "Stock Market Today, Nov. 6: AMD Surges 11% on Record Quarterly Revenue and Stronger Growth Outlook",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSGNRQWt0a2psYzBKVk1LaGVQZXFTcHRXNWZKVWVacVB5eE1xcjFOeXZxSERaVWd6SmpkN0R4RmNJSmpjbk5Paml1WEJCbHFqRkVVc29HR1dYV0s1dENnQzdBYUJmU1dEYTZpZm11cC05Mi04Y05KdFlzdnZXLVd5YnJKUnRXaGJLNTJCcGJTbVhQZWhWM1JwUDg5amhGZ1JTY2tIYzU3OGhYRnF6eHExdEZXREJVSFZzRldZWG5SNXR4UkdJcEN5Y0F4UWEzSjM1MXFrN3NyZ0NMbW5nNzl0VTQ0WG9lQWRGQ0Z3?oc=5",
+   "source": "The Motley Fool",
+   "date": "2026-11-06T22:30:55+00:00"
+  },
+  {
+   "title": "FormFactor Stock Gains Focus After Earnings Beat And Strong Q4 Outlook",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOODg4MUNWcXMwRVREaEJVWjMxMllsVGR2YVVNTFBGOThVbEQ0dkN2Z0laSFg5T1VNcjI2dlVNWVRWTDR1Y29naDBrUVlmNjgzSWtfblhRT3pjLXpEV2k0UURtc2lhTnNKZ3BWSFY3NlN0N3d3OXd6VFpZRlpyS0hyanpZMjN2M1hOSm5KUHd2NEtiZnVGX3p3V0RyUUlWcW1wNk41Qw?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-06T22:12:54+00:00"
+  },
+  {
    "title": "US labor market regains ground as job growth surges, unemployment rate falls to 4.1%",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPakNLaDVCMElHQkc5cjV5SmVJcFNPdVpMbnZHRmVFMkoxR3hhbERYTnBZcUlmQVZBanhMeVhEZHpsN3JxM0xrUHNsYVZPWW1EdXBWam1pNk5lSEZVNHkwcUV1VG9xbmVYek80a3JXelRIcW9fQjQ3TUljTUdpZkhYWUJaZHhxNTUybWQwME81bUtPTmJ4UUg4ZjVrZjVlLUx2azFkWjhmeThDWkp2MHJwdTVR?oc=5",
    "source": "Reuters",
@@ -767,18 +773,6 @@
    "date": "2026-11-06T17:04:37+00:00"
   },
   {
-   "title": "MRNA Q3 Earnings Beat on COVID Sales, Raises '26 Outlook, Stock Rises",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTFc3SXVZTEdSWXVJWUV4eGhIMlAwQkphM0c5QWR0QkgyeGpTdXUtdkc2Wm1sU3Fvc2ppMVpyNnpkUnpoRWJXaVlidlRxTkRRenowQjBubVhyc0VTVmV4STdYZUpFUlJodk9XZm1KZWVadlNjSDR5YngzVDVES2JOazdmVXg0YVVXNEszS2xDMmxJZw?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-06T17:00:00+00:00"
-  },
-  {
-   "title": "Extreme Networks jumps 15% on report company is exploring a sale",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc04tQ1Vxc0pMaXhtMkFBN1VqdUtYVzlwUXE0N2FnTlFwTjNNX0s0a0xkbWlDNTYxNmJ1QmlyRTdLTVhERFU4TnJZQ1BrOV93SkQ1eFlzaDdscUdZNnRHTDE1YlRpenVhU2RlaklmT0hISUFiLWxBUkdkMTBXMHNHcUpCdVJtQUFfeUhfSkJhNldIM1ppRHp5TThhX3Z1Zw?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-06T15:54:07+00:00"
-  },
-  {
    "title": "If a Stock Market Crash Is Coming, Warren Buffett Says This Is the Wisest Move You Can Make",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOS09mUGRzT2FGdy1xdnpFMEREemFaNE5mZk9RRVZXQlZyVEQtYkJHN18wQUU3QkppYUp2cTBnYndyd3BFamxQQ3RERVU4cHdwQjlqX3l3R2R0SkwyT3A3QWhORld3c28zNXgtNWxVT1VhdENmWmwzLTMxdy1yTU9OS0E0eHVjNXpNdUJ6dkp5ZDloZThOM19sRU9tYWg0Zw?oc=5",
    "source": "Yahoo Finance",
@@ -797,10 +791,10 @@
    "date": "2026-11-05T12:11:05+00:00"
   },
   {
-   "title": "Subsea 7 - CADE Approves the Combination of Subsea7 and Saipem",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeVlzbnA2X3NkS3NfZkRLM2c4ay1WRGw5YTZsWlg1MU5ZMkNOY21kZXhOV3FneHhYOWdjUXBqTWhHcUpWamY3NUF3Vk9DVFNPVk91cWdYczJwdmI1ZTlvZDV1dXloRTM5YlhXelhmRERONG03VGJCeFJQTmNsYWJyb0Y3eHBfdnFCYUUzWU12aENmT01laXBMUTd5M3ZMc09t?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-04T15:16:00+00:00"
+   "title": "Subsea7 - Sale of heavy transportation business",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQnJGSjlwU0QtMjEyYUFVWVBEb19zM1Q4cDIzMkN4ZFFRdGNDa29lZkpMa0hmc1pGYXdXYlAtN1BSZ3FsVE1fcHpiSTV1N3V1OXc1WE1YNVVSMzd6akViSGc2MmZxaFNBV0dLM3JoaVpHVWxZLWpMMWpzVk9YSldVY0NRV0JWVDZSWTdzUE9Ra190cm9Wd1E?oc=5",
+   "source": "Yahoo Finance UK",
+   "date": "2026-11-05T11:05:00+00:00"
   },
   {
    "title": "Oslo B\u00f8rs Seafood Index (OBSFX.OL) Seasonal returns chart",
