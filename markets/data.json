@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-07T18:37:09.415187+00:00",
+ "updated": "2026-11-07T19:24:35.344521+00:00",
  "usdnok": 9.453700065612793,
  "btc": {
-  "price": 75716.5390625,
+  "price": 75673.7890625,
   "prev": 75746.9296875,
-  "chg": -0.04012126316588205,
+  "chg": -0.09655919428251947,
   "currency": "USD",
   "asof": "2026-11-07T00:00:00+00:00"
  },
@@ -81,16 +81,16 @@
        "date": "2026-11-01T10:35:27+00:00"
       },
       {
+       "title": "Kongsberg Maritime Q3 2026 Earnings Call Is Live",
+       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU3FHamZYWXBFS28taGtycEFvSGloT2g3Wm02ZXAxQzVEc1QwMHQxOFIxdUhSNzdpVWtWSVl0bURwTkpyVHdxazNsS2k5eUFNX2NRWl83SUs0VHZkUndfeVdsSHk1eUVYdmxDUTI3cnNtNUFKa2thX3VkSTFaeDdnMXVCQUNHcjIxT0Q1VkRuTW4tNDRpUjY4TDllb2lVb2JFQU80RWtycEtTNE1Zb2tKMEljTGpyNEFa?oc=5",
+       "source": "TradingView",
+       "date": "2026-10-30T07:13:24+00:00"
+      },
+      {
        "title": "Kongsberg Maritime hits record order backlog as newbuild demand surges",
        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdG9UOER4U2h6V2hBeGNYS0hneTB3ejlMV0kxek1BM1ROWW1xM3c4UWlpekF6T1pIbjZiWDFsbDZWZXRPZVBIc0VPRUktZVpWNWZzN1Bxc29iMjNKaHFWamdPRnpvZUJEQzVUQWNrcllMTGg3TE45cUtiSHppM3pLU0U2ZElLTm1peUtzeVpZMnJrWFZTYU1KX0hoMTAtUmpVUUdtS1BUOTZGRzRsV0doQW1jZHVtRm95SmVyam9PUlJaZw?oc=5",
        "source": "TradeWinds News",
        "date": "2026-10-30T06:49:22+00:00"
-      },
-      {
-       "title": "Kongsberg Maritime Q3 2026 Record-High Order Backlog",
-       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQb01id256WTlVVXlwSUg3SzFIcDlrQUZUeWVlaU1xTVNtT1dxNlQ2MjBGUUZrdjFPSWMyenNJcG1maXhuMTI1TDZRcll4VUh3UHlQaWV0TmhvbHBCaVVjcmhMbXRoTFdKQUhocV95SEtkY1ZicFJUTWRlVk1nbTZtTDRmM0g2NWhTS080N2MyakljZXVKa3Y2X0FLVHYwcjZNZWlqWmlBcWRFT2RLMlJkZVNzaU56YWNPUVBkN0I0dw?oc=5",
-       "source": "TradingView",
-       "date": "2026-10-30T06:05:20+00:00"
       }
      ]
     }
@@ -242,16 +242,16 @@
      },
      "news": [
       {
-       "title": "Hycroft Mining Holding Corp (R5A.HA) latest stock news and headlines \u2013 Yahoo Finance",
-       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BQ2tpNE9tZm5CYjZ1ZG1yN2RZcHdFcUJqd21oWlJSc2dGM0t6QnUzM3JWS0I3dEhXdXpHaUR4WGo3LUlxMW5pT19kdVozdUlUR0JXbjRIc1ppbGc?oc=5",
-       "source": "Yahoo Finance Singapore",
-       "date": "2026-11-06T06:28:47+00:00"
-      },
-      {
        "title": "Hycroft Mining Holding Corp (R5A.DU) Seasonal returns chart",
        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMd3I1dWdjczdyX1JNeHQ2YXVQcGxGNkwxek9MLW5OTWRDNjY0amQ2REo5b013c0RwUGFGUTZsVE10YVZrdkdVNHNKN1dHaG5NRXNNdzRPbXFWLVU1c0kyZFNTOGM?oc=5",
        "source": "Yahoo Finance UK",
        "date": "2026-11-04T05:43:14+00:00"
+      },
+      {
+       "title": "Hycroft Mining Holding (HYMC) Looks Pricey Following Wider Losses And Leadership Changes",
+       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYTl5WVByNjJUN3hRVi02U2VYb3RSTWNEZUlzT1I4TUZPTWxMd1h3RHFCUUU1ZklQRF9PR2FYZldmdk1pcHJ4ZVJ4c1RVUThwWXhFS1FaVFlVcEppbWhDVmJpZnVnYzFORkhiOFJRbS1BZUF1cE10dnhiVFJGdVhyTHp3Z3JmRWtKWkdMb2R6a0puYTBFVE4xc25hek9vMjA?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-29T09:16:43+00:00"
       }
      ]
     },
@@ -298,10 +298,10 @@
        "date": "2026-11-07T05:14:00+00:00"
       },
       {
-       "title": "2027 Will Bring Very Attractive Earnings For Coeur Mining (NYSE:CDE)",
-       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ3ZvaU9lWDk0S0x1WG8xbEdZOS1xeW9pS0NSck5yTWswQm9vNUl3RENxSmQ3NWN6VnJEc1J1VTRpc0dXZkxxa2lqbFRRYUl5R09tUUlUWUxIeWZCd1lSTVhmUG4zdXNrYV9xMFVzQXpkNVBCUFZFZGg4ZmVTUWNqc28xZEFBMDRFM0FJRGRubE44b3JQNzNKdHVxQzlmejA?oc=5",
+       "title": "Coeur Mining: Near-Term Setbacks Create A More Compelling Opportunity",
+       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQd3B3YmVMUmE4Tk9yZzNSYzUweUJKYWJsVjlZWWdJN2tULXlPa3J5R1l0cDdjSUdDQ19SV2dMSS1yUHdoQmxuMVlrYjB6bzREMS1HdE1odkhFUUs5OXM3T3o4R0tJaFM1VDRyMTNfTkozTXZVMWpWY0RMSzdDMlFRMnFjalp3TGlFaFkzbGxfekMzUjNiUHlDU1AzOEpmTEgtdXdnVC1uSEMxeEM4dXc?oc=5",
        "source": "Seeking Alpha",
-       "date": "2026-11-06T15:11:47+00:00"
+       "date": "2026-11-07T02:37:31+00:00"
       }
      ]
     },
@@ -342,16 +342,16 @@
      },
      "news": [
       {
-       "title": "Defiance Silver Corp. (D4E.F) Seasonal returns chart",
-       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE93V3VidFIxTGZ3WjZtbUdGUGRXMHpqbE5FR2Ffa0F2YTV4OE45YnByN05rbkVmRGx4MURZVXJsNkJ5MjBuOHA0aFZCam95cFRSNlZpbnhJVHY1cHZtU05xQmstRQ?oc=5",
-       "source": "Yahoo Finance UK",
-       "date": "2026-10-30T06:55:59+00:00"
+       "title": "Defiance Silver Corp. (DNCVF) Seasonal returns chart - Yahoo Finance",
+       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xU3FpQWJaZ3ZoX2hpVEZjSC01bWtEOTZhU2hpR25YVmdmcGk3cDI2enppQmt2eHoyZnMtYUk3bWFFMUV6aUtTV2FtemtaRjBxcWZDOEQ2ZVBXX2lKWTNQbUNfZw?oc=5",
+       "source": "Yahoo Finance Singapore",
+       "date": "2026-11-03T23:58:45+00:00"
       },
       {
-       "title": "Defiance Silver Corp. Reports Earnings Results for the Full Year Ended June 30, 2026",
-       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQc180cE45amExU3k2S2RSejVoMGlEM3A0OHNXcjJ6Z2tUbHZtc2FMenNhaGI0QWwyWkNnLU8zbGNWcXhGVFJaMFdjVVRfOEtleUNQUTd3UnVVbmI1RC1XM3h5SHpmMHdCNF9mNjI1bHhGZFdzME5IZkZsTVVVbGYyQmMyY2VZbG1HeEZMbl9Rd2RvZWtpajQ2eUs1SlVPTGJYV1dBRC1RSm0yYWdiQVpjN0xEUmswcG1xNnNJZ0lQckt3TE9lWFB1b3N2eV9EQXlZ?oc=5",
-       "source": "www.marketscreener.com",
-       "date": "2026-10-28T21:08:00+00:00"
+       "title": "Defiance Silver raises C$3.27M in private placement",
+       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVThvVEk3MTRTQUk4eW0xVlhJdEl3aGtpUnRraWhHb0pnNGRKXzlZS0FEZUYzbU9zWW11Ujg1a1FFaG9DU2dhcEJVZS1hV0xYUWFNNk5TMWpGckFzRFJuYVpiZmlVQ0F4Z2lBNkpINExnb2dqWW52ZGxQeFQ1bUVEdTk4WWRmRUhWYU9oUGJ3?oc=5",
+       "source": "Dealroom",
+       "date": "2026-08-19T05:04:28+00:00"
       }
      ]
     },
@@ -376,7 +376,7 @@
        "title": "GR Silver Mining Welcomes Shareholder Support at AGM",
        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSWJPMTlBNjZOb2wzMXVDSklIRUpPX29nY3g4emh3cm1zX0ZwRkp0QUNXcmFDOE1taUpiTjhkb2JJM095bEtiUU9wMHdEcFRIZThUbDVrQ2kzcVZFMG1wNy1taVVrd0dPQWNxMFFIam50UTFXZ2FleVVnYkdXV2pSTHFJVE10LWxIckREc0pURFhOcTl1NkpLZGhmOC0xbG5SUzB3Zw?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-10-26T20:17:00+00:00"
+       "date": "2026-10-26T07:00:00+00:00"
       }
      ]
     },
