@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-07T11:17:18.631309+00:00",
+ "updated": "2026-11-07T11:58:08.337744+00:00",
  "usdnok": 9.453700065612793,
  "btc": {
-  "price": 75863.3828125,
+  "price": 75882.5,
   "prev": 75746.9296875,
-  "chg": 0.15373972975596395,
+  "chg": 0.1789779639376876,
   "currency": "USD",
   "asof": "2026-11-07T00:00:00+00:00"
  },
@@ -112,28 +112,28 @@
      },
      "news": [
       {
+       "title": "VanEck Gold Miners UCITS ETF (GDGB.L) Seasonal returns chart",
+       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tWlpPaHgtMGwyamx4d0huWHFTdTJxdWxDaGhHNnhERi1FSUhtdUhxRHpuOTRtZHBGNzREbjhFRC1iN1dIY3hYMGVDamtWUmlxTEhvR1ptQnlCMTFHSVUyRkVNSVo?oc=5",
+       "source": "Yahoo Finance UK",
+       "date": "2026-11-06T16:35:24+00:00"
+      },
+      {
        "title": "Form 4 VanEck Gold Miners ETF For: 4 November By Investing.com",
        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORU1YalAzcDg0OVVjcDBOc0g2ajFFbmRPM2VLd1hfMlAydV9Rcm5IMkM0bDJvTFQ5dDZoOTFIWWFnbklqU091MFd5RGxCel96dE9ieEp3NGFGUXE5Rzk0Wkx4S0hvYlNHdEVsZDlmRS1fWGtGZEpwVDNzN29VR2VkWmpnel9pZjJaQ1pxZDN6N1pYWlh5eUpxVXVQQlQyck9lRHJuYU94RXQ?oc=5",
        "source": "Investing.com UK",
        "date": "2026-11-04T22:02:00+00:00"
       },
       {
-       "title": "VanEck Gold Miners ETF (GDXB39.SA) Seasonal returns chart",
-       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE05VTI5OFB3MmJHWllySG15UFFPbFNvOW1sLWVWQnY2RXlVVlZ4NVlUUzk5SjQzWHhlVGsySnc3SXRnWXlxZFJPNnQ5WHR2SGQ5X3dwTzB3VFJBMjVVRllGZlZFZ2VWaWoz?oc=5",
-       "source": "Yahoo Finance UK",
-       "date": "2026-11-04T13:43:52+00:00"
-      },
-      {
-       "title": "VanEck Gold Miners ETF (Derivatives) Price (GDX/USD) Today | Live Price, Market Cap & Chart",
-       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96VDJMTzhRV09OZmxpc29uUjFZMEJ5TTJSaEpjRjJLQUpDUWJKMFdVdVd2N3NxM3phckhiWHNqdVhUUGZXRHh4ZVlYdE1YMmRCYzdBbzhOV0lTSjBqTFZQU0k3eEdGZ0xWNkV3WldjRkQwc1JW?oc=5",
-       "source": "Binance",
-       "date": "2026-11-04T10:20:00+00:00"
-      },
-      {
        "title": "VanEck Gold Miners ETF (GDX) options chain",
        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNkdIR19pWWkwR01KYlpMQ21oZEdJdmF4Z3Y3ZEdkNHVrNXBpZ3hadkxSYUNPWU5BbG9HMWI3NWllYTlEQ3VnaXU4VXZfeG9SZWNNU2s0Y2k4TVNydHd6QU1NSzJTRDJNQmw3SkdiM0RfTzdwQmtCTXJXNG0teXUxLVZxQQ?oc=5",
        "source": "Yahoo Finance Singapore",
        "date": "2026-11-04T07:45:12+00:00"
+      },
+      {
+       "title": "VanEck Gold Miners ETF R (VEF5.HM) Seasonal returns chart",
+       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16Z25BX1NDRlZjTkdwRy1PeGlJN09nYXdzcU1NX0ViSlE5eGFrUXAtVHlaemFCRWI0eHBVOGNISHRpcWMzV1ZQUTFZQzZUNEtDdGZQMWlsT1FMS2lsTGQxbno5cms0Zw?oc=5",
+       "source": "Yahoo Finance UK",
+       "date": "2026-11-04T02:40:49+00:00"
       }
      ]
     },
@@ -348,10 +348,10 @@
        "date": "2026-10-30T06:55:59+00:00"
       },
       {
-       "title": "Defiance Silver Corp. Reports Earnings Results for the Full Year Ended June 30, 2026",
-       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQc180cE45amExU3k2S2RSejVoMGlEM3A0OHNXcjJ6Z2tUbHZtc2FMenNhaGI0QWwyWkNnLU8zbGNWcXhGVFJaMFdjVVRfOEtleUNQUTd3UnVVbmI1RC1XM3h5SHpmMHdCNF9mNjI1bHhGZFdzME5IZkZsTVVVbGYyQmMyY2VZbG1HeEZMbl9Rd2RvZWtpajQ2eUs1SlVPTGJYV1dBRC1RSm0yYWdiQVpjN0xEUmswcG1xNnNJZ0lQckt3TE9lWFB1b3N2eV9EQXlZ?oc=5",
-       "source": "www.marketscreener.com",
-       "date": "2026-10-28T21:08:00+00:00"
+       "title": "Defiance Silver raises C$3.27M in private placement",
+       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVThvVEk3MTRTQUk4eW0xVlhJdEl3aGtpUnRraWhHb0pnNGRKXzlZS0FEZUYzbU9zWW11Ujg1a1FFaG9DU2dhcEJVZS1hV0xYUWFNNk5TMWpGckFzRFJuYVpiZmlVQ0F4Z2lBNkpINExnb2dqWW52ZGxQeFQ1bUVEdTk4WWRmRUhWYU9oUGJ3?oc=5",
+       "source": "Dealroom",
+       "date": "2026-08-19T05:04:28+00:00"
       }
      ]
     },
@@ -367,10 +367,10 @@
      },
      "news": [
       {
-       "title": "Gr Silver Mining Ltd (GPE.HA) valuation measures and financial statistics",
-       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1QMGFOQTlUaUgtYWZVdmg5SU1hQUxnbHBOZm9lZm1Wd1RhQWthdzZxWkxIYkdxX3R4Q253SDFNS241XzVKakZDYzlRak9fSjk2MHZlQnhJVnlhMG9NMGl3WFJIeWxJczR0?oc=5",
+       "title": "Gr Silver Mining Ltd (GPE.HA) stock major holders",
+       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45OHkzV3c4RXIzaEtkdVBNT0ZsQzJkck5pbGNHYTg3YXdDTzdFMUlsRnlLTS1IYjlKOVhvZlFXVWZ2TS1XRFFXY1pmdXZEemEwTGNLand0cHFHVjRyWjhJ?oc=5",
        "source": "Yahoo Finance UK",
-       "date": "2026-10-30T02:33:19+00:00"
+       "date": "2026-10-30T02:31:36+00:00"
       },
       {
        "title": "GR Silver Mining Welcomes Shareholder Support at AGM",
@@ -718,10 +718,10 @@
        "date": "2026-11-06T21:41:00+00:00"
       },
       {
-       "title": "SpaceX and Tesla Shares Drop After Historic Nasdaq Rout: What Investors Should Know",
-       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUnpvZ0ljUHRNSjB4MVZmWGJ5TnY0Z3V4V29BXzBHODd3U0VXZkJzU21oZy00ZHM2cWotWEg2QWFRX2tpT0Rta2lrOS11TDRFUGVvVW03ckR4OHFMdFViX3dDRnB5bndVYThSZkV5Wm1qUld5TV9CdGlBbGZQZjFKMTZvWDVOTUlFekx2LVhabG9wMW8?oc=5",
-       "source": "Barron's",
-       "date": "2026-11-06T15:08:00+00:00"
+       "title": "Why You Shouldn\u2019t Buy the Dip in Tesla Stock",
+       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPck8yUm43eG1PVHRTTnloZEJQUWxGZllwQ3VoVmRtVDBBengtSzNXVnVWUkhzWmt5bk9BUC1Sb01PcF9OdzJOWkJKLVhReFVFR1lYN1Q4NWtweXdYUWl0WHNtdEtabHhuT3JCMDBuMUNsWjAwWGxYMVRuZnJwYWM5Q21hRk1GRTAyZDUwWDU4MA?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-11-06T15:42:04+00:00"
       }
      ]
     }
