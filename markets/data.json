@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-08T04:32:19.789426+00:00",
+ "updated": "2026-11-08T05:28:49.670783+00:00",
  "usdnok": 9.453700065612793,
  "btc": {
-  "price": 75835.1796875,
+  "price": 75763.7734375,
   "prev": 75746.9296875,
-  "chg": 0.11650637242206496,
+  "chg": 0.022236874906345072,
   "currency": "USD",
   "asof": "2026-11-08T00:00:00+00:00"
  },
  "silver": {
-  "price": 51.803001403808594,
+  "price": 51.94200134277344,
   "prev": 52.233001708984375,
-  "chg": -0.8232349110846138,
+  "chg": -0.5571197455437105,
   "currency": "USD",
   "asof": "2026-11-06T00:00:00-05:00"
  },
@@ -81,16 +81,16 @@
        "date": "2026-11-01T10:35:27+00:00"
       },
       {
+       "title": "Kongsberg Maritime ASA Reports Earnings Results for the Third Quarter and Nine Months Ended September 30, 2026",
+       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQTmh0SUxqY044N09mY1otWFdieGo0a0NkaEE5NEtteFZLN2N3NFl0M3BfUUZSM0c0eXFsWGxDSHpvaXN3aElGc3Rud1lsY1dDY0VsYWV6NzlDTUVyZ3o5U0pOdUtTNVcwS2FYTTNqWllnZEhqanFqYlJPZHhiTWREUTRtUjM1MjFXc3pWTlFLcEtodHI3eHBHOEZERWRmcXd2ZnMzR2ZISU16bW1jMWE5bmkxLXgtZFBXeU9WWGFDSm11NWtiYndCMVdVR050V2F2c3Z4NGtGSU1vdFNnVi1jblNwR2hWcXFZ?oc=5",
+       "source": "www.marketscreener.com",
+       "date": "2026-10-30T09:05:31+00:00"
+      },
+      {
        "title": "Kongsberg Maritime Q3 2026 Earnings Call Is Live",
        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU3FHamZYWXBFS28taGtycEFvSGloT2g3Wm02ZXAxQzVEc1QwMHQxOFIxdUhSNzdpVWtWSVl0bURwTkpyVHdxazNsS2k5eUFNX2NRWl83SUs0VHZkUndfeVdsSHk1eUVYdmxDUTI3cnNtNUFKa2thX3VkSTFaeDdnMXVCQUNHcjIxT0Q1VkRuTW4tNDRpUjY4TDllb2lVb2JFQU80RWtycEtTNE1Zb2tKMEljTGpyNEFa?oc=5",
        "source": "TradingView",
        "date": "2026-10-30T07:13:24+00:00"
-      },
-      {
-       "title": "Kongsberg Maritime hits record order backlog as newbuild demand surges",
-       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdG9UOER4U2h6V2hBeGNYS0hneTB3ejlMV0kxek1BM1ROWW1xM3c4UWlpekF6T1pIbjZiWDFsbDZWZXRPZVBIc0VPRUktZVpWNWZzN1Bxc29iMjNKaHFWamdPRnpvZUJEQzVUQWNrcllMTGg3TE45cUtiSHppM3pLU0U2ZElLTm1peUtzeVpZMnJrWFZTYU1KX0hoMTAtUmpVUUdtS1BUOTZGRzRsV0doQW1jZHVtRm95SmVyam9PUlJaZw?oc=5",
-       "source": "TradeWinds News",
-       "date": "2026-10-30T06:49:22+00:00"
       }
      ]
     }
@@ -118,12 +118,6 @@
        "date": "2026-11-04T22:02:00+00:00"
       },
       {
-       "title": "VanEck Gold Miners ETF (GDXB39.SA) Seasonal returns chart",
-       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE05VTI5OFB3MmJHWllySG15UFFPbFNvOW1sLWVWQnY2RXlVVlZ4NVlUUzk5SjQzWHhlVGsySnc3SXRnWXlxZFJPNnQ5WHR2SGQ5X3dwTzB3VFJBMjVVRllGZlZFZ2VWaWoz?oc=5",
-       "source": "Yahoo Finance UK",
-       "date": "2026-11-04T13:43:52+00:00"
-      },
-      {
        "title": "VanEck Gold Miners ETF (Derivatives) Price (GDX/USD) Today | Live Price, Market Cap & Chart",
        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96VDJMTzhRV09OZmxpc29uUjFZMEJ5TTJSaEpjRjJLQUpDUWJKMFdVdVd2N3NxM3phckhiWHNqdVhUUGZXRHh4ZVlYdE1YMmRCYzdBbzhOV0lTSjBqTFZQU0k3eEdGZ0xWNkV3WldjRkQwc1JW?oc=5",
        "source": "Binance",
@@ -134,6 +128,12 @@
        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNkdIR19pWWkwR01KYlpMQ21oZEdJdmF4Z3Y3ZEdkNHVrNXBpZ3hadkxSYUNPWU5BbG9HMWI3NWllYTlEQ3VnaXU4VXZfeG9SZWNNU2s0Y2k4TVNydHd6QU1NSzJTRDJNQmw3SkdiM0RfTzdwQmtCTXJXNG0teXUxLVZxQQ?oc=5",
        "source": "Yahoo Finance Singapore",
        "date": "2026-11-04T07:45:12+00:00"
+      },
+      {
+       "title": "VanEck Gold Miners ETF R (VEF5.HM) Seasonal returns chart",
+       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16Z25BX1NDRlZjTkdwRy1PeGlJN09nYXdzcU1NX0ViSlE5eGFrUXAtVHlaemFCRWI0eHBVOGNISHRpcWMzV1ZQUTFZQzZUNEtDdGZQMWlsT1FMS2lsTGQxbno5cms0Zw?oc=5",
+       "source": "Yahoo Finance UK",
+       "date": "2026-11-04T02:40:49+00:00"
       }
      ]
     },
@@ -267,16 +267,16 @@
      },
      "news": [
       {
+       "title": "Avino Silver & Gold (TSX:ASM) Stock Rises 11.39% as Silver Rebounds and Strong Revenue Growth Offsets a Guidance Trim",
+       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOanJzSzgtSldPZGtMbE5qWWphTnJ5OFRibGxBNnFwZ3BPbmxSbGlHaThOUld4eFNNNmJ5ZW9KN2tUSmdlZGNUaGVqUE1fX1ZMRzVDTnMyRl9DREpORjE5RjQ1eFc5ZWplVkl1ZHdTZTRFUXppemlUNXBMSlJ5XzkxQUVYT0piZjN1TVNPTzR5QkloRFRMUWp3UTUwWllLaTVzT0w3RVIteE5sZFBFVWJJdXZlQ2lTQnhielBZUDZmbks5UzBQa2N2Q1RWOHQ1eDBrcXExQ19rSmM?oc=5",
+       "source": "kalkine.ca",
+       "date": "2026-11-05T14:02:00+00:00"
+      },
+      {
        "title": "Avino Silver & Gold Mines Ltd. Q3 2026 Earnings Call Summary",
        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVGRxVWhQc293ZThfSjA0SjVKRlBFZDhXSmVfWUdXcWV0ZEprWVNhZm9mOF9CY0poM20yMGNKWnhVazZJeC1QQjNzVDY3Z2psVW1RQlJ5MzAxV0ZuZ0xlLWpHUXp4WDJNVGJuZUREMzEzTnc1VmgzRXduMGhiMmZqMjV1LXE5OTRzOVRRczNaWm1mS3J5TW9Z?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-11-05T13:30:00+00:00"
-      },
-      {
-       "title": "Avino Silver Gold earnings missed by $0.07, revenue fell short of estimates",
-       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVkVRMnA0MzJaNVBCT25GUnVuV3BGT0JXRTZkZTRhZVJVcTBFSmpPWVRaNWtMZkpNeUpJM19GdzY2Vl9OSk9fNFl2UDA4WlBLUVNuMVZnMzJzeFRldFdQZU4yVXRmcEdIUmdQaU1Cdk1wLWVFTHR0d0h4dkFycU84eXJNZ3BXcEc5emNIakxNTUdCQkxkSzNBdVc3TDd2M19ibWtPajIzZzE4VHZTa3pZcUVhRDJsYUEzVFBCMQ?oc=5",
-       "source": "Investing.com",
-       "date": "2026-11-05T04:49:52+00:00"
       }
      ]
     },
@@ -662,16 +662,16 @@
      },
      "news": [
       {
+       "title": "Amazon\u2019s AI Spending is Pressuring Free Cash Flow. Is the Stock Still a Buy?",
+       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZUs5b0ZPVmxpN0dvaXhzUXFBejRUemtueFFtME1pampjX3AwZV9ONGo2YlJ6ZDUyQk9WOE9Mbks3Q3cxRHNkaEo2WWlkUmtsNnlPc29mc1pPcTk5dWZJRjB4cDFmd0oxeHNyTG9OMXNDVWhkQXpEMGVXc0hFc0RaeHF2RXk5T05TWW9pZzZVaTVQNkgza2tBRFZXaG81MkJh?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-11-07T09:30:02+00:00"
+      },
+      {
        "title": "Amazon's CEO Andy Jassy Just Announced Huge News for Amazon Investors",
        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMEstaWkyaXZfaEhtQ0V3Q3dVLTZRN3VfZlUyZURrNjhRbU80Zi1EeDFSUXBaQTltWXZwbEQzM1BTV0Z1SmtJT2k5SGZOOVJTM0s1LU8tbnRsRzdScEd6TnozVDAwLTFRUVU4UUZQcmlVMXRscnFWQ09Ha1NxTlN2bzlOWVVFTkNKVWRRQTlQLWNHRGNKY0k4?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-11-06T20:20:00+00:00"
-      },
-      {
-       "title": "Amazon Just Delivered a Record-Breaking Quarter. But There\u2019s One Number Investors Shouldn\u2019t Ignore.",
-       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNczdhN3BoeFotaWVBNEU5T2E0OFNCa0RrdkV4bTlGNURIeTFCMDFHRGhVcDNQeER3Um14aGpTQ2RQdy1lR2tsTG9WT09nQTUtVHJSUmxmRklsSzByYXMxWUhVWVhqQ2luVldTblp0cXVWdF9nZFNQTjVXdzFwUWNUY1VvZmlEVDVzaEkxdFU0X1oxTExOM1BHUG84bnF4RFhhb1ZsXw?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-11-06T16:33:04+00:00"
       }
      ]
     },
@@ -718,10 +718,10 @@
        "date": "2026-11-06T21:41:00+00:00"
       },
       {
-       "title": "Why You Shouldn\u2019t Buy the Dip in Tesla Stock",
-       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPck8yUm43eG1PVHRTTnloZEJQUWxGZllwQ3VoVmRtVDBBengtSzNXVnVWUkhzWmt5bk9BUC1Sb01PcF9OdzJOWkJKLVhReFVFR1lYN1Q4NWtweXdYUWl0WHNtdEtabHhuT3JCMDBuMUNsWjAwWGxYMVRuZnJwYWM5Q21hRk1GRTAyZDUwWDU4MA?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-11-06T15:42:04+00:00"
+       "title": "How much TSLA stock does Tesla CEO Elon Musk actually own?",
+       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRHNKOXd2MHp1RWEwUFZuTkJnN1Flc2pQVDdRMU1QSUJyRVJjcFNLQU9pa3lvSXZxdklCQ24zUzNDNDBJRi1GZ0tfRkhfU21UNkVEM0N3QkZ5d29haUlHMzNrWXd4Vkg1Vy02MzZ5UmJ5eWxoVUloT2t2S1N6T0lnUw?oc=5",
+       "source": "Yahoo Finance Singapore",
+       "date": "2026-11-06T15:48:00+00:00"
       }
      ]
     }
@@ -737,6 +737,12 @@
    "date": "2026-11-07T10:12:16+00:00"
   },
   {
+   "title": "Mobileye Stock In Focus After Revenue Outlook Lifted And Losses Narrowed",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOXE0ZzVVWUdyMzhYQWF5RlZxMVFTNDFjcTdFbENZRmw5Q0F6cG5pMlZ6cVlEMnY3MXRybnROQzVzSHpnQkUxU3dtVHE0YWZpVWZJMDkwclNmRnB2dXNETngwVEMyU1hFaExUZnBWYUlqbkNxZ3kxb3BQMjNwMzU4dzZRcFh5bTd0QjNQVkpFTWpwN3dnaXRmQ1V4SlJ6Q1owNVlV?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-07T08:14:08+00:00"
+  },
+  {
    "title": "COMMENTARY: US stocks always rise after midterms. Is this time different?",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOUUxZDUzd0xuR1o2YW11a0Nqcy0yZUtiMzlNU1VsRWIxMDVubDNLZHh6MWUwT1NDYnVwajFLdVMxdEs4RGlRdmlGR29DbjQ1MGJ3LURkN3BIUFZvNV9UVVI0OThfYWUyMFVqdkRNUTBXQkVpeWNqNGdza0hIWFZrTWVYZTNUS2o4VmJhMkVwXzlkWEUxNE03OWZIdEdpTzl2d0hReXpXbGM4Mk9qSHZJNnBXejU4Y0Q2d3IwbUVmMTJ5bGs2YURn?oc=5",
    "source": "Reuters",
@@ -747,12 +753,6 @@
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZjBKVy1TeU1tU1RNWEQ3YXZGRmxEaVJMSWFjVEtOX0hNYkpVbkxwcXJkWGNDeFFzNENKdWJFWXVfdVBaVUpVU3pLaERCTVBVS015S3dsRUhTczBRYjdtWWMtbl90a3lYaV9TcjIzRFozVXd3eHE0cHdnUWpFY2tZbUhhZzBnZEszU2loeXJiby14M1E?oc=5",
    "source": "Yahoo Finance",
    "date": "2026-11-06T22:25:02+00:00"
-  },
-  {
-   "title": "FormFactor Stock Gains Focus After Earnings Beat And Strong Q4 Outlook",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOODg4MUNWcXMwRVREaEJVWjMxMllsVGR2YVVNTFBGOThVbEQ0dkN2Z0laSFg5T1VNcjI2dlVNWVRWTDR1Y29naDBrUVlmNjgzSWtfblhRT3pjLXpEV2k0UURtc2lhTnNKZ3BWSFY3NlN0N3d3OXd6VFpZRlpyS0hyanpZMjN2M1hOSm5KUHd2NEtiZnVGX3p3V0RyUUlWcW1wNk41Qw?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-06T22:12:54+00:00"
   },
   {
    "title": "US labor market regains ground as job growth surges, unemployment rate falls to 4.1%",
