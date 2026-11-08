@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-08T12:47:55.681599+00:00",
+ "updated": "2026-11-08T13:45:40.988446+00:00",
  "usdnok": 9.453700065612793,
  "btc": {
-  "price": 75838.7109375,
+  "price": 75819.6015625,
   "prev": 75747.578125,
-  "chg": 0.1203111898173237,
+  "chg": 0.09508348554874146,
   "currency": "USD",
   "asof": "2026-11-08T00:00:00+00:00"
  },
  "silver": {
-  "price": 51.94200134277344,
+  "price": 51.803001403808594,
   "prev": 52.233001708984375,
-  "chg": -0.5571197455437105,
+  "chg": -0.8232349110846138,
   "currency": "USD",
   "asof": "2026-11-06T00:00:00-05:00"
  },
@@ -81,16 +81,16 @@
        "date": "2026-11-01T10:35:27+00:00"
       },
       {
-       "title": "Kongsberg Maritime ASA Reports Earnings Results for the Third Quarter and Nine Months Ended September 30, 2026",
-       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQTmh0SUxqY044N09mY1otWFdieGo0a0NkaEE5NEtteFZLN2N3NFl0M3BfUUZSM0c0eXFsWGxDSHpvaXN3aElGc3Rud1lsY1dDY0VsYWV6NzlDTUVyZ3o5U0pOdUtTNVcwS2FYTTNqWllnZEhqanFqYlJPZHhiTWREUTRtUjM1MjFXc3pWTlFLcEtodHI3eHBHOEZERWRmcXd2ZnMzR2ZISU16bW1jMWE5bmkxLXgtZFBXeU9WWGFDSm11NWtiYndCMVdVR050V2F2c3Z4NGtGSU1vdFNnVi1jblNwR2hWcXFZ?oc=5",
-       "source": "www.marketscreener.com",
-       "date": "2026-10-30T09:05:31+00:00"
-      },
-      {
        "title": "Kongsberg Maritime Q3 2026 Earnings Call Is Live",
        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU3FHamZYWXBFS28taGtycEFvSGloT2g3Wm02ZXAxQzVEc1QwMHQxOFIxdUhSNzdpVWtWSVl0bURwTkpyVHdxazNsS2k5eUFNX2NRWl83SUs0VHZkUndfeVdsSHk1eUVYdmxDUTI3cnNtNUFKa2thX3VkSTFaeDdnMXVCQUNHcjIxT0Q1VkRuTW4tNDRpUjY4TDllb2lVb2JFQU80RWtycEtTNE1Zb2tKMEljTGpyNEFa?oc=5",
        "source": "TradingView",
        "date": "2026-10-30T07:13:24+00:00"
+      },
+      {
+       "title": "Kongsberg Maritime hits record order backlog as newbuild demand surges",
+       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdG9UOER4U2h6V2hBeGNYS0hneTB3ejlMV0kxek1BM1ROWW1xM3c4UWlpekF6T1pIbjZiWDFsbDZWZXRPZVBIc0VPRUktZVpWNWZzN1Bxc29iMjNKaHFWamdPRnpvZUJEQzVUQWNrcllMTGg3TE45cUtiSHppM3pLU0U2ZElLTm1peUtzeVpZMnJrWFZTYU1KX0hoMTAtUmpVUUdtS1BUOTZGRzRsV0doQW1jZHVtRm95SmVyam9PUlJaZw?oc=5",
+       "source": "TradeWinds News",
+       "date": "2026-10-30T06:49:22+00:00"
       }
      ]
     }
@@ -587,16 +587,16 @@
      },
      "news": [
       {
-       "title": "Microsoft Stocks Move Lower 0.80% as AI Rotation Swings Back to Chipmakers",
-       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQODRfRko3bDJ3UHhhSnVtLV9obkJNNEticml0dTlNZFhmeTAzS3lpZEN6c0dQek9xOVVXSFJvRWpNa1ltd0ZNdFpQcTV6T2VLd2ZWemZOdVhOdkF6d2lQR2lKM05ZZE1ZcFhwVGp0SnNOZHFDUHJyMGhtY2lvWEdjMkk1ZTZSZnVrbC0taTFJaDNvU2dYWHgtcmt3?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-11-06T19:09:41+00:00"
+       "title": "Microsoft Stock: Buy or Sell? (My Final Verdict)",
+       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORXRwRUNBRUI3SVNwTEg0bUo5TC1PRk5lYXhqNEpsMUlYSmllT2E2WDRnNHFCaGgxVHZMXy0tM1B6VkhoV3hzNTRwTlhnc0d6MTg2TUV2Y2ExY1pNZlk5SlVNTDRVMTRCMXZHbkRiVE1hTzhPUTRIbVN0VmZXb18yalVYZXZtUVJpazFqOWxlZFJtOGZQdEVnSndTSWZnUlB1TUpJQ19RRG9HNTRrMjItQzFYVGlkNFBsNFR6Y2NQb0s?oc=5",
+       "source": "The Globe and Mail",
+       "date": "2026-11-08T11:31:24+00:00"
       },
       {
-       "title": "Oracle falls 4% as Microsoft reportedly winds down AI cloud capacity deal",
-       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN25DZl82VVZGblFmVjNxOHdaeFk0WnNFLWV4RWNYSDA2WUtobWRFR2RCOXM2b0pDeW5LenJTLVpwQ09VMmNqTHJvNlA2TGxmNWpZNzV6RDdNU3FlZ3U2cjVodXRjejduQnhXZFRsR1pVTzZ4VHhuYVBXSDExZmEzUWt2ZXZ1cFdNNDlyUFhSMDZCR0owcVEzY2hOdk52RkZa?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-11-06T18:17:18+00:00"
+       "title": "Microsoft: AI Monetization Accelerates, Strong Buy Reaffirmed (NASDAQ:MSFT)",
+       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOai1ncFNYWG53d0VSTnBwVndZSU8yWVAzRkFrVDNucVM5Wk5pNmEyelhtMHNLeG1pcWkxbzFjNXNLRXdEY20wTThvLUpZTGkteXlKNTlxaF8wWmpEanlqMWdOQmRvNVQ4RUl0VHh2RWQwdEp6M2huVHcwb1BNbU5HTWVaWk0wRElwNjlERHRQR3otdnJIZGFkdTVxSExlUkUzcUE?oc=5",
+       "source": "Seeking Alpha",
+       "date": "2026-11-06T18:47:58+00:00"
       }
      ]
     },
@@ -637,16 +637,16 @@
      },
      "news": [
       {
+       "title": "Google's $900 Million SpaceX Bet Is Now Worth $69 Billion. It Added Millions More Shares",
+       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQY2lHNjR2UjRZbXNKLXN0VjNNV2NOcUdDWFRlREJmQWgwZnRTbUdiakZKeTBrTk9QRFJuVXgtOU5DWDllTk1HeHd3Mk9WWnRQRWF6RFNaWVI3Q2p4dzlfZTgwQXpzdnpYMmpyb1hucEMtVktnVTdwb2x2UV9EcGRMeDhMNFI0V0tfckltREhvWTAtdFdEV2FySG9VVQ?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-11-06T16:31:21+00:00"
+      },
+      {
        "title": "Google parent reveals $548 million bet on beaten-down chip stock",
        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNFdHMFhfc0p5eUg4UWVkYWEwZl96ZTFEeDI3VzJCSUd2ajV0QWhjRkVDVkU5RjJhYjF3cEM5VncwRnFPY0RQbVpsVFZfM2FjN3pCWnFFaE9QdlNUdWV2c0M3dkZRU2tqZFZqQmJaNWF3MmVvcldIbkU3bzVBbXlUQlJiVjF4RElzc2pqQlRtdld4ck9fdTBqYkNxdUZRejg?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-11-06T13:36:11+00:00"
-      },
-      {
-       "title": "This Could be a Major Problem for Alphabet Investors",
-       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX2lFUmhRZFRUTGhRRndBVHpMdkNLaVl0NXVheFpINHdjSFFwMFJ0Zm5YMm9wUEJ1dUV3ZXZWRHJCMm5jMVoxVkFKdFItR3BfWFBMbnRzN1FNUjlxcGlhcmFGLVpvR1JFUlJCUnd1Y1ExV0FaeXZ3dVdwbXJwam5XUC1CSnB3c0VEUkpXYnM2Vnhvci1IVmQwMFFYeUFBczdScmxXSw?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-11-05T23:03:02+00:00"
       }
      ]
     },
@@ -731,6 +731,12 @@
  "failed": [],
  "general_news": [
   {
+   "title": "Fidelity, Vanguard issue the same sobering 10-year outlook \u2014 and US retirees stand to suffer most. Protect your nest egg",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMkRTYjRSMFNsY1FhR0dpb1lqNTg3cnB2ZmU0MTdtRTZiUXBYX0FtNDgyVTZZVEF4bUJmbUVBYWJwczYwUDR0dWpXX3VldmpxUjFfNkNUMkNpcDAybF9oeUwtNTlMQ3pNNS1QNnk0LVVqTlU1ZTYwWmRDcXdWb0NlV0pLaE0wRk9MZFd1RkxDQWNFa1dXQW5MSkhORUQ1SUJPRlJGcg?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-08T12:15:00+00:00"
+  },
+  {
    "title": "How Investors Are Reacting To Shift4 Payments (FOUR) Lowered Profit Outlook",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcTNzRl9LZThiczRaTnE2VFJkR2JOX1NKTTZISjBzRThRbVViaVZiTkZldWRzQ3owdGFCX2gwb1o1d21Ud2d0Y3Zhb21vTTRLV0pPeWZCbG9HY0xRNDFpSTNiNE5oY1c3R3p6QmR0R3pIX25XV083ZmR6N3VWQTNfRXNUTE1sNGI0d21IUEJaNFZUZUVOMzhvUTM4Qk9QZnljUEh3YW5KUQ?oc=5",
    "source": "Yahoo Finance",
@@ -761,18 +767,6 @@
    "date": "2026-11-06T22:04:06+00:00"
   },
   {
-   "title": "Fed policymakers consider rate hike after strong jobs report",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMF93ekZ4N2wtdW4zX1llS2FoZWpNVlhMLTRNOGVJTUktZmpLQUNBSzY2bW16Mm9mb3lrZERqNFZ6WkRmYkhBTG00Z2k2NFYyNTVLcmVBSkV5eVJRU1RwZFc5blM4MkRmcUxYU2hadXRWbVh0VXpjektqM1BGS3ZlZlNMeW43VWxmeE5TQm13d0E3bTVwUnp5dzFFNA?oc=5",
-   "source": "Reuters",
-   "date": "2026-11-06T20:58:34+00:00"
-  },
-  {
-   "title": "Stock Market Outlook: Nvidia Earnings, Anthropic\u2019s IPO, and the Fed Rate Decision",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdVM5RWx2cGx4U3R0Z3pJMzRzQ1NWaURpbkhvRnRXbzhPU3dVcVRmbVBuT05DOUJ4aXduWGhWYXBzQVZSbVhpU3FHVkQxdnBIWEFLSHBzNGJuc2VWR0Exb3F4dkFSazFNM0ZvQkhrYm1jMzlQcDVGVGQ0RUlYWW5ZVUIzRng1Z3YxZFZmaC1TbWUzSVhoTUJfY3Nn?oc=5",
-   "source": "Barron's",
-   "date": "2026-11-06T19:57:00+00:00"
-  },
-  {
    "title": "If a Stock Market Crash Is Coming, Warren Buffett Says This Is the Wisest Move You Can Make",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOS09mUGRzT2FGdy1xdnpFMEREemFaNE5mZk9RRVZXQlZyVEQtYkJHN18wQUU3QkppYUp2cTBnYndyd3BFamxQQ3RERVU4cHdwQjlqX3l3R2R0SkwyT3A3QWhORld3c28zNXgtNWxVT1VhdENmWmwzLTMxdy1yTU9OS0E0eHVjNXpNdUJ6dkp5ZDloZThOM19sRU9tYWg0Zw?oc=5",
    "source": "Yahoo Finance",
@@ -783,6 +777,12 @@
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd2ZWVEJwc1E0cVFfaWpUeDJzMG56c1phbWJxRF9Ka2Rha1VwNVNSRHNra3JhVlBPYnFvbDJiMzJfOUk4eUtxLURZZC1OTUhaLUdnQ1ZOendjd0ZvVm9WazRJR3ZzT1dHaFhqRFB0cHRyb0JHcGgyVkV3cWN1RndEVlhSSmwtREZUZmxwWjA3QkF3QlhLdjhFZlRNNnNlV3plVDA2RFlTVXpCdFRleC1XTzhMZ0w3Q2JaQVlxUUwxOA?oc=5",
    "source": "Bloomberg.com",
    "date": "2026-11-06T14:31:53+00:00"
+  },
+  {
+   "title": "Five Signals That Preceded Past Recessions Are Back \u2014 and AI Is at the Center",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVlMtdmsxWmwxX2dUVEh0TlBsZUNyYUd1cV9yQ3JjRm56czRxQzA3d2FqQmpTZ2lGcXJKY0hYalhyY2l2UjBaeXRzeVVGNnpjQ3hZMVllRGhxOTF1QjVzUXpwN3dZTU5NLTk3eUZTTjBlN001YlBwRHF6TDhqTmdwWVpTUF8zSXRBdGFBdTBOT3NRYXJ6VWhnczI0OHJoeUJTVG92S1RjQ2xYRnBZU25abTRIeE0zemszMl93N3pYbUNRY2ZHNWZxZ1VZc1IwM1U?oc=5",
+   "source": "TradingView",
+   "date": "2026-11-05T13:45:04+00:00"
   },
   {
    "title": "Here's what the Democratic election rout could mean for the U.S. economy",
