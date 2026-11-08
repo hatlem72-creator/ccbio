@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-08T17:53:41.206961+00:00",
+ "updated": "2026-11-08T18:37:11.961702+00:00",
  "usdnok": 9.453700065612793,
  "btc": {
-  "price": 75659.546875,
+  "price": 75855.5,
   "prev": 75747.578125,
-  "chg": -0.11621658695770698,
+  "chg": 0.14247567733705058,
   "currency": "USD",
   "asof": "2026-11-08T00:00:00+00:00"
  },
@@ -69,12 +69,6 @@
      },
      "news": [
       {
-       "title": "Kongsberg Maritime ASA (Z4Q.F) stock price, news, quote and history",
-       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE16WDZZQ01IMGVMamFsV2Y0Vk1kSEtTVkVmM2tqbVp6TTBuclFqNFNVMXhMMUJJXy00X1dKTTRVcmFLS19yY1U3bGhRUlFhQjAwd09F?oc=5",
-       "source": "Yahoo Finance Singapore",
-       "date": "2026-11-06T14:25:02+00:00"
-      },
-      {
        "title": "Kongsberg Maritime Q3 2026 slides show record backlog amid profit miss",
        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRUJtOUd6eDJnNUhCTk5TN1RyRFc5em05cExBX1p0V2pvc25QUGY2ZjVNTFByQ25LTGFHZXh2b01uLUNCb1liczN0cVpBSFJhbV9STms5WnlxUUVTTHJCM2hzaXhKWnh2VENuSU8zNDBNX3l1YndscW42aDhhb1d0QzJQb3lOc2Rmczlxclp2bW1TZzJVa0NlX3FzbXZuOVU0eWJBMERrWW81dmprelRraDJ3V004ei1rMGhYQU1TZnJjZjlwV1E?oc=5",
        "source": "Investing.com",
@@ -87,10 +81,16 @@
        "date": "2026-11-01T10:35:27+00:00"
       },
       {
-       "title": "Kongsberg Maritime hits record order backlog as newbuild demand surges",
-       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdG9UOER4U2h6V2hBeGNYS0hneTB3ejlMV0kxek1BM1ROWW1xM3c4UWlpekF6T1pIbjZiWDFsbDZWZXRPZVBIc0VPRUktZVpWNWZzN1Bxc29iMjNKaHFWamdPRnpvZUJEQzVUQWNrcllMTGg3TE45cUtiSHppM3pLU0U2ZElLTm1peUtzeVpZMnJrWFZTYU1KX0hoMTAtUmpVUUdtS1BUOTZGRzRsV0doQW1jZHVtRm95SmVyam9PUlJaZw?oc=5",
-       "source": "TradeWinds News",
-       "date": "2026-10-30T06:49:22+00:00"
+       "title": "Kongsberg Maritime Q3 2026 Record-High Order Backlog",
+       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQb01id256WTlVVXlwSUg3SzFIcDlrQUZUeWVlaU1xTVNtT1dxNlQ2MjBGUUZrdjFPSWMyenNJcG1maXhuMTI1TDZRcll4VUh3UHlQaWV0TmhvbHBCaVVjcmhMbXRoTFdKQUhocV95SEtkY1ZicFJUTWRlVk1nbTZtTDRmM0g2NWhTS080N2MyakljZXVKa3Y2X0FLVHYwcjZNZWlqWmlBcWRFT2RLMlJkZVNzaU56YWNPUVBkN0I0dw?oc=5",
+       "source": "TradingView",
+       "date": "2026-10-30T06:05:20+00:00"
+      },
+      {
+       "title": "Kongsberg Maritime ASA (KMAR) Posts Record Backlog, Q3 EBITDA MNOK 1,041",
+       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOX2QwU05CaFlCbEVDREVUZkVoZnpobnFJWEhnaU9uVWVLN0tOcFVvblZHdkNrejYtVFJvejhXUGpTXzF1Q0UyX0xJVnVHY29RUmpObVlOZG1ZWDY3TzVlUFNHYVVYdVBncEJqSTk5d1JvYndkTmpNUlVZUU9WRFhQa013dHhnLXJaNTBsUFZzS2RtMHQxQnpBQzVzMjdNeWpSM1J4aHdsdDd6VVVxaXZWYmJDd1VlRkZFNEhGa2UzeFE2RHc2bnR6NGNIcw?oc=5",
+       "source": "TradingView",
+       "date": "2026-10-30T06:00:00+00:00"
       }
      ]
     }
@@ -217,16 +217,16 @@
      },
      "news": [
       {
-       "title": "Hecla Mining Co (HL) (Q3 2026) Earnings Call Highlights: Record Cash Flow, Fortress Balance ...",
-       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcU5McHV3UkpkYlhrSkJJX1AxUnNLbFM3N0FCSkpVaC1HNkpubUJubko4ODZEOEpnY1Z4Vlh6R0FETFZkaE1PM0xKVnNYWnIxY0prbG9qaXBtXzNEY0VZYVpyc1dscUpSOFZBbnZVNjM3OXRMSlVCUVlqVnprcjhSNDMxMlJIblRncTBrMDN3dnJGQUtHd3JGLU5MZVFKUnZBeWhr?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-11-07T07:26:00+00:00"
-      },
-      {
        "title": "Hecla Mining Company Q3 2026 Earnings Call Summary",
        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSVpmY3ZNU3dWN2Y1MG53c3Bqb1FEN0pTd21FUEsybExtcnl3U09kSDdWVUJDT1ZrSVgwdjAyMHNhT1hpQnhveWh2M04xU3VQMmk4Z2FuaUcxaG5rMDFCLTVsS0lhUUtCR3I3NTVmWm1LWjRrQVpMNV8tT3JqRnNiZmY0OUs4OEh1WXo0R1g3YXZCWUdpRG85RE9DVTlpY2M?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-11-05T02:10:00+00:00"
+      },
+      {
+       "title": "Hecla Mining Company (HL) Stock Forecasts",
+       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdDdaMmIzZHhBWVpiSFhYY3BxRVFaU2JFODk4QkZrRTZWcFV1YWN2RXUwR1NFdk02dklvZG5QdmlZeGwzWjBwUW1qMU1GZThOblNBVHd4YWVFWmV0a2dSc1dXdVhEME5RNTduREp6a0JHdGRySUl2ZjEzVXhxNG56eGtLcF9RUFVyV1MySU9Tbw?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-11-04T23:32:46+00:00"
       }
      ]
     },
@@ -323,10 +323,10 @@
        "date": "2026-11-06T05:18:00+00:00"
       },
       {
-       "title": "First Majestic Silver Corp. (AG) Stock Price, News, Quote & History",
-       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5TWDU4d1ZQRzZFVE1taWFoX2NpSk1aZG5yWmdNdlJ2Z2xiM3RfRkIzWm9HQ1FLeURNTTd0UnU1U0QwMnhnY1h6LXU0THdrU3M?oc=5",
-       "source": "Yahoo! Finance Canada",
-       "date": "2026-11-06T05:17:45+00:00"
+       "title": "First Majestic cuts dividend to 1.42 cent per share",
+       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMDhvUU03UTcwcFR4ejJYdTR6WjQ1elZkakJHQnRSbkhjTXBCZlVjLUtrZE9RUDR2R25WY3NUWmdldnBTZ2ttSWo1ellRWm9OaUFRTl92aWhnVUlFQTFra1lzOE1LQ0tIWGJCczNkWncxWkdKYWhpRzFlTXp1TmUySDJXc3lPVkpPbUZwTzlNMERRNmFjY3BDODUzOEhzVVRsVm80d2ZJNHUwUkFzekpreTBTb2c?oc=5",
+       "source": "BNN Bloomberg",
+       "date": "2026-11-05T20:47:12+00:00"
       }
      ]
     },
@@ -749,6 +749,12 @@
    "date": "2026-11-08T12:15:00+00:00"
   },
   {
+   "title": "Wall Street's Biggest Bubble Looks Ready to Burst, and I Don't Mean AI or Quantum Computing",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNM1U4U3ZRY09jWXdYZzUwUk11LW42RG8yRk9Rb0NQSzdRa2VRU1FJM2dUTmhzakZvRlhVSzVHemlHTnpaczd2NFk4U0hmcTltNHpPbTAzSjFwclBKdHozSW5CMGM3bEJOdTE4QUtOLVNfamNydmVuanRUelVLU250WlRQNl9GbUpROVhuR1RJSm9jZGxkNzlJZmxORXVMa0E?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-08T11:56:02+00:00"
+  },
+  {
    "title": "Eli Lilly Just Raised Its 2026 Revenue Forecast by $5.5 Billion. Is the Stock Still a Buy?",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNUZCOUVYV1MzQ3Nsem1yUnZLV0tkY3M5S1BfZk9HOGg2UGxfWl9NZWdJV0tqemFjanRnSUI2aVlSLURsajE0TFdreVA2X0c1X3pQVjBLSnNwUXoxVEpDTGVFcVFvaUhNUnhhT0QybHZjN0l4QkJDTFFBVkNIRFBlN0hNd3F1UHh1UHFKa0VieFVuLUQ4LU5TLQ?oc=5",
    "source": "The Motley Fool",
@@ -786,15 +792,9 @@
   },
   {
    "title": "Here's what the Democratic election rout could mean for the U.S. economy",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LSmFYdU84c0huOFFRc0RjSkUxcXVTNlVSbTlVck9YYVY2MlNyTzdKaTJZM1R3TU5CclVfN1dyT0ZFaXBvYjg2VkFpMy1JcTFQRmkzVWp1cFVmNXg2Skd4VzhxWUhCSHhoRDBDUXNQOA?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LSmFYdU84c0huOFFRc0RjSkUxcXVTNlVSbTlVck9YYVY2MlNyTzdKaTJZM1R3TU5CclVfN1dyT0ZFaXBvYjg2VkFpMy1JcTFQRmkzVWp1cFVmNXg2Skd4VzhxWUhCSHhoRDBDUXNQONIBdEFVX3lxTE1ROExhcXBmYXZNYWxhMmZNSU53MDVac0REOU1IY1Npcl9qaHhsNFNqQzV1UXBoRjFkbUw5OFlVNVQ1SGtCSkY1Zks3NkdJYTNWNHFLSWtuQ2hkeThvVlJ1ZUtIMXM3QjE5Wm5KWjhmTXVCcVFZ?oc=5",
    "source": "CNBC",
    "date": "2026-11-05T12:11:05+00:00"
-  },
-  {
-   "title": "NAB warns Australia recessionary risk edges higher as profit drops sharply",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9lNlBCSzNnbk4xVzM1VkpWMVFJaDhOYk9TcUNaZC1sRGcwbFIzbFJTN05zdEVWVW9MSHZKVFI0LVQ0dlk1clZjaXozSmVXbEJf?oc=5",
-   "source": "The Edge Malaysia",
-   "date": "2026-11-05T07:25:48+00:00"
   },
   {
    "title": "Elmera Group to Delist from Euronext Oslo B\u00f8rs",
