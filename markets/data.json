@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-08T13:45:40.988446+00:00",
+ "updated": "2026-11-08T14:36:17.923995+00:00",
  "usdnok": 9.453700065612793,
  "btc": {
-  "price": 75819.6015625,
+  "price": 75898.6171875,
   "prev": 75747.578125,
-  "chg": 0.09508348554874146,
+  "chg": 0.19939787678855403,
   "currency": "USD",
   "asof": "2026-11-08T00:00:00+00:00"
  },
  "silver": {
-  "price": 51.803001403808594,
+  "price": 51.94200134277344,
   "prev": 52.233001708984375,
-  "chg": -0.8232349110846138,
+  "chg": -0.5571197455437105,
   "currency": "USD",
   "asof": "2026-11-06T00:00:00-05:00"
  },
@@ -81,16 +81,16 @@
        "date": "2026-11-01T10:35:27+00:00"
       },
       {
+       "title": "Kongsberg Maritime ASA Reports Earnings Results for the Third Quarter and Nine Months Ended September 30, 2026",
+       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQTmh0SUxqY044N09mY1otWFdieGo0a0NkaEE5NEtteFZLN2N3NFl0M3BfUUZSM0c0eXFsWGxDSHpvaXN3aElGc3Rud1lsY1dDY0VsYWV6NzlDTUVyZ3o5U0pOdUtTNVcwS2FYTTNqWllnZEhqanFqYlJPZHhiTWREUTRtUjM1MjFXc3pWTlFLcEtodHI3eHBHOEZERWRmcXd2ZnMzR2ZISU16bW1jMWE5bmkxLXgtZFBXeU9WWGFDSm11NWtiYndCMVdVR050V2F2c3Z4NGtGSU1vdFNnVi1jblNwR2hWcXFZ?oc=5",
+       "source": "www.marketscreener.com",
+       "date": "2026-10-30T09:05:31+00:00"
+      },
+      {
        "title": "Kongsberg Maritime Q3 2026 Earnings Call Is Live",
        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU3FHamZYWXBFS28taGtycEFvSGloT2g3Wm02ZXAxQzVEc1QwMHQxOFIxdUhSNzdpVWtWSVl0bURwTkpyVHdxazNsS2k5eUFNX2NRWl83SUs0VHZkUndfeVdsSHk1eUVYdmxDUTI3cnNtNUFKa2thX3VkSTFaeDdnMXVCQUNHcjIxT0Q1VkRuTW4tNDRpUjY4TDllb2lVb2JFQU80RWtycEtTNE1Zb2tKMEljTGpyNEFa?oc=5",
        "source": "TradingView",
        "date": "2026-10-30T07:13:24+00:00"
-      },
-      {
-       "title": "Kongsberg Maritime hits record order backlog as newbuild demand surges",
-       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdG9UOER4U2h6V2hBeGNYS0hneTB3ejlMV0kxek1BM1ROWW1xM3c4UWlpekF6T1pIbjZiWDFsbDZWZXRPZVBIc0VPRUktZVpWNWZzN1Bxc29iMjNKaHFWamdPRnpvZUJEQzVUQWNrcllMTGg3TE45cUtiSHppM3pLU0U2ZElLTm1peUtzeVpZMnJrWFZTYU1KX0hoMTAtUmpVUUdtS1BUOTZGRzRsV0doQW1jZHVtRm95SmVyam9PUlJaZw?oc=5",
-       "source": "TradeWinds News",
-       "date": "2026-10-30T06:49:22+00:00"
       }
      ]
     }
@@ -292,10 +292,10 @@
      },
      "news": [
       {
-       "title": "Coeur Mining Q3 Earnings Call Highlights",
-       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNa1EyYTRqY1c0RDI1QTItQUFEaEJkMGlDbHd0QmpoakhCMm5SOUhMdm9Mem1uWTJSbVpmQW5hYVNfU2k5TS1kbC1RYVlmdmw0emY4M2xNVU4wbDlTUW1kbFdxQ3ZlekpFRUdpR0VXRGQ5WVI3S25jeDZqWjUwd3M3b19tSUpQWks4LW5KaFctM202Yk5JSXNsaUV3?oc=5",
+       "title": "Coeur to Participate in RBC Capital Markets London Precious Metals Conference",
+       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQamlBWmtjek9UWndRZ2xaVEVlZ2wwWmZKU2k2RXJBTXNFMnZpUEVPY1hSSjFTUDhuYTZfUEhQel9yeHo4dTVFNUdjQVJpTmxSM2E4b2lHRVN3N3doWWE3NTJ5ZWJPNG5nSUFtT0hYLWxHNGpBSnNSZ0VXWkdob0hOc01odUZPaDFheDZTV2dEdXpsdl9rRDRjZXhNbDVPV1V4SnRpVEZZWWM4ZUU?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-11-07T05:14:00+00:00"
+       "date": "2026-11-06T21:30:00+00:00"
       },
       {
        "title": "Coeur Q3 Earnings Call Highlights the Need for a Strong Finish",
@@ -318,15 +318,15 @@
      "news": [
       {
        "title": "First Majestic Silver Corp (AG) (Q3 2026) Earnings Call Highlights: Record Revenue, Robust ...",
-       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVmFsTTB0OXMxWi1ySm1MQjdsVmlWWjMwOGZvYlFOXy1IQmJsblY5dTdfUGV3WHdYQ0RoOVRycHZkSnNpZklvSWVtYUtRQTN1amhiX3RSZTlrQWJfR2pCSGJKTGhMYmpWY1JaZFhJdkt2OFNLMWlDYURka2t0LXdBdW5HYlQ?oc=5",
-       "source": "Yahoo Finance Australia",
+       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVW9KZ0t1WE9vdlZ1T2lBMGlHZU9YLTFUd1NZU25rcWRMQjBVTlo0cHg5djFNZERqMExURzBmZjhhOGpXUExqRlo1alhfSk45bEVyTG5nTU5xWndIN1ROb2p1VFZZSnpHODNTS3Z1dkgtVUxNNWpoTmh5bGl6ai1lRFhSVzc?oc=5",
+       "source": "Yahoo Finance Singapore",
        "date": "2026-11-06T05:18:00+00:00"
       },
       {
-       "title": "First Majestic Silver Corp. (AG) Stock Price, News, Quote & History",
-       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5TWDU4d1ZQRzZFVE1taWFoX2NpSk1aZG5yWmdNdlJ2Z2xiM3RfRkIzWm9HQ1FLeURNTTd0UnU1U0QwMnhnY1h6LXU0THdrU3M?oc=5",
-       "source": "Yahoo! Finance Canada",
-       "date": "2026-11-06T05:17:45+00:00"
+       "title": "First Majestic cuts dividend to 1.42 cent per share",
+       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMDhvUU03UTcwcFR4ejJYdTR6WjQ1elZkakJHQnRSbkhjTXBCZlVjLUtrZE9RUDR2R25WY3NUWmdldnBTZ2ttSWo1ellRWm9OaUFRTl92aWhnVUlFQTFra1lzOE1LQ0tIWGJCczNkWncxWkdKYWhpRzFlTXp1TmUySDJXc3lPVkpPbUZwTzlNMERRNmFjY3BDODUzOEhzVVRsVm80d2ZJNHUwUkFzekpreTBTb2c?oc=5",
+       "source": "BNN Bloomberg",
+       "date": "2026-11-05T20:47:12+00:00"
       }
      ]
     },
@@ -612,16 +612,16 @@
      },
      "news": [
       {
+       "title": "NVIDIA Stocks Rebound 6.78% as Lawmakers Call Jensen Huang to Closed-Door Briefing",
+       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRnZ2Y1c3VTFIcmJCY2kwcjBRdFBzcWMzV1UyaXJzWDN5YkhRWXJweVdpQlF4dXRpRmRaSTZDbk9PeUtUR2tjbjFMYTBVMG9hM1E4ZEgxZVM2TVBYSlMxcEVoaDlxMWFpQkJfS0RKbDB5YXRRaTVYZWdoSmxNSXlxUjRFbW83ajdhcEhRRXpTUHhIVHhuWlE?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-11-06T16:52:11+00:00"
+      },
+      {
        "title": "Nvidia Stock Rises on Dip-Buying: 3 Reasons to Be Optimistic",
        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBpbHc0aG5OM2dVRUpBUEFXeVRDZnB3WWpwemtTYU44MGx0MHNRUkRlUFgzUFZyaV9UTFZWSG1GekFBSktPLTl3ZzFSeEVaYnpEUUpWMkxmN3lyanNXTVhYbDNDVU1kOEh5RVdaemdOekM0Z3NMZGVZ?oc=5",
        "source": "Barron's",
        "date": "2026-11-06T15:12:00+00:00"
-      },
-      {
-       "title": "Nvidia stock oversold setup: Key levels after a 9% drop",
-       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNjhTc0JFcEFDRDdXX3N3VDROUHZWS25HV0loYWVGV2tYaC05U3Vvc3hxdW91UERlREdKQVIxS2Y0c1M1UmE5LXUtdU9WT0pqVFJBRWZzRU0zS1hPWTByX2QtRUp3SFN2dGRyekZPSV9VdVY2NHBkSEJjdnc4T2JaRU9RdVhiaDdRY1VUR2NYWUI5cnVVMHJVaE1faGE?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-11-06T15:09:36+00:00"
       }
      ]
     },
@@ -761,12 +761,6 @@
    "date": "2026-11-06T22:25:02+00:00"
   },
   {
-   "title": "US labor market regains ground as job growth surges, unemployment rate falls to 4.1%",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPakNLaDVCMElHQkc5cjV5SmVJcFNPdVpMbnZHRmVFMkoxR3hhbERYTnBZcUlmQVZBanhMeVhEZHpsN3JxM0xrUHNsYVZPWW1EdXBWam1pNk5lSEZVNHkwcUV1VG9xbmVYek80a3JXelRIcW9fQjQ3TUljTUdpZkhYWUJaZHhxNTUybWQwME81bUtPTmJ4UUg4ZjVrZjVlLUx2azFkWjhmeThDWkp2MHJwdTVR?oc=5",
-   "source": "Reuters",
-   "date": "2026-11-06T22:04:06+00:00"
-  },
-  {
    "title": "If a Stock Market Crash Is Coming, Warren Buffett Says This Is the Wisest Move You Can Make",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOS09mUGRzT2FGdy1xdnpFMEREemFaNE5mZk9RRVZXQlZyVEQtYkJHN18wQUU3QkppYUp2cTBnYndyd3BFamxQQ3RERVU4cHdwQjlqX3l3R2R0SkwyT3A3QWhORld3c28zNXgtNWxVT1VhdENmWmwzLTMxdy1yTU9OS0E0eHVjNXpNdUJ6dkp5ZDloZThOM19sRU9tYWg0Zw?oc=5",
    "source": "Yahoo Finance",
@@ -777,6 +771,12 @@
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd2ZWVEJwc1E0cVFfaWpUeDJzMG56c1phbWJxRF9Ka2Rha1VwNVNSRHNra3JhVlBPYnFvbDJiMzJfOUk4eUtxLURZZC1OTUhaLUdnQ1ZOendjd0ZvVm9WazRJR3ZzT1dHaFhqRFB0cHRyb0JHcGgyVkV3cWN1RndEVlhSSmwtREZUZmxwWjA3QkF3QlhLdjhFZlRNNnNlV3plVDA2RFlTVXpCdFRleC1XTzhMZ0w3Q2JaQVlxUUwxOA?oc=5",
    "source": "Bloomberg.com",
    "date": "2026-11-06T14:31:53+00:00"
+  },
+  {
+   "title": "Could an AI Spending Crunch Cause a Recession?",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdEk5R1NaUFR4eVB2MXJlSndCMHpidWNES0JlYXZGbVFpeUFNT0xkbjFVVjc4dmNmLXdFTWxpOVNNZEswTlpvekp0QjIzQ19rbF9YU0JqWFptenMySC1ZbDVRbVNBYzdrbksteVJBbzhzZlFOVWtWVjA5VjJyRTVSMkNxN0xGQQ?oc=5",
+   "source": "Morningstar",
+   "date": "2026-11-05T14:02:46+00:00"
   },
   {
    "title": "Five Signals That Preceded Past Recessions Are Back \u2014 and AI Is at the Center",
