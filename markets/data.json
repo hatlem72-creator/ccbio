@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-08T17:14:37.262362+00:00",
+ "updated": "2026-11-08T17:53:41.206961+00:00",
  "usdnok": 9.453700065612793,
  "btc": {
-  "price": 75617.5703125,
+  "price": 75659.546875,
   "prev": 75747.578125,
-  "chg": -0.17163296268754014,
+  "chg": -0.11621658695770698,
   "currency": "USD",
   "asof": "2026-11-08T00:00:00+00:00"
  },
@@ -69,6 +69,12 @@
      },
      "news": [
       {
+       "title": "Kongsberg Maritime ASA (Z4Q.F) stock price, news, quote and history",
+       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE16WDZZQ01IMGVMamFsV2Y0Vk1kSEtTVkVmM2tqbVp6TTBuclFqNFNVMXhMMUJJXy00X1dKTTRVcmFLS19yY1U3bGhRUlFhQjAwd09F?oc=5",
+       "source": "Yahoo Finance Singapore",
+       "date": "2026-11-06T14:25:02+00:00"
+      },
+      {
        "title": "Kongsberg Maritime Q3 2026 slides show record backlog amid profit miss",
        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRUJtOUd6eDJnNUhCTk5TN1RyRFc5em05cExBX1p0V2pvc25QUGY2ZjVNTFByQ25LTGFHZXh2b01uLUNCb1liczN0cVpBSFJhbV9STms5WnlxUUVTTHJCM2hzaXhKWnh2VENuSU8zNDBNX3l1YndscW42aDhhb1d0QzJQb3lOc2Rmczlxclp2bW1TZzJVa0NlX3FzbXZuOVU0eWJBMERrWW81dmprelRraDJ3V004ei1rMGhYQU1TZnJjZjlwV1E?oc=5",
        "source": "Investing.com",
@@ -85,12 +91,6 @@
        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdG9UOER4U2h6V2hBeGNYS0hneTB3ejlMV0kxek1BM1ROWW1xM3c4UWlpekF6T1pIbjZiWDFsbDZWZXRPZVBIc0VPRUktZVpWNWZzN1Bxc29iMjNKaHFWamdPRnpvZUJEQzVUQWNrcllMTGg3TE45cUtiSHppM3pLU0U2ZElLTm1peUtzeVpZMnJrWFZTYU1KX0hoMTAtUmpVUUdtS1BUOTZGRzRsV0doQW1jZHVtRm95SmVyam9PUlJaZw?oc=5",
        "source": "TradeWinds News",
        "date": "2026-10-30T06:49:22+00:00"
-      },
-      {
-       "title": "Kongsberg Maritime Q3 2026 Record-High Order Backlog",
-       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQb01id256WTlVVXlwSUg3SzFIcDlrQUZUeWVlaU1xTVNtT1dxNlQ2MjBGUUZrdjFPSWMyenNJcG1maXhuMTI1TDZRcll4VUh3UHlQaWV0TmhvbHBCaVVjcmhMbXRoTFdKQUhocV95SEtkY1ZicFJUTWRlVk1nbTZtTDRmM0g2NWhTS080N2MyakljZXVKa3Y2X0FLVHYwcjZNZWlqWmlBcWRFT2RLMlJkZVNzaU56YWNPUVBkN0I0dw?oc=5",
-       "source": "TradingView",
-       "date": "2026-10-30T06:05:20+00:00"
       }
      ]
     }
@@ -318,8 +318,8 @@
      "news": [
       {
        "title": "First Majestic Silver Corp (AG) (Q3 2026) Earnings Call Highlights: Record Revenue, Robust ...",
-       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVW9KZ0t1WE9vdlZ1T2lBMGlHZU9YLTFUd1NZU25rcWRMQjBVTlo0cHg5djFNZERqMExURzBmZjhhOGpXUExqRlo1alhfSk45bEVyTG5nTU5xWndIN1ROb2p1VFZZSnpHODNTS3Z1dkgtVUxNNWpoTmh5bGl6ai1lRFhSVzc?oc=5",
-       "source": "Yahoo Finance Singapore",
+       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVmFsTTB0OXMxWi1ySm1MQjdsVmlWWjMwOGZvYlFOXy1IQmJsblY5dTdfUGV3WHdYQ0RoOVRycHZkSnNpZklvSWVtYUtRQTN1amhiX3RSZTlrQWJfR2pCSGJKTGhMYmpWY1JaZFhJdkt2OFNLMWlDYURka2t0LXdBdW5HYlQ?oc=5",
+       "source": "Yahoo Finance Australia",
        "date": "2026-11-06T05:18:00+00:00"
       },
       {
@@ -712,16 +712,16 @@
      },
      "news": [
       {
+       "title": "Tesla Isn\u2019t a Mag-Y Stock. This Is.",
+       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9MS0Vld1VORGpHbjJoelFPZE11OWZ5TnBtMHo1Sk5QZXZuZzBoNGVIQWM2aDByNW1DQ05CVWg3QUFmUTdleXAyTWE1OGloS0FYV3MwbmE3SVJNdmVHaGZELU92YXVyeEhrQkY5QmlyX1dwQllBSXNyZWgxWQ?oc=5",
+       "source": "Barron's",
+       "date": "2026-11-08T17:23:00+00:00"
+      },
+      {
        "title": "Elon Musk Is Killing the Cybertruck. What It Means for Tesla Stock.",
        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU1BjRWpvRk9HZ21UWmN4Q3dkcmlOMEktZnpTMmRZYXg3N3pGUlhEaFNXQ1pjeE85QTlidTBlblZja3NPNnE4cTh5VGoxNEVSOTZ4UEJzVTBSNmtLN3ZPOVljVXNvRy10N1ZMZ3NUU29fWTJpb3A4WGZwX0ZEWUlhSFowZFg?oc=5",
        "source": "Barron's",
        "date": "2026-11-06T21:41:00+00:00"
-      },
-      {
-       "title": "TSLA Stock Alert: What to Know as Tesla Pivots Away From Cybertruck Production",
-       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNTB5djdNendHeHFpMjVkb04ybERLZXYzNTd1U1N1aXRBcnJpNFhDRFVVZzJWY2cxRWhUTUREYjRFNFpwQVBqaEs1R0lxcHo0Qk1RdWY3ZnA1Y0FjOTBpWk80Y1I1QU5TWjRya1IyMUJNYnhMVnhpbGcxRXE1alJJTkdFbjBGY2JWYmxkX2JFVmpJd3hWTFNz?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-11-06T21:19:31+00:00"
       }
      ]
     }
@@ -747,6 +747,12 @@
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMkRTYjRSMFNsY1FhR0dpb1lqNTg3cnB2ZmU0MTdtRTZiUXBYX0FtNDgyVTZZVEF4bUJmbUVBYWJwczYwUDR0dWpXX3VldmpxUjFfNkNUMkNpcDAybF9oeUwtNTlMQ3pNNS1QNnk0LVVqTlU1ZTYwWmRDcXdWb0NlV0pLaE0wRk9MZFd1RkxDQWNFa1dXQW5MSkhORUQ1SUJPRlJGcg?oc=5",
    "source": "Yahoo Finance",
    "date": "2026-11-08T12:15:00+00:00"
+  },
+  {
+   "title": "Eli Lilly Just Raised Its 2026 Revenue Forecast by $5.5 Billion. Is the Stock Still a Buy?",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNUZCOUVYV1MzQ3Nsem1yUnZLV0tkY3M5S1BfZk9HOGg2UGxfWl9NZWdJV0tqemFjanRnSUI2aVlSLURsajE0TFdreVA2X0c1X3pQVjBLSnNwUXoxVEpDTGVFcVFvaUhNUnhhT0QybHZjN0l4QkJDTFFBVkNIRFBlN0hNd3F1UHh1UHFKa0VieFVuLUQ4LU5TLQ?oc=5",
+   "source": "The Motley Fool",
+   "date": "2026-11-07T18:30:00+00:00"
   },
   {
    "title": "How Investors Are Reacting To Shift4 Payments (FOUR) Lowered Profit Outlook",
@@ -777,12 +783,6 @@
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd2ZWVEJwc1E0cVFfaWpUeDJzMG56c1phbWJxRF9Ka2Rha1VwNVNSRHNra3JhVlBPYnFvbDJiMzJfOUk4eUtxLURZZC1OTUhaLUdnQ1ZOendjd0ZvVm9WazRJR3ZzT1dHaFhqRFB0cHRyb0JHcGgyVkV3cWN1RndEVlhSSmwtREZUZmxwWjA3QkF3QlhLdjhFZlRNNnNlV3plVDA2RFlTVXpCdFRleC1XTzhMZ0w3Q2JaQVlxUUwxOA?oc=5",
    "source": "Bloomberg.com",
    "date": "2026-11-06T14:31:53+00:00"
-  },
-  {
-   "title": "Five Signals That Preceded Past Recessions Are Back \u2014 and AI Is at the Center",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVlMtdmsxWmwxX2dUVEh0TlBsZUNyYUd1cV9yQ3JjRm56czRxQzA3d2FqQmpTZ2lGcXJKY0hYalhyY2l2UjBaeXRzeVVGNnpjQ3hZMVllRGhxOTF1QjVzUXpwN3dZTU5NLTk3eUZTTjBlN001YlBwRHF6TDhqTmdwWVpTUF8zSXRBdGFBdTBOT3NRYXJ6VWhnczI0OHJoeUJTVG92S1RjQ2xYRnBZU25abTRIeE0zemszMl93N3pYbUNRY2ZHNWZxZ1VZc1IwM1U?oc=5",
-   "source": "TradingView",
-   "date": "2026-11-05T13:45:04+00:00"
   },
   {
    "title": "Here's what the Democratic election rout could mean for the U.S. economy",
