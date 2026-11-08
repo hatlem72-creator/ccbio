@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-08T05:28:49.670783+00:00",
+ "updated": "2026-11-08T06:28:43.315185+00:00",
  "usdnok": 9.453700065612793,
  "btc": {
-  "price": 75763.7734375,
+  "price": 75730.78125,
   "prev": 75746.9296875,
-  "chg": 0.022236874906345072,
+  "chg": -0.02131893340974189,
   "currency": "USD",
   "asof": "2026-11-08T00:00:00+00:00"
  },
@@ -81,16 +81,16 @@
        "date": "2026-11-01T10:35:27+00:00"
       },
       {
-       "title": "Kongsberg Maritime ASA Reports Earnings Results for the Third Quarter and Nine Months Ended September 30, 2026",
-       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQTmh0SUxqY044N09mY1otWFdieGo0a0NkaEE5NEtteFZLN2N3NFl0M3BfUUZSM0c0eXFsWGxDSHpvaXN3aElGc3Rud1lsY1dDY0VsYWV6NzlDTUVyZ3o5U0pOdUtTNVcwS2FYTTNqWllnZEhqanFqYlJPZHhiTWREUTRtUjM1MjFXc3pWTlFLcEtodHI3eHBHOEZERWRmcXd2ZnMzR2ZISU16bW1jMWE5bmkxLXgtZFBXeU9WWGFDSm11NWtiYndCMVdVR050V2F2c3Z4NGtGSU1vdFNnVi1jblNwR2hWcXFZ?oc=5",
-       "source": "www.marketscreener.com",
-       "date": "2026-10-30T09:05:31+00:00"
-      },
-      {
        "title": "Kongsberg Maritime Q3 2026 Earnings Call Is Live",
        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU3FHamZYWXBFS28taGtycEFvSGloT2g3Wm02ZXAxQzVEc1QwMHQxOFIxdUhSNzdpVWtWSVl0bURwTkpyVHdxazNsS2k5eUFNX2NRWl83SUs0VHZkUndfeVdsSHk1eUVYdmxDUTI3cnNtNUFKa2thX3VkSTFaeDdnMXVCQUNHcjIxT0Q1VkRuTW4tNDRpUjY4TDllb2lVb2JFQU80RWtycEtTNE1Zb2tKMEljTGpyNEFa?oc=5",
        "source": "TradingView",
        "date": "2026-10-30T07:13:24+00:00"
+      },
+      {
+       "title": "Kongsberg Maritime hits record order backlog as newbuild demand surges",
+       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdG9UOER4U2h6V2hBeGNYS0hneTB3ejlMV0kxek1BM1ROWW1xM3c4UWlpekF6T1pIbjZiWDFsbDZWZXRPZVBIc0VPRUktZVpWNWZzN1Bxc29iMjNKaHFWamdPRnpvZUJEQzVUQWNrcllMTGg3TE45cUtiSHppM3pLU0U2ZElLTm1peUtzeVpZMnJrWFZTYU1KX0hoMTAtUmpVUUdtS1BUOTZGRzRsV0doQW1jZHVtRm95SmVyam9PUlJaZw?oc=5",
+       "source": "TradeWinds News",
+       "date": "2026-10-30T06:49:22+00:00"
       }
      ]
     }
@@ -112,16 +112,16 @@
      },
      "news": [
       {
-       "title": "Form 4 VanEck Gold Miners ETF For: 4 November By Investing.com",
-       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORU1YalAzcDg0OVVjcDBOc0g2ajFFbmRPM2VLd1hfMlAydV9Rcm5IMkM0bDJvTFQ5dDZoOTFIWWFnbklqU091MFd5RGxCel96dE9ieEp3NGFGUXE5Rzk0Wkx4S0hvYlNHdEVsZDlmRS1fWGtGZEpwVDNzN29VR2VkWmpnel9pZjJaQ1pxZDN6N1pYWlh5eUpxVXVQQlQyck9lRHJuYU94RXQ?oc=5",
-       "source": "Investing.com UK",
-       "date": "2026-11-04T22:02:00+00:00"
+       "title": "VanEck Gold Miners UCITS ETF (GDGB.L) Seasonal returns chart",
+       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tWlpPaHgtMGwyamx4d0huWHFTdTJxdWxDaGhHNnhERi1FSUhtdUhxRHpuOTRtZHBGNzREbjhFRC1iN1dIY3hYMGVDamtWUmlxTEhvR1ptQnlCMTFHSVUyRkVNSVo?oc=5",
+       "source": "Yahoo Finance UK",
+       "date": "2026-11-06T16:35:24+00:00"
       },
       {
-       "title": "VanEck Gold Miners ETF (Derivatives) Price (GDX/USD) Today | Live Price, Market Cap & Chart",
-       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96VDJMTzhRV09OZmxpc29uUjFZMEJ5TTJSaEpjRjJLQUpDUWJKMFdVdVd2N3NxM3phckhiWHNqdVhUUGZXRHh4ZVlYdE1YMmRCYzdBbzhOV0lTSjBqTFZQU0k3eEdGZ0xWNkV3WldjRkQwc1JW?oc=5",
-       "source": "Binance",
-       "date": "2026-11-04T10:20:00+00:00"
+       "title": "Form 4 VanEck Gold Miners ETF For: 4 November By Investing.com",
+       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYjMyUGJnVzFqQmZNZHZnaUlubEhkMXBjZFpvREJOMGw0YUFFMmt1UlhHajJhM1QxWjk4QUJ2NzlxUFBjeThGQXFNSWhvM2lNWGVKdzNMNHppYThjY3g2ci1oRHA5eWZnR25NYkN3dWM1anVQcjhGZzZVLVlob1E1QWExRlVkTmFiVGNSOEp4cmNPMi1reGtFRm9wYzdzNHBHdmZ3akswRE8?oc=5",
+       "source": "Investing.com Canada",
+       "date": "2026-11-04T22:19:19+00:00"
       },
       {
        "title": "VanEck Gold Miners ETF (GDX) options chain",
@@ -718,10 +718,10 @@
        "date": "2026-11-06T21:41:00+00:00"
       },
       {
-       "title": "How much TSLA stock does Tesla CEO Elon Musk actually own?",
-       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRHNKOXd2MHp1RWEwUFZuTkJnN1Flc2pQVDdRMU1QSUJyRVJjcFNLQU9pa3lvSXZxdklCQ24zUzNDNDBJRi1GZ0tfRkhfU21UNkVEM0N3QkZ5d29haUlHMzNrWXd4Vkg1Vy02MzZ5UmJ5eWxoVUloT2t2S1N6T0lnUw?oc=5",
-       "source": "Yahoo Finance Singapore",
-       "date": "2026-11-06T15:48:00+00:00"
+       "title": "Tesla Stock Rebounds After Brutal Selloff. Musk Has a New Cybercab Plan",
+       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOFV1WmhRcEp1TWZ1dmQxTVhQd0NTZWRGOWtQRkNNX2VNVlNTbkVIMG1RZmxfSnJLYTVSSmtGZVplS29xNDNpRktDTFI0MnpvVWlma3dlalZNdXhqYi14WlRab3MwT3NkRGxsRnVscTJFTzI3OVZZZm15ZlVpc0xQRElhdUZPeks1UHZMb1pJbGc1OWkzSkJEN2hJWVk3Y1F0alE?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-11-06T18:44:19+00:00"
       }
      ]
     }
