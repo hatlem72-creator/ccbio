@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-08T08:46:14.518320+00:00",
+ "updated": "2026-11-08T09:41:52.847758+00:00",
  "usdnok": 9.453700065612793,
  "btc": {
-  "price": 75809.328125,
+  "price": 75845.7265625,
   "prev": 75747.578125,
-  "chg": 0.08152075819256588,
+  "chg": 0.12957303709173473,
   "currency": "USD",
   "asof": "2026-11-08T00:00:00+00:00"
  },
  "silver": {
-  "price": 51.803001403808594,
+  "price": 51.94200134277344,
   "prev": 52.233001708984375,
-  "chg": -0.8232349110846138,
+  "chg": -0.5571197455437105,
   "currency": "USD",
   "asof": "2026-11-06T00:00:00-05:00"
  },
@@ -112,28 +112,28 @@
      },
      "news": [
       {
-       "title": "VanEck Gold Miners UCITS ETF (GDGB.L) Seasonal returns chart",
-       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tWlpPaHgtMGwyamx4d0huWHFTdTJxdWxDaGhHNnhERi1FSUhtdUhxRHpuOTRtZHBGNzREbjhFRC1iN1dIY3hYMGVDamtWUmlxTEhvR1ptQnlCMTFHSVUyRkVNSVo?oc=5",
-       "source": "Yahoo Finance UK",
-       "date": "2026-11-06T16:35:24+00:00"
+       "title": "Form 4 VanEck Gold Miners ETF For: 4 November By Investing.com",
+       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYjMyUGJnVzFqQmZNZHZnaUlubEhkMXBjZFpvREJOMGw0YUFFMmt1UlhHajJhM1QxWjk4QUJ2NzlxUFBjeThGQXFNSWhvM2lNWGVKdzNMNHppYThjY3g2ci1oRHA5eWZnR25NYkN3dWM1anVQcjhGZzZVLVlob1E1QWExRlVkTmFiVGNSOEp4cmNPMi1reGtFRm9wYzdzNHBHdmZ3akswRE8?oc=5",
+       "source": "Investing.com Canada",
+       "date": "2026-11-04T22:19:19+00:00"
       },
       {
-       "title": "Form 4 VanEck Gold Miners ETF For: 4 November By Investing.com",
-       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORU1YalAzcDg0OVVjcDBOc0g2ajFFbmRPM2VLd1hfMlAydV9Rcm5IMkM0bDJvTFQ5dDZoOTFIWWFnbklqU091MFd5RGxCel96dE9ieEp3NGFGUXE5Rzk0Wkx4S0hvYlNHdEVsZDlmRS1fWGtGZEpwVDNzN29VR2VkWmpnel9pZjJaQ1pxZDN6N1pYWlh5eUpxVXVQQlQyck9lRHJuYU94RXQ?oc=5",
-       "source": "Investing.com UK",
-       "date": "2026-11-04T22:02:00+00:00"
+       "title": "VanEck Gold Miners ETF (GDXB39.SA) Seasonal returns chart",
+       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE05VTI5OFB3MmJHWllySG15UFFPbFNvOW1sLWVWQnY2RXlVVlZ4NVlUUzk5SjQzWHhlVGsySnc3SXRnWXlxZFJPNnQ5WHR2SGQ5X3dwTzB3VFJBMjVVRllGZlZFZ2VWaWoz?oc=5",
+       "source": "Yahoo Finance UK",
+       "date": "2026-11-04T13:43:52+00:00"
+      },
+      {
+       "title": "VanEck Gold Miners ETF (Derivatives) Price (GDX/USD) Today | Live Price, Market Cap & Chart",
+       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96VDJMTzhRV09OZmxpc29uUjFZMEJ5TTJSaEpjRjJLQUpDUWJKMFdVdVd2N3NxM3phckhiWHNqdVhUUGZXRHh4ZVlYdE1YMmRCYzdBbzhOV0lTSjBqTFZQU0k3eEdGZ0xWNkV3WldjRkQwc1JW?oc=5",
+       "source": "Binance",
+       "date": "2026-11-04T10:20:00+00:00"
       },
       {
        "title": "VanEck Gold Miners ETF (GDX) options chain",
        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNkdIR19pWWkwR01KYlpMQ21oZEdJdmF4Z3Y3ZEdkNHVrNXBpZ3hadkxSYUNPWU5BbG9HMWI3NWllYTlEQ3VnaXU4VXZfeG9SZWNNU2s0Y2k4TVNydHd6QU1NSzJTRDJNQmw3SkdiM0RfTzdwQmtCTXJXNG0teXUxLVZxQQ?oc=5",
        "source": "Yahoo Finance Singapore",
        "date": "2026-11-04T07:45:12+00:00"
-      },
-      {
-       "title": "VanEck Gold Miners ETF R (VEF5.HM) Seasonal returns chart",
-       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16Z25BX1NDRlZjTkdwRy1PeGlJN09nYXdzcU1NX0ViSlE5eGFrUXAtVHlaemFCRWI0eHBVOGNISHRpcWMzV1ZQUTFZQzZUNEtDdGZQMWlsT1FMS2lsTGQxbno5cms0Zw?oc=5",
-       "source": "Yahoo Finance UK",
-       "date": "2026-11-04T02:40:49+00:00"
       }
      ]
     },
@@ -217,16 +217,16 @@
      },
      "news": [
       {
-       "title": "Hecla Mining Company (HL) stock price, news, quote and history",
-       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5DVlpfQXUxNmJlRFFHLUdYdEo0cHVXeXQ3YzZjOTVmY3kyR0ctUXN4Smt2Ql83QS1sTFQyNUs4TlVLQVpEeVpJV3JvR2FOdUE?oc=5",
-       "source": "Yahoo Finance Singapore",
-       "date": "2026-11-07T08:07:12+00:00"
-      },
-      {
        "title": "Hecla Mining Company Q3 2026 Earnings Call Summary",
        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSVpmY3ZNU3dWN2Y1MG53c3Bqb1FEN0pTd21FUEsybExtcnl3U09kSDdWVUJDT1ZrSVgwdjAyMHNhT1hpQnhveWh2M04xU3VQMmk4Z2FuaUcxaG5rMDFCLTVsS0lhUUtCR3I3NTVmWm1LWjRrQVpMNV8tT3JqRnNiZmY0OUs4OEh1WXo0R1g3YXZCWUdpRG85RE9DVTlpY2M?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-11-05T02:10:00+00:00"
+      },
+      {
+       "title": "Hecla Mining Company (HL) Stock Forecasts",
+       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdDdaMmIzZHhBWVpiSFhYY3BxRVFaU2JFODk4QkZrRTZWcFV1YWN2RXUwR1NFdk02dklvZG5QdmlZeGwzWjBwUW1qMU1GZThOblNBVHd4YWVFWmV0a2dSc1dXdVhEME5RNTduREp6a0JHdGRySUl2ZjEzVXhxNG56eGtLcF9RUFVyV1MySU9Tbw?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-11-04T23:32:46+00:00"
       }
      ]
     },
@@ -273,10 +273,10 @@
        "date": "2026-11-08T07:14:11+00:00"
       },
       {
-       "title": "Avino Silver & Gold Mines Ltd. Q3 2026 Earnings Call Summary",
-       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVGRxVWhQc293ZThfSjA0SjVKRlBFZDhXSmVfWUdXcWV0ZEprWVNhZm9mOF9CY0poM20yMGNKWnhVazZJeC1QQjNzVDY3Z2psVW1RQlJ5MzAxV0ZuZ0xlLWpHUXp4WDJNVGJuZUREMzEzTnc1VmgzRXduMGhiMmZqMjV1LXE5OTRzOVRRczNaWm1mS3J5TW9Z?oc=5",
+       "title": "Avino Silver & Gold Mines Ltd (ASM) Q3 2026 Earnings Call Highlights: Strong Cash Flow and ...",
+       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbDc2TnVwRTdZTm1fbEg0UGpONUdmR3VTOFFUN0VCX1dWZzQ0UTM2MnViU2dkLURtam93SVlyWDVnd21wV3RHNi1lbDhVT2pnVkd5aENNNFFxOXE5cTBnSTJGeEZjVkxQV2xKMkVicmpVVEdDVkRJN3pWSW5NYU1yTzR5dTdZMG00YnE2ZHZOTUUydTVGS2lIdVhxdl9fZw?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-11-05T13:30:00+00:00"
+       "date": "2026-11-05T23:11:32+00:00"
       }
      ]
     },
@@ -718,10 +718,10 @@
        "date": "2026-11-06T21:41:00+00:00"
       },
       {
-       "title": "How much TSLA stock does Tesla CEO Elon Musk actually own?",
-       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRHNKOXd2MHp1RWEwUFZuTkJnN1Flc2pQVDdRMU1QSUJyRVJjcFNLQU9pa3lvSXZxdklCQ24zUzNDNDBJRi1GZ0tfRkhfU21UNkVEM0N3QkZ5d29haUlHMzNrWXd4Vkg1Vy02MzZ5UmJ5eWxoVUloT2t2S1N6T0lnUw?oc=5",
-       "source": "Yahoo Finance Singapore",
-       "date": "2026-11-06T15:48:00+00:00"
+       "title": "Tesla Stock Rebounds After Brutal Selloff. Musk Has a New Cybercab Plan",
+       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOFV1WmhRcEp1TWZ1dmQxTVhQd0NTZWRGOWtQRkNNX2VNVlNTbkVIMG1RZmxfSnJLYTVSSmtGZVplS29xNDNpRktDTFI0MnpvVWlma3dlalZNdXhqYi14WlRab3MwT3NkRGxsRnVscTJFTzI3OVZZZm15ZlVpc0xQRElhdUZPeks1UHZMb1pJbGc1OWkzSkJEN2hJWVk3Y1F0alE?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-11-06T18:44:19+00:00"
       }
      ]
     }
