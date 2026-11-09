@@ -1,19 +1,19 @@
 {
- "updated": "2026-11-09T04:42:42.462052+00:00",
- "usdnok": 9.441550254821777,
+ "updated": "2026-11-09T05:58:34.254927+00:00",
+ "usdnok": 9.439149856567383,
  "btc": {
-  "price": 74744.3984375,
+  "price": 74376.4375,
   "prev": 75747.578125,
-  "chg": -1.3243719632125228,
+  "chg": -1.8101445075079714,
   "currency": "USD",
   "asof": "2026-11-09T00:00:00+00:00"
  },
  "silver": {
-  "price": 53.224998474121094,
+  "price": 52.904998779296875,
   "prev": 51.803001403808594,
-  "chg": 2.7450090376577085,
+  "chg": 2.1272848013151213,
   "currency": "USD",
-  "asof": "2026-11-08T00:00:00-05:00"
+  "asof": "2026-11-09T00:00:00-05:00"
  },
  "sections": [
   {
@@ -38,10 +38,10 @@
        "date": "2026-11-06T21:12:13+00:00"
       },
       {
-       "title": "Kongsberg Gruppen ASA (0F08.IL) Seasonal returns chart",
-       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDMGxVTkpsT0N0T3NteFdzbm1mUnFad2ZJNE5lak9ma2tnY0l2UDBnNTZuTzFRQ2s3X255bXBKUnNMbkZJcjlYMlFqX25xRmNpYUdCa2dheUVoWU5jWEVWc3VqOXh0UQ?oc=5",
+       "title": "Kongsberg Gruppen ASA (KOG.OL) Seasonal returns chart - Yahoo Finance",
+       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55cDhIUnpRZHJWS2pnWk5nVHVvZWtya1hoS2F4MFNxakFycTBydUJtbXVJRmphWnQ5RGZ1b2dLX1V0SE90bDZwbGJmTjhsaU9uMHNVZ08tYklVMHdlOFh6ME45T00?oc=5",
        "source": "Yahoo Finance Singapore",
-       "date": "2026-11-05T01:38:43+00:00"
+       "date": "2026-11-04T14:45:00+00:00"
       },
       {
        "title": "Kongsberg Gruppen ASA 2026 Q3 - Results - Earnings Call Presentation (OTCMKTS:KBGGY) 2026-11-01",
@@ -50,10 +50,10 @@
        "date": "2026-11-01T23:04:00+00:00"
       },
       {
-       "title": "SB1 Markets raises its price target for Kongsberg Gruppen to NOK 425 (400), reiterates Buy",
-       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQR3FOZmVUVEhhTWUzcksxaUw5alB2Z1J0bUFLSElVYzBueXdUX2lQNVhZUEFGU3RBUWtXUlF3NENTTjRGeEJlSXRYX2hfRFhueEhsM19tV0hhWWxORldxV1NER3oxUkRwaUU2WW1EVEI0VTFXN0kxcVNmQ3ZMal9mRDZVWTVvWDR0Vnh1eHVpbzdmaHpPV1BoUmo3X0lKSFN3SGc0cEJjV01LNkdxMjlQZXhycXpfNkl0cGViUkRRU3NzVjV3aGVGY1FjamN1Qno3a3IyZ040dw?oc=5",
-       "source": "www.marketscreener.com",
-       "date": "2026-10-30T07:55:20+00:00"
+       "title": "KONGSBERG secures US government contract for underwater capabilities",
+       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa0J0WVlGSWkwZ3VHR2t3cWNqN1Q0M2ZmX0tqdmJhUzZrQkxwNVljUWFvMG1xcF8zUVpFa1EyTWNNVFhhMmRfNFdTVVp6R2JpaDQtdXg2UDMxMzRRV1JUSEQwNDlFZVFQTW80SGVjZ2hQdGtwWVd6bVpfOXJoSFhGdzEwOU5YWVhxTDU3d1hUU2RSWl9PUlF0QkF1RERRa3otTWNGVzN3RW5RYW5kclVnMWpLVC0?oc=5",
+       "source": "Naval News",
+       "date": "2026-10-30T07:00:00+00:00"
       }
      ]
     },
@@ -75,22 +75,22 @@
        "date": "2026-11-08T14:48:42+00:00"
       },
       {
+       "title": "Kongsberg Maritime ASA (Z4Q.DU) options chain",
+       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UWGJBd24zSUc2TGo0RlFzREQ1Mzc1a0J3VDNrTUFSb2FBeGZ1bU1Vc0JoRmlteTd4dHpqV1RtQzBWRXhmN01VaGQ3a2UtQ3RXS0JORnpNZlpHVjI3a2Nz?oc=5",
+       "source": "Yahoo Finance UK",
+       "date": "2026-11-06T20:50:06+00:00"
+      },
+      {
+       "title": "Kongsberg Maritime ASA (Z4Q.F) company profile and facts",
+       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBRa3dkTVlWb0ZCdURjVlZvcXJaUmE0bmNFOWFXbWV5V1VCR1JKYW5iUVVtWktVNTRBVjViVXRkLTl2Qi1XSWdwMHZtTGlaV3RscXdwQjVHaTJrdEQ2NHc?oc=5",
+       "source": "Yahoo Finance UK",
+       "date": "2026-11-06T14:25:02+00:00"
+      },
+      {
        "title": "Kongsberg Maritime ASA (Z4Q.F) stock price, news, quote and history",
        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE16WDZZQ01IMGVMamFsV2Y0Vk1kSEtTVkVmM2tqbVp6TTBuclFqNFNVMXhMMUJJXy00X1dKTTRVcmFLS19yY1U3bGhRUlFhQjAwd09F?oc=5",
        "source": "Yahoo Finance Singapore",
        "date": "2026-11-06T14:25:02+00:00"
-      },
-      {
-       "title": "Kongsberg Maritime Q3 2026 slides show record backlog amid profit miss",
-       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRUJtOUd6eDJnNUhCTk5TN1RyRFc5em05cExBX1p0V2pvc25QUGY2ZjVNTFByQ25LTGFHZXh2b01uLUNCb1liczN0cVpBSFJhbV9STms5WnlxUUVTTHJCM2hzaXhKWnh2VENuSU8zNDBNX3l1YndscW42aDhhb1d0QzJQb3lOc2Rmczlxclp2bW1TZzJVa0NlX3FzbXZuOVU0eWJBMERrWW81dmprelRraDJ3V004ei1rMGhYQU1TZnJjZjlwV1E?oc=5",
-       "source": "Investing.com",
-       "date": "2026-11-01T11:13:05+00:00"
-      },
-      {
-       "title": "Kongsberg Maritime A.S.A R (Z4Q.F) Q3 FY2026 earnings call transcript",
-       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcFBBODhzMHhycVg5M3c1blVYX0h6aHY3RUVqaU1uU2NvM2RuOENTTnM5LVdSSWFDUmszSldhMHpEd0dXalBVcE9VTVpNQTZxVXJiNUxxZkl2alQ4MDJzOGdVb0NoQXZSLWZBU01TeEFiaW91SUJQRENjeTJMd2NMT2NrMkM4WlliekdTbzlNSQ?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-30T07:00:00+00:00"
       }
      ]
     }
@@ -112,6 +112,12 @@
      },
      "news": [
       {
+       "title": "VanEck Gold Miners ETF (GDX) options chain",
+       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYVRrY3VhMjdnLUIzTEtkSXFsa1hrLTNRR1U5VUlkUzdEaWJVbFVxeUNtOGRtMkIxUmdVenRpcW9vZURZOTRLYTJnVjhlQ0pYUjB1anA0ck9HT3pMSVRiRGRmcFZwV3gyXzF5ZW1ZaDNFcDFlU05fNUQxZ0ZlanotcUMwU2UxWTJwVE5oT2Rtc20?oc=5",
+       "source": "Yahoo Finance UK",
+       "date": "2026-11-07T20:18:38+00:00"
+      },
+      {
        "title": "7 Best Gold ETFs for 2026 and How to Invest",
        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOTgxMENUUWpxcm9UUmYtSW5HZDVla3NBTU1VZ0Zva3hXcVIzaWhSaE5OaGFITnJhdFIxTUxPWUhwTm9LMjRScFNOSExOTldPRE9tcmthdVhnRmQ5ZXN0OXktNGdNMzAzbkxwa00tOFgxY1U0RDM2UzI1QnRQaUlLd3pYa0stRGxpTW5vSXBNYkhkQ1ludVE?oc=5",
        "source": "The Motley Fool",
@@ -125,15 +131,9 @@
       },
       {
        "title": "Form 4 VanEck Gold Miners ETF For: 4 November By Investing.com",
-       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYjMyUGJnVzFqQmZNZHZnaUlubEhkMXBjZFpvREJOMGw0YUFFMmt1UlhHajJhM1QxWjk4QUJ2NzlxUFBjeThGQXFNSWhvM2lNWGVKdzNMNHppYThjY3g2ci1oRHA5eWZnR25NYkN3dWM1anVQcjhGZzZVLVlob1E1QWExRlVkTmFiVGNSOEp4cmNPMi1reGtFRm9wYzdzNHBHdmZ3akswRE8?oc=5",
-       "source": "Investing.com Canada",
-       "date": "2026-11-04T22:19:19+00:00"
-      },
-      {
-       "title": "VanEck Gold Miners ETF (GDX) options chain \u2013 Yahoo Finance",
-       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTFhpcHFMZTR3dnhiUTJuNWFDbnlLbndLMTRXeWVONXhsUFpIZWRNcFl3UjFCZzJjMEctZUFGTmxvVjZZSTg0cm9ra1FnanZQcnpBWHFiOUVZWFdiU1E5Ull6NW9iNUp1d3JzREdsUXVwdzZKNlprR1E1OHA1c19QYXlheXFoS01XZGxsTmNaUmM?oc=5",
-       "source": "Yahoo Finance Singapore",
-       "date": "2026-11-04T15:46:37+00:00"
+       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORU1YalAzcDg0OVVjcDBOc0g2ajFFbmRPM2VLd1hfMlAydV9Rcm5IMkM0bDJvTFQ5dDZoOTFIWWFnbklqU091MFd5RGxCel96dE9ieEp3NGFGUXE5Rzk0Wkx4S0hvYlNHdEVsZDlmRS1fWGtGZEpwVDNzN29VR2VkWmpnel9pZjJaQ1pxZDN6N1pYWlh5eUpxVXVQQlQyck9lRHJuYU94RXQ?oc=5",
+       "source": "Investing.com UK",
+       "date": "2026-11-04T22:02:00+00:00"
       }
      ]
     },
@@ -298,10 +298,10 @@
        "date": "2026-11-07T05:14:00+00:00"
       },
       {
-       "title": "Coeur Mining, Inc. (CDE) stock price, news, quote and history - Yahoo Finance",
-       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HYUdHZzZuOUV1cGlPNEk0ZU4td1ltV2dsdWpPc2EtOUpuTEQtaFZrYm9rclQ5U0RlcUdGSDBmUUFhZzdPeTFRcDRBVld2VkstYXpxb0xUTFp4V1Zoa1BTZQ?oc=5",
-       "source": "Yahoo Finance Singapore",
-       "date": "2026-11-07T03:21:24+00:00"
+       "title": "Coeur to Participate in RBC Capital Markets London Precious Metals Conference",
+       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQamlBWmtjek9UWndRZ2xaVEVlZ2wwWmZKU2k2RXJBTXNFMnZpUEVPY1hSSjFTUDhuYTZfUEhQel9yeHo4dTVFNUdjQVJpTmxSM2E4b2lHRVN3N3doWWE3NTJ5ZWJPNG5nSUFtT0hYLWxHNGpBSnNSZ0VXWkdob0hOc01odUZPaDFheDZTV2dEdXpsdl9rRDRjZXhNbDVPV1V4SnRpVEZZWWM4ZUU?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-11-06T21:30:00+00:00"
       }
      ]
     },
@@ -512,11 +512,11 @@
      "symbol": "GC=F",
      "name": "Gold (USD/oz)",
      "quote": {
-      "price": 4137.5,
+      "price": 4130.39990234375,
       "prev": 4074.89990234375,
-      "chg": 1.5362364513602955,
+      "chg": 1.3619966460544974,
       "currency": "USD",
-      "asof": "2026-11-08T00:00:00-05:00"
+      "asof": "2026-11-09T00:00:00-05:00"
      },
      "news": null
     },
@@ -536,9 +536,9 @@
      "symbol": "USDNOK=X",
      "name": "USD/NOK",
      "quote": {
-      "price": 9.441550254821777,
+      "price": 9.439149856567383,
       "prev": 9.300009727478027,
-      "chg": 1.5219395623377707,
+      "chg": 1.4961288554166563,
       "currency": "NOK",
       "asof": "2026-11-09T00:00:00+00:00"
      },
@@ -615,13 +615,13 @@
        "title": "Nvidia Shares Dip on Robinhood as Huang Affair Spurs Board Probe",
        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdnRpX0RPT3RRQ3p4THN2ZXU2MHVWRjVrTjBteEM2cEV3RXZuU1pPQWdOdXNrZkZxcWZRdUhMWVdkWjJyM1BaVHQ1UVMzX1M3eGFEQzdpWWpPaDA4d20xSHVtWERFLVlMSHZwdWJNYUZSUHRtOEQtLXRsWWEyUU5UTlhpbkhIYnViNE1jY0g0R1l1ZGhWa25ZX2F6ZWYyRng4ZXVSd2FNQlRzendmSVJSb2RXeDR0dw?oc=5",
        "source": "Bloomberg.com",
-       "date": "2026-11-09T03:56:00+00:00"
+       "date": "2026-11-09T05:05:00+00:00"
       },
       {
-       "title": "Nvidia Stock (NVDA) Rises 2.8% as Chip Stocks Rebound (Nov 6)",
-       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBiTWpkYkxmQ21VYnZLeUxxMkp4Z1BBcUpxVmtVclFCazdQZTNYWjUxM0U3YUh4dE5ITzYza3FqQVlpZEdDTU5IZkwyQl9qcGltVVdMVWpONWtwV2d1eloxaElmN3BqZkNrdnFUdEdlemwwU1h0eEpsVE80d2w4UDA?oc=5",
-       "source": "Gotrade",
-       "date": "2026-11-09T03:00:00+00:00"
+       "title": "AMD, AVGO, INTC, MU: Chip Stocks Inch Higher As Investors Look Past Midterms-Led Selloff, Nvidia Controversy",
+       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOa3R5aS1PeTV0Mm1Wc1lTeVAtWVQ3ZGI2ZFFiTDJ5WFNNNllvOUVfa1JHWHMwYXB5MzVfWTJ2aGlGVnBUZUhTSVE2X3hablZoX0MtZExqZ2pjYjBMeWZjT3NISC05eWprZGUySjIxS2VYOHQ2RUlDTHdMU1JWc0RPTGhJbVROVldyWkZwdkRYMA?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-11-09T03:34:00+00:00"
       }
      ]
     },
@@ -669,9 +669,9 @@
       },
       {
        "title": "Amazon's CEO Andy Jassy Just Announced Huge News for Amazon Investors",
-       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUXNkbWtyYy02b3RmQTNwR3Q5d0JYQzM2MUhHaDJDVVI1QThiSEpZVURLa2g2QzdtLXhoOWxMaTVOSXRKcFBfdGxNZXMwYTg2cUZPdDk3QlhKY1RrLWpwZ1owU3AzTGd3ZE5pQU1xaU5YakQtQ012LVN4OVhJMTQ0VEFERGxMUEUxcWNCcExBcXdnMTg5QW90aGNHQ3RDVjhOOUlFamtxdmtlZDExNm5laXd0WHpJTnl0ZXZ4WDdGcmJIN0o2UEhCMmVhR3lXRnZoU01vS1JmclZJdXhXSzkxcWh3?oc=5",
-       "source": "The Globe and Mail",
-       "date": "2026-11-06T20:32:49+00:00"
+       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMEstaWkyaXZfaEhtQ0V3Q3dVLTZRN3VfZlUyZURrNjhRbU80Zi1EeDFSUXBaQTltWXZwbEQzM1BTV0Z1SmtJT2k5SGZOOVJTM0s1LU8tbnRsRzdScEd6TnozVDAwLTFRUVU4UUZQcmlVMXRscnFWQ09Ha1NxTlN2bzlOWVVFTkNKVWRRQTlQLWNHRGNKY0k4?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-11-06T20:20:00+00:00"
       }
      ]
     },
@@ -731,6 +731,12 @@
  "failed": [],
  "general_news": [
   {
+   "title": "Weekly Stock Market Outlook: Nvidia, AI Stocks and Inflation Data in Focus as Wall Street Looks for a Recovery",
+   "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQZDJBUTc1Y0s0czZNY3B3NFFVUzV3N3M5ZjF1VmVlblN1OEFZbnRRbDY0b1ZLRTA2WnFOVVFFZW14WUVWUDBpb0g3OUpzWXFsYkJuSWRjZjRLenJEcm4zamxNbW1la0N4Z1NYMTFjaVlublhnRWZWZFcyb0JqYWF4amxXWk5sc2dSUVA1emFDTWVKVUdEemQzZVl3bFUwTWxEc1RqZEJmRjlhT0xpZ0prYXQwaDNqTFNmVlNrSVVJaVhqaGxqcHFTU2pqbHFLYXA1Q1RHWVhXMFBqLXdqZi13T2dqMW9iMllLbGNtNGpXdVNwQ1RBSEh1Y1p3cm9QcmlKSFB2Y3gxc2VRcFFtWGhad0lJOVQxRGs3NUZkTDRR?oc=5",
+   "source": "The Globe and Mail",
+   "date": "2026-11-09T05:01:15+00:00"
+  },
+  {
    "title": "Nvidia's Jensen Huang admits to affair after allegations of romance with Chinese spy: Report",
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNYU5fTUZfS2drVGlTTk43X0NHYU9EMWZJQ0pmN1IyMDlWRFJLUjdpamR6QmlYN2pLR2FYaGw2RHJPbHl6VTdXOTRDaTlMSEJEWUZLYXlSNkw0VWlRSmlTNGl6WjFmVU5rRkRVeng2alFRSjdRR2lVTEpvSWM3THFmc1dQNk5SVG9pcm93WW1IQjFLV0xSOTBZd0RoQnU4SWJJRWhMcHZWMFpWcHRvSU1TQWVsTXR6NzdBcFFRRURMdUlCZ0hnSnNzZkV6eGZ6clp6dGVhcEZUMTkwRHpwSGhibg?oc=5",
    "source": "Yahoo Finance",
@@ -771,12 +777,6 @@
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOS09mUGRzT2FGdy1xdnpFMEREemFaNE5mZk9RRVZXQlZyVEQtYkJHN18wQUU3QkppYUp2cTBnYndyd3BFamxQQ3RERVU4cHdwQjlqX3l3R2R0SkwyT3A3QWhORld3c28zNXgtNWxVT1VhdENmWmwzLTMxdy1yTU9OS0E0eHVjNXpNdUJ6dkp5ZDloZThOM19sRU9tYWg0Zw?oc=5",
    "source": "Yahoo Finance",
    "date": "2026-11-06T15:50:00+00:00"
-  },
-  {
-   "title": "Global recession risks look more like mild 2001 than 2008 - Oxford Economics - IntelliNews Lambda",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdnN5OG5jR19DbWxlVW10YXZ0WWY1SFRnN3QxQzI4MktNbTZTREQyWFBLbjFYai1NbVZVSnVtM212RnRNNmJ2QXNOVDJxRzhkZmQ2SU9sVW1xOHNxaVpBTUhxSmZ4Z3g2aUk5ZWMwbU54T1lhYUNQYnA5a1ZPOFFoMnB3UjRMdXhKSy1tUTZjaHB6UV9PNlU2a05EWlJBOF9QNVdOWFh2cWpBRl93czAzX3hKWGp0NzhWOU5FUjA2dGF0cU1BQVZVZg?oc=5",
-   "source": "IntelliNews",
-   "date": "2026-11-05T16:29:35+00:00"
   },
   {
    "title": "Could an AI Spending Crunch Cause a Recession?",
