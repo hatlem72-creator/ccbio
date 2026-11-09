@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-09T08:51:17.130383+00:00",
- "usdnok": 9.420129776000977,
+ "updated": "2026-11-09T09:55:56.881515+00:00",
+ "usdnok": 9.300009727478027,
  "btc": {
-  "price": 74258.03125,
+  "price": 74249.9921875,
   "prev": 74584.6484375,
-  "chg": -0.43791476442193167,
+  "chg": -0.44869320565401605,
   "currency": "USD",
   "asof": "2026-11-09T00:00:00+00:00"
  },
  "silver": {
-  "price": 52.459999084472656,
+  "price": 52.4900016784668,
   "prev": 51.803001403808594,
-  "chg": 1.2682618050307681,
+  "chg": 1.3261785148373617,
   "currency": "USD",
   "asof": "2026-11-09T00:00:00-05:00"
  },
@@ -24,9 +24,9 @@
      "symbol": "KOG.OL",
      "name": "Kongsberg Gruppen",
      "quote": {
-      "price": 340.6000061035156,
+      "price": 342.8999938964844,
       "prev": 335.3999938964844,
-      "chg": 1.550391264657014,
+      "chg": 2.236135997758759,
       "currency": "NOK",
       "asof": "2026-11-09T00:00:00+01:00"
      },
@@ -38,10 +38,10 @@
        "date": "2026-11-06T21:12:13+00:00"
       },
       {
-       "title": "Kongsberg Gruppen ASA (KOG.OL) Seasonal returns chart - Yahoo Finance",
-       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55cDhIUnpRZHJWS2pnWk5nVHVvZWtya1hoS2F4MFNxakFycTBydUJtbXVJRmphWnQ5RGZ1b2dLX1V0SE90bDZwbGJmTjhsaU9uMHNVZ08tYklVMHdlOFh6ME45T00?oc=5",
+       "title": "Kongsberg Gruppen ASA (0F08.IL) Seasonal returns chart",
+       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDMGxVTkpsT0N0T3NteFdzbm1mUnFad2ZJNE5lak9ma2tnY0l2UDBnNTZuTzFRQ2s3X255bXBKUnNMbkZJcjlYMlFqX25xRmNpYUdCa2dheUVoWU5jWEVWc3VqOXh0UQ?oc=5",
        "source": "Yahoo Finance Singapore",
-       "date": "2026-11-04T14:45:00+00:00"
+       "date": "2026-11-05T01:38:43+00:00"
       },
       {
        "title": "Kongsberg Gruppen ASA 2026 Q3 - Results - Earnings Call Presentation (OTCMKTS:KBGGY) 2026-11-01",
@@ -61,18 +61,18 @@
      "symbol": "KMAR.OL",
      "name": "Kongsberg Maritime",
      "quote": {
-      "price": 57.599998474121094,
+      "price": 57.79999923706055,
       "prev": 57.2599983215332,
-      "chg": 0.5937830292601198,
+      "chg": 0.9430683397772199,
       "currency": "NOK",
       "asof": "2026-11-09T00:00:00+01:00"
      },
      "news": [
       {
-       "title": "Kongsberg Maritime ASA (Z4Q.DU) interactive stock chart \u2013 Yahoo Finance",
-       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBuQ3lSZU1xOEJ1TThOdEpYRkRxTzBaREM0REJlaUVzTk9tOWJfcHo0QzFyTU5idlM2a2VCbHRJNl9LR1VyTElFQVNjX2pIMHJDX1FGT2NKbDdYSFVX?oc=5",
-       "source": "Yahoo Finance Singapore",
-       "date": "2026-11-08T14:48:42+00:00"
+       "title": "Kongsberg Maritime ASA (Z4Q.DU) options chain",
+       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UWGJBd24zSUc2TGo0RlFzREQ1Mzc1a0J3VDNrTUFSb2FBeGZ1bU1Vc0JoRmlteTd4dHpqV1RtQzBWRXhmN01VaGQ3a2UtQ3RXS0JORnpNZlpHVjI3a2Nz?oc=5",
+       "source": "Yahoo Finance UK",
+       "date": "2026-11-06T20:50:06+00:00"
       },
       {
        "title": "Kongsberg Maritime ASA (Z4Q.F) company profile and facts",
@@ -87,10 +87,10 @@
        "date": "2026-11-06T14:25:02+00:00"
       },
       {
-       "title": "Kongsberg Maritime A.S.A R (Z4Q.F) Q3 FY2026 earnings call transcript",
-       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcFBBODhzMHhycVg5M3c1blVYX0h6aHY3RUVqaU1uU2NvM2RuOENTTnM5LVdSSWFDUmszSldhMHpEd0dXalBVcE9VTVpNQTZxVXJiNUxxZkl2alQ4MDJzOGdVb0NoQXZSLWZBU01TeEFiaW91SUJQRENjeTJMd2NMT2NrMkM4WlliekdTbzlNSQ?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-30T07:00:00+00:00"
+       "title": "Earnings call transcript: Kongsberg Maritime misses Q3 2026 profit estimates",
+       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTEh3QzdUZURwbG1XN0FIcUdPUEZpTTA1X1poa0g4UkJ1RFRlLVBtRWxGT3pvaGh3NTdkUFRiakxYTmpGTGUzamY5bUJ2Y0h3UjBRZkxqQlhGbDNZQWJzdUpVanJkaVpTTHV3enIwZnJFOThQVkhkYks0VDZZZzBqdGwwWWNTX2hwRGdWb3Nwa1J3QU1sTkVkOWVwdFhaREQ1ZUZRT3hqbFhzQnJFRzFhbEVCa1NQU2ZFRTlTOWNkRmtESkFyVEFmWUJQbw?oc=5",
+       "source": "Investing.com",
+       "date": "2026-11-01T10:35:27+00:00"
       }
      ]
     }
@@ -104,9 +104,9 @@
      "symbol": "G2X.DE",
      "name": "VanEck Gold Miners UCITS ETF",
      "quote": {
-      "price": 89.80000305175781,
+      "price": 89.94999694824219,
       "prev": 88.19000244140625,
-      "chg": 1.8256044515037262,
+      "chg": 1.99568483741146,
       "currency": "EUR",
       "asof": "2026-11-09T00:00:00+01:00"
      },
@@ -141,9 +141,9 @@
      "symbol": "2B76.DE",
      "name": "iShares Automation & Robotics UCITS ETF",
      "quote": {
-      "price": 17.166000366210938,
+      "price": 17.13599967956543,
       "prev": 17.173999786376953,
-      "chg": -0.04657866697053148,
+      "chg": -0.22126532714683567,
       "currency": "EUR",
       "asof": "2026-11-09T00:00:00+01:00"
      },
@@ -317,16 +317,16 @@
      },
      "news": [
       {
-       "title": "First Majestic Silver (AG) Stock Price, News & Analysis $AG",
-       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5NYzFSN18tbmRzZ1JHcDhzb2R4R2JCSjl1QjUyS2s0Umg5S09uTG05aGpLamNoTFczdk1NbmJPdFhIc054LVUxdGF5T2gtcUhWTkEtNA?oc=5",
-       "source": "MarketBeat",
-       "date": "2026-11-06T08:00:00+00:00"
+       "title": "First Majestic Silver Reports Strong 3Q26 Results",
+       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeDdaajAwN3ZiTEM0WlZpUTRaNjdCTHJyTVpycEdmMjBlLTRsZTFQR0FwNGVMRkN1aGxWNkI3WklWWlVDbHJFX0ZLTThia3BId3o1VGZqTEdkUndrWHozbDIzbVlyVEtGcDF1VGVLN1VHeDZObWlPUmJlYjU5ek1pOG9keWNsM0p6QzVPZGE2N2xRTENOWWc?oc=5",
+       "source": "Mexico Business News",
+       "date": "2026-11-06T15:10:26+00:00"
       },
       {
-       "title": "First Majestic Silver Corp (AG) (Q3 2026) Earnings Call Highlights: Record Revenue, Robust ...",
-       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVmFsTTB0OXMxWi1ySm1MQjdsVmlWWjMwOGZvYlFOXy1IQmJsblY5dTdfUGV3WHdYQ0RoOVRycHZkSnNpZklvSWVtYUtRQTN1amhiX3RSZTlrQWJfR2pCSGJKTGhMYmpWY1JaZFhJdkt2OFNLMWlDYURka2t0LXdBdW5HYlQ?oc=5",
-       "source": "Yahoo Finance Australia",
-       "date": "2026-11-06T05:18:00+00:00"
+       "title": "First Majestic Silver Q3 Adjusted Earnings Increase YoY",
+       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOUtvTGluaXVHQlhCb1VFUnVsQWJ1dmFaY28xOWdaSkh3bU9qVnlwaWpFQkQ5R3ZRNk1QVkZqV2pwbm90NF9SX2hNTUNWa2xFaVhVZDd6Y0FmWDFxSC1VWUdjdWI2cWhQaEhGSGJOSGVUa3lxZW8zQnhnQmNwY0J5MGphMXdxLWFtYkxUekR5MDIyOVg3bHJmdkM5eUwzUktQdGR3eXBhdTJ6TXNQ?oc=5",
+       "source": "www.marketscreener.com",
+       "date": "2026-11-06T12:32:53+00:00"
       }
      ]
     },
@@ -342,10 +342,10 @@
      },
      "news": [
       {
-       "title": "Defiance Silver Corp. (DNCVF) Seasonal returns chart - Yahoo Finance",
-       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xU3FpQWJaZ3ZoX2hpVEZjSC01bWtEOTZhU2hpR25YVmdmcGk3cDI2enppQmt2eHoyZnMtYUk3bWFFMUV6aUtTV2FtemtaRjBxcWZDOEQ2ZVBXX2lKWTNQbUNfZw?oc=5",
-       "source": "Yahoo Finance Singapore",
-       "date": "2026-11-03T23:58:45+00:00"
+       "title": "Why Is Defiance Silver (TSXV:DEF) Down 2.33% at CAD 0.105 With an RSI of 25.51?",
+       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcFgxX19XRGItYk9RSGlJWHNlaFk1NFdHd1dFUjF5Yk9BUmprYS1ORmVpUjJNd1NySmdQRUwydHZoR3RKOHQzak0zdVBXSng4NmROa2ZnRWVYRmR0TUxucmFGNjM0ZDdCcVBFVF92WjlWQ0RFbjhmQWpEbHBWWklQWWdxRU9GTHZwTEZOVURiNWdqZ2VlZ3l0LWVPcmxVX202R1hOSA?oc=5",
+       "source": "kalkine.ca",
+       "date": "2026-11-04T12:59:00+00:00"
       },
       {
        "title": "Defiance Silver Corp. Reports Earnings Results for the Full Year Ended June 30, 2026",
@@ -476,9 +476,9 @@
      "symbol": "OSEBX.OL",
      "name": "Oslo B\u00f8rs (OSEBX)",
      "quote": {
-      "price": 2064.580078125,
+      "price": 2077.469970703125,
       "prev": 2053.360107421875,
-      "chg": 0.5464200196823921,
+      "chg": 1.1741663429665872,
       "currency": "NOK",
       "asof": "2026-11-09T00:00:00+01:00"
      },
@@ -488,9 +488,9 @@
      "symbol": "^GDAXI",
      "name": "DAX",
      "quote": {
-      "price": 25945.779296875,
+      "price": 25972.0390625,
       "prev": 25820.359375,
-      "chg": 0.4857404192307069,
+      "chg": 0.5874422013152136,
       "currency": "EUR",
       "asof": "2026-11-09T00:00:00+01:00"
      },
@@ -500,9 +500,9 @@
      "symbol": "^VIX",
      "name": "VIX volatility",
      "quote": {
-      "price": 24.40999984741211,
+      "price": 24.389999389648438,
       "prev": 25.639999389648438,
-      "chg": -4.797190216521274,
+      "chg": -4.875195123852693,
       "currency": "USD",
       "asof": "2026-11-09T00:00:00-06:00"
      },
@@ -512,9 +512,9 @@
      "symbol": "GC=F",
      "name": "Gold (USD/oz)",
      "quote": {
-      "price": 4106.89990234375,
+      "price": 4103.0,
       "prev": 4074.89990234375,
-      "chg": 0.7852953634908788,
+      "chg": 0.6895898875966866,
       "currency": "USD",
       "asof": "2026-11-09T00:00:00-05:00"
      },
@@ -536,9 +536,9 @@
      "symbol": "USDNOK=X",
      "name": "USD/NOK",
      "quote": {
-      "price": 9.420129776000977,
+      "price": 9.379010200500488,
       "prev": 9.300009727478027,
-      "chg": 1.2916120739964398,
+      "chg": 0.8494665633417942,
       "currency": "NOK",
       "asof": "2026-11-09T00:00:00+00:00"
      },
@@ -588,9 +588,9 @@
      "news": [
       {
        "title": "Microsoft Stock: Buy or Sell? (My Final Verdict)",
-       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORXRwRUNBRUI3SVNwTEg0bUo5TC1PRk5lYXhqNEpsMUlYSmllT2E2WDRnNHFCaGgxVHZMXy0tM1B6VkhoV3hzNTRwTlhnc0d6MTg2TUV2Y2ExY1pNZlk5SlVNTDRVMTRCMXZHbkRiVE1hTzhPUTRIbVN0VmZXb18yalVYZXZtUVJpazFqOWxlZFJtOGZQdEVnSndTSWZnUlB1TUpJQ19RRG9HNTRrMjItQzFYVGlkNFBsNFR6Y2NQb0s?oc=5",
+       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcE05OXpGeFBfVkFaZThJamNDZ3JjM3FqeThYM1JZWGo0T0x0dGdjckR0dlotVjE4Um1UUmZQUnRRdFlXbjZVUTZCNTNnQ3FSYml6VTh6U1BodHhPVlBWVllZTlRiZlgySG1Ycm1jdU5OZTBQZUtzVXgyTUVHQXRCUUcxZmJsaEpwdUV3U05pcXRxZEpIZUllRkp5dHJCY2kwUm10ZmFScGNHWmxoWUN5dnEzVXJkRTVsR2RqdDJNYUk0QXd1WXpxUA?oc=5",
        "source": "The Globe and Mail",
-       "date": "2026-11-08T11:31:24+00:00"
+       "date": "2026-11-08T11:20:20+00:00"
       },
       {
        "title": "Oracle falls 4% as Microsoft reportedly winds down AI cloud capacity deal",
@@ -612,16 +612,16 @@
      },
      "news": [
       {
+       "title": "Nvidia stock falls 5% as scrutiny turns to Jensen Huang\u2019s relationship with alleged Chinese spy",
+       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcndzRG1jRHQ5c25nX1RuQVVNeXJUXzNnemotNFRpWGhwUGNCN3hmV2VkMndSVkl4V1hIMmhUMDhjWTJFa1BYckVYM1BkX0ZMMEQ2WmFxRGRhYXFtNzVJQUEtNW9PaUhfekFYM1RWeG0xbldSZlcwVldGZXVXVjNvcDdNN2dReWFqM3c?oc=5",
+       "source": "CNBC",
+       "date": "2026-11-09T09:05:48+00:00"
+      },
+      {
        "title": "Nvidia Shares Dip on Robinhood as Huang Affair Spurs Board Probe",
        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdnRpX0RPT3RRQ3p4THN2ZXU2MHVWRjVrTjBteEM2cEV3RXZuU1pPQWdOdXNrZkZxcWZRdUhMWVdkWjJyM1BaVHQ1UVMzX1M3eGFEQzdpWWpPaDA4d20xSHVtWERFLVlMSHZwdWJNYUZSUHRtOEQtLXRsWWEyUU5UTlhpbkhIYnViNE1jY0g0R1l1ZGhWa25ZX2F6ZWYyRng4ZXVSd2FNQlRzendmSVJSb2RXeDR0dw?oc=5",
        "source": "Bloomberg.com",
        "date": "2026-11-09T07:23:00+00:00"
-      },
-      {
-       "title": "Nvidia (NVDA) Stock May Be A Bargain Following Data Center Regulation Fears",
-       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOemZUbXc2MllpTkE0Q3JjNFhFSE0xTGlqbEFFYXJfZzZSczU1TEt6dWY3d1ZUQk4zcUFsNUt5Rld4OWoxYzBGSG9WVkNURFFIX1RNeEhVNDdvQklDY1RDYWFUeHcyVkVkbjNLYmRrUURGQjlSVkJqWXBERU9IZmQ4Z2FBaEs?oc=5",
-       "source": "Yahoo Finance Australia",
-       "date": "2026-11-09T06:07:00+00:00"
       }
      ]
     },
@@ -718,10 +718,10 @@
        "date": "2026-11-08T19:44:00+00:00"
       },
       {
-       "title": "Elon Musk Is Killing the Cybertruck. What It Means for Tesla Stock.",
-       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU1BjRWpvRk9HZ21UWmN4Q3dkcmlOMEktZnpTMmRZYXg3N3pGUlhEaFNXQ1pjeE85QTlidTBlblZja3NPNnE4cTh5VGoxNEVSOTZ4UEJzVTBSNmtLN3ZPOVljVXNvRy10N1ZMZ3NUU29fWTJpb3A4WGZwX0ZEWUlhSFowZFg?oc=5",
-       "source": "Barron's",
-       "date": "2026-11-06T21:41:00+00:00"
+       "title": "Tesla Stock Hasn't Closed at a Record in Nearly 11 Months. Here's How Its Past Record Droughts Ended.",
+       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQS2xUVVdGV1hVQThaYjBkaFFuc0JYSHp1Vkx3ZXdKdUdudV9Cc0ZWcmRGTlRWYWVYZEd0UV83VHZscVloV2h4WXBpeXFvWGFqNm1LRURva3A2MXBkWG9VLUo5UGJUWURHVnNhV0ZPU0Q5ckx6QUI2cG9CckR5WFk2allvTktiR3h1clF2TGdlUWdGU0lsWmNCMDJrRFI?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-11-08T11:37:02+00:00"
       }
      ]
     }
@@ -785,16 +785,16 @@
    "date": "2026-11-06T11:30:00+00:00"
   },
   {
-   "title": "Global recession risks look more like mild 2001 than 2008 - Oxford Economics - IntelliNews Lambda",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdnN5OG5jR19DbWxlVW10YXZ0WWY1SFRnN3QxQzI4MktNbTZTREQyWFBLbjFYai1NbVZVSnVtM212RnRNNmJ2QXNOVDJxRzhkZmQ2SU9sVW1xOHNxaVpBTUhxSmZ4Z3g2aUk5ZWMwbU54T1lhYUNQYnA5a1ZPOFFoMnB3UjRMdXhKSy1tUTZjaHB6UV9PNlU2a05EWlJBOF9QNVdOWFh2cWpBRl93czAzX3hKWGp0NzhWOU5FUjA2dGF0cU1BQVZVZg?oc=5",
-   "source": "IntelliNews",
-   "date": "2026-11-05T16:29:35+00:00"
-  },
-  {
    "title": "Could an AI Spending Crunch Cause a Recession?",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdEk5R1NaUFR4eVB2MXJlSndCMHpidWNES0JlYXZGbVFpeUFNT0xkbjFVVjc4dmNmLXdFTWxpOVNNZEswTlpvekp0QjIzQ19rbF9YU0JqWFptenMySC1ZbDVRbVNBYzdrbksteVJBbzhzZlFOVWtWVjA5VjJyRTVSMkNxN0xGQQ?oc=5",
    "source": "Morningstar",
    "date": "2026-11-05T14:02:46+00:00"
+  },
+  {
+   "title": "Five Signals That Preceded Past Recessions Are Back \u2014 and AI Is at the Center",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVlMtdmsxWmwxX2dUVEh0TlBsZUNyYUd1cV9yQ3JjRm56czRxQzA3d2FqQmpTZ2lGcXJKY0hYalhyY2l2UjBaeXRzeVVGNnpjQ3hZMVllRGhxOTF1QjVzUXpwN3dZTU5NLTk3eUZTTjBlN001YlBwRHF6TDhqTmdwWVpTUF8zSXRBdGFBdTBOT3NRYXJ6VWhnczI0OHJoeUJTVG92S1RjQ2xYRnBZU25abTRIeE0zemszMl93N3pYbUNRY2ZHNWZxZ1VZc1IwM1U?oc=5",
+   "source": "TradingView",
+   "date": "2026-11-05T13:45:04+00:00"
   },
   {
    "title": "Elmera Group to Delist from Euronext Oslo B\u00f8rs",
