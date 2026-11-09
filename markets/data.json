@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-09T21:45:18.776635+00:00",
- "usdnok": 9.394350051879883,
+ "updated": "2026-11-09T22:41:55.429144+00:00",
+ "usdnok": 9.373220443725586,
  "btc": {
-  "price": 74736.5,
+  "price": 75205.8671875,
   "prev": 74584.6484375,
-  "chg": 0.20359627038699646,
+  "chg": 0.8329043080769649,
   "currency": "USD",
   "asof": "2026-11-09T00:00:00+00:00"
  },
  "silver": {
-  "price": 53.404998779296875,
+  "price": 53.45500183105469,
   "prev": 51.803001403808594,
-  "chg": 3.092479841082141,
+  "chg": 3.189005236141851,
   "currency": "USD",
   "asof": "2026-11-09T00:00:00-05:00"
  },
@@ -506,9 +506,9 @@
      "symbol": "GC=F",
      "name": "Gold (USD/oz)",
      "quote": {
-      "price": 4148.60009765625,
+      "price": 4149.5,
       "prev": 4074.89990234375,
-      "chg": 1.8086381771024618,
+      "chg": 1.8307222126693778,
       "currency": "USD",
       "asof": "2026-11-09T00:00:00-05:00"
      },
@@ -530,9 +530,9 @@
      "symbol": "USDNOK=X",
      "name": "USD/NOK",
      "quote": {
-      "price": 9.393630027770996,
+      "price": 9.373220443725586,
       "prev": 9.300009727478027,
-      "chg": 1.0066688426825676,
+      "chg": 0.7872111792662784,
       "currency": "NOK",
       "asof": "2026-11-09T00:00:00+00:00"
      },
@@ -582,9 +582,9 @@
      "news": [
       {
        "title": "Microsoft Stock: Buy or Sell? (My Final Verdict)",
-       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORXRwRUNBRUI3SVNwTEg0bUo5TC1PRk5lYXhqNEpsMUlYSmllT2E2WDRnNHFCaGgxVHZMXy0tM1B6VkhoV3hzNTRwTlhnc0d6MTg2TUV2Y2ExY1pNZlk5SlVNTDRVMTRCMXZHbkRiVE1hTzhPUTRIbVN0VmZXb18yalVYZXZtUVJpazFqOWxlZFJtOGZQdEVnSndTSWZnUlB1TUpJQ19RRG9HNTRrMjItQzFYVGlkNFBsNFR6Y2NQb0s?oc=5",
+       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcE05OXpGeFBfVkFaZThJamNDZ3JjM3FqeThYM1JZWGo0T0x0dGdjckR0dlotVjE4Um1UUmZQUnRRdFlXbjZVUTZCNTNnQ3FSYml6VTh6U1BodHhPVlBWVllZTlRiZlgySG1Ycm1jdU5OZTBQZUtzVXgyTUVHQXRCUUcxZmJsaEpwdUV3U05pcXRxZEpIZUllRkp5dHJCY2kwUm10ZmFScGNHWmxoWUN5dnEzVXJkRTVsR2RqdDJNYUk0QXd1WXpxUA?oc=5",
        "source": "The Globe and Mail",
-       "date": "2026-11-08T11:31:24+00:00"
+       "date": "2026-11-08T11:20:20+00:00"
       },
       {
        "title": "Microsoft Stock: Azure Drives Growth (NASDAQ:MSFT)",
@@ -606,16 +606,16 @@
      },
      "news": [
       {
-       "title": "Jensen Huang affair puts Nvidia's future at risk, with no clear successor to the renowned CEO",
-       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EcnlNdzFRY2RtTFNiaVYxeFhDSnJIck5qckxaeE4wLVRVYWFFSkZoc2tJNjRmLWxXSGxQMXFuYi1YeHpYbGNjOW5CMy1rNHNTaDlCWEpfUEpvYkprUEVkZjBJTTl6SmZRLWtNd1B3czh3ckl2ejlYcHFUN1FUODQ?oc=5",
-       "source": "CNBC",
-       "date": "2026-11-09T19:33:23+00:00"
+       "title": "Nvidia Stock: Our Take on Whether to Buy, Sell, or Hold After the Jensen Huang Affair",
+       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB6TE5LVmNYWkM2QTV2RWJXOHgxdUtkTHhhUHdjZTJ3dFBLdUhpcXFiWFYyMFNJMFVYZkIybmpJQUpQOU82SmdsWFZFQTBHYXFJMXBVanVfbHh4QzdDek5pRm9zbDg5bmVvVTNrWlc0WUM0VU93SXM4?oc=5",
+       "source": "Barron's",
+       "date": "2026-11-09T21:25:00+00:00"
       },
       {
-       "title": "Trump's close ties to Nvidia's Huang scrutinized after foreign intelligence concerns",
-       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTWVFLU9IdFNEUzFUaXdxTC1PZ3VrOElsd1BDMXE4ckx1ZmdLWnBBMjZtTUF3MXBXcVJLRVJmbFZ0MnhNakc1czRyNFRFSzVZX29adEw3ZjV4aGRycmVwVmQ0RGZpaWxmWXJ2NUQ5U1ptVkVISXdOdjFnaGdkZGNBVVI2OHdiVVVYWEpZNEhMZ3NtckVDYi1mMHU0VUJHcDN1dEF1NmxkNEZxZGpOWjRtM1cyVTgxT256SFNDOEdBZ3I4MThjY0E4bVF1ZERTV2c?oc=5",
-       "source": "Reuters",
-       "date": "2026-11-09T19:17:44+00:00"
+       "title": "Why Ousting Nvidia\u2019s CEO May Be Worse Than the Scandal Itself",
+       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1HRXFMT2pzMTR2MGUybjNiVm5aYUhrX0VPZGxUVmMteGIzNmFNZHgzNDRRMHFfb1pNSmxLT1d2a1dPSHlaTGpFdG84c0x4N2FMY2NtYk92M1hZLV9jQi1kQVJIM29rM0pOeFRwUTJCelpHNGpSck55UkZMUld2QQ?oc=5",
+       "source": "Barron's",
+       "date": "2026-11-09T20:20:00+00:00"
       }
      ]
     },
@@ -631,16 +631,16 @@
      },
      "news": [
       {
+       "title": "Alphabet Keeps Its Massive SpaceX Bet. Now It's Making a $548 Million Qualcomm Move",
+       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbmJQZ25KM25qNGZ2YlJUNHYtUk1BQkRGVG5DczMzaHdOWVdaVF9GclZDYUdiaUdEZzlTSDRhd1gxTWJWNFdQSm1rdTYzV0dMdFFvZUxZSko5eGhOaWpNRDUyZ0ZNcnJ4QXR3dm95RDRwazNsaXRrdWt6V3VOUmVFUXdlODhORnRxc2Q4XzRjTWFRTjg1eXNaTWNiekdBUQ?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-11-09T11:18:23+00:00"
+      },
+      {
        "title": "Mapping the Market: Alphabet shares may be ready for a corrective rally",
        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9vZGlZeXZzRUlyeHhERkg4UzlnbEFhMHBoZDlLaGN1aS05cWZ5MENHV2xGREkzWjdaMDhyR3JWQTYycjhqVVI3TFkxNldsakNGYUJLNjFobWVSUWpXdzItZ2w4TDFYMVZRMzJTQlNyUF90YkJKQ2FmVzVLdkc?oc=5",
        "source": "Reuters",
        "date": "2026-11-09T11:03:18+00:00"
-      },
-      {
-       "title": "How to Buy YouTube Stock as It Dominates US Television",
-       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNnZrc2dpWlRPME1vZmp0SWRfTWs0UkMxZUluUVJMRzl1ek9IY2lxa29HM0RWT1Zvek5TRkoxTmJLdGp1cDhNTXhYZUd4MUd5c3BDdzNFMnFDelJRNHdmejVqTGVEZjZKYTd4Y3BCcUp5QmhaLThqRXZxaE40TUk2a0FvVEtST1h0ZThJem5PQlBnWnNSY3ZPTE0zRQ?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-11-08T23:03:50+00:00"
       }
      ]
     },
@@ -725,10 +725,16 @@
  "failed": [],
  "general_news": [
   {
-   "title": "ValuEngine Weekly Market Commentary With Outlook For The Remainder Of 2026",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMjF6a0gyVVZhRm5fVHU5WWxzRmVQZG53d3VxOF9FT1FrVFBZWGh1WDQ1dTBmYXB1MUY5blY3ZlZFb0JXemlzZTJKaExLMUtva3NPMGtRQ0lDSHZvZXJqZ0h3S05OczlNWkVlRHBhZVd4VkFDTzNTbWxIbF9MSGc4dWJjS3d1NGp5dkVpYkxaTm83S081eEV6R3kwWnBGQ0M2?oc=5",
-   "source": "Seeking Alpha",
-   "date": "2026-11-09T20:02:00+00:00"
+   "title": "The stock-market rally keeps spreading beyond Big Tech. October inflation data could put it to the test.",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbElzUEl3dVVBaVlmTFVuX2kzRlJIVlNWZThFdXR5VmlGSGJhRnV5U0tfUmlHQy1nRkstNjdldDcwY0czb0ZVb0dnaGV4b2g0dlV5YkdWRnlCOGloQU5aVmhFdnlXM2JUTU8wbGwySFI3bzk3bU00WC02S2FxR3BoU2szZDhwM2owaGVacFZtN3p5cDh2aG9GUVNRUmxRVk9NandhbHdnMlQzWElORVl0bTZuRG1aZGJzb1NXM2hTNVdVczdiOF9SM3QxUnRGR2xXb3B5bGY2Nklra182elE?oc=5",
+   "source": "MarketWatch",
+   "date": "2026-11-09T21:24:00+00:00"
+  },
+  {
+   "title": "France to dodge threat of year-end recession, central bank says",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTXVXQUZwNS1VMXdBYW5iaHFueExFeG5qSWlPNFdLR2F5RTNwVTh3alg3S1JobmcwMnBEV0F0YWNJaDBHTV9FZENNY2pUbkNiUERTV29pbG01aXF2eXVPa2VaQy14cmRQNVJwR0xDaHJvTFEwb3NlMzU0cjhJWnVfYlhVYlcwWG01VWY3VmlwV2kybVFxbklqaDRmTG1GTXpIRTc4?oc=5",
+   "source": "Reuters",
+   "date": "2026-11-09T19:03:43+00:00"
   },
   {
    "title": "Morgan Stanley's Mike Wilson Makes Bold S&P 500 Call for 2027",
@@ -747,12 +753,6 @@
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQXpCQTQwc3VtSmUzR285b0V1N2puSzRENE5UajJEYjl3V3hNOVhBMGxOeGQtYmx6Xy1QVUxXMlRaLWIyWV9CNUtBaEJMUDlCcHp0eTJsNVZEX0RSTTJpcFp2UVZYQlpQd0lmYjlKMWhtbWczc1dqTXdRdGFEcGVvTThFNTRqVThZbTNjVEgyZmlMbENlVUtGdS1GWjM2cnhBbDF3ZXlybDlQaDg5?oc=5",
    "source": "Yahoo Finance",
    "date": "2026-11-09T15:31:55+00:00"
-  },
-  {
-   "title": "Applied Materials Stock Outlook: Is Wall Street Bullish or Bearish?",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQk5FWEZpcXpSQkZqLVZPWkROeDhmckNrMnpWSkt2aktESDhjX3pva0pxT1RTZ0Q5dkRfOWpHaGV6RVhWZFJxY0NVN0RrWDJERDRjbkFDTUhjcW9WYk82YXdlUjluM2lvQmdiU3hHUG4yTmdrVDdXakJtV3cxNUFhUFRmWHN5OTZ3SXgtV21LZlNrNWxfd0pCendBZkpsTUJlWnY0?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-09T14:02:47+00:00"
   },
   {
    "title": "Why \u2018buy the dip\u2019 ignores stock market warning signs",
