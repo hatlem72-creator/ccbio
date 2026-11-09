@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-09T09:55:56.881515+00:00",
- "usdnok": 9.300009727478027,
+ "updated": "2026-11-09T10:54:12.925316+00:00",
+ "usdnok": 9.393980026245117,
  "btc": {
-  "price": 74249.9921875,
+  "price": 74048.140625,
   "prev": 74584.6484375,
-  "chg": -0.44869320565401605,
+  "chg": -0.7193274001279004,
   "currency": "USD",
   "asof": "2026-11-09T00:00:00+00:00"
  },
  "silver": {
-  "price": 52.4900016784668,
+  "price": 52.55500030517578,
   "prev": 51.803001403808594,
-  "chg": 1.3261785148373617,
+  "chg": 1.4516512190197117,
   "currency": "USD",
   "asof": "2026-11-09T00:00:00-05:00"
  },
@@ -24,9 +24,9 @@
      "symbol": "KOG.OL",
      "name": "Kongsberg Gruppen",
      "quote": {
-      "price": 342.8999938964844,
+      "price": 341.5,
       "prev": 335.3999938964844,
-      "chg": 2.236135997758759,
+      "chg": 1.818725764615925,
       "currency": "NOK",
       "asof": "2026-11-09T00:00:00+01:00"
      },
@@ -50,10 +50,10 @@
        "date": "2026-11-01T23:04:00+00:00"
       },
       {
-       "title": "KONGSBERG secures US government contract for underwater capabilities",
-       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa0J0WVlGSWkwZ3VHR2t3cWNqN1Q0M2ZmX0tqdmJhUzZrQkxwNVljUWFvMG1xcF8zUVpFa1EyTWNNVFhhMmRfNFdTVVp6R2JpaDQtdXg2UDMxMzRRV1JUSEQwNDlFZVFQTW80SGVjZ2hQdGtwWVd6bVpfOXJoSFhGdzEwOU5YWVhxTDU3d1hUU2RSWl9PUlF0QkF1RERRa3otTWNGVzN3RW5RYW5kclVnMWpLVC0?oc=5",
-       "source": "Naval News",
-       "date": "2026-10-30T07:00:00+00:00"
+       "title": "SB1 Markets raises its price target for Kongsberg Gruppen to NOK 425 (400), reiterates Buy",
+       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQR3FOZmVUVEhhTWUzcksxaUw5alB2Z1J0bUFLSElVYzBueXdUX2lQNVhZUEFGU3RBUWtXUlF3NENTTjRGeEJlSXRYX2hfRFhueEhsM19tV0hhWWxORldxV1NER3oxUkRwaUU2WW1EVEI0VTFXN0kxcVNmQ3ZMal9mRDZVWTVvWDR0Vnh1eHVpbzdmaHpPV1BoUmo3X0lKSFN3SGc0cEJjV01LNkdxMjlQZXhycXpfNkl0cGViUkRRU3NzVjV3aGVGY1FjamN1Qno3a3IyZ040dw?oc=5",
+       "source": "www.marketscreener.com",
+       "date": "2026-10-30T07:55:20+00:00"
       }
      ]
     },
@@ -61,18 +61,18 @@
      "symbol": "KMAR.OL",
      "name": "Kongsberg Maritime",
      "quote": {
-      "price": 57.79999923706055,
+      "price": 58.119998931884766,
       "prev": 57.2599983215332,
-      "chg": 0.9430683397772199,
+      "chg": 1.5019221717792908,
       "currency": "NOK",
       "asof": "2026-11-09T00:00:00+01:00"
      },
      "news": [
       {
-       "title": "Kongsberg Maritime ASA (Z4Q.DU) options chain",
-       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UWGJBd24zSUc2TGo0RlFzREQ1Mzc1a0J3VDNrTUFSb2FBeGZ1bU1Vc0JoRmlteTd4dHpqV1RtQzBWRXhmN01VaGQ3a2UtQ3RXS0JORnpNZlpHVjI3a2Nz?oc=5",
-       "source": "Yahoo Finance UK",
-       "date": "2026-11-06T20:50:06+00:00"
+       "title": "Kongsberg Maritime ASA (Z4Q.DU) interactive stock chart \u2013 Yahoo Finance",
+       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBuQ3lSZU1xOEJ1TThOdEpYRkRxTzBaREM0REJlaUVzTk9tOWJfcHo0QzFyTU5idlM2a2VCbHRJNl9LR1VyTElFQVNjX2pIMHJDX1FGT2NKbDdYSFVX?oc=5",
+       "source": "Yahoo Finance Singapore",
+       "date": "2026-11-08T14:48:42+00:00"
       },
       {
        "title": "Kongsberg Maritime ASA (Z4Q.F) company profile and facts",
@@ -87,10 +87,10 @@
        "date": "2026-11-06T14:25:02+00:00"
       },
       {
-       "title": "Earnings call transcript: Kongsberg Maritime misses Q3 2026 profit estimates",
-       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTEh3QzdUZURwbG1XN0FIcUdPUEZpTTA1X1poa0g4UkJ1RFRlLVBtRWxGT3pvaGh3NTdkUFRiakxYTmpGTGUzamY5bUJ2Y0h3UjBRZkxqQlhGbDNZQWJzdUpVanJkaVpTTHV3enIwZnJFOThQVkhkYks0VDZZZzBqdGwwWWNTX2hwRGdWb3Nwa1J3QU1sTkVkOWVwdFhaREQ1ZUZRT3hqbFhzQnJFRzFhbEVCa1NQU2ZFRTlTOWNkRmtESkFyVEFmWUJQbw?oc=5",
-       "source": "Investing.com",
-       "date": "2026-11-01T10:35:27+00:00"
+       "title": "Efficiency and the new economics of shipping\u2019s decarbonisation",
+       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTk44bU9OQV9raFpBLTdpRFh4QV9fMFdSQlN3UHBwM2JZT0sxWm92Qk5vZnloU0MxWjY4RmhXQ1hrbnhDeC1HLW9zYmRsaks2cjE5cWN0eTZBeVV6NFBNb3lHRVQwXzJ6VDRlY2tNUFZUcFVnLVBWSmkybjloME5jVjlRTVNNYS11a3A1MA?oc=5",
+       "source": "Splash247",
+       "date": "2026-11-03T09:34:12+00:00"
       }
      ]
     }
@@ -104,9 +104,9 @@
      "symbol": "G2X.DE",
      "name": "VanEck Gold Miners UCITS ETF",
      "quote": {
-      "price": 89.94999694824219,
+      "price": 90.05000305175781,
       "prev": 88.19000244140625,
-      "chg": 1.99568483741146,
+      "chg": 2.1090832961336625,
       "currency": "EUR",
       "asof": "2026-11-09T00:00:00+01:00"
      },
@@ -141,9 +141,9 @@
      "symbol": "2B76.DE",
      "name": "iShares Automation & Robotics UCITS ETF",
      "quote": {
-      "price": 17.13599967956543,
+      "price": 17.22599983215332,
       "prev": 17.173999786376953,
-      "chg": -0.22126532714683567,
+      "chg": 0.30278354735753243,
       "currency": "EUR",
       "asof": "2026-11-09T00:00:00+01:00"
      },
@@ -248,10 +248,10 @@
        "date": "2026-11-06T08:51:18+00:00"
       },
       {
-       "title": "Hycroft Mining Holding Corp (R5A.HA) latest stock news and headlines \u2013 Yahoo Finance",
-       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BQ2tpNE9tZm5CYjZ1ZG1yN2RZcHdFcUJqd21oWlJSc2dGM0t6QnUzM3JWS0I3dEhXdXpHaUR4WGo3LUlxMW5pT19kdVozdUlUR0JXbjRIc1ppbGc?oc=5",
-       "source": "Yahoo Finance Singapore",
-       "date": "2026-11-06T06:28:47+00:00"
+       "title": "Hycroft Mining Holding Corp (R5A.HA) interactive stock chart",
+       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDel9nelpWM2FrcGljdXZhRDFnWVhXM3NPNi1NdWNpaFBHdE1LcXJ6RklkaHBvLVQzUExvd1lHajh5QVgwNkhaRTVHNG54Vmx5SkpMSjFZcnhlcTk5?oc=5",
+       "source": "Yahoo Finance UK",
+       "date": "2026-11-06T08:51:15+00:00"
       }
      ]
     },
@@ -292,16 +292,16 @@
      },
      "news": [
       {
+       "title": "Coeur Mining, Inc. (CDE) stock price, news, quote and history - Yahoo Finance",
+       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HYUdHZzZuOUV1cGlPNEk0ZU4td1ltV2dsdWpPc2EtOUpuTEQtaFZrYm9rclQ5U0RlcUdGSDBmUUFhZzdPeTFRcDRBVld2VkstYXpxb0xUTFp4V1Zoa1BTZQ?oc=5",
+       "source": "Yahoo Finance Singapore",
+       "date": "2026-11-07T08:18:39+00:00"
+      },
+      {
        "title": "Coeur Mining Q3 Earnings Call Highlights",
        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNa1EyYTRqY1c0RDI1QTItQUFEaEJkMGlDbHd0QmpoakhCMm5SOUhMdm9Mem1uWTJSbVpmQW5hYVNfU2k5TS1kbC1RYVlmdmw0emY4M2xNVU4wbDlTUW1kbFdxQ3ZlekpFRUdpR0VXRGQ5WVI3S25jeDZqWjUwd3M3b19tSUpQWks4LW5KaFctM202Yk5JSXNsaUV3?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-11-07T05:14:00+00:00"
-      },
-      {
-       "title": "Coeur to Participate in RBC Capital Markets London Precious Metals Conference",
-       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQamlBWmtjek9UWndRZ2xaVEVlZ2wwWmZKU2k2RXJBTXNFMnZpUEVPY1hSSjFTUDhuYTZfUEhQel9yeHo4dTVFNUdjQVJpTmxSM2E4b2lHRVN3N3doWWE3NTJ5ZWJPNG5nSUFtT0hYLWxHNGpBSnNSZ0VXWkdob0hOc01odUZPaDFheDZTV2dEdXpsdl9rRDRjZXhNbDVPV1V4SnRpVEZZWWM4ZUU?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-11-06T21:30:00+00:00"
       }
      ]
     },
@@ -476,9 +476,9 @@
      "symbol": "OSEBX.OL",
      "name": "Oslo B\u00f8rs (OSEBX)",
      "quote": {
-      "price": 2077.469970703125,
+      "price": 2078.969970703125,
       "prev": 2053.360107421875,
-      "chg": 1.1741663429665872,
+      "chg": 1.2472173384825647,
       "currency": "NOK",
       "asof": "2026-11-09T00:00:00+01:00"
      },
@@ -488,9 +488,9 @@
      "symbol": "^GDAXI",
      "name": "DAX",
      "quote": {
-      "price": 25972.0390625,
+      "price": 26018.330078125,
       "prev": 25820.359375,
-      "chg": 0.5874422013152136,
+      "chg": 0.7667232676733526,
       "currency": "EUR",
       "asof": "2026-11-09T00:00:00+01:00"
      },
@@ -500,9 +500,9 @@
      "symbol": "^VIX",
      "name": "VIX volatility",
      "quote": {
-      "price": 24.389999389648438,
+      "price": 23.739999771118164,
       "prev": 25.639999389648438,
-      "chg": -4.875195123852693,
+      "chg": -7.410295100464603,
       "currency": "USD",
       "asof": "2026-11-09T00:00:00-06:00"
      },
@@ -512,9 +512,9 @@
      "symbol": "GC=F",
      "name": "Gold (USD/oz)",
      "quote": {
-      "price": 4103.0,
+      "price": 4106.2998046875,
       "prev": 4074.89990234375,
-      "chg": 0.6895898875966866,
+      "chg": 0.770568678894179,
       "currency": "USD",
       "asof": "2026-11-09T00:00:00-05:00"
      },
@@ -536,9 +536,9 @@
      "symbol": "USDNOK=X",
      "name": "USD/NOK",
      "quote": {
-      "price": 9.379010200500488,
+      "price": 9.393980026245117,
       "prev": 9.300009727478027,
-      "chg": 0.8494665633417942,
+      "chg": 1.0104322631990792,
       "currency": "NOK",
       "asof": "2026-11-09T00:00:00+00:00"
      },
@@ -588,9 +588,9 @@
      "news": [
       {
        "title": "Microsoft Stock: Buy or Sell? (My Final Verdict)",
-       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcE05OXpGeFBfVkFaZThJamNDZ3JjM3FqeThYM1JZWGo0T0x0dGdjckR0dlotVjE4Um1UUmZQUnRRdFlXbjZVUTZCNTNnQ3FSYml6VTh6U1BodHhPVlBWVllZTlRiZlgySG1Ycm1jdU5OZTBQZUtzVXgyTUVHQXRCUUcxZmJsaEpwdUV3U05pcXRxZEpIZUllRkp5dHJCY2kwUm10ZmFScGNHWmxoWUN5dnEzVXJkRTVsR2RqdDJNYUk0QXd1WXpxUA?oc=5",
+       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORXRwRUNBRUI3SVNwTEg0bUo5TC1PRk5lYXhqNEpsMUlYSmllT2E2WDRnNHFCaGgxVHZMXy0tM1B6VkhoV3hzNTRwTlhnc0d6MTg2TUV2Y2ExY1pNZlk5SlVNTDRVMTRCMXZHbkRiVE1hTzhPUTRIbVN0VmZXb18yalVYZXZtUVJpazFqOWxlZFJtOGZQdEVnSndTSWZnUlB1TUpJQ19RRG9HNTRrMjItQzFYVGlkNFBsNFR6Y2NQb0s?oc=5",
        "source": "The Globe and Mail",
-       "date": "2026-11-08T11:20:20+00:00"
+       "date": "2026-11-08T11:31:24+00:00"
       },
       {
        "title": "Oracle falls 4% as Microsoft reportedly winds down AI cloud capacity deal",
@@ -612,16 +612,16 @@
      },
      "news": [
       {
-       "title": "Nvidia stock falls 5% as scrutiny turns to Jensen Huang\u2019s relationship with alleged Chinese spy",
-       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcndzRG1jRHQ5c25nX1RuQVVNeXJUXzNnemotNFRpWGhwUGNCN3hmV2VkMndSVkl4V1hIMmhUMDhjWTJFa1BYckVYM1BkX0ZMMEQ2WmFxRGRhYXFtNzVJQUEtNW9PaUhfekFYM1RWeG0xbldSZlcwVldGZXVXVjNvcDdNN2dReWFqM3c?oc=5",
-       "source": "CNBC",
-       "date": "2026-11-09T09:05:48+00:00"
+       "title": "Nvidia\u2019s Stock Falls 5%. What That Tells Us About Jensen Huang\u2019s Future.",
+       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1HRXFMT2pzMTR2MGUybjNiVm5aYUhrX0VPZGxUVmMteGIzNmFNZHgzNDRRMHFfb1pNSmxLT1d2a1dPSHlaTGpFdG84c0x4N2FMY2NtYk92M1hZLV9jQi1kQVJIM29rM0pOeFRwUTJCelpHNGpSck55UkZMUld2QQ?oc=5",
+       "source": "Barron's",
+       "date": "2026-11-09T10:02:00+00:00"
       },
       {
        "title": "Nvidia Shares Dip on Robinhood as Huang Affair Spurs Board Probe",
        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdnRpX0RPT3RRQ3p4THN2ZXU2MHVWRjVrTjBteEM2cEV3RXZuU1pPQWdOdXNrZkZxcWZRdUhMWVdkWjJyM1BaVHQ1UVMzX1M3eGFEQzdpWWpPaDA4d20xSHVtWERFLVlMSHZwdWJNYUZSUHRtOEQtLXRsWWEyUU5UTlhpbkhIYnViNE1jY0g0R1l1ZGhWa25ZX2F6ZWYyRng4ZXVSd2FNQlRzendmSVJSb2RXeDR0dw?oc=5",
        "source": "Bloomberg.com",
-       "date": "2026-11-09T07:23:00+00:00"
+       "date": "2026-11-09T09:07:02+00:00"
       }
      ]
     },
@@ -687,16 +687,16 @@
      },
      "news": [
       {
+       "title": "Should You Buy Meta Platforms Before Its Stock Split?",
+       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeGliT3JmRml6TmRJN3VpZDRFU1RmSk55aWxZWlNVenV3U2o2UndNZTNJZEQ2QTB1Y2VfVXpxcHk4WUszOTdFRWNwVXh5eXRLaVZ1aHB6U2x0UG9ES1QxWDZMeUF5VlNPRjRScFlJOVpIbVc5YkhmVVFKRzR4cll3NE95MWR2MVl4MWZueWdBUzRlbGpnZUlKeDFQdw?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-11-08T20:52:00+00:00"
+      },
+      {
        "title": "Meta Stock Dips Towards $600 But Don\u2019t Load Up Just Yet",
        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5IV0M4bnduUzdZYjg0UjlTLS1CWkF2QlhvdUtlSkxmbWFfeDFzVjhPWTRBdWU5Y2lfU3Eta0N6d0VoNXVIeV9fdlpMQzZlWm5RZHo4UjluLVhrRkxkRWF5VlZDMTFKcVEtRzhQLW5LWlFIYlMxWFRnUnY3WWluQQ?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-11-08T14:31:25+00:00"
-      },
-      {
-       "title": "Better Stock Split to Buy: Meta Platforms vs. Sandisk",
-       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVHRJZU8xNzNENHV4eU4zOWgyMG00aWU5cnV1NVhpUVdQT1JpbmsyTmVpLXo5ckNTNVMtNkZRNFlRQ2FzeWlzampma0E3REVXSjJ6a21Ma1g3Y3dab21Nd3BNa1dFOEd5d2tpTGZxOEI5dFhZcWJzZ1VMUk9nc25QdlVmNS13LXVFQU5tam9NSEZKUnNQRGJB?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-11-07T10:32:05+00:00"
       }
      ]
     },
@@ -785,22 +785,22 @@
    "date": "2026-11-06T11:30:00+00:00"
   },
   {
+   "title": "Global recession risks look more like mild 2001 than 2008 - Oxford Economics - IntelliNews Lambda",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdnN5OG5jR19DbWxlVW10YXZ0WWY1SFRnN3QxQzI4MktNbTZTREQyWFBLbjFYai1NbVZVSnVtM212RnRNNmJ2QXNOVDJxRzhkZmQ2SU9sVW1xOHNxaVpBTUhxSmZ4Z3g2aUk5ZWMwbU54T1lhYUNQYnA5a1ZPOFFoMnB3UjRMdXhKSy1tUTZjaHB6UV9PNlU2a05EWlJBOF9QNVdOWFh2cWpBRl93czAzX3hKWGp0NzhWOU5FUjA2dGF0cU1BQVZVZg?oc=5",
+   "source": "IntelliNews",
+   "date": "2026-11-05T16:29:35+00:00"
+  },
+  {
    "title": "Could an AI Spending Crunch Cause a Recession?",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdEk5R1NaUFR4eVB2MXJlSndCMHpidWNES0JlYXZGbVFpeUFNT0xkbjFVVjc4dmNmLXdFTWxpOVNNZEswTlpvekp0QjIzQ19rbF9YU0JqWFptenMySC1ZbDVRbVNBYzdrbksteVJBbzhzZlFOVWtWVjA5VjJyRTVSMkNxN0xGQQ?oc=5",
    "source": "Morningstar",
    "date": "2026-11-05T14:02:46+00:00"
   },
   {
-   "title": "Five Signals That Preceded Past Recessions Are Back \u2014 and AI Is at the Center",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVlMtdmsxWmwxX2dUVEh0TlBsZUNyYUd1cV9yQ3JjRm56czRxQzA3d2FqQmpTZ2lGcXJKY0hYalhyY2l2UjBaeXRzeVVGNnpjQ3hZMVllRGhxOTF1QjVzUXpwN3dZTU5NLTk3eUZTTjBlN001YlBwRHF6TDhqTmdwWVpTUF8zSXRBdGFBdTBOT3NRYXJ6VWhnczI0OHJoeUJTVG92S1RjQ2xYRnBZU25abTRIeE0zemszMl93N3pYbUNRY2ZHNWZxZ1VZc1IwM1U?oc=5",
-   "source": "TradingView",
-   "date": "2026-11-05T13:45:04+00:00"
-  },
-  {
-   "title": "Elmera Group to Delist from Euronext Oslo B\u00f8rs",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaEVLUllveVAyQ2Y4dnBrNjRQNGpKMWpESU9YcnVLVElJRmxTMlY0ci1Ta05QSmpGYlF2T0todWZzRHRLVWF2YmlyR3lOTEVkMzVvazBvdV92cUc0UHJ1M3BocUF2Vi1lNkd5TWxmNXIzNHhkaWdKazIwYlZsSzhBREVPTWQ2WG1UOUpOelJWNDNwTDVfRUZfdXpTaU1sWmNi?oc=5",
+   "title": "Euronext Oslo B\u00f8rs to Delist Elmera Group",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVDhVUWhqTUZIb3Roa1hxOGxsbDllWDlpUVkxeWFRUVZNaEhyR09aZjh5UFRxald0OEE5c1RBbWRqTWdFMWVvYXM1Qm9YTVBzMTBBM2RTTEgtUlMtdG44bGJPQkV2RjBwM0FJOGZFVDI2eWktdU1BQXhSY000UWJZWl9YMkFfS0ZBbE5CUUFWOHZhMHFyc0VILTZn?oc=5",
    "source": "www.marketscreener.com",
-   "date": "2026-11-02T10:15:53+00:00"
+   "date": "2026-11-05T11:15:06+00:00"
   }
  ]
 }
