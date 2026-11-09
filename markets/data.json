@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-08T23:32:15.015020+00:00",
- "usdnok": 9.458169937133789,
+ "updated": "2026-11-09T00:14:56.998745+00:00",
+ "usdnok": 9.457079887390137,
  "btc": {
-  "price": 75240.921875,
+  "price": 74720.1328125,
   "prev": 75747.578125,
-  "chg": -0.6688745205343793,
+  "chg": -1.3564068158119724,
   "currency": "USD",
-  "asof": "2026-11-08T00:00:00+00:00"
+  "asof": "2026-11-09T00:00:00+00:00"
  },
  "silver": {
-  "price": 51.935001373291016,
+  "price": 51.8650016784668,
   "prev": 51.803001403808594,
-  "chg": 0.25481143158765374,
+  "chg": 0.11968471512857626,
   "currency": "USD",
   "asof": "2026-11-08T00:00:00-05:00"
  },
@@ -32,6 +32,12 @@
      },
      "news": [
       {
+       "title": "Kongsberg Gruppen ASA (KOG.OL) stock price, news, quote and history",
+       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UYnRjWFFQTkl0cFFiRjJhVVB6SXhNTjlkeTJVR3BNUmZhRWlydEtPSFc5dzJ3ZHJiT1BIU1NGLVIzc0VjbnJDamhpYjRfalJ2MVF5SA?oc=5",
+       "source": "Yahoo Finance Australia",
+       "date": "2026-11-07T12:08:23+00:00"
+      },
+      {
        "title": "Kongsberg Gruppen ASA (KOGO.OL) cash flow",
        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9IZm1mM0poU0QwZTFEMi0yWWR0U25HMDctXzhGWUpEM1daYk03SWdBMXE4N19ISXNabWcyUEtwV1lsaU5QZVFRVlhTRkI4MmVjRUdsQ2RPRlUyOGNwNklONmlUMA?oc=5",
        "source": "Yahoo Finance UK",
@@ -48,12 +54,6 @@
        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWWM5aV9PbGNsUFJoT3hqNTduOFhNbUpZcUtOVC1EWm8zVHNlSjlHSGZ2cExNTkNIejVXSTVRUFh0eWdPYlcyUFpxUTZmMjJSaXh2QlZ2dFI2OEQtR2djVUdxdElqTGQzTTJNTDBueEJQbDkwTDNYaVc4aXZnUHZmZUhjVDlncjRTY2Z2cnlfQXZjWk15ZlRwZDhuOUxsYVg5STdkZk1HMTQ?oc=5",
        "source": "Seeking Alpha",
        "date": "2026-11-01T23:04:00+00:00"
-      },
-      {
-       "title": "KONGSBERG secures US government contract for underwater capabilities",
-       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa0J0WVlGSWkwZ3VHR2t3cWNqN1Q0M2ZmX0tqdmJhUzZrQkxwNVljUWFvMG1xcF8zUVpFa1EyTWNNVFhhMmRfNFdTVVp6R2JpaDQtdXg2UDMxMzRRV1JUSEQwNDlFZVFQTW80SGVjZ2hQdGtwWVd6bVpfOXJoSFhGdzEwOU5YWVhxTDU3d1hUU2RSWl9PUlF0QkF1RERRa3otTWNGVzN3RW5RYW5kclVnMWpLVC0?oc=5",
-       "source": "Naval News",
-       "date": "2026-10-30T07:00:00+00:00"
       }
      ]
     },
@@ -69,28 +69,28 @@
      },
      "news": [
       {
-       "title": "Kongsberg Maritime ASA (Z4Q.F) interactive stock chart \u2013 Yahoo Finance",
-       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MV05QTkdrcktuOExGTXk3czdRdXVOR1VDYzctNFlOTVJ4Qk9oT193RWZ6ODRERjY3TFlieG43WHkyaVBHQjJrYm8tMDBSSEdmTmdjV1VYSEFhMGs?oc=5",
+       "title": "Kongsberg Maritime ASA (Z4Q.DU) interactive stock chart \u2013 Yahoo Finance",
+       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBuQ3lSZU1xOEJ1TThOdEpYRkRxTzBaREM0REJlaUVzTk9tOWJfcHo0QzFyTU5idlM2a2VCbHRJNl9LR1VyTElFQVNjX2pIMHJDX1FGT2NKbDdYSFVX?oc=5",
        "source": "Yahoo Finance Singapore",
-       "date": "2026-11-08T12:34:12+00:00"
+       "date": "2026-11-08T14:48:42+00:00"
       },
       {
-       "title": "Kongsberg Maritime Q3 2026 slides show record backlog amid profit miss",
-       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRUJtOUd6eDJnNUhCTk5TN1RyRFc5em05cExBX1p0V2pvc25QUGY2ZjVNTFByQ25LTGFHZXh2b01uLUNCb1liczN0cVpBSFJhbV9STms5WnlxUUVTTHJCM2hzaXhKWnh2VENuSU8zNDBNX3l1YndscW42aDhhb1d0QzJQb3lOc2Rmczlxclp2bW1TZzJVa0NlX3FzbXZuOVU0eWJBMERrWW81dmprelRraDJ3V004ei1rMGhYQU1TZnJjZjlwV1E?oc=5",
-       "source": "Investing.com",
-       "date": "2026-11-01T11:13:05+00:00"
+       "title": "Kongsberg Maritime ASA (Z4Q.F) company profile and facts",
+       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBRa3dkTVlWb0ZCdURjVlZvcXJaUmE0bmNFOWFXbWV5V1VCR1JKYW5iUVVtWktVNTRBVjViVXRkLTl2Qi1XSWdwMHZtTGlaV3RscXdwQjVHaTJrdEQ2NHc?oc=5",
+       "source": "Yahoo Finance UK",
+       "date": "2026-11-06T14:25:02+00:00"
+      },
+      {
+       "title": "Kongsberg Maritime ASA (Z4Q.F) stock price, news, quote and history",
+       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE16WDZZQ01IMGVMamFsV2Y0Vk1kSEtTVkVmM2tqbVp6TTBuclFqNFNVMXhMMUJJXy00X1dKTTRVcmFLS19yY1U3bGhRUlFhQjAwd09F?oc=5",
+       "source": "Yahoo Finance Singapore",
+       "date": "2026-11-06T14:25:02+00:00"
       },
       {
        "title": "Earnings call transcript: Kongsberg Maritime misses Q3 2026 profit estimates",
        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTEh3QzdUZURwbG1XN0FIcUdPUEZpTTA1X1poa0g4UkJ1RFRlLVBtRWxGT3pvaGh3NTdkUFRiakxYTmpGTGUzamY5bUJ2Y0h3UjBRZkxqQlhGbDNZQWJzdUpVanJkaVpTTHV3enIwZnJFOThQVkhkYks0VDZZZzBqdGwwWWNTX2hwRGdWb3Nwa1J3QU1sTkVkOWVwdFhaREQ1ZUZRT3hqbFhzQnJFRzFhbEVCa1NQU2ZFRTlTOWNkRmtESkFyVEFmWUJQbw?oc=5",
        "source": "Investing.com",
        "date": "2026-11-01T10:35:27+00:00"
-      },
-      {
-       "title": "Kongsberg Maritime hits record order backlog as newbuild demand surges",
-       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdG9UOER4U2h6V2hBeGNYS0hneTB3ejlMV0kxek1BM1ROWW1xM3c4UWlpekF6T1pIbjZiWDFsbDZWZXRPZVBIc0VPRUktZVpWNWZzN1Bxc29iMjNKaHFWamdPRnpvZUJEQzVUQWNrcllMTGg3TE45cUtiSHppM3pLU0U2ZElLTm1peUtzeVpZMnJrWFZTYU1KX0hoMTAtUmpVUUdtS1BUOTZGRzRsV0doQW1jZHVtRm95SmVyam9PUlJaZw?oc=5",
-       "source": "TradeWinds News",
-       "date": "2026-10-30T06:49:22+00:00"
       }
      ]
     }
@@ -242,16 +242,16 @@
      },
      "news": [
       {
+       "title": "Hycroft Mining Holding Corp (R5A.HM) cash flow \u2013 Yahoo Finance",
+       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1WMXlMeU16OUtPMm1mekN2R0JDbzA2YndnOEZtUnJKTk1QMGRqQzBZVUw3V2Eyd2ZEQllsaldKbThYVnhwSTJRcDBGV2hBVXJGNXlrS1pGTHBpclFGZkxsWmFn?oc=5",
+       "source": "Yahoo Finance Singapore",
+       "date": "2026-11-06T08:51:18+00:00"
+      },
+      {
        "title": "Hycroft Mining Holding Corp (R5A.HA) latest stock news and headlines \u2013 Yahoo Finance",
        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BQ2tpNE9tZm5CYjZ1ZG1yN2RZcHdFcUJqd21oWlJSc2dGM0t6QnUzM3JWS0I3dEhXdXpHaUR4WGo3LUlxMW5pT19kdVozdUlUR0JXbjRIc1ppbGc?oc=5",
        "source": "Yahoo Finance Singapore",
        "date": "2026-11-06T06:28:47+00:00"
-      },
-      {
-       "title": "Hycroft Mining Holding Corp (R5A.DU) Seasonal returns chart",
-       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMd3I1dWdjczdyX1JNeHQ2YXVQcGxGNkwxek9MLW5OTWRDNjY0amQ2REo5b013c0RwUGFGUTZsVE10YVZrdkdVNHNKN1dHaG5NRXNNdzRPbXFWLVU1c0kyZFNTOGM?oc=5",
-       "source": "Yahoo Finance UK",
-       "date": "2026-11-04T05:43:14+00:00"
       }
      ]
     },
@@ -292,16 +292,16 @@
      },
      "news": [
       {
-       "title": "Coeur Mining Q3 Earnings Call Highlights",
-       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNa1EyYTRqY1c0RDI1QTItQUFEaEJkMGlDbHd0QmpoakhCMm5SOUhMdm9Mem1uWTJSbVpmQW5hYVNfU2k5TS1kbC1RYVlmdmw0emY4M2xNVU4wbDlTUW1kbFdxQ3ZlekpFRUdpR0VXRGQ5WVI3S25jeDZqWjUwd3M3b19tSUpQWks4LW5KaFctM202Yk5JSXNsaUV3?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-11-07T05:14:00+00:00"
-      },
-      {
        "title": "Coeur to Participate in RBC Capital Markets London Precious Metals Conference",
        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQamlBWmtjek9UWndRZ2xaVEVlZ2wwWmZKU2k2RXJBTXNFMnZpUEVPY1hSSjFTUDhuYTZfUEhQel9yeHo4dTVFNUdjQVJpTmxSM2E4b2lHRVN3N3doWWE3NTJ5ZWJPNG5nSUFtT0hYLWxHNGpBSnNSZ0VXWkdob0hOc01odUZPaDFheDZTV2dEdXpsdl9rRDRjZXhNbDVPV1V4SnRpVEZZWWM4ZUU?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-11-06T21:30:00+00:00"
+      },
+      {
+       "title": "Coeur Q3 Earnings Call Highlights the Need for a Strong Finish",
+       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxON0g1TkQ5Vkh2cklBZlVkNXM1YUxNd1F4TVJtME9sb1p1bUFTY2lZT1lhX1ljMF9KS0VtUFFvVnhJeFg0X0wtTVIwNUtMQWFOTXZmaDMyUDY0dGN3TG1MbGJYQzdWeXdEQXdmZFplS1R3T2J1M21LX3E0QjE0Mzh1dGVMM1dKazJ4NE0wbTcxQ3V1M0hDWGZQZmVFQjBBZlk?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-11-06T19:24:00+00:00"
       }
      ]
     },
@@ -512,9 +512,9 @@
      "symbol": "GC=F",
      "name": "Gold (USD/oz)",
      "quote": {
-      "price": 4080.89990234375,
+      "price": 4074.300048828125,
       "prev": 4074.89990234375,
-      "chg": 0.14724288065453006,
+      "chg": -0.014720693268566176,
       "currency": "USD",
       "asof": "2026-11-08T00:00:00-05:00"
      },
@@ -536,11 +536,11 @@
      "symbol": "USDNOK=X",
      "name": "USD/NOK",
      "quote": {
-      "price": 9.458169937133789,
+      "price": 9.457079887390137,
       "prev": 9.300009727478027,
-      "chg": 1.700645636836895,
+      "chg": 1.6889246841111039,
       "currency": "NOK",
-      "asof": "2026-11-08T00:00:00+00:00"
+      "asof": "2026-11-09T00:00:00+00:00"
      },
      "news": null
     }
@@ -562,16 +562,16 @@
      },
      "news": [
       {
-       "title": "Apple Stocks Move Lower as Investors Revisit Earnings Quality",
-       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUVI2MEFva0FhMWItYzNMZkdJLTFDQjhOR2VYZnZjc09iZVJqRzFCUzdLTkJoOVYyYmtXdDdtVXdvVVJQQk9FbHppWG9xSEx5QmVNQmVlZXR1dndfM2YzbHI4NzlaN1NEdzNRS0d0SnFRR2taa0gtWGlibGhndzBDWkdjOFl5Z0d6dGZIRFExSkJrTzF6bkZ4T2thZkJZRXM?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-11-05T19:20:48+00:00"
-      },
-      {
        "title": "Apple Just Proved the AI Bears Wrong Again. Here\u2019s Why Dan Ives Isn\u2019t Blinking.",
        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNM0ZwdV9jSFo3NTU4U2huS1V1OFVoMVcxdnpQSVYydG5RWGJ4YjJ1MURuaEFEOHB3ZzlHRWtwSENQWjVyTGtFZG1FZnlkVXVDMlZKOFBIUDhsVno1WHBRQUVXVzhXZEJWbzVhdHJvSzliSzBFUUVwMk5SQzNDM0dQVXVCNWFZU0d6RnBYS25fU2VlUFR2LXc?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-11-05T16:37:54+00:00"
+      },
+      {
+       "title": "Apple Stock Is Up 22%, but 1 Slowing Business Could Test That Valuation",
+       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSWlhaUxkMVpIazBXTmFyYTlmLU41NUplZnFrZjY1RTZhN0VudFJOcHdCTnBjaDBhYnd2dXZPRXBNQTN6dGlOY2tzbllzRkdQaXlYdDNwSGJST3ZubkxTbllBU0dIZ0JZMXhKOTV5bTgxZ3N2dWpqTVltUEoyVGJvNWJETXdTRlRhdnF1ei1VWXBQRDQ?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-11-05T13:50:00+00:00"
       }
      ]
     },
@@ -718,10 +718,10 @@
        "date": "2026-11-08T19:44:00+00:00"
       },
       {
-       "title": "Elon Musk Is Killing the Cybertruck. What It Means for Tesla Stock.",
-       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU1BjRWpvRk9HZ21UWmN4Q3dkcmlOMEktZnpTMmRZYXg3N3pGUlhEaFNXQ1pjeE85QTlidTBlblZja3NPNnE4cTh5VGoxNEVSOTZ4UEJzVTBSNmtLN3ZPOVljVXNvRy10N1ZMZ3NUU29fWTJpb3A4WGZwX0ZEWUlhSFowZFg?oc=5",
-       "source": "Barron's",
-       "date": "2026-11-06T21:41:00+00:00"
+       "title": "Tesla Stock Hasn't Closed at a Record in Nearly 11 Months. Here's How Its Past Record Droughts Ended.",
+       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQS2xUVVdGV1hVQThaYjBkaFFuc0JYSHp1Vkx3ZXdKdUdudV9Cc0ZWcmRGTlRWYWVYZEd0UV83VHZscVloV2h4WXBpeXFvWGFqNm1LRURva3A2MXBkWG9VLUo5UGJUWURHVnNhV0ZPU0Q5ckx6QUI2cG9CckR5WFk2allvTktiR3h1clF2TGdlUWdGU0lsWmNCMDJrRFI?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-11-08T11:37:02+00:00"
       }
      ]
     }
@@ -755,16 +755,16 @@
    "date": "2026-11-08T11:56:02+00:00"
   },
   {
-   "title": "Eli Lilly Just Raised Its 2026 Revenue Forecast by $5.5 Billion. Is the Stock Still a Buy?",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNUZCOUVYV1MzQ3Nsem1yUnZLV0tkY3M5S1BfZk9HOGg2UGxfWl9NZWdJV0tqemFjanRnSUI2aVlSLURsajE0TFdreVA2X0c1X3pQVjBLSnNwUXoxVEpDTGVFcVFvaUhNUnhhT0QybHZjN0l4QkJDTFFBVkNIRFBlN0hNd3F1UHh1UHFKa0VieFVuLUQ4LU5TLQ?oc=5",
-   "source": "The Motley Fool",
-   "date": "2026-11-07T18:30:00+00:00"
+   "title": "Mobileye Stock In Focus After Revenue Outlook Lifted And Losses Narrowed",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOXE0ZzVVWUdyMzhYQWF5RlZxMVFTNDFjcTdFbENZRmw5Q0F6cG5pMlZ6cVlEMnY3MXRybnROQzVzSHpnQkUxU3dtVHE0YWZpVWZJMDkwclNmRnB2dXNETngwVEMyU1hFaExUZnBWYUlqbkNxZ3kxb3BQMjNwMzU4dzZRcFh5bTd0QjNQVkpFTWpwN3dnaXRmQ1V4SlJ6Q1owNVlV?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-07T08:14:08+00:00"
   },
   {
-   "title": "How Investors Are Reacting To Shift4 Payments (FOUR) Lowered Profit Outlook",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcTNzRl9LZThiczRaTnE2VFJkR2JOX1NKTTZISjBzRThRbVViaVZiTkZldWRzQ3owdGFCX2gwb1o1d21Ud2d0Y3Zhb21vTTRLV0pPeWZCbG9HY0xRNDFpSTNiNE5oY1c3R3p6QmR0R3pIX25XV083ZmR6N3VWQTNfRXNUTE1sNGI0d21IUEJaNFZUZUVOMzhvUTM4Qk9QZnljUEh3YW5KUQ?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-07T10:12:16+00:00"
+   "title": "COMMENTARY: US stocks always rise after midterms. Is this time different?",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOUUxZDUzd0xuR1o2YW11a0Nqcy0yZUtiMzlNU1VsRWIxMDVubDNLZHh6MWUwT1NDYnVwajFLdVMxdEs4RGlRdmlGR29DbjQ1MGJ3LURkN3BIUFZvNV9UVVI0OThfYWUyMFVqdkRNUTBXQkVpeWNqNGdza0hIWFZrTWVYZTNUS2o4VmJhMkVwXzlkWEUxNE03OWZIdEdpTzl2d0hReXpXbGM4Mk9qSHZJNnBXejU4Y0Q2d3IwbUVmMTJ5bGs2YURn?oc=5",
+   "source": "Reuters",
+   "date": "2026-11-07T06:01:00+00:00"
   },
   {
    "title": "If a Stock Market Crash Is Coming, Warren Buffett Says This Is the Wisest Move You Can Make",
