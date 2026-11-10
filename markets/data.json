@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-10T03:27:41.237733+00:00",
- "usdnok": 9.39645004272461,
+ "updated": "2026-11-10T04:31:22.137020+00:00",
+ "usdnok": 9.399140357971191,
  "btc": {
-  "price": 74589.90625,
+  "price": 74703.2265625,
   "prev": 74584.6484375,
-  "chg": 0.007049456704755208,
+  "chg": 0.15898462684229564,
   "currency": "USD",
   "asof": "2026-11-10T00:00:00+00:00"
  },
  "silver": {
-  "price": 53.02000045776367,
+  "price": 53.08000183105469,
   "prev": 51.803001403808594,
-  "chg": 2.3492829005572036,
+  "chg": 2.4651089563165973,
   "currency": "USD",
   "asof": "2026-11-09T00:00:00-05:00"
  },
@@ -69,6 +69,12 @@
      },
      "news": [
       {
+       "title": "Arctic Hunter USV pitched for Type 92 ASW requirement as part of RN's Hybrid Fleet",
+       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSHloUmdqNHBIeE1KV2JNM0NXdTNQQ3l6eUtfTFVzTFVNd0VCS1dQNzZVLWJqWkJZcFoxMkg0MFQwaDdRd2NieGp5bWdWbGlFYjZlN3BkWVBDR2dSTGVkMEtzcmNTcmQ0eFNFUEN6UGFHeld3TDFfd1ExTTB0TGphcHZ6WVJfS0R6MHotX3dWUlRJVS1CMWhWUi04Si1OSFZBeFpvckF3M21PWFlGbzVwU3QtYTY3S0dnWlhoZHhjb1hkdkxQOTZDbHd5Vy10V05Dcl9MZkxUUGItMWpVMDI2aTYtbUs?oc=5",
+       "source": "Janes Defence Intelligence",
+       "date": "2026-11-09T16:38:49+00:00"
+      },
+      {
        "title": "Equinor stock enters new Wisting phase with Kongsberg contract",
        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNN2NKMmtubUhySFdmb2FBRHh3SmJHaktMelVVTjd0ZjlhcFpSLVFycm92NmZtd2ZLMnp5QUFWNDd2TlBwaEFzS1Q1NVJTblo4SENIMXdrbTZmYW5iSHNMY0FpOEVCMWpkQlQyMkRkMS1QckZOcTBycDVBSjhsN3NXQ19OZGljTHdLUWlXLTRKQjR1Q2syaXMxdElfc3Qtb08wTXhZSGlteTQtS2ZPbDJzX2tXZTZaWVhsRFZ2NmZvajRHazQ?oc=5",
        "source": "ad-hoc-news.de",
@@ -85,12 +91,6 @@
        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWlhsM0pNYTRyTDk4NTRjbW9GYkZHWlVmTE9WRW1UWGJqVTNZN0JvTFk3SnB0S2kyNGltQnRWX0JzNzBmQVczZF9ZRFhVZXlTcVdXUW5kRzhGM3pONVlEWTZaUHU4d2ZaY0poZklLTGpPazdYRnpTM1ZnNWE1czZfNl9RUDAzck82cUE?oc=5",
        "source": "NavalToday",
        "date": "2026-11-09T12:33:31+00:00"
-      },
-      {
-       "title": "Kongsberg Maritime launches Arctic Hunter USV for the Hybrid Navy",
-       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOXZhaFJsQjFDaHcxTk40SG1HSHl1eHk4M2F1NGFDRFJVZzJKcU1GaHFEdDJLZmYzVk4xVmN2djZQN3BIcWdVNzFDVUIxdS0xRkRpN0VfNjNrUWtPR2wxY2loYUhrd00ybVVkU2JOaEhydmJqSjdab3FiYjBVb2E2dTJlNl8yT2FZSngwNFEtUXpoVGkzbVJhNVNPak5IMGI4VEh5dTdwM0k3REhHWGJZNQ?oc=5",
-       "source": "Naval News",
-       "date": "2026-11-09T10:33:32+00:00"
       }
      ]
     }
@@ -124,16 +124,16 @@
        "date": "2026-11-05T07:23:33+00:00"
       },
       {
-       "title": "VanEck Gold Miners ETF (GDX) options chain \u2013 Yahoo Finance",
-       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTFhpcHFMZTR3dnhiUTJuNWFDbnlLbndLMTRXeWVONXhsUFpIZWRNcFl3UjFCZzJjMEctZUFGTmxvVjZZSTg0cm9ra1FnanZQcnpBWHFiOUVZWFdiU1E5Ull6NW9iNUp1d3JzREdsUXVwdzZKNlprR1E1OHA1c19QYXlheXFoS01XZGxsTmNaUmM?oc=5",
-       "source": "Yahoo Finance Singapore",
-       "date": "2026-11-04T15:46:37+00:00"
-      },
-      {
        "title": "VanEck Gold Miners ETF (GDXB39.SA) Seasonal returns chart",
        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE05VTI5OFB3MmJHWllySG15UFFPbFNvOW1sLWVWQnY2RXlVVlZ4NVlUUzk5SjQzWHhlVGsySnc3SXRnWXlxZFJPNnQ5WHR2SGQ5X3dwTzB3VFJBMjVVRllGZlZFZ2VWaWoz?oc=5",
        "source": "Yahoo Finance UK",
        "date": "2026-11-04T13:43:52+00:00"
+      },
+      {
+       "title": "VanEck Gold Miners ETF (GDX) options chain",
+       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNkdIR19pWWkwR01KYlpMQ21oZEdJdmF4Z3Y3ZEdkNHVrNXBpZ3hadkxSYUNPWU5BbG9HMWI3NWllYTlEQ3VnaXU4VXZfeG9SZWNNU2s0Y2k4TVNydHd6QU1NSzJTRDJNQmw3SkdiM0RfTzdwQmtCTXJXNG0teXUxLVZxQQ?oc=5",
+       "source": "Yahoo Finance Singapore",
+       "date": "2026-11-04T07:45:12+00:00"
       }
      ]
     },
@@ -211,16 +211,16 @@
      },
      "news": [
       {
-       "title": "Hecla Mining Company (HL) latest stock news and headlines \u2013 Yahoo Finance",
-       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVdHVDbmZWU0Q3Tm9XaDN3ZWhlZDRqakNPOTJjOVJEb0k1bU55dnM4cUxReTN4ZTIyXzI3aEpSeUpYVjVfNm8wbkZKN1hpcXhWZDEwNDZ3?oc=5",
-       "source": "Yahoo Finance Singapore",
-       "date": "2026-11-07T15:49:18+00:00"
+       "title": "Hecla Mining Q3 Earnings Call Highlights",
+       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYk5KckdFY3MyM2l2NTFodko2QVN0QlRPeG1jeUVDYzlxTWdzTENqRUdQSVhKU0ZPV0M1STMxaU1UU0tfSlBJb0dCRTR0VG5RVW1zRzNnVGNkMERVYmJFMjI4VmZDdUF5NWJNMWItbEMtSE5oQjlhenpJblIxcTNLRHZET05fX3dHNG9OMlkxVVN5Qmw2S21LaUNYeXMxbmNs?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-11-07T14:19:30+00:00"
       },
       {
-       "title": "Hecla Mining Co (HL) (Q3 2026) Earnings Call Highlights: Record Cash Flow, Fortress Balance ...",
-       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcU5McHV3UkpkYlhrSkJJX1AxUnNLbFM3N0FCSkpVaC1HNkpubUJubko4ODZEOEpnY1Z4Vlh6R0FETFZkaE1PM0xKVnNYWnIxY0prbG9qaXBtXzNEY0VZYVpyc1dscUpSOFZBbnZVNjM3OXRMSlVCUVlqVnprcjhSNDMxMlJIblRncTBrMDN3dnJGQUtHd3JGLU5MZVFKUnZBeWhr?oc=5",
+       "title": "Hecla Mining Company Q3 2026 Earnings Call Summary",
+       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSVpmY3ZNU3dWN2Y1MG53c3Bqb1FEN0pTd21FUEsybExtcnl3U09kSDdWVUJDT1ZrSVgwdjAyMHNhT1hpQnhveWh2M04xU3VQMmk4Z2FuaUcxaG5rMDFCLTVsS0lhUUtCR3I3NTVmWm1LWjRrQVpMNV8tT3JqRnNiZmY0OUs4OEh1WXo0R1g3YXZCWUdpRG85RE9DVTlpY2M?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-11-07T07:26:00+00:00"
+       "date": "2026-11-05T02:10:00+00:00"
       }
      ]
     },
@@ -292,10 +292,10 @@
        "date": "2026-11-09T13:00:10+00:00"
       },
       {
-       "title": "Coeur Mining Q3 Earnings Call Highlights",
-       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNa1EyYTRqY1c0RDI1QTItQUFEaEJkMGlDbHd0QmpoakhCMm5SOUhMdm9Mem1uWTJSbVpmQW5hYVNfU2k5TS1kbC1RYVlmdmw0emY4M2xNVU4wbDlTUW1kbFdxQ3ZlekpFRUdpR0VXRGQ5WVI3S25jeDZqWjUwd3M3b19tSUpQWks4LW5KaFctM202Yk5JSXNsaUV3?oc=5",
+       "title": "Coeur Q3 Earnings Call Highlights the Need for a Strong Finish",
+       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxON0g1TkQ5Vkh2cklBZlVkNXM1YUxNd1F4TVJtME9sb1p1bUFTY2lZT1lhX1ljMF9KS0VtUFFvVnhJeFg0X0wtTVIwNUtMQWFOTXZmaDMyUDY0dGN3TG1MbGJYQzdWeXdEQXdmZFplS1R3T2J1M21LX3E0QjE0Mzh1dGVMM1dKazJ4NE0wbTcxQ3V1M0hDWGZQZmVFQjBBZlk?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-11-07T05:48:25+00:00"
+       "date": "2026-11-06T19:24:00+00:00"
       }
      ]
     },
@@ -458,9 +458,9 @@
      "symbol": "^DJI",
      "name": "Dow Jones",
      "quote": {
-      "price": 52389.75,
+      "price": 52389.80078125,
       "prev": 51285.73046875,
-      "chg": 2.1526836434994534,
+      "chg": 2.152782659833119,
       "currency": "USD",
       "asof": "2026-11-09T00:00:00-05:00"
      },
@@ -506,9 +506,9 @@
      "symbol": "GC=F",
      "name": "Gold (USD/oz)",
      "quote": {
-      "price": 4123.0,
+      "price": 4122.60009765625,
       "prev": 4074.89990234375,
-      "chg": 1.1803994897785053,
+      "chg": 1.170585694266113,
       "currency": "USD",
       "asof": "2026-11-09T00:00:00-05:00"
      },
@@ -530,9 +530,9 @@
      "symbol": "USDNOK=X",
      "name": "USD/NOK",
      "quote": {
-      "price": 9.39645004272461,
+      "price": 9.399140357971191,
       "prev": 9.458829879760742,
-      "chg": -0.6594878841156504,
+      "chg": -0.6310455156537831,
       "currency": "NOK",
       "asof": "2026-11-10T00:00:00+00:00"
      },
@@ -588,9 +588,9 @@
       },
       {
        "title": "Microsoft Stock: Buy or Sell? (My Final Verdict)",
-       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORXRwRUNBRUI3SVNwTEg0bUo5TC1PRk5lYXhqNEpsMUlYSmllT2E2WDRnNHFCaGgxVHZMXy0tM1B6VkhoV3hzNTRwTlhnc0d6MTg2TUV2Y2ExY1pNZlk5SlVNTDRVMTRCMXZHbkRiVE1hTzhPUTRIbVN0VmZXb18yalVYZXZtUVJpazFqOWxlZFJtOGZQdEVnSndTSWZnUlB1TUpJQ19RRG9HNTRrMjItQzFYVGlkNFBsNFR6Y2NQb0s?oc=5",
+       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcE05OXpGeFBfVkFaZThJamNDZ3JjM3FqeThYM1JZWGo0T0x0dGdjckR0dlotVjE4Um1UUmZQUnRRdFlXbjZVUTZCNTNnQ3FSYml6VTh6U1BodHhPVlBWVllZTlRiZlgySG1Ycm1jdU5OZTBQZUtzVXgyTUVHQXRCUUcxZmJsaEpwdUV3U05pcXRxZEpIZUllRkp5dHJCY2kwUm10ZmFScGNHWmxoWUN5dnEzVXJkRTVsR2RqdDJNYUk0QXd1WXpxUA?oc=5",
        "source": "The Globe and Mail",
-       "date": "2026-11-08T11:31:24+00:00"
+       "date": "2026-11-08T11:20:20+00:00"
       }
      ]
     },
@@ -606,16 +606,16 @@
      },
      "news": [
       {
+       "title": "The short seller who saw signs of Nvidia\u2019s China scandal months ago claims Megaspeed isn\u2019t the only company helping China access chips",
+       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOWGxBUEduTU5VYXprTkk1cm5sSDBleExnY2RVWWp5ZHlGdGE5bUZNbUxwOGF1UHYtYkhQSUVVMjJVMEJMdGpwUEpFOVNPb0NXQ3dmVFJSZEhYRG5kSm41b2tfT1RXc3ZpUEhLUTRNYlZScVQyTEluX1ZFSzJFNFMtQldNMjFYVWdRRlVSNmlDb3BJZW1KejVGOEI1Q0M4ekVJYmVaNUdMVkd0emtMMjVaZE0yVHFlSGhSVm82VENRWWtPcVhqZVpMZHNBcTJrdms0d0dhUHZZcTlEVmRpZFJ0dF9GMGdOSWVzRDUySkplVjhaNmhYODhUUGRWdFFFUnpwZmVaYw?oc=5",
+       "source": "MarketWatch",
+       "date": "2026-11-10T00:48:00+00:00"
+      },
+      {
        "title": "Jim Cramer says Nvidia investors need to prepare for a future without Jensen Huang",
        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdG82bnM4dENmQVp2M21kbHp1OW1YemxqSUhRajRBTnJzSHMtVG0wMUVqMWlpYkJFZDBIeDM2bUtVa0dSYWVkeWgwUzFyM0wyVUVuT2gwVnF0TmtjMHFUbW41WlRSd1ItcXh0OV8wUnBpa2hQOUtGNnFWRXJ5UGdZUXZtUk1zWnJMeVE?oc=5",
        "source": "CNBC",
        "date": "2026-11-09T23:24:05+00:00"
-      },
-      {
-       "title": "As Nvidia\u2019s stock falls, here\u2019s what Wall Street has to say about the Jensen Huang scandal",
-       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRVRnNGxxTlJScW5MRGdWMmk1bkFpTUFSQ1pNYngybk93a29aREl6bV92a0p1ajR6OV93LXh4Unk0eXU5aVUtT0ZyS3VCTExmTWFxSXNtYU4tbHhfaUE4Qy1aV0M5UllUMUUyWHZNcVR4LWpqeWFUT0thak5LOEpiZHp3SVUtYXhrblNMYTl4TWV6RGcweGx6TlByNWhkWDJENkhwa1RKMGtDSzhMZlB2bDNkd09fUGVlN0xQZmpCdGwyZG91bHJfN0hyWnIxdW1sRlE?oc=5",
-       "source": "MarketWatch",
-       "date": "2026-11-09T21:55:00+00:00"
       }
      ]
     },
@@ -656,16 +656,16 @@
      },
      "news": [
       {
+       "title": "Amazon Is \u201cthe Cheapest It\u2019s Been\u201d in Years. Its P/E Fell From 34 to 21",
+       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWDBOTm13THhibmtfRG1EOS1sSlRjY25uRTdxbUlCbS03OExaa2s0Z2JHR3BndzZfVWo1Z3BIWWN5ZEQ3cm5mUlJvWXlrZWRRS2pVM0pUSW85NU8yeDNVMUpQTUJfNDFOVjVnSnVXcE10ZVc0blRHWEJ1OTRPU0EtMU1aSmxjdmZoRHhsb3d3NkhUOHhr?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-11-09T17:32:27+00:00"
+      },
+      {
        "title": "Andy Jassy Just Announced Fantastic News for Amazon Stock Investors",
        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV1B5ZHRwcG82YUxFNk16U2Uxa2VfeHp1SmozU1RvNjdGQlczSnI3b1FjVG1KTk9UWm1CUkNNUXhaRHNuTVhsTGdPbTBRY0lUdWNqZENlQkpMSFlWV1RpcUxqcmtTNjVJRHpPZzNveWRTS3Q4bl9feEJiWTdqWms3M3VMZFNMN0xfcGtkMkxLTkcxbm9vTzh2eV9KS1A1T2Q3WXc?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-11-09T16:59:02+00:00"
-      },
-      {
-       "title": "Amazon Generated $202 Billion in Quarterly Sales. Most of Its Operating Profit Came From Just 1 Business.",
-       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdjFaZnRYcXhBbUdwZGQzZGdDeHktRDhJcGtfbjJNZDVYbkt1VTBBTVozaE44eFIxMk9VUmdseGJmd0twTG1QV2FuTEptblJWWHFSUE1uN01HbTI3VkJaNm9FaWo2ZzFWaHQ3dzZ3bGIwcUVkNk1RSERDbGZwZV9lOThYUFRabHZrSjhrZk5GcF9CdVM3NzdmZjNBSGtaMVd5Um5ONGpR?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-11-09T15:50:00+00:00"
       }
      ]
     },
@@ -731,6 +731,12 @@
    "date": "2026-11-09T21:24:00+00:00"
   },
   {
+   "title": "The Trade Desk (NASDAQ:TTD) beats expectations in strong Q3 2026, stock jumps 21.8%",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQamc3eTF1RnpmLUZrSUl5SHp1S2ptUXJfa2hiSWZBNGFKX2dzN1FaTDFla0pLbS0zXzdxVE5kemRfeVpEMF95anVLNDB6ZlJJOHNCVzVpWjF0YW5xay1EWDNYcGRTN0tlUzUxaXFjT2U2MXJTczhNSFN0ZjN3aGlFdWtDQTZzdTNLczBUWHNMdVZRRHhOcm1j?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-09T21:13:13+00:00"
+  },
+  {
    "title": "Vanguard and Fidelity have a warning for retirement savers",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZThDckVWenA2Q3FrczZER05nSDVBTDlVaVhnQ3hVbWpsQlp0V0dzWUZsYVZRaTRRUlFJN1pYX19NT1F6MHYyQTJHVGRjZ21uMmlCTm1WWUxHMlBBVmZ0V184TGpTVkg2X0NIbk9ZblJfVUp1TUxjdVlSNUJxQ0ZzMlp3LXMwa2p3Z0hxc1lMczFzTjlELV9SSVU0cEo4WlN5bUtjdzRVQnJybXNSUHpvQ25DSzNSVjRIb2E0SkVrRmIxMEh3ZmE2UWlObUMtQXM?oc=5",
    "source": "Yahoo Finance",
@@ -743,22 +749,16 @@
    "date": "2026-11-09T19:03:43+00:00"
   },
   {
+   "title": "10 Best Growth Stocks for 2026 and How to Invest",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pT09kTllPOXQ1TFdJSmJqN25TV040MENyNDR6V2k3X0pNakZOaFJwWXRsRUNZcmVNSUU3c1NvZ0hJRk1ZVkFWRXREZElkM05SN2dNdGFYWmNIbWNZOXZMcXdzVzdsVEtLUW1iTF94OXU0WExleGR2TDBIUmlJY28?oc=5",
+   "source": "The Motley Fool",
+   "date": "2026-11-09T18:59:00+00:00"
+  },
+  {
    "title": "MCD Stock Outlook: Wall Street Eyes a Potential Upside Breakout After Q3 Results",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSl9kZVNVOWs1aGVBbGtCWVItR284LVoyZlhlM1pRSFM2ZDNvb05TVGh5TEZZTTF5eTRRdG9SWmd1S2QwWUM2VXpBOUZrWnZiOWs1R3d1SkEtdkZobkd3N3NtdWRIdzdQSTVvZWdTZ1pTNVJfOW1iNWJWVlIwMjVSX09KVlMyalRsbGpXcjI3M3l2S0JMMTBZZlF3?oc=5",
    "source": "Yahoo Finance",
    "date": "2026-11-09T18:03:05+00:00"
-  },
-  {
-   "title": "Prediction: $500 a Month Invested in SpaceX Stock Will Be Worth This Much by Year-End 2030",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYnNnU0ZHcWFtaHlPRlR1ZzNnNlFaVTVrUlJYc3pfcjU4b3UxbUcyMTB2SXdhMFotY2tVMzY3WE5SbmFlUGYxMFR1UjNzRHg0Q3Z1RldaTG1WWmVPZTY4bllkbkRYZEtncEdadXVFYXBxSWZFQm9rT3dZWnBMeFdVU3ZoVGdzY0NhU0hmd25EY0prTkJsdmNLbkZMQ1ViRWpEbG1v?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-09T17:09:35+00:00"
-  },
-  {
-   "title": "Morgan Stanley's Mike Wilson Makes Bold S&P 500 Call for 2027",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdzdTdE1pLVhlWkx1NnNQWXQtWXR2eTFic0dVMkRhZ0wyQTQtV2FUdmpFSVViNWVNeG5iYWluR3lza3FUc1VXX2dkaVJBZzhnUk8tbHYtMXBRWHhRMnkyM3QyQmdIZ2ZHUXpoNTFvOEI0ZEFJNDB0a25OUXFlUU9GaGVEdTFmdnZhdm93dlpjekpaTk80RUtiY2lwTm05NXc?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-09T17:00:22+00:00"
   },
   {
    "title": "Why \u2018buy the dip\u2019 ignores stock market warning signs",
