@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-10T19:21:31.359263+00:00",
- "usdnok": 9.508150100708008,
+ "updated": "2026-11-10T20:26:42.532421+00:00",
+ "usdnok": 9.506050109863281,
  "btc": {
-  "price": 73303.3828125,
+  "price": 73573.7890625,
   "prev": 75223.1484375,
-  "chg": -2.552094222159629,
+  "chg": -2.192622097399166,
   "currency": "USD",
   "asof": "2026-11-10T00:00:00+00:00"
  },
  "silver": {
-  "price": 51.36000061035156,
+  "price": 51.4900016784668,
   "prev": 52.56399917602539,
-  "chg": -2.2905383618965103,
+  "chg": -2.043218770249977,
   "currency": "USD",
   "asof": "2026-11-10T00:00:00-05:00"
  },
@@ -69,12 +69,6 @@
      },
      "news": [
       {
-       "title": "Royal Navy Eyes Autonomous \u2018Arctic Hunter\u2019 to Track Russian Submarines",
-       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1UMkc0VXEwTlZUeEV6bm9zWm9nUy1Hd0l2cWtNVGdWRHR4NUZKRV93ZXJVd0FELWJDZUgyd1pwbFRGUEE4b1JTX2J3NA?oc=5",
-       "source": "Kyiv Post",
-       "date": "2026-11-10T12:04:37+00:00"
-      },
-      {
        "title": "Kongsberg Pitches Arctic Hunter USV To Royal Navy",
        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOekRqUVdlOUhHUExqY09HazdEZ2VLaWRQRkFoOFFqUExRZHNTb05TZGtNcGxHdk1WUXhoQV90aEk2UHFjb3VyM3RMWmxsbGhsZjRWU0RRZ1ZQM2FyTVh1TTZxcFlEZnUtYU8wOVRnOFpLZ0wzTmd2SXNqZDhlSHFidlZqVV8wc2UyYkhwbElQTEIwRk0?oc=5",
        "source": "Marine Insight",
@@ -91,6 +85,12 @@
        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQalF1NGlvY2Y4RTB3VVpQeUxlbE1QSF82THBzSjRiRnQyNDlrNlh2RjJ0a0ZCNWI4ajk3ZXkzOEdQWU9ySUJybXQzMHZoZGstWmllaGhmZUxmbnZwOXI4S29wbWRhMzFfU3liNnB1cGNJUUZEREdvZVFrcENBREFTRk1mQVNLOTh6bURmM2pmaF9kbDZpdXB2eWtxZzQ1bWFWb1dXR3RzX08ycmZqaHdzUG1zd0YxMy1ocTNHQUR0bnNQdG9nZmx0WlFCeDE2dGtO?oc=5",
        "source": "Defence Industry Europe",
        "date": "2026-11-10T09:27:55+00:00"
+      },
+      {
+       "title": "Converted Fishing Trawler Pitched as Drone Submarine Hunter for Royal Navy",
+       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORVExS1RWbXJtMFFiTG5QNjRETHVrakNvc2UtTmY0cjY1Y3d6Sy1NY19nbFlkMW9fNi1LNGFmVTdNMmFscE1wbjMxeHVSUzljbnRKd3Y1RmNjN3plYVVXSk1VZUdJbU84aHJtSlhxSmRLNXdrcW0tNU5JQUNobVF0UGprYWVuck5kcDBTbkcxczR5RWZuUEdGNjhFaTk?oc=5",
+       "source": "The SOFX Report",
+       "date": "2026-11-10T03:37:10+00:00"
       }
      ]
     }
@@ -149,16 +149,16 @@
      },
      "news": [
       {
+       "title": "ISHARES AUTOMATION & ROBOTICS U (RBOTCO.CL) holdings",
+       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGVTlUcFpjTDVaalBuX1RvQ3JTc01PSnVaQW9qbG8tNGEzb241cC16Q1ZOZVFYWF8zazNINjNwZXl3b0NjUFJnMmY4ZmthOGE3Q1FaQnlfZHpXbFFvdlZVQU16bmE?oc=5",
+       "source": "Yahoo Finance UK",
+       "date": "2026-11-09T18:36:10+00:00"
+      },
+      {
        "title": "iShares Automation & Robotics UCITS ETF USD (Acc) (RBTX.L) Seasonal returns chart",
        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE93blVPdm92bXptV29rNng4elQ2TGlCMHg0bnNJc09HdmdxdVZkWVdreW5EazJIaTk4UGE2ZWxka2ZybG9ycjlVdjN2NXdpN0YxWUIwNHVYNkFZSjYxc2lFRXFvbWo?oc=5",
        "source": "Yahoo Finance UK",
        "date": "2026-11-05T01:24:56+00:00"
-      },
-      {
-       "title": "Best AI ETFs to Watch in 2026",
-       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeUFBMk04dWM4YXQyVUsxM0FwVmFRdkpqbHl0SDl3Zzh6bXF2aHNNa0cyRTB5MkRYUElYV081Yy05WFJ5VDUwM3RVaVVJWF9weGFtZGt6UTFfXzIyUVN2elFKNEdscFlLMVlpenNpWXVVRU5abVBKQnprdi1oWWhUb0k4UQ?oc=5",
-       "source": "IG",
-       "date": "2026-11-02T08:00:00+00:00"
       },
       {
        "title": "Best Growth ETFs For UK Investors In 2026",
@@ -203,9 +203,9 @@
      "symbol": "HL",
      "name": "Hecla Mining",
      "quote": {
-      "price": 14.22439956665039,
+      "price": 14.255000114440918,
       "prev": 15.40999984741211,
-      "chg": -7.693707284240004,
+      "chg": -7.495131371887442,
       "currency": "USD",
       "asof": "2026-11-10T00:00:00-05:00"
      },
@@ -228,9 +228,9 @@
      "symbol": "HYMC",
      "name": "Hycroft Mining",
      "quote": {
-      "price": 18.709999084472656,
+      "price": 18.79990005493164,
       "prev": 21.270000457763672,
-      "chg": -12.035737274075142,
+      "chg": -11.613071695682219,
       "currency": "USD",
       "asof": "2026-11-10T00:00:00-05:00"
      },
@@ -253,9 +253,9 @@
      "symbol": "ASM",
      "name": "Avino Silver & Gold",
      "quote": {
-      "price": 4.585000038146973,
+      "price": 4.609899997711182,
       "prev": 4.909999847412109,
-      "chg": -6.619140923933687,
+      "chg": -6.112013422140938,
       "currency": "USD",
       "asof": "2026-11-10T00:00:00-05:00"
      },
@@ -278,9 +278,9 @@
      "symbol": "CDE",
      "name": "Coeur Mining",
      "quote": {
-      "price": 15.295000076293945,
+      "price": 15.375,
       "prev": 16.450000762939453,
-      "chg": -7.021280444239453,
+      "chg": -6.534958742137842,
       "currency": "USD",
       "asof": "2026-11-10T00:00:00-05:00"
      },
@@ -303,9 +303,9 @@
      "symbol": "AG.TO",
      "name": "First Majestic Silver",
      "quote": {
-      "price": 21.204999923706055,
+      "price": 21.31999969482422,
       "prev": 22.40999984741211,
-      "chg": -5.377063506964763,
+      "chg": -4.863900758632822,
       "currency": "CAD",
       "asof": "2026-11-10T00:00:00-05:00"
      },
@@ -328,9 +328,9 @@
      "symbol": "DEF.V",
      "name": "Defiance Silver",
      "quote": {
-      "price": 0.11500000208616257,
+      "price": 0.10999999940395355,
       "prev": 0.11999999731779099,
-      "chg": -4.16666278615585,
+      "chg": -8.333331781129004,
       "currency": "CAD",
       "asof": "2026-11-10T00:00:00-05:00"
      },
@@ -353,9 +353,9 @@
      "symbol": "GRSL.V",
      "name": "GR Silver Mining",
      "quote": {
-      "price": 0.24500000476837158,
+      "price": 0.25,
       "prev": 0.27000001072883606,
-      "chg": -9.259261098908711,
+      "chg": -7.4074110867063165,
       "currency": "CAD",
       "asof": "2026-11-10T00:00:00-05:00"
      },
@@ -378,9 +378,9 @@
      "symbol": "GSVR.V",
      "name": "Guanajuato Silver",
      "quote": {
-      "price": 0.3100000023841858,
+      "price": 0.3125,
       "prev": 0.3400000035762787,
-      "chg": -8.823529669570263,
+      "chg": -8.08823626088847,
       "currency": "CAD",
       "asof": "2026-11-10T00:00:00-05:00"
      },
@@ -403,9 +403,9 @@
      "symbol": "AGX.V",
      "name": "Silver X Mining",
      "quote": {
-      "price": 0.7049999833106995,
+      "price": 0.7099999785423279,
       "prev": 0.7799999713897705,
-      "chg": -9.615383439750557,
+      "chg": -8.974358386541947,
       "currency": "CAD",
       "asof": "2026-11-10T00:00:00-05:00"
      },
@@ -434,9 +434,9 @@
      "symbol": "^GSPC",
      "name": "S&P 500",
      "quote": {
-      "price": 7504.83984375,
+      "price": 7515.43017578125,
       "prev": 7549.93994140625,
-      "chg": -0.5973570386819449,
+      "chg": -0.45708662443442183,
       "currency": "USD",
       "asof": "2026-11-10T00:00:00-05:00"
      },
@@ -446,9 +446,9 @@
      "symbol": "^IXIC",
      "name": "Nasdaq Composite",
      "quote": {
-      "price": 24979.388671875,
+      "price": 25041.71875,
       "prev": 25253.140625,
-      "chg": -1.0840313178868244,
+      "chg": -0.8372102232333756,
       "currency": "USD",
       "asof": "2026-11-10T00:00:00-05:00"
      },
@@ -458,9 +458,9 @@
      "symbol": "^DJI",
      "name": "Dow Jones",
      "quote": {
-      "price": 52189.421875,
+      "price": 52198.41015625,
       "prev": 52389.75,
-      "chg": -0.38238037974985817,
+      "chg": -0.36522381525011527,
       "currency": "USD",
       "asof": "2026-11-10T00:00:00-05:00"
      },
@@ -494,9 +494,9 @@
      "symbol": "^VIX",
      "name": "VIX volatility",
      "quote": {
-      "price": 20.110000610351562,
+      "price": 20.0,
       "prev": 19.920000076293945,
-      "chg": 0.9538179384031675,
+      "chg": 0.4016060411629274,
       "currency": "USD",
       "asof": "2026-11-10T00:00:00-06:00"
      },
@@ -506,9 +506,9 @@
      "symbol": "GC=F",
      "name": "Gold (USD/oz)",
      "quote": {
-      "price": 4037.5,
+      "price": 4039.0,
       "prev": 4114.5,
-      "chg": -1.8714303074492622,
+      "chg": -1.8349738728885678,
       "currency": "USD",
       "asof": "2026-11-10T00:00:00-05:00"
      },
@@ -518,9 +518,9 @@
      "symbol": "^TNX",
      "name": "US 10-year yield (%)",
      "quote": {
-      "price": 4.995999813079834,
+      "price": 4.9830002784729,
       "prev": 4.863999843597412,
-      "chg": 2.7138152493194623,
+      "chg": 2.4465550719976026,
       "currency": "USD",
       "asof": "2026-11-10T00:00:00-06:00"
      },
@@ -530,9 +530,9 @@
      "symbol": "USDNOK=X",
      "name": "USD/NOK",
      "quote": {
-      "price": 9.508150100708008,
+      "price": 9.506270408630371,
       "prev": 9.458829879760742,
-      "chg": 0.5214198962685268,
+      "chg": 0.501547543117753,
       "currency": "NOK",
       "asof": "2026-11-10T00:00:00+00:00"
      },
@@ -548,9 +548,9 @@
      "symbol": "AAPL",
      "name": "Apple",
      "quote": {
-      "price": 348.3450012207031,
+      "price": 348.760009765625,
       "prev": 350.69000244140625,
-      "chg": -0.6686820851401154,
+      "chg": -0.5503415159671454,
       "currency": "USD",
       "asof": "2026-11-10T00:00:00-05:00"
      },
@@ -562,10 +562,10 @@
        "date": "2026-11-09T14:03:32+00:00"
       },
       {
-       "title": "This Is the Best-Performing Magnificent Seven Stock of 2026. Is It Still a Buy?",
-       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSEZrVHNWQkREelZ1MEs1MDJLNnJKS284QXJsV240NEZjSTJXZGhWNEhmQ0JqRGZySjlGR3JoSUdnRlZhNUprb1pvYTNyZkVfalNXaHEyRzV0WERYR1JmQjU1ZjFScGJOeUEtWnBIZFY3OHFSVHBLRTdtYlZDV3J3Q290OFYwb1huZDdSVlNSWHVpcFRVbVVDV3BPcE1CNjVpaGVsT0dPbw?oc=5",
+       "title": "Apple\u2019s iPhone Demand Surges, But AAPL Still Isn\u2019t a \u2018Strong Buy\u2019",
+       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNDVKTlMwU0ZacGZ4WmxuNnJHQTh4aXh1dk9oRUhMNEo1ZEpsU3dVTFZqQlhVb09DXzJTTDJkWFVGdDM5STVybEhlUTI3QlIzd1R3UjVFbUw3ODZTc0pBU3RSTHBpRVFfZkFpdUp6WXlpQ3NOcEVtb2VYcV9MTXZYaTExUHRKeUFiQ0p2QXdhZzFZMEE1NUNXbi1qbEk?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-11-08T19:50:00+00:00"
+       "date": "2026-11-08T13:41:45+00:00"
       }
      ]
     },
@@ -573,9 +573,9 @@
      "symbol": "MSFT",
      "name": "Microsoft",
      "quote": {
-      "price": 534.8300170898438,
+      "price": 533.530029296875,
       "prev": 545.1799926757812,
-      "chg": -1.8984511033024343,
+      "chg": -2.1369022222784473,
       "currency": "USD",
       "asof": "2026-11-10T00:00:00-05:00"
      },
@@ -587,10 +587,10 @@
        "date": "2026-11-10T18:04:33+00:00"
       },
       {
-       "title": "If I Had $1,000 to Invest Today, I'd Buy This Trillion-Dollar Stock Instead of SpaceX",
-       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOWTZhZ1Z4bFd1UGROMUxnbnh2QmJBSU1fUnhwN3BlMGpHOTd5cGZ3Y2NPal9Ycy1ybGFJc2Q5T0Z3MkVHTW0xWU1KX1dYSFNnSm51NUlRVmtzaTdsNmZkN201UkFQNEFQWmxPb2JuUWl5S1NKNzN4T2M4a0VQSjJYM0JOX2tFdDEtS2loclgwLUVkN0MyUC1xRGZxdDh5UHFOSlBSVHd6c1JYUjIwNzJtX1pfazJmRnF0NFp6RHFwemlZaGFhZm1VUF9nVG1RTHBnNDZQcDVHM0k3N2U0ZElqLVFJS2lVdUQ5M2hzN1hIdDR0ZUx2OUIzTlJR?oc=5",
-       "source": "The Globe and Mail",
-       "date": "2026-11-10T13:29:09+00:00"
+       "title": "Microsoft tumbles as Anthropic unveils office tools ahead of IPO (MSFT:NASDAQ)",
+       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNk5XZzZTN001ckRmLXd3cmt5T0dYMXBnYkd5aUs2dmMzcU9kNFlSYU5ZaFY0UVE3U2VVdGxzbnJoZVp4blJkMDMySktmWTFVZFZEU3YyeWRXeW1TSHNpQnFwMmNuaGYyVXRmakRsQ3lNU08xaVhrdGphSGNWdmZTeVlpWER6SW9VaW1PZzU5QWZMOGg1b1M2UDMxamE4MHl2RzFTRg?oc=5",
+       "source": "Seeking Alpha",
+       "date": "2026-11-10T17:53:00+00:00"
       }
      ]
     },
@@ -598,9 +598,9 @@
      "symbol": "NVDA",
      "name": "Nvidia",
      "quote": {
-      "price": 168.1199951171875,
+      "price": 168.14999389648438,
       "prev": 178.6699981689453,
-      "chg": -5.904742351752878,
+      "chg": -5.88795230328123,
       "currency": "USD",
       "asof": "2026-11-10T00:00:00-05:00"
      },
@@ -609,13 +609,13 @@
        "title": "Nvidia CEO Huang Gets More Bad News. Cathie Wood Keeps the Faith.",
        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOc3dGdG53STRpeF9YM1VaZHNKMExGY1l1Q3d0elpTY0p1WDRZYXhWeGRCRFYtczZzQ3hjRUZGY2U2RlhrOFVhMS1neF9ldkd1bU1FTUdhb1BKRHl0dFJHMU4tRlFUN3ZlUXY5eENrMTJSbkJFMUFIc3VPXzF4OGRUdEhIc3Q?oc=5",
        "source": "Barron's",
-       "date": "2026-11-10T18:25:00+00:00"
+       "date": "2026-11-10T19:47:00+00:00"
       },
       {
-       "title": "Nvidia stock drops 3%, extending decline on report alleged Chinese spy linked to Nvidia CEO aided $7.5 billion in China chip shipments",
-       "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQaTMzXy1sdW5VeFphNTFTbjYzWUZmdHJLNmhXMTE3cVBybWQ1NFhBUU5lUEZqcWUzNnBMN0J2RmdoYWtidXBQc1pPbFNhZV8zcGVJX2VxX3pzU01JZTV1cFpKanZVWHhSVE5IbWUyaVo5bXoxaUdkQ2Jwd0poWXNrX1VrOGI4SlBNOVExdUMyT0NDeS15dHY3N3FRZ1YyMHpZWmRtOC1MTXFhVEFvMm1xREZmb0xBSWpJTUt1aHdMVTl4NHY5TFY3QjZPSWFqNDNCM2xfeFJDM1FLN18zbmZfMG5OeS1lQ25jWUs1R3hIVkc5amVmMHBIS3kyQl8wS3B3T0d5bjFqM2lYQkt1UDk5Rm9kdlMtZw?oc=5",
+       "title": "Cathie Wood Is Buying Nvidia Again, Adding 90,443 Shares During the Huang Selloff",
+       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ3A5aXduRkRfbkNOSzlNVjlqWEtQdjRIRldxWG9VSWJiLTlYVW9Nc3VnZlZxUy1hanJURndZalgtS2ZBb0QzaTBQWkdBWTVwYnE2ak4yVVdxbnp5Q1NiMEdZeWhfSzRkNjkwZVpILXRqeEVqNlhtYzVxVV9OR0V2dnNRcXlaX1JQNk5jVHRINnVvQzhOSnU0dzZZWlA?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-11-10T15:26:54+00:00"
+       "date": "2026-11-10T16:38:32+00:00"
       }
      ]
     },
@@ -623,9 +623,9 @@
      "symbol": "GOOGL",
      "name": "Alphabet",
      "quote": {
-      "price": 286.9599914550781,
+      "price": 287.3900146484375,
       "prev": 288.1499938964844,
-      "chg": -0.41298020704929606,
+      "chg": -0.26374432210465315,
       "currency": "USD",
       "asof": "2026-11-10T00:00:00-05:00"
      },
@@ -648,9 +648,9 @@
      "symbol": "AMZN",
      "name": "Amazon",
      "quote": {
-      "price": 270.25,
+      "price": 271.8349914550781,
       "prev": 266.92999267578125,
-      "chg": 1.243774553371857,
+      "chg": 1.8375600022042526,
       "currency": "USD",
       "asof": "2026-11-10T00:00:00-05:00"
      },
@@ -662,10 +662,10 @@
        "date": "2026-11-10T17:33:47+00:00"
       },
       {
-       "title": "Andy Jassy Just Delivered Great News for Amazon Stock Investors",
-       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVnJJcnlJXzIxWmZhYWpSY1pyVks5VUp2RGZJbGZVV2IwUjRWUkNwRTBrbGhPZlgzZFJrMlRTVkFWaldhLW1VdVVGV05aVkQ1cWxxamJfSFpFQWtmT1ZHUVVaYkVuNnVFbjBmamMwaloydHdhdUFQTFVLZTJDLTZLalBISUFsREFKMEZueVhHZHhaaDFTMzdlbGViR01DM09xYW5TVnJsX2g2U2EyWGRJSERoWkhzZzhSUVdmWFRCclVSWi1jNktjTnhlc2tUZllPSGJDS0tBa3d3U2NwdkpyTGdB?oc=5",
-       "source": "The Globe and Mail",
-       "date": "2026-11-10T13:37:05+00:00"
+       "title": "Amazon\u2019s AWS Strength Outpowers Its Tailwainds So I Accumulate",
+       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMHlPRmlhaEp1bEJmSmstRHdCTmloMDQ0UGFxNHpWTDlEb3Axd3NEek5JN2UybXFkamJtbkFHLVRaS292ZnZCdTA2aGNNV3JXNG55YnAxVXhSUjN1S19HMTg1QjZNSmwwQmpudGVCdDhBTHhaeTI4QllPcWUyLW1WRWVzbzBDZHVyT3JCWUJGazhkVEZjcVQ4MXZsOHVpblZxdDJMWi1zS2k?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-11-10T13:45:13+00:00"
       }
      ]
     },
@@ -673,24 +673,24 @@
      "symbol": "META",
      "name": "Meta Platforms",
      "quote": {
-      "price": 640.8200073242188,
+      "price": 644.5700073242188,
       "prev": 641.3699951171875,
-      "chg": -0.08575203036560453,
+      "chg": 0.49893388081656553,
       "currency": "USD",
       "asof": "2026-11-10T00:00:00-05:00"
      },
      "news": [
       {
+       "title": "Meta Platforms, Inc. $META Stock Position Reduced by Markel Group Inc.",
+       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSl9wOVdHY01JZlpjd2gtdHJLS2Zaby0zTUloLVdwd09fVnEtZkN0bFd2dXNQb0txcWpCVEQ4U1BFUXN6SjhDNGVDVHJ5RFh5NDlrQi0ybHRlSmtZdWx5QkpBd3dKbFZlNUhESG5kejY3NVJZT09KOGZuRTI3SmNTZXpNVXlVb2RNSm1Ea1VJOUN3Z0NoQVotbTRObTBxT25QWDNleUx2TVhLOFRfU2w5dDRzYmRuVDkxc1g4ZWNmZUl5Rk1BWUE?oc=5",
+       "source": "MarketBeat",
+       "date": "2026-11-10T10:38:46+00:00"
+      },
+      {
        "title": "Meta: Muse Celebrations Are Over, Reality Kicks In (Rating Upgrade) (NASDAQ:META)",
        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONF9UeW9LbEd2ckN2SEh2M08wa2NqemZhOUVHa2JHM0xnRTRTN2hBYnM0YmFaaEkzaHdjTnVqX2JCZmd0b2Fyc1h5VW91c0R2SVBkcjhGVTB3UGZYN29GRXlUM2NxMy1qeDM1R3VMMGFPZ2pZY3VfU2hxZ0NCbTF0aVBzS3F4RUw5UDd6bm1Zby02eUxGTlZadUxqTEZzdw?oc=5",
        "source": "Seeking Alpha",
        "date": "2026-11-10T10:15:00+00:00"
-      },
-      {
-       "title": "Meta Platforms, Inc. $META Stock: Collaborative Fund Advisors LLC Grows Stake",
-       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRmdKNmhUalFnVUFMVS1XOGF6VnNzMU5VNUktbzAtMnRGejZTb3lWNjhqcEJtT1k1RUJsY2lCMEJtTUY2d1BjQlB4ZlJhbnZBQ2ZydXExSlBsQnRmSldZQTlNUE9yczZxaVNYTHBVNjRXYUFDUDUwczRoWVZSSGh3dkRyWTRfM2cxbEdwcUtDMV95NmljZF9meTNMd0ZlaHZqV0JfQnpRM1l5YjdvSEJWTlBQeGllY3Z2VWZXa29BZWZ5b2w0WjAyUTJFSy1hWjA?oc=5",
-       "source": "MarketBeat",
-       "date": "2026-11-10T08:47:59+00:00"
       }
      ]
     },
@@ -698,9 +698,9 @@
      "symbol": "TSLA",
      "name": "Tesla",
      "quote": {
-      "price": 377.2200012207031,
+      "price": 377.9549865722656,
       "prev": 378.04998779296875,
-      "chg": -0.21954413412655915,
+      "chg": -0.025129274902968568,
       "currency": "USD",
       "asof": "2026-11-10T00:00:00-05:00"
      },
@@ -712,10 +712,10 @@
        "date": "2026-11-10T13:12:00+00:00"
       },
       {
-       "title": "Interesting News for SpaceX Stock and Tesla Stock Investors",
-       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNmFDUlU5cS14OVQ5ODIwakc0SU5pSU5hTFdGaFk3VEZuREtlMlZkUGsxbjE1NVhMczJqM2N4VFhUVEJ4X09BRWxmX2lRWnNvQlR0WUVtMzIxVldsYzRzbGsySVlodVpBQTlaUjl0Um9DYTI0U2NhZVBWSmdsNFlZRi1aN0dNc2tFYW1Pa0xmdV84YUkwZmFaaklpTjFlSEpmUEF0c2NielhHNXlVT1o5b3RtcE81V0lvOTdWbzgxaVdkRm5rcWNkYk1RZ2JkWWhHQmthazlPWlZIcGtn?oc=5",
-       "source": "The Globe and Mail",
-       "date": "2026-11-10T10:54:52+00:00"
+       "title": "Elon Musk sends strong signal to Tesla stock investors",
+       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOc0tfbHp2QWtRQzJpUnRwRW1saEdNSEdIc0lMcE1kNXZ2UV9USHJNMzA2b0x6NVMyVVdmR01TamY2Tk1BOFpnQktOdzJFakhYbTJONlNjbHc1RXY5T01HUVVudEJ0UHVoSzB4a1JTYU52eE81ZVdqaVRFZXM2N0NnVXBjQkQ?oc=5",
+       "source": "Yahoo Finance Singapore",
+       "date": "2026-11-10T03:33:00+00:00"
       }
      ]
     }
@@ -725,22 +725,22 @@
  "failed": [],
  "general_news": [
   {
-   "title": "Will the housing market crash due to the affordability crisis?",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZlRndE5BblFlbTZLeTNIQi1OeDB0M0FYQ3pvMGtwcXEzVFo2ejdQMGllOHZGRjJUUUZnZ3VqX3hxZHV0LTN5YzBoc1VkLUJWdFc2VGFua0dPbXFjVGZ1SzF4UTdrQ2puVFpacFZiWEFyemw3MkZvMU01dmtmUHMzU0VNejUydTZidzFYU1BSMFlkNjlZNmMxcFRnMzZNOVM1Mi0wRVM3T0RLMFhDaWZrV0dOeUtFc1Z2aFR0ZEo3TEZKejdTTVBvcnJILUxNcktQUEJF?oc=5",
+   "title": "Nvidia stock drops 3%, extending decline on report alleged Chinese spy linked to Nvidia CEO aided $7.5 billion in China chip shipments",
+   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQaTMzXy1sdW5VeFphNTFTbjYzWUZmdHJLNmhXMTE3cVBybWQ1NFhBUU5lUEZqcWUzNnBMN0J2RmdoYWtidXBQc1pPbFNhZV8zcGVJX2VxX3pzU01JZTV1cFpKanZVWHhSVE5IbWUyaVo5bXoxaUdkQ2Jwd0poWXNrX1VrOGI4SlBNOVExdUMyT0NDeS15dHY3N3FRZ1YyMHpZWmRtOC1MTXFhVEFvMm1xREZmb0xBSWpJTUt1aHdMVTl4NHY5TFY3QjZPSWFqNDNCM2xfeFJDM1FLN18zbmZfMG5OeS1lQ25jWUs1R3hIVkc5amVmMHBIS3kyQl8wS3B3T0d5bjFqM2lYQkt1UDk5Rm9kdlMtZw?oc=5",
    "source": "Yahoo Finance",
-   "date": "2026-11-10T16:34:59+00:00"
+   "date": "2026-11-10T15:26:54+00:00"
   },
   {
-   "title": "Wall Street bonuses seen advancing, but 2027 outlook softens - report (GS:NYSE)",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVVRaMGM4WVRZWl9hXzZwUkcxVExaSTZ1dEJVU25TTmIxRkZqNVowQ1lvMFIwYldnZi1KVUp3NDJDMmc5ZHRYM2o3Ym11V2pULXlaNklWUGtBVy1ZRDkwNWpLNUNWSm5rODFaZkhTMUw4RGh6eTlIWVNwZXV1Q1R1WG11d2NVRTBnSXNLUFFla09pbzdtOVBraFFUR3hXdkVQbW9KSUxUOA?oc=5",
-   "source": "Seeking Alpha",
-   "date": "2026-11-10T16:20:00+00:00"
+   "title": "Stock Market Today (Nov. 10, 2026): Nasdaq falls after key inflation report",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaXI1X1p4UVRNam96OFNwcnd5b0E2T004SGNxVC1SNFZTNlpGbXltbTZ4X3dTWXRKVEZ3cUU1c2VBWTdNQWxFTF9RaU5yXzA5S01wcDlzSU1LeEZYV1hEd2pDdHhza0xWUE0xNzNIeFp5cXh3Y0VzTzdWbm1rMDBUVkRDVV9PY3QzSXYtUHIzR0tlTEp2?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-10T14:44:34+00:00"
   },
   {
-   "title": "Hims & Hers stock sinks after Q3 results, outlook disappoints",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWGZaX2RtdzQ5N080MWZuS0Nzb1Bsd19aQ255bUp6dTU1dGJWOGNCR0dBV0ZsQmdkRy1Qa3RhRGdNRV9JMks2MDZvcHQ3LUotM3hxa1FEOElfUXFabndUckJvVGJidF9jQWtpVUtIZkdUcjlXMEpJMWpiejBZUkFWME9GSnNGVjNqNkpuZnFGMXJDMXB0dHE4S0I4TzFVOEFNRm1pZGVBVmY0T0NyRHNQQVEyTlVoYVc4WTQ5NER3TTM?oc=5",
+   "title": "What FedEx Stock's Higher Earnings Outlook Means For Shareholders",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbkxyN1lHU1liQzFaRnRLRDM1WE9mMmRCRzZCZ3hDc2xWZXBOWC1SQkpSdEhyRlY1X3NXdzhnMmdTX0wyLWh4N1RSSUtOZ0ppX0Z4a3pkc2NRUllSeFBoYUZhM0Fidjh5a01WY1hjN0ZMN0RKX0pzTWpGa3JNNnpwU2V1cVBWckdBS09Ga3pWSm9ZekpIeXhIYnd5aERVbTFEZnFr?oc=5",
    "source": "Yahoo Finance",
-   "date": "2026-11-10T15:45:47+00:00"
+   "date": "2026-11-10T14:09:12+00:00"
   },
   {
    "title": "Posthaste: Why an AI crash could be worse than the dot-com bubble bursting \u2014 much worse",
@@ -791,10 +791,10 @@
    "date": "2026-11-06T15:50:00+00:00"
   },
   {
-   "title": "Euronext Oslo B\u00f8rs to Delist Elmera Group",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVDhVUWhqTUZIb3Roa1hxOGxsbDllWDlpUVkxeWFRUVZNaEhyR09aZjh5UFRxald0OEE5c1RBbWRqTWdFMWVvYXM1Qm9YTVBzMTBBM2RTTEgtUlMtdG44bGJPQkV2RjBwM0FJOGZFVDI2eWktdU1BQXhSY000UWJZWl9YMkFfS0ZBbE5CUUFWOHZhMHFyc0VILTZn?oc=5",
-   "source": "www.marketscreener.com",
-   "date": "2026-11-05T11:15:06+00:00"
+   "title": "AI Has Taken Over Every Corner of the Market",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1JVURXbnhSNnBWUWxZakRxUThxNXZwVDdRbzRyb2s3MzQ4eWRZbDluQnVyeUIwRVhrOHBlc1JvZHpVdENmQXczSC14Vloxb3RObTVuZXVkYTlFQTNYbFlKTzJaSUd1M2xEYkx1bzd6d3EzMnRoTzN3?oc=5",
+   "source": "Bloomberg.com",
+   "date": "2026-11-06T11:30:00+00:00"
   }
  ]
 }
