@@ -1,19 +1,19 @@
 {
- "updated": "2026-11-10T04:31:22.137020+00:00",
- "usdnok": 9.399140357971191,
+ "updated": "2026-11-10T05:32:46.069967+00:00",
+ "usdnok": 9.392809867858887,
  "btc": {
-  "price": 74703.2265625,
+  "price": 74681.578125,
   "prev": 74584.6484375,
-  "chg": 0.15898462684229564,
+  "chg": 0.12995930064780836,
   "currency": "USD",
   "asof": "2026-11-10T00:00:00+00:00"
  },
  "silver": {
-  "price": 53.08000183105469,
-  "prev": 51.803001403808594,
-  "chg": 2.4651089563165973,
+  "price": 53.31999969482422,
+  "prev": 52.56399917602539,
+  "chg": 1.438247718304586,
   "currency": "USD",
-  "asof": "2026-11-09T00:00:00-05:00"
+  "asof": "2026-11-10T00:00:00-05:00"
  },
  "sections": [
   {
@@ -81,16 +81,16 @@
        "date": "2026-11-09T16:11:28+00:00"
       },
       {
+       "title": "Kongsberg Maritime Unveils Arctic Hunter USV",
+       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOVJ0QzF1M1VMcXhwUm1ISTN6TTV3T0FJQTVxU255RVMyRnpXZml2aDFOWl9OUGRGRF8weHQwUDZNRTN5VXhkTFFIbXViUUd3VUVvMlBBTHlmZzZ5dHVfUXJpUmNjN3JMOFFxTjA1RnB5YWVGaDJaemJOVFpULWFDWWJYaERzajN2VkE?oc=5",
+       "source": "Marine Technology News",
+       "date": "2026-11-09T14:45:48+00:00"
+      },
+      {
        "title": "Kongsberg Maritime Reveals 56-Metre Uncrewed Vessel for Enhanced Submarine-Hunting in the Arctic",
        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOV0ZKVGVnTmhHaVRSV3gwRzVzS2NzQkRoZC1ZUWdGNzlJOTQ1dndtMXRHQTFRNHdhNTZGTUJFMV9MM3JvbmNIb3d4NS1ZR2htNHBXNlVYYUxoSnc4N0NWQkNUOHpWTjhrY200bVM2TmNrOWRxdTVheFNTNXE3a3NZSjNRVW9mTWRqWnJKVEwwN3R3bm9OaHc4emdMWWE5S1lhWmFBaDBwOEJURkVNX2stUDdtM1NOQ3JWcDBNdk9lRHA?oc=5",
        "source": "SSBCrack",
        "date": "2026-11-09T13:05:15+00:00"
-      },
-      {
-       "title": "Kongsberg Maritime unveils Arctic Hunter USV",
-       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWlhsM0pNYTRyTDk4NTRjbW9GYkZHWlVmTE9WRW1UWGJqVTNZN0JvTFk3SnB0S2kyNGltQnRWX0JzNzBmQVczZF9ZRFhVZXlTcVdXUW5kRzhGM3pONVlEWTZaUHU4d2ZaY0poZklLTGpPazdYRnpTM1ZnNWE1czZfNl9RUDAzck82cUE?oc=5",
-       "source": "NavalToday",
-       "date": "2026-11-09T12:33:31+00:00"
       }
      ]
     }
@@ -112,28 +112,28 @@
      },
      "news": [
       {
-       "title": "VanEck Gold Miners ETF (ASX:GDX): How Should Its 2026 Distribution Be Read?",
-       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTTB1TGFyUHV4VkdFeDAtemZnRDB3bXpHLWNYdUI5WnpZbmNya1JJSVVzRUQ4ZE5VV1QzOHBNeUEyX1pHNWlkajFSU0EwZGxmbmlLeEJOQUpHVTZDdTZJZGI5bDctVHRubEFhWGpyb2JFbW1zLVY4OTRXZ0N5WkFvSVM2b1pmS0JpalZ6WHVQY05xYlM3akZiRWlPYTROOUNseEdkNHhsZEs?oc=5",
-       "source": "Kalkine",
-       "date": "2026-11-05T13:05:00+00:00"
-      },
-      {
        "title": "VanEck Gold Miners ETF (GDX) Stock Price, News, Quote & History",
        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10WkVJTkdVNmtRV3VGcG04dnFuYUhWNzRib0ZaQnB3S3ZxUXJXY2M1Mm83cXZVMXJsa2FUajV2ZzQybjFCeGxNcWFyeXZsQ0xPcEVVT1M4M2Q1Qm00WWFLbQ?oc=5",
        "source": "Yahoo! Finance Canada",
        "date": "2026-11-05T07:23:33+00:00"
       },
       {
-       "title": "VanEck Gold Miners ETF (GDXB39.SA) Seasonal returns chart",
-       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE05VTI5OFB3MmJHWllySG15UFFPbFNvOW1sLWVWQnY2RXlVVlZ4NVlUUzk5SjQzWHhlVGsySnc3SXRnWXlxZFJPNnQ5WHR2SGQ5X3dwTzB3VFJBMjVVRllGZlZFZ2VWaWoz?oc=5",
-       "source": "Yahoo Finance UK",
-       "date": "2026-11-04T13:43:52+00:00"
-      },
-      {
        "title": "VanEck Gold Miners ETF (GDX) options chain",
        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNkdIR19pWWkwR01KYlpMQ21oZEdJdmF4Z3Y3ZEdkNHVrNXBpZ3hadkxSYUNPWU5BbG9HMWI3NWllYTlEQ3VnaXU4VXZfeG9SZWNNU2s0Y2k4TVNydHd6QU1NSzJTRDJNQmw3SkdiM0RfTzdwQmtCTXJXNG0teXUxLVZxQQ?oc=5",
        "source": "Yahoo Finance Singapore",
        "date": "2026-11-04T07:45:12+00:00"
+      },
+      {
+       "title": "VanEck Gold Miners ETF R (VEF5.HM) Seasonal returns chart",
+       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16Z25BX1NDRlZjTkdwRy1PeGlJN09nYXdzcU1NX0ViSlE5eGFrUXAtVHlaemFCRWI0eHBVOGNISHRpcWMzV1ZQUTFZQzZUNEtDdGZQMWlsT1FMS2lsTGQxbno5cms0Zw?oc=5",
+       "source": "Yahoo Finance UK",
+       "date": "2026-11-04T02:40:49+00:00"
+      },
+      {
+       "title": "Form 4 VanEck Gold Miners ETF For: 2 November By Investing.com",
+       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVWg3VFlyYmFXNTNIVEtoejVqRDRaeWlKdWZySmdiWEYyRmJ6WWdvWFBmdmZ2M3B5MHpreFlwbi02TEFGSGU0Y2h0Rk0wV2JQVUNQb2ZpTVNMVVFIbWoxNGZpcVRKd1I4cEt3b0cxVUZBSjVSNWRoakFSd1BvWkF4ZlhlYlZoM0ttc19TWEFWRGtXellpb1ROdHozRGlhcHpHSEo5VHc3R0k?oc=5",
+       "source": "Investing.com Nigeria",
+       "date": "2026-11-03T04:18:18+00:00"
       }
      ]
     },
@@ -189,7 +189,7 @@
        "title": "Monthly letter October 2026",
        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWDhQalFndWVXTThtbXNMc2Ryb29OdndLV2hnczhtVWxLN3U0U0N3di1DdTVIak54c2JGaGVuMkxoaUNvWEZneDgyTXJuS1dkTDZ6WVpwWlowTHRHdzhlRWFzMEdPTWN4UTZDV0VrYUxSdmVWVlF0cDVtUk1zLTR1RXduN1B2RmFUSDBVRlRVcV96TnJ0YzIzWg?oc=5",
        "source": "TradingView",
-       "date": "2026-11-06T09:21:35+00:00"
+       "date": "2026-11-06T09:10:00+00:00"
       }
      ]
     }
@@ -242,10 +242,10 @@
        "date": "2026-11-06T08:51:15+00:00"
       },
       {
-       "title": "Hycroft Mining Holding Corp (R5A.HA) valuation measures and financial statistics",
-       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHeUNJZnNYTFVMX3hGRlBfNFRUQ1lKX1ZFUm9fUm5zdXBqSmYtLWVGNnV4MUR5bUZkUUlnRTEwaWhYNkt0TVV6ejJfVjctY2ZTREhLU3ZzcndEX2xFTGJXdk5ROEhIaEJt?oc=5",
-       "source": "Yahoo Finance UK",
-       "date": "2026-11-06T08:51:15+00:00"
+       "title": "Hycroft Mining Holding Corp (R5A.HA) latest stock news and headlines \u2013 Yahoo Finance",
+       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BQ2tpNE9tZm5CYjZ1ZG1yN2RZcHdFcUJqd21oWlJSc2dGM0t6QnUzM3JWS0I3dEhXdXpHaUR4WGo3LUlxMW5pT19kdVozdUlUR0JXbjRIc1ppbGc?oc=5",
+       "source": "Yahoo Finance Singapore",
+       "date": "2026-11-06T06:28:47+00:00"
       }
      ]
     },
@@ -261,16 +261,16 @@
      },
      "news": [
       {
-       "title": "Avino Silver & Gold Mines Ltd. 2026 Q3 - Results - Earnings Call Presentation (TSX:ASM:CA) 2026-11-07",
-       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRmlYRFVIZGhNcl93bjE1bXN1R1U3VGpaZUtFeEZleFNNaThYV2lLbVZNUmJ5UndCSFFEbXlNTXp1U3dGc1JuMG43eV9CMWhlU3FKbEJMMFludjBCUThmWEZ4REk4QTNYdHYtYnZLTDZiT0Myd0xFRXpQN2FRaFFsMjdUV2xKdktCSlo2S3g3dFQtQVZGU0tkb1dHYnhEemM3enVrNHdnZ3BTaGk0bFN4LTMwbTVJZw?oc=5",
-       "source": "Seeking Alpha",
-       "date": "2026-11-07T20:45:00+00:00"
-      },
-      {
        "title": "Avino Silver & Gold Mines Ltd. (ASM) stock price, news, quote and history",
        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB2VXNGcE9Zdm9oeHBaYjZ0Q1NRd0ZzOHF2VzF2cTE1UGtNQWpxc0hFanRNVlg1MV9aY3dwUEduSnJyeU9VR29UUU1fcXU1U24w?oc=5",
        "source": "Yahoo Finance Singapore",
        "date": "2026-11-07T08:59:01+00:00"
+      },
+      {
+       "title": "Avino Silver & Gold Mines Ltd (ASM) Q3 2026 Earnings Call Highlights: Strong Cash Flow and ...",
+       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbDc2TnVwRTdZTm1fbEg0UGpONUdmR3VTOFFUN0VCX1dWZzQ0UTM2MnViU2dkLURtam93SVlyWDVnd21wV3RHNi1lbDhVT2pnVkd5aENNNFFxOXE5cTBnSTJGeEZjVkxQV2xKMkVicmpVVEdDVkRJN3pWSW5NYU1yTzR5dTdZMG00YnE2ZHZOTUUydTVGS2lIdVhxdl9fZw?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-11-05T23:11:32+00:00"
       }
      ]
     },
@@ -328,9 +328,9 @@
      "symbol": "DEF.V",
      "name": "Defiance Silver",
      "quote": {
-      "price": 0.11749999970197678,
+      "price": 0.11999999731779099,
       "prev": 0.11999999731779099,
-      "chg": -2.083331393077925,
+      "chg": 0.0,
       "currency": "CAD",
       "asof": "2026-11-09T00:00:00-05:00"
      },
@@ -353,9 +353,9 @@
      "symbol": "GRSL.V",
      "name": "GR Silver Mining",
      "quote": {
-      "price": 0.27000001072883606,
+      "price": 0.27,
       "prev": 0.24500000476837158,
-      "chg": 10.204083866896262,
+      "chg": 10.204079487779595,
       "currency": "CAD",
       "asof": "2026-11-09T00:00:00-05:00"
      },
@@ -446,9 +446,9 @@
      "symbol": "^IXIC",
      "name": "Nasdaq Composite",
      "quote": {
-      "price": 25253.138671875,
+      "price": 25253.140625,
       "prev": 24579.4296875,
-      "chg": 2.7409463642584786,
+      "chg": 2.7409543104355283,
       "currency": "USD",
       "asof": "2026-11-09T00:00:00-05:00"
      },
@@ -458,9 +458,9 @@
      "symbol": "^DJI",
      "name": "Dow Jones",
      "quote": {
-      "price": 52389.80078125,
+      "price": 52389.75,
       "prev": 51285.73046875,
-      "chg": 2.152782659833119,
+      "chg": 2.1526836434994534,
       "currency": "USD",
       "asof": "2026-11-09T00:00:00-05:00"
      },
@@ -506,11 +506,11 @@
      "symbol": "GC=F",
      "name": "Gold (USD/oz)",
      "quote": {
-      "price": 4122.60009765625,
-      "prev": 4074.89990234375,
-      "chg": 1.170585694266113,
+      "price": 4129.39990234375,
+      "prev": 4114.5,
+      "chg": 0.36213154317048524,
       "currency": "USD",
-      "asof": "2026-11-09T00:00:00-05:00"
+      "asof": "2026-11-10T00:00:00-05:00"
      },
      "news": null
     },
@@ -530,9 +530,9 @@
      "symbol": "USDNOK=X",
      "name": "USD/NOK",
      "quote": {
-      "price": 9.399140357971191,
+      "price": 9.392809867858887,
       "prev": 9.458829879760742,
-      "chg": -0.6310455156537831,
+      "chg": -0.6979722940479105,
       "currency": "NOK",
       "asof": "2026-11-10T00:00:00+00:00"
      },
@@ -725,6 +725,12 @@
  "failed": [],
  "general_news": [
   {
+   "title": "GTA VI Launches in 10 Days, and Take-Two's Forecast Might Be Too Low. Is the Stock a Buy Before Nov. 19?",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPc2ZoejU2eG5vNHJkbk5pTjF2NVZVbC1ReTFpR1RKdFliSWN4eUR6elFlemhyUUlDa2otakU3aVBDRE1seDNhcjZCRHJ4VVdhTVl6Q1gtN0hjblJwZGw1ZXRGZktwS1BKZ0ZxX2ZvdUlBbmJXNUMtSXBHcnAzR1hNeW1XOHpiV0psdUFBTldOTENWdw?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-09T22:37:43+00:00"
+  },
+  {
    "title": "The stock-market rally keeps spreading beyond Big Tech. October inflation data could put it to the test.",
    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbElzUEl3dVVBaVlmTFVuX2kzRlJIVlNWZThFdXR5VmlGSGJhRnV5U0tfUmlHQy1nRkstNjdldDcwY0czb0ZVb0dnaGV4b2g0dlV5YkdWRnlCOGloQU5aVmhFdnlXM2JUTU8wbGwySFI3bzk3bU00WC02S2FxR3BoU2szZDhwM2owaGVacFZtN3p5cDh2aG9GUVNRUmxRVk9NandhbHdnMlQzWElORVl0bTZuRG1aZGJzb1NXM2hTNVdVczdiOF9SM3QxUnRGR2xXb3B5bGY2Nklra182elE?oc=5",
    "source": "MarketWatch",
@@ -753,12 +759,6 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pT09kTllPOXQ1TFdJSmJqN25TV040MENyNDR6V2k3X0pNakZOaFJwWXRsRUNZcmVNSUU3c1NvZ0hJRk1ZVkFWRXREZElkM05SN2dNdGFYWmNIbWNZOXZMcXdzVzdsVEtLUW1iTF94OXU0WExleGR2TDBIUmlJY28?oc=5",
    "source": "The Motley Fool",
    "date": "2026-11-09T18:59:00+00:00"
-  },
-  {
-   "title": "MCD Stock Outlook: Wall Street Eyes a Potential Upside Breakout After Q3 Results",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSl9kZVNVOWs1aGVBbGtCWVItR284LVoyZlhlM1pRSFM2ZDNvb05TVGh5TEZZTTF5eTRRdG9SWmd1S2QwWUM2VXpBOUZrWnZiOWs1R3d1SkEtdkZobkd3N3NtdWRIdzdQSTVvZWdTZ1pTNVJfOW1iNWJWVlIwMjVSX09KVlMyalRsbGpXcjI3M3l2S0JMMTBZZlF3?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-09T18:03:05+00:00"
   },
   {
    "title": "Why \u2018buy the dip\u2019 ignores stock market warning signs",
