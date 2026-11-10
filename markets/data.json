@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-10T07:52:07.495763+00:00",
- "usdnok": 9.416080474853516,
+ "updated": "2026-11-10T08:54:30.683906+00:00",
+ "usdnok": 9.426549911499023,
  "btc": {
-  "price": 74789.5234375,
+  "price": 74529.203125,
   "prev": 75223.1484375,
-  "chg": -0.5764515431845862,
+  "chg": -0.9225156443386173,
   "currency": "USD",
   "asof": "2026-11-10T00:00:00+00:00"
  },
  "silver": {
-  "price": 52.834999084472656,
+  "price": 52.845001220703125,
   "prev": 52.56399917602539,
-  "chg": 0.5155618154922825,
+  "chg": 0.5345903072114355,
   "currency": "USD",
   "asof": "2026-11-10T00:00:00-05:00"
  },
@@ -24,11 +24,11 @@
      "symbol": "KOG.OL",
      "name": "Kongsberg Gruppen",
      "quote": {
-      "price": 349.6,
-      "prev": 335.0,
-      "chg": 4.358208955223897,
+      "price": 353.6000061035156,
+      "prev": 349.6000061035156,
+      "chg": 1.14416473974992,
       "currency": "NOK",
-      "asof": "2026-11-09T00:00:00+01:00"
+      "asof": "2026-11-10T00:00:00+01:00"
      },
      "news": [
       {
@@ -44,16 +44,16 @@
        "date": "2026-11-05T01:38:43+00:00"
       },
       {
+       "title": "Kongsberg Gruppen (OB:KOG) Stock Forecast & Analyst Predictions",
+       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPczBYT2c3eDhYYUZhdlFkZUR1VUpZeEs4U2lGZTIzaWFLdFYtb29YRHgzVlQyT3lYQ3Itd1gxdzFsaVUtMHFwYWtZRXRISVZaeWdoc0VsT05lVG9FNjEtNkp4djR2cGdTbEJsSjNrclJfUXJQeld1enBQY3RUaFA1bU5ndmpUMlNCaUR4RA?oc=5",
+       "source": "Simply Wall St",
+       "date": "2026-11-02T08:00:00+00:00"
+      },
+      {
        "title": "Kongsberg Gruppen ASA 2026 Q3 - Results - Earnings Call Presentation (OTCMKTS:KBGGY) 2026-11-01",
        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWWM5aV9PbGNsUFJoT3hqNTduOFhNbUpZcUtOVC1EWm8zVHNlSjlHSGZ2cExNTkNIejVXSTVRUFh0eWdPYlcyUFpxUTZmMjJSaXh2QlZ2dFI2OEQtR2djVUdxdElqTGQzTTJNTDBueEJQbDkwTDNYaVc4aXZnUHZmZUhjVDlncjRTY2Z2cnlfQXZjWk15ZlRwZDhuOUxsYVg5STdkZk1HMTQ?oc=5",
        "source": "Seeking Alpha",
        "date": "2026-11-01T23:04:00+00:00"
-      },
-      {
-       "title": "SB1 Markets raises its price target for Kongsberg Gruppen to NOK 425 (400), reiterates Buy",
-       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQR3FOZmVUVEhhTWUzcksxaUw5alB2Z1J0bUFLSElVYzBueXdUX2lQNVhZUEFGU3RBUWtXUlF3NENTTjRGeEJlSXRYX2hfRFhueEhsM19tV0hhWWxORldxV1NER3oxUkRwaUU2WW1EVEI0VTFXN0kxcVNmQ3ZMal9mRDZVWTVvWDR0Vnh1eHVpbzdmaHpPV1BoUmo3X0lKSFN3SGc0cEJjV01LNkdxMjlQZXhycXpfNkl0cGViUkRRU3NzVjV3aGVGY1FjamN1Qno3a3IyZ040dw?oc=5",
-       "source": "www.marketscreener.com",
-       "date": "2026-10-30T07:55:20+00:00"
       }
      ]
     },
@@ -61,11 +61,11 @@
      "symbol": "KMAR.OL",
      "name": "Kongsberg Maritime",
      "quote": {
-      "price": 58.9,
-      "prev": 57.41999816894531,
-      "chg": 2.57750240029635,
+      "price": 59.880001068115234,
+      "prev": 58.900001525878906,
+      "chg": 1.6638361915928712,
       "currency": "NOK",
-      "asof": "2026-11-09T00:00:00+01:00"
+      "asof": "2026-11-10T00:00:00+01:00"
      },
      "news": [
       {
@@ -81,16 +81,16 @@
        "date": "2026-11-09T16:11:28+00:00"
       },
       {
+       "title": "Kongsberg Maritime Unveils Arctic Hunter USV",
+       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOVJ0QzF1M1VMcXhwUm1ISTN6TTV3T0FJQTVxU255RVMyRnpXZml2aDFOWl9OUGRGRF8weHQwUDZNRTN5VXhkTFFIbXViUUd3VUVvMlBBTHlmZzZ5dHVfUXJpUmNjN3JMOFFxTjA1RnB5YWVGaDJaemJOVFpULWFDWWJYaERzajN2VkE?oc=5",
+       "source": "Marine Technology News",
+       "date": "2026-11-09T14:45:48+00:00"
+      },
+      {
        "title": "Kongsberg Maritime Reveals 56-Metre Uncrewed Vessel for Enhanced Submarine-Hunting in the Arctic",
        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOV0ZKVGVnTmhHaVRSV3gwRzVzS2NzQkRoZC1ZUWdGNzlJOTQ1dndtMXRHQTFRNHdhNTZGTUJFMV9MM3JvbmNIb3d4NS1ZR2htNHBXNlVYYUxoSnc4N0NWQkNUOHpWTjhrY200bVM2TmNrOWRxdTVheFNTNXE3a3NZSjNRVW9mTWRqWnJKVEwwN3R3bm9OaHc4emdMWWE5S1lhWmFBaDBwOEJURkVNX2stUDdtM1NOQ3JWcDBNdk9lRHA?oc=5",
        "source": "SSBCrack",
        "date": "2026-11-09T13:05:15+00:00"
-      },
-      {
-       "title": "Kongsberg Maritime unveils Arctic Hunter USV",
-       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWlhsM0pNYTRyTDk4NTRjbW9GYkZHWlVmTE9WRW1UWGJqVTNZN0JvTFk3SnB0S2kyNGltQnRWX0JzNzBmQVczZF9ZRFhVZXlTcVdXUW5kRzhGM3pONVlEWTZaUHU4d2ZaY0poZklLTGpPazdYRnpTM1ZnNWE1czZfNl9RUDAzck82cUE?oc=5",
-       "source": "NavalToday",
-       "date": "2026-11-09T12:33:31+00:00"
       }
      ]
     }
@@ -104,19 +104,13 @@
      "symbol": "G2X.DE",
      "name": "VanEck Gold Miners UCITS ETF",
      "quote": {
-      "price": 91.95,
-      "prev": 88.0199966430664,
-      "chg": 4.464898326309097,
+      "price": 91.45999908447266,
+      "prev": 88.19000244140625,
+      "chg": 3.7078994812807853,
       "currency": "EUR",
-      "asof": "2026-11-09T00:00:00+01:00"
+      "asof": "2026-11-10T00:00:00+01:00"
      },
      "news": [
-      {
-       "title": "VanEck Gold Miners ETF (ASX:GDX): How Should Its 2026 Distribution Be Read?",
-       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTTB1TGFyUHV4VkdFeDAtemZnRDB3bXpHLWNYdUI5WnpZbmNya1JJSVVzRUQ4ZE5VV1QzOHBNeUEyX1pHNWlkajFSU0EwZGxmbmlLeEJOQUpHVTZDdTZJZGI5bDctVHRubEFhWGpyb2JFbW1zLVY4OTRXZ0N5WkFvSVM2b1pmS0JpalZ6WHVQY05xYlM3akZiRWlPYTROOUNseEdkNHhsZEs?oc=5",
-       "source": "Kalkine",
-       "date": "2026-11-05T13:05:00+00:00"
-      },
       {
        "title": "VanEck Gold Miners ETF (GDX) Stock Price, News, Quote & History",
        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10WkVJTkdVNmtRV3VGcG04dnFuYUhWNzRib0ZaQnB3S3ZxUXJXY2M1Mm83cXZVMXJsa2FUajV2ZzQybjFCeGxNcWFyeXZsQ0xPcEVVT1M4M2Q1Qm00WWFLbQ?oc=5",
@@ -134,6 +128,12 @@
        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16Z25BX1NDRlZjTkdwRy1PeGlJN09nYXdzcU1NX0ViSlE5eGFrUXAtVHlaemFCRWI0eHBVOGNISHRpcWMzV1ZQUTFZQzZUNEtDdGZQMWlsT1FMS2lsTGQxbno5cms0Zw?oc=5",
        "source": "Yahoo Finance UK",
        "date": "2026-11-04T02:40:49+00:00"
+      },
+      {
+       "title": "GDX Top Holdings List & Exposure (VanEck Gold Miners ETF)",
+       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YMzVZNnpsdEZ6YlNHbkFFNmwzZFpLQlZuUEZtU0FiWmRlVE1lWXlsUVlaSHk1REVoSDVIYmJ4NUlXcHh0cGdtQkg4ekVMNzZ6NUJlWXdYZlRVWFJXNTlLZTNiQXVjbms?oc=5",
+       "source": "MarketBeat",
+       "date": "2026-10-30T07:00:00+00:00"
       }
      ]
     },
@@ -141,11 +141,11 @@
      "symbol": "2B76.DE",
      "name": "iShares Automation & Robotics UCITS ETF",
      "quote": {
-      "price": 17.592,
-      "prev": 17.100000381469727,
-      "chg": 2.8771906874541564,
+      "price": 17.67799949645996,
+      "prev": 17.173999786376953,
+      "chg": 2.934667033609717,
       "currency": "EUR",
-      "asof": "2026-11-09T00:00:00+01:00"
+      "asof": "2026-11-10T00:00:00+01:00"
      },
      "news": [
       {
@@ -353,9 +353,9 @@
      "symbol": "GRSL.V",
      "name": "GR Silver Mining",
      "quote": {
-      "price": 0.27,
+      "price": 0.27000001072883606,
       "prev": 0.24500000476837158,
-      "chg": 10.204079487779595,
+      "chg": 10.204083866896262,
       "currency": "CAD",
       "asof": "2026-11-09T00:00:00-05:00"
      },
@@ -470,11 +470,11 @@
      "symbol": "OSEBX.OL",
      "name": "Oslo B\u00f8rs (OSEBX)",
      "quote": {
-      "price": 2079.52001953125,
-      "prev": 2053.360107421875,
-      "chg": 1.2740050814672,
+      "price": 2074.9599609375,
+      "prev": 2079.52001953125,
+      "chg": -0.21928418822233509,
       "currency": "NOK",
-      "asof": "2026-11-09T00:00:00+01:00"
+      "asof": "2026-11-10T00:00:00+01:00"
      },
      "news": null
     },
@@ -482,11 +482,11 @@
      "symbol": "^GDAXI",
      "name": "DAX",
      "quote": {
-      "price": 26267.189453125,
-      "prev": 25820.359375,
-      "chg": 1.7305339233877337,
+      "price": 26559.51953125,
+      "prev": 26267.189453125,
+      "chg": 1.112909619229252,
       "currency": "EUR",
-      "asof": "2026-11-09T00:00:00+01:00"
+      "asof": "2026-11-10T00:00:00+01:00"
      },
      "news": null
     },
@@ -494,11 +494,11 @@
      "symbol": "^VIX",
      "name": "VIX volatility",
      "quote": {
-      "price": 19.920000076293945,
-      "prev": 25.639999389648438,
-      "chg": -22.30889020872524,
+      "price": 19.729999542236328,
+      "prev": 19.920000076293945,
+      "chg": -0.9538179384031675,
       "currency": "USD",
-      "asof": "2026-11-09T00:00:00-06:00"
+      "asof": "2026-11-10T00:00:00-06:00"
      },
      "news": null
     },
@@ -506,9 +506,9 @@
      "symbol": "GC=F",
      "name": "Gold (USD/oz)",
      "quote": {
-      "price": 4125.7998046875,
+      "price": 4126.60009765625,
       "prev": 4114.5,
-      "chg": 0.27463372675902153,
+      "chg": 0.2940842789221021,
       "currency": "USD",
       "asof": "2026-11-10T00:00:00-05:00"
      },
@@ -530,9 +530,9 @@
      "symbol": "USDNOK=X",
      "name": "USD/NOK",
      "quote": {
-      "price": 9.414739608764648,
+      "price": 9.426549911499023,
       "prev": 9.458829879760742,
-      "chg": -0.46612817395558226,
+      "chg": -0.34126809205849984,
       "currency": "NOK",
       "asof": "2026-11-10T00:00:00+00:00"
      },
@@ -581,16 +581,16 @@
      },
      "news": [
       {
+       "title": "Links Corporate Scandals to Alphabet and Microsoft Stock Gains in NVDA Commentary",
+       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lRVJOS29jd0RyN0NQdzJsR09FM0JQZjlBNTBDc3AyUXJlaHBrTXhaZG9SeVU5NG1HdVp4ZGhLZFdnNXpyQTZIMWVRaUx4UWtOdzJhTHZnb2lTVlZEa3JISHBpNnBLb1BNZ2RqbHRiODBkWm05cG1vX1dlMHZGeXc?oc=5",
+       "source": "Hokanews",
+       "date": "2026-11-09T13:48:00+00:00"
+      },
+      {
        "title": "Microsoft stock rises as IREN delays AI deliveries",
        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRXR0Z2ZEYnI0c0VwSGxEaE83anBaWW5oSW9YTEMyTGhmbDViaWhBTXZxaVYzQUVWSjQtRHdRYWpyNmpsUGpGU3E5VDZFSFN3ejZydFVHTTNxa1hKZmtPNktuUVBaQmJ1dWpfZzhhdWRvMEdtOVhPLS1OeGc1Q3NrRmVvMjVfRkFPaEtHdWoyUW9vTkN3cDNJY3J1bXRFOXY4RUVoWWwySFI5TzBncC00d0UtQQ?oc=5",
        "source": "ad-hoc-news.de",
        "date": "2026-11-09T13:05:11+00:00"
-      },
-      {
-       "title": "Futures Rise; Nvidia Falls On Spy Case Probe",
-       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ0hGNFB0QTUyUUxKc2F4M2x6bVg4TERkVlF5ak9TbTAtTzN2U3IzaE1NNmFET1FJLUdsYnNvUWxaNm5iZHJtRmkyX0Fmb1dEanFlMGkyZzZSRDZhWHplTnRBVDRpOXlYZkRUNU51bVFWbEF6bnFwa1NOMEx6Nkt4UnhfYUtmQ1VFWlpyaVNCVm5peWhMYkRmeVhuaUc4QWZ2ckE0U1JUOXh4ZVl3dk1NTWlIT1dDZlhR?oc=5",
-       "source": "Investor's Business Daily",
-       "date": "2026-11-09T13:03:00+00:00"
       }
      ]
     },
@@ -609,7 +609,7 @@
        "title": "Jensen Huang Puts $200 Billion Dent in Nvidia\u2019s Stock Price",
        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcms4NmFRS0JiemF2SGRaMDczOXZ5LXRlTVFFanhvSEZxMlV0VVBXaDh6RWl5VXBTM1hWeXpNZHRuY2NmM25PNVM1eXE4NmF2VHdvWnJzREwtNXRXeUFBWGl6Y0lDWXdLdDF0VGRabXFwQ2RNZ3p2czY0TGY4aU9zbkt4ekZRd0dkZkVhdHJLZUd1dWFnZEdSdGRoMmFHMl9CWENDN0JFZUs1QldJSFR5SzFR?oc=5",
        "source": "Bloomberg.com",
-       "date": "2026-11-10T06:54:53+00:00"
+       "date": "2026-11-10T08:24:53+00:00"
       },
       {
        "title": "Jim Cramer says Nvidia investors need to prepare for a future without Jensen Huang",
@@ -681,16 +681,16 @@
      },
      "news": [
       {
+       "title": "Why Meta Platforms Stock Rallied on Monday",
+       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRUdMOElZOWFLR1FCQzMxbE5XN0tJeElzdUdrUksySzktUlN3U2QyTGhLbmc0LVZ0b0RadmtCNzkzamlnV2d3dGZoU1Nveks4UHgwMmk4MU93b0owRHNtMjVTWEM4NDJPTDhlM2wyZ0hnbTl2djJ5eFZ4azRrdVN2T05TNWNXaTBHSWtQaG05NnNxV1NlTDdZS0IyQlNCZw?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-11-09T18:23:39+00:00"
+      },
+      {
        "title": "JPMorgan Just Added Meta Platforms to Its Analyst Focus List",
        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMmFWV1dTcEphNzdJU1psZHZReUJiV25PNnVMNnRzZzFKTzZycGRjeG5fM1FZV0RSM2xSZTRHUi1FdHBsTWVxa3lyWXhvZ0phY2EzWnN6T1JNRS1kdHRkUmFjMEI4YkxwX3RvcXUwMUlNaWlSak8tb19QZm84Z3ROQ0pvYWRmbGN0Uk5uYTVnbGtrUFZ2SERtaTc0UXNfZHF0?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-11-09T16:38:41+00:00"
-      },
-      {
-       "title": "META, AMZN Stocks Jump As JPMorgan Picks Pair Over Alphabet \u2014 Sees Stronger AI Returns, Cloud Growth",
-       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUlRYcGF5YmpQQkx5NWI4RHdxbjNNNk16RldoUnduOG5hTzJYSUVxSFprTmNKXzVJZlAybzVUMzNzX3JPYTNObDE5enVrckpoOEtCWjZQNjVrOHJyMUY5OEFXa1p5OGdxLUFIWGhGM0Jxak5EeURaNHlxY0R6RUFuenFOVmI1SEVHSVBXY1dneFYwSGhlaXVtYk1Vcw?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-11-09T15:39:20+00:00"
       }
      ]
     },
@@ -737,16 +737,10 @@
    "date": "2026-11-09T21:24:00+00:00"
   },
   {
-   "title": "ValuEngine Weekly Market Commentary With Outlook For The Remainder Of 2026",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMjF6a0gyVVZhRm5fVHU5WWxzRmVQZG53d3VxOF9FT1FrVFBZWGh1WDQ1dTBmYXB1MUY5blY3ZlZFb0JXemlzZTJKaExLMUtva3NPMGtRQ0lDSHZvZXJqZ0h3S05OczlNWkVlRHBhZVd4VkFDTzNTbWxIbF9MSGc4dWJjS3d1NGp5dkVpYkxaTm83S081eEV6R3kwWnBGQ0M2?oc=5",
-   "source": "Seeking Alpha",
-   "date": "2026-11-09T20:02:00+00:00"
-  },
-  {
-   "title": "Vanguard and Fidelity have a warning for retirement savers",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZThDckVWenA2Q3FrczZER05nSDVBTDlVaVhnQ3hVbWpsQlp0V0dzWUZsYVZRaTRRUlFJN1pYX19NT1F6MHYyQTJHVGRjZ21uMmlCTm1WWUxHMlBBVmZ0V184TGpTVkg2X0NIbk9ZblJfVUp1TUxjdVlSNUJxQ0ZzMlp3LXMwa2p3Z0hxc1lMczFzTjlELV9SSVU0cEo4WlN5bUtjdzRVQnJybXNSUHpvQ25DSzNSVjRIb2E0SkVrRmIxMEh3ZmE2UWlObUMtQXM?oc=5",
+   "title": "The Trade Desk (NASDAQ:TTD) beats expectations in strong Q3 2026, stock jumps 21.8%",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQamc3eTF1RnpmLUZrSUl5SHp1S2ptUXJfa2hiSWZBNGFKX2dzN1FaTDFla0pLbS0zXzdxVE5kemRfeVpEMF95anVLNDB6ZlJJOHNCVzVpWjF0YW5xay1EWDNYcGRTN0tlUzUxaXFjT2U2MXJTczhNSFN0ZjN3aGlFdWtDQTZzdTNLczBUWHNMdVZRRHhOcm1j?oc=5",
    "source": "Yahoo Finance",
-   "date": "2026-11-09T19:59:25+00:00"
+   "date": "2026-11-09T21:13:13+00:00"
   },
   {
    "title": "France to dodge threat of year-end recession, central bank says",
@@ -789,6 +783,12 @@
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOS09mUGRzT2FGdy1xdnpFMEREemFaNE5mZk9RRVZXQlZyVEQtYkJHN18wQUU3QkppYUp2cTBnYndyd3BFamxQQ3RERVU4cHdwQjlqX3l3R2R0SkwyT3A3QWhORld3c28zNXgtNWxVT1VhdENmWmwzLTMxdy1yTU9OS0E0eHVjNXpNdUJ6dkp5ZDloZThOM19sRU9tYWg0Zw?oc=5",
    "source": "Yahoo Finance",
    "date": "2026-11-06T15:50:00+00:00"
+  },
+  {
+   "title": "Stock Market Crash: why the market fears an AI bubble",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOODFQdFRpU2NDb0t4UVhCWUF3QURlZVYtZkJ4Mi1GQTU5S191T2w1SjV6c2l2bThyNUtpVUV3YXQyYWJCN2hLN2s0eVQza2Y3Qlh0cGZSanNWNWJIdTBEbGhXMWozcldCLVZFM1BfUlBqMTBpd0Jhd2VDV1ZyenRoSkdhWWR4dV83eEtncVJrUEZfem1zU3hldlk0Sm5tNzlseGJ6c3U3YTRSeUk4UVYtOTJIQTdnZw?oc=5",
+   "source": "nss magazine",
+   "date": "2026-11-06T10:40:27+00:00"
   },
   {
    "title": "Euronext Oslo B\u00f8rs to Delist Elmera Group",
