@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-11T00:54:17.815536+00:00",
- "usdnok": 9.507349967956543,
+ "updated": "2026-11-11T01:56:45.698317+00:00",
+ "usdnok": 9.496450424194336,
  "btc": {
-  "price": 73451.25,
+  "price": 73526.9375,
   "prev": 75223.1484375,
-  "chg": -2.3555228334695477,
+  "chg": -2.2549055347095948,
   "currency": "USD",
   "asof": "2026-11-11T00:00:00+00:00"
  },
  "silver": {
-  "price": 51.494998931884766,
+  "price": 52.36000061035156,
   "prev": 52.56399917602539,
-  "chg": -2.033711781633618,
+  "chg": -0.38809559560085694,
   "currency": "USD",
   "asof": "2026-11-10T00:00:00-05:00"
  },
@@ -149,12 +149,6 @@
      },
      "news": [
       {
-       "title": "iShares MSCI India UCITS ETF USD Acc (NDIA.L) stock price, news, quote and history",
-       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0zcXRZQzdZR2JmQ3lTTjdHbVZZWXlKdDItU09UWVRNekI5XzdRVGU0U1BKbTZkVXVfWDR5VnRaN1FoeXBJOHNSSWhVc081elV2eFBBZg?oc=5",
-       "source": "Yahoo Finance Singapore",
-       "date": "2026-11-09T19:38:02+00:00"
-      },
-      {
        "title": "ISHARES AUTOMATION & ROBOTICS U (RBOTCO.CL) holdings",
        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGVTlUcFpjTDVaalBuX1RvQ3JTc01PSnVaQW9qbG8tNGEzb241cC16Q1ZOZVFYWF8zazNINjNwZXl3b0NjUFJnMmY4ZmthOGE3Q1FaQnlfZHpXbFFvdlZVQU16bmE?oc=5",
        "source": "Yahoo Finance UK",
@@ -170,6 +164,12 @@
        "title": "Best Growth ETFs For UK Investors In 2026",
        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9MQ1YzYmEybHBIMnpRZ2FOSWNEbklKc1FfT2h3eThPS3k5WWhsRzdROFFwVmpEQlc2UGZwZDY2OVdqZU55SWZILXNEdlRBQjVjbnZUeWVKZjRjUGVVSkh0bG9MNzdDa21uVGczS1pB?oc=5",
        "source": "Forbes",
+       "date": "2026-10-23T07:00:00+00:00"
+      },
+      {
+       "title": "KCR Stock Price and Chart \u2014 OMXHEX:KCR",
+       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZbDBQOEYtOG11c1gxNFY1eXh6TU83R2lpblBEVDJaVEpWVmljZHdkMklDeldKYlNZNk9rWFNaQmtPUjBXcktpYTdMdFVxQzNyLVB0NnlMTmFlbEE?oc=5",
+       "source": "TradingView",
        "date": "2026-10-23T07:00:00+00:00"
       }
      ]
@@ -190,6 +190,12 @@
        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWDhQalFndWVXTThtbXNMc2Ryb29OdndLV2hnczhtVWxLN3U0U0N3di1DdTVIak54c2JGaGVuMkxoaUNvWEZneDgyTXJuS1dkTDZ6WVpwWlowTHRHdzhlRWFzMEdPTWN4UTZDV0VrYUxSdmVWVlF0cDVtUk1zLTR1RXduN1B2RmFUSDBVRlRVcV96TnJ0YzIzWg?oc=5",
        "source": "TradingView",
        "date": "2026-11-06T09:10:00+00:00"
+      },
+      {
+       "title": "AuAg Funds launches in Germany",
+       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQODlSOUtkREQyUndIOGRLdUFVNTJsNXVjX3JRcUs3SkcyV0Uza0dCY3lCc1N2SVZfRm9KWTRsbUlQZWlYLTdER05NTk1XQjZHX0R6LXZKdVVfaVFEMU54NWxpdHpXR1BDUE1RaWlfWTBubEZZMlhPaElLNG9obzlNdWpWZzVWRHN0cEkxRlVyQzNMVUJrYkZJaUdZQTY?oc=5",
+       "source": "TradingView",
+       "date": "2026-10-28T07:00:00+00:00"
       }
      ]
     }
@@ -217,10 +223,10 @@
        "date": "2026-11-09T23:16:46+00:00"
       },
       {
-       "title": "Hecla Mining Company (HL) stock price, news, quote and history",
-       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5DVlpfQXUxNmJlRFFHLUdYdEo0cHVXeXQ3YzZjOTVmY3kyR0ctUXN4Smt2Ql83QS1sTFQyNUs4TlVLQVpEeVpJV3JvR2FOdUE?oc=5",
+       "title": "Hecla Mining Company (HL) latest stock news and headlines \u2013 Yahoo Finance",
+       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVdHVDbmZWU0Q3Tm9XaDN3ZWhlZDRqakNPOTJjOVJEb0k1bU55dnM4cUxReTN4ZTIyXzI3aEpSeUpYVjVfNm8wbkZKN1hpcXhWZDEwNDZ3?oc=5",
        "source": "Yahoo Finance Singapore",
-       "date": "2026-11-08T04:07:00+00:00"
+       "date": "2026-11-07T15:49:18+00:00"
       }
      ]
     },
@@ -228,24 +234,24 @@
      "symbol": "HYMC",
      "name": "Hycroft Mining",
      "quote": {
-      "price": 18.8700008392334,
-      "prev": 21.270000457763672,
-      "chg": -11.28349584804198,
+      "price": 18.87,
+      "prev": 21.3376,
+      "chg": -11.564562087582475,
       "currency": "USD",
       "asof": "2026-11-10T00:00:00-05:00"
      },
      "news": [
       {
+       "title": "Hycroft Mining Holding Corp (R5A.HA) interactive stock chart",
+       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1aRE9vRkpKQW8yQlJFczhUUVRPSUg1RHV1UDRpTnlHQmZRNG9uOWg1RE03aV8xM3hZYkZNdDcyZExtYlBnUEtlRjI4Y1gxNk9COEFfM0JJbFk2REJa?oc=5",
+       "source": "Yahoo Finance Australia",
+       "date": "2026-11-07T15:18:36+00:00"
+      },
+      {
        "title": "Hycroft Mining Holding Corp (R5A.HM) stock price, news, quote and history",
        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhR295RGg5Q3BIQ2xfcWNXX0FyS0l6NUtSTnltQXFCYjJqeHBEX1dzX1RYMjY0QUpDZGdYaTAxQ29YLW1IbVpHeFhFNlJIQjczYjhsdA?oc=5",
        "source": "Yahoo Finance Singapore",
        "date": "2026-11-07T14:54:08+00:00"
-      },
-      {
-       "title": "Hycroft Stock In Focus After Wider Loss And Executive Changes",
-       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWmpKdUpDcGx1Q20wbXYxeXl0aWJSdkpBTGRNcVlBc0hJVnJSS04xbk9mQkVuZ1g1OTZ3djJkVXl1UGl1N0VFWUxoRTRiTkFxVmdTOWFORlZzQWhBcnFfU0lOanNhd05lNE9GTWdDaVljQVNMUFZnWmdUN29ZMThJRl9pVkFpNTBtNEdoazVRc1VVbmpaV1hJcS1UUQ?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-11-07T07:11:51+00:00"
       }
      ]
     },
@@ -482,11 +488,11 @@
      "symbol": "^GDAXI",
      "name": "DAX",
      "quote": {
-      "price": 26267.189453125,
-      "prev": 25820.359375,
-      "chg": 1.7305339233877337,
+      "price": 26347.44921875,
+      "prev": 26267.189453125,
+      "chg": 0.30555140194281627,
       "currency": "EUR",
-      "asof": "2026-11-09T00:00:00+01:00"
+      "asof": "2026-11-10T00:00:00+01:00"
      },
      "news": null
     },
@@ -506,9 +512,9 @@
      "symbol": "GC=F",
      "name": "Gold (USD/oz)",
      "quote": {
-      "price": 4043.60009765625,
+      "price": 4055.10009765625,
       "prev": 4114.5,
-      "chg": -1.7231717667699598,
+      "chg": -1.4436724351379215,
       "currency": "USD",
       "asof": "2026-11-10T00:00:00-05:00"
      },
@@ -530,9 +536,9 @@
      "symbol": "USDNOK=X",
      "name": "USD/NOK",
      "quote": {
-      "price": 9.507349967956543,
+      "price": 9.497349739074707,
       "prev": 9.400989532470703,
-      "chg": 1.1313748953604819,
+      "chg": 1.0250006796750366,
       "currency": "NOK",
       "asof": "2026-11-11T00:00:00+00:00"
      },
@@ -606,16 +612,16 @@
      },
      "news": [
       {
-       "title": "Nvidia Stock Just Lost 10% in 1 Day. Should You Buy It Before It Reports Earnings on Nov. 17?",
-       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLUVvTFBYdncwRE5SVUxHSmtBdkMySDRMQ1M0NUUwRnBQcURnQ2xsZ3Y0TU1wMTVKRElJSWJvMHBoNGUxSFdOSi1QY3hhQ3QtWXJkRENRWUMzNVpxMkJPQ1VGUWNxWFRneTI4TmxZSzdtUlpnenpkTWt3S2hIZ2dwWW9ySTZxRmVRck1neUFkWEtPc1NZ?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-11-10T22:28:02+00:00"
-      },
-      {
        "title": "Why Nvidia Stock Just Fell Again",
        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSmtybzdycmQ0VmZnWUU4OXBtbUs3ZUNsM1BzZG9FNi1Temw4enFfN09LQXhHS3VvSF9oSkNkLWZwaWxDeHRnU0lQTVNPbWJUSGtYTmlqaHBlVUN2bW9zTzl5VWVfNUd0Z3AxQ1pIbGxtRHJ5M2h4MFk0WldqbXVvM2dWQ2NaYVNiRFJQb0Njd2RpZ2RlLWc?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-11-10T21:55:02+00:00"
+      },
+      {
+       "title": "Chip stocks' slide nears $5 trillion as Nvidia hits most extreme selling level since 2019",
+       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeGhUMWhtSk5Kdm9GOHhVaFlETXR3clBfSEI0VnRtTHNtWEFNWkIxelY4R2NyUjQzMjg5SF9JZ0xOZldPSGR3WlBhejJjNTdmM21HdFQzaGpwMEFrVGxMMFB1RHQ0MkVvOUtCeklOMFJmemRmUDRIRS1sS2VheW5UUDc4anhmQU5ZUV9HY09lTEpUWmFfLWZOOXhUcVZFeTRVQXZVeGE0TzhxdVVnaDRPTzdVWXY2TmQ1UEgyNGJHMFhFS241ZkJGa1o2NHphdmdSV0xCRjh0Q0k0MHdF?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-11-10T21:37:04+00:00"
       }
      ]
     },
@@ -631,16 +637,16 @@
      },
      "news": [
       {
+       "title": "Alphabet, Meta, and Oracle Are All Teaming Up to Disrupt Nvidia's Biggest Competitive Advantage",
+       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWmlyd2VRemh3dmZJeGdKMFVpTk1zT19wNld1Tl9sWUdBLUNReE1iVVIwMVJzMzM4LThrRElzMXBzZTdVXzV6cEF6QXU5bUVqZjZ1Y1NValMwQ0p2UExlNVRiNXJVVFBqcWxpblcxT3VFSkViT0RwNmNhMlB0MFlwdGtEUllOeFU1anVMS2VLcDFPYnFsY3ZDeGx3eWZIRFdHeXc?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-11-10T10:15:00+00:00"
+      },
+      {
        "title": "If I Could Buy Just 1 Stock in November and Hold for 5 Years, It Would Be Alphabet",
        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONlptMFB6NkpyWXFNYVpzdmhINGRuTkMwb0ltRklqdklVT3Zrc2FpVkd0ZlA3NFhZdXBUVVBGQ3VodFhDTWN1VE1STEV1Yy15REJOWklRRVlaaXQyNlRQM0VveFoyN0xhOXk4OE5ibkU1eUpVMy1US3RrX3RINkhfTW9XQ1h2MjZ3bEVTYnpERQ?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-11-10T03:07:04+00:00"
-      },
-      {
-       "title": "Berkshire Hathaway May Have Sold More Bank of America Stock in the Third Quarter",
-       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV2FpLURCYkVHLVVNQUNCSmI4bHFoR3dzdDNkSmhvVnMtb2dWaFZPbjFNbVFhYnVOc0dINllFZGF3UV9vREtmOFFFY20wNXlPNTFtbWluSEtLOXdHVHp1TUZoOElFM1RnV1Z3RjhJTGt2WWQ0YVhUMFZwRDhlT1NYXzhKbEQyTkNlSG9CTS01V1FjSDNDLTV0czV4bk11UQ?oc=5",
-       "source": "Barron's",
-       "date": "2026-11-09T21:54:00+00:00"
       }
      ]
     },
@@ -673,9 +679,9 @@
      "symbol": "META",
      "name": "Meta Platforms",
      "quote": {
-      "price": 641.3900146484375,
-      "prev": 641.3699951171875,
-      "chg": 0.003121370098768672,
+      "price": 641.39,
+      "prev": 643.49,
+      "chg": -0.32634539775288074,
       "currency": "USD",
       "asof": "2026-11-10T00:00:00-05:00"
      },
@@ -731,6 +737,12 @@
    "date": "2026-11-10T22:17:55+00:00"
   },
   {
+   "title": "Stocks, Bonds Fall as CPI Data Fuel Fed-Hike Bets: Markets Wrap",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNXVKNll2bkFUUU5EVDg4eTF6a3YwZ0pIS0d4bGFTdkItMkl3SkFCbGRiZFdzSmlidHZZN3I1YzF1VkVXYlM0dDJrRlRPeDRGYXp6cVBuRGVjbl9vNWxrdlRYLTl4NTRxMnRFcGtuOUROekFvUUsxdTE1R3IwWmRKRVlUVFpFTlY0WXNlWTZTa1hIdmV1?oc=5",
+   "source": "Bloomberg.com",
+   "date": "2026-11-10T21:45:49+00:00"
+  },
+  {
    "title": "CoreWeave stock pops as Q3 revenue beats estimates, company raises full-year outlook",
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQUlzUVY2WTVjSmsxVU1kRFdxa0tqaXRKbDh3NXFvVmNJSjZPREtXNjIzU3ZPYldpWGc5Y3A3TnQ0R2RaSmlZejdtQktLT0k3UHB1cVh5ZndKa3F4S3E0RE9RM3FKUWN1TjJfcU1Qd0pZOUVmQzVVV2RnX0NjS0VqbS1PNjYyOFRNTjVwV0FqSW5mNndvcmtEQk4teC1xaWZKTXcwUURFTU1rWDd5QkhZbHhUSDJxNXg5eC00S1pkTEFFZFFtbjQ3bGpIRXpjUFpwdmFyVzVtQ2JYd2xseEVrTw?oc=5",
    "source": "Yahoo Finance",
@@ -753,12 +765,6 @@
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWGZaX2RtdzQ5N080MWZuS0Nzb1Bsd19aQ255bUp6dTU1dGJWOGNCR0dBV0ZsQmdkRy1Qa3RhRGdNRV9JMks2MDZvcHQ3LUotM3hxa1FEOElfUXFabndUckJvVGJidF9jQWtpVUtIZkdUcjlXMEpJMWpiejBZUkFWME9GSnNGVjNqNkpuZnFGMXJDMXB0dHE4S0I4TzFVOEFNRm1pZGVBVmY0T0NyRHNQQVEyTlVoYVc4WTQ5NER3TTM?oc=5",
    "source": "Yahoo Finance",
    "date": "2026-11-10T15:45:47+00:00"
-  },
-  {
-   "title": "What FedEx Stock's Higher Earnings Outlook Means For Shareholders",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbkxyN1lHU1liQzFaRnRLRDM1WE9mMmRCRzZCZ3hDc2xWZXBOWC1SQkpSdEhyRlY1X3NXdzhnMmdTX0wyLWh4N1RSSUtOZ0ppX0Z4a3pkc2NRUllSeFBoYUZhM0Fidjh5a01WY1hjN0ZMN0RKX0pzTWpGa3JNNnpwU2V1cVBWckdBS09Ga3pWSm9ZekpIeXhIYnd5aERVbTFEZnFr?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-10T14:09:12+00:00"
   },
   {
    "title": "France to dodge threat of year-end recession, central bank says",
