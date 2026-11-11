@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-11T05:54:13.165935+00:00",
- "usdnok": 9.499950408935547,
+ "updated": "2026-11-11T07:02:38.900924+00:00",
+ "usdnok": 9.498519897460938,
  "btc": {
-  "price": 73816.1171875,
+  "price": 73478.6328125,
   "prev": 75223.1484375,
-  "chg": -1.8704764148087305,
+  "chg": -2.319120724452861,
   "currency": "USD",
   "asof": "2026-11-11T00:00:00+00:00"
  },
  "silver": {
-  "price": 52.92499923706055,
+  "price": 52.98500061035156,
   "prev": 51.10100173950195,
-  "chg": 3.5693967544057292,
+  "chg": 3.6868139698194025,
   "currency": "USD",
   "asof": "2026-11-11T00:00:00-05:00"
  },
@@ -69,6 +69,12 @@
      },
      "news": [
       {
+       "title": "Kongsberg Maritime Unveils Arctic Hunter USV for the Royal Navy",
+       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWXVCQkRFYXNXUTlsLWFUN3RtbVZBTGVjUURDUUpYMTdVNVl0U3V2R0lmRDVZTFJnY0VLVHZRRGJjUmJsT28xdkV0SXlBMTVfbEI4dUh2NzJ1bnVwYzl1dUplckVsY1I0aGdqXy1YcjV1Sm44U3NPYlh6VjluZEdCT0NGYzFONGlXQ29pRGw0NXJzTUN0Wk1tRlRxdFVWcjNGX0xna0JseGprOXNDM0ZZ?oc=5",
+       "source": "Data Portuaria",
+       "date": "2026-11-10T12:35:22+00:00"
+      },
+      {
        "title": "Royal Navy Eyes Autonomous \u2018Arctic Hunter\u2019 to Track Russian Submarines",
        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1UMkc0VXEwTlZUeEV6bm9zWm9nUy1Hd0l2cWtNVGdWRHR4NUZKRV93ZXJVd0FELWJDZUgyd1pwbFRGUEE4b1JTX2J3NA?oc=5",
        "source": "Kyiv Post",
@@ -85,12 +91,6 @@
        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONUh4OTZWV3d2UG5nQVNpdDQtcTZ4Si14Wjl1R2VuTkNnQ2JiT1BQS3hOUDZ1eHFHVjNZOXktRV9hOG9vQ01IbVJSQ0daTDMwbVdCNG9Kc0RWS04xZHhkZk00REp3QXFNZlMwNjRwNFFTRzZmZmktcW1OVWxLS3B3Z1QzbDlpN0x5aHpFTVNZbzRleTdDcGw5UjJ2LVBzZ2RDZ0hQXzB4N2hfaGRRZ1JPemlKSmg3Q0lmbkZWckZDTFU1Vk9qMTU4?oc=5",
        "source": "ad-hoc-news.de",
        "date": "2026-11-10T09:43:24+00:00"
-      },
-      {
-       "title": "Kongsberg Maritime unveils Arctic Hunter, an uncrewed vessel designed to hunt submarines for the Royal Navy",
-       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQalF1NGlvY2Y4RTB3VVpQeUxlbE1QSF82THBzSjRiRnQyNDlrNlh2RjJ0a0ZCNWI4ajk3ZXkzOEdQWU9ySUJybXQzMHZoZGstWmllaGhmZUxmbnZwOXI4S29wbWRhMzFfU3liNnB1cGNJUUZEREdvZVFrcENBREFTRk1mQVNLOTh6bURmM2pmaF9kbDZpdXB2eWtxZzQ1bWFWb1dXR3RzX08ycmZqaHdzUG1zd0YxMy1ocTNHQUR0bnNQdG9nZmx0WlFCeDE2dGtO?oc=5",
-       "source": "Defence Industry Europe",
-       "date": "2026-11-10T09:27:55+00:00"
       }
      ]
     }
@@ -190,6 +190,12 @@
        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWDhQalFndWVXTThtbXNMc2Ryb29OdndLV2hnczhtVWxLN3U0U0N3di1DdTVIak54c2JGaGVuMkxoaUNvWEZneDgyTXJuS1dkTDZ6WVpwWlowTHRHdzhlRWFzMEdPTWN4UTZDV0VrYUxSdmVWVlF0cDVtUk1zLTR1RXduN1B2RmFUSDBVRlRVcV96TnJ0YzIzWg?oc=5",
        "source": "TradingView",
        "date": "2026-11-06T09:10:00+00:00"
+      },
+      {
+       "title": "AuAg Funds launches in Germany",
+       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQODlSOUtkREQyUndIOGRLdUFVNTJsNXVjX3JRcUs3SkcyV0Uza0dCY3lCc1N2SVZfRm9KWTRsbUlQZWlYLTdER05NTk1XQjZHX0R6LXZKdVVfaVFEMU54NWxpdHpXR1BDUE1RaWlfWTBubEZZMlhPaElLNG9obzlNdWpWZzVWRHN0cEkxRlVyQzNMVUJrYkZJaUdZQTY?oc=5",
+       "source": "TradingView",
+       "date": "2026-10-28T07:00:00+00:00"
       }
      ]
     }
@@ -267,10 +273,10 @@
        "date": "2026-11-10T12:22:52+00:00"
       },
       {
-       "title": "Avino Silver & Gold Mines Ltd. 2026 Q3 - Results - Earnings Call Presentation (TSX:ASM:CA) 2026-11-07",
-       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRmlYRFVIZGhNcl93bjE1bXN1R1U3VGpaZUtFeEZleFNNaThYV2lLbVZNUmJ5UndCSFFEbXlNTXp1U3dGc1JuMG43eV9CMWhlU3FKbEJMMFludjBCUThmWEZ4REk4QTNYdHYtYnZLTDZiT0Myd0xFRXpQN2FRaFFsMjdUV2xKdktCSlo2S3g3dFQtQVZGU0tkb1dHYnhEemM3enVrNHdnZ3BTaGk0bFN4LTMwbTVJZw?oc=5",
-       "source": "Seeking Alpha",
-       "date": "2026-11-07T20:45:00+00:00"
+       "title": "Avino Silver & Gold Mines Ltd (ASM) Q3 2026 Earnings Call Highlights: Strong Cash Flow and ...",
+       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbDc2TnVwRTdZTm1fbEg0UGpONUdmR3VTOFFUN0VCX1dWZzQ0UTM2MnViU2dkLURtam93SVlyWDVnd21wV3RHNi1lbDhVT2pnVkd5aENNNFFxOXE5cTBnSTJGeEZjVkxQV2xKMkVicmpVVEdDVkRJN3pWSW5NYU1yTzR5dTdZMG00YnE2ZHZOTUUydTVGS2lIdVhxdl9fZw?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-11-05T23:11:32+00:00"
       }
      ]
     },
@@ -386,10 +392,10 @@
      },
      "news": [
       {
-       "title": "Guanajuato Silver Company Ltd. (GSVRF) Seasonal returns chart - Yahoo Finance",
-       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE80eGgtRXgzbmNRVWJueW9tVzhTcVJuOGtwUzdVWmJJVUtBc1p1Nnd4cjV3eVhjT19UckNiRHZwM0JVOURON0xlMmpaQkVndHBuVHpFUEFPdG5hZmdSa1lHUzFESQ?oc=5",
-       "source": "Yahoo Finance Singapore",
-       "date": "2026-11-06T21:00:00+00:00"
+       "title": "Guanajuato Silver Company Ltd. (GSVR.V) Seasonal returns chart",
+       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA5N21lMmNjZmZiM0pKR1A0dUNoT09VLTRwYUhYT1pobVBRNjZ1cFpCM2RVWnZyREw1aXFlSi1zME9YS21hdkFhVmRvbmtiTTJfeTFrbC1qUWtGYklQazhXSC04SmE?oc=5",
+       "source": "Yahoo Finance UK",
+       "date": "2026-11-03T16:05:22+00:00"
       },
       {
        "title": "Guanajuato Silver Company Q3 Silver Equivalent Production Jumps 49% Year over Year",
@@ -411,10 +417,10 @@
      },
      "news": [
       {
-       "title": "Silverco Mining Ltd. (SICO.V) Seasonal returns chart",
-       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE56amJ0Z0xnaVdHM0RZYjhqNThYenBHZnhkZkJaVlcwdERHaE9KYzE1Tkx4b0xiVTRITVgwd2FkcmdzcnM3eE1NZzF1XzBUUzdnTmwzVHd4eUJwMFNCSzdkWFQwRGo?oc=5",
-       "source": "Yahoo Finance UK",
-       "date": "2026-11-04T05:09:34+00:00"
+       "title": "GR Silver Mining Ltd. (GRSLF) Seasonal returns chart - Yahoo Finance",
+       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5zRDNlNFZudE5wcDlkTVZCbXBCQlJ6YzNISWFLMGRkdjZyVGtHSFFnajhYVzNlU2Vlc0ZqLXZCRVR3X3F2YTBzTU1vUUVnejFtSVZDN2xoNXpQY1BYSVdSaERXSQ?oc=5",
+       "source": "Yahoo Finance Singapore",
+       "date": "2026-11-06T21:48:55+00:00"
       },
       {
        "title": "Silver X Files NI 43-101 Technical Report for the Updated Nueva Recuperada Mineral Resource: 10.4 Mt Measured and Indicated at 202 g/t AgEq (67.3 Moz AgEq) and 21.6 Mt Inferred at 260 g/t AgEq (184.3 Moz AgEq)",
@@ -506,9 +512,9 @@
      "symbol": "GC=F",
      "name": "Gold (USD/oz)",
      "quote": {
-      "price": 4069.10009765625,
+      "price": 4065.300048828125,
       "prev": 4030.199951171875,
-      "chg": 0.9652162908955431,
+      "chg": 0.8709269535384756,
       "currency": "USD",
       "asof": "2026-11-11T00:00:00-05:00"
      },
@@ -518,9 +524,9 @@
      "symbol": "^TNX",
      "name": "US 10-year yield (%)",
      "quote": {
-      "price": 4.9830002784729,
+      "price": 4.982999801635742,
       "prev": 4.863999843597412,
-      "chg": 2.4465550719976026,
+      "chg": 2.446545268601774,
       "currency": "USD",
       "asof": "2026-11-10T00:00:00-06:00"
      },
@@ -530,9 +536,9 @@
      "symbol": "USDNOK=X",
      "name": "USD/NOK",
      "quote": {
-      "price": 9.500049591064453,
+      "price": 9.49901008605957,
       "prev": 9.400989532470703,
-      "chg": 1.0537194861413246,
+      "chg": 1.0426620862655778,
       "currency": "NOK",
       "asof": "2026-11-11T00:00:00+00:00"
      },
@@ -556,16 +562,16 @@
      },
      "news": [
       {
+       "title": "Where Will Apple Stock Be in 5 Years?",
+       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObEJWcVExS0JUOTB4RW8zdzRSNDh5dThnbDM2X2JfTlpBTENiRmJQdjhfczUwUEVVbWp4elAtQkJzTmo4Rnd3UmNxT0FmZjF3QUkwRkNfZldWY3h2cm5fMjBqMVpua3JJbkhNem0yU21DNnd4cGRmSzE0SnVZRURqZEM2VDgxN1otcEh6am5DVnk2djRy?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-11-09T17:10:00+00:00"
+      },
+      {
        "title": "Bank of America Is Doubling Down on Apple While Tech Sells Off. Here\u2019s Its Price Target",
        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLXlGUHNtZXlqSTVCcjFSaFNhVVNaN3BZT0NKRHd2RnJvZ0syaHhhN3A3b0x5dC1ic05JR0d3ZV9XS1ltQ3RvUmhTVW5CR25kMU5QR3p6X0xwcmowc1ZwRHA0V2lydDFFR0w0UFA0TDk3MVBHanEzNWVZTkpUTVZVeGFEU3lkNDNkYTR3WmEtWDJfMGNrMDI5Q2taQ1Jkdw?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-11-09T14:03:32+00:00"
-      },
-      {
-       "title": "This Is the Best-Performing Magnificent Seven Stock of 2026. Is It Still a Buy?",
-       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSEZrVHNWQkREelZ1MEs1MDJLNnJKS284QXJsV240NEZjSTJXZGhWNEhmQ0JqRGZySjlGR3JoSUdnRlZhNUprb1pvYTNyZkVfalNXaHEyRzV0WERYR1JmQjU1ZjFScGJOeUEtWnBIZFY3OHFSVHBLRTdtYlZDV3J3Q290OFYwb1huZDdSVlNSWHVpcFRVbVVDV3BPcE1CNjVpaGVsT0dPbw?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-11-08T19:50:00+00:00"
       }
      ]
     },
@@ -656,16 +662,16 @@
      },
      "news": [
       {
+       "title": "Amazon\u2019s Cloud Computing Business Already Brings in More Revenue Than 476 Companies in the S&P 500. Here\u2019s What It Would Take to Reach $1 Trillion.",
+       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYlp0WlN6d2FIbVdORmhxTm1zM1hGeDNEWVdPM1dCajY0WHFwZm43b19aUG5KR3g3YVA3YjAxajZydHRIdkp2MmhBYWNmTHBFUEpxRk1nNHB6bTN2SFJIMks3YWg3M2w5UW90eUZUQ2RwV2FTNmNQek5DV2sxYnYtQnJvNEMyMWhoalpDWjlDeU5xMVhrazhTMEZoYVhRSUtXNGc?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-11-11T01:03:25+00:00"
+      },
+      {
        "title": "Prediction: Amazon Stock Could Be Poised for Its Next Big Rally in 2027",
        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUWxxeHJwbE5qR0ZjbEJiWUxMRkVzdkw2QXJBQXdRTjVWNDkxRWdNaXpaT1lGUm9lLWJ1dEJXTVpzTkxEd3NZS3l1UUZhZFVSenItV05PS0NnTWx4VWJoeDFkckNfbm5WaTVwYlVFNFVpS25wVWk2UFBtb0xNVjUxWEhQeUVXTTcxV2w2SmR5WDBwUVJBMTYtY0tYSnNuaXk0djRJ?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-11-10T17:33:47+00:00"
-      },
-      {
-       "title": "Why is Amazon stock climbing today?",
-       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWlA2VUxzUjJLaHpMeTNUeE5BbG5MUTdmZUd3LTh2ZWxVdklBX3FPUUhoVHhZMDRvNFZMWFlHdnZMNU5fcnZOWUd3XzVhZ1BTcTV6UFRadVRiRDlwZEdGQUNBNkI5MEdHZXBMNG5TLUhPU3BqbllxVW9aVzRlVkVRNnJIWVJZN2lNZXdVYkxBeFI4NnBlVlN6cVNCQm0?oc=5",
-       "source": "Investing.com",
-       "date": "2026-11-10T15:34:22+00:00"
       }
      ]
     },
@@ -725,6 +731,12 @@
  "failed": [],
  "general_news": [
   {
+   "title": "Investors pivot to defensive stocks as markets enter a \u2018state of alert\u2019",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBkdEhEMll4Ul9ReXVZbVpySnZEQlloeTIzTVd6Y1dmZXVJdlpBZTNfaU1DQlJ1d3hqekpyQlNocWpRbVJqeTRmQkZZZHlKUC1SQXFlSjFsY1NRUXU4dmxTdGthZUtHWDcwams3OHh6NHU2MHc?oc=5",
+   "source": "CNBC",
+   "date": "2026-11-11T06:00:01+00:00"
+  },
+  {
    "title": "Nvidia Stock Just Lost 10% in 1 Day. Should You Buy It Before It Reports Earnings on Nov. 17?",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLUVvTFBYdncwRE5SVUxHSmtBdkMySDRMQ1M0NUUwRnBQcURnQ2xsZ3Y0TU1wMTVKRElJSWJvMHBoNGUxSFdOSi1QY3hhQ3QtWXJkRENRWUMzNVpxMkJPQ1VGUWNxWFRneTI4TmxZSzdtUlpnenpkTWt3S2hIZ2dwWW9ySTZxRmVRck1neUFkWEtPc1NZ?oc=5",
    "source": "Yahoo Finance",
@@ -740,13 +752,7 @@
    "title": "CoreWeave stock pops as Q3 revenue beats estimates, company raises full-year outlook",
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQUlzUVY2WTVjSmsxVU1kRFdxa0tqaXRKbDh3NXFvVmNJSjZPREtXNjIzU3ZPYldpWGc5Y3A3TnQ0R2RaSmlZejdtQktLT0k3UHB1cVh5ZndKa3F4S3E0RE9RM3FKUWN1TjJfcU1Qd0pZOUVmQzVVV2RnX0NjS0VqbS1PNjYyOFRNTjVwV0FqSW5mNndvcmtEQk4teC1xaWZKTXcwUURFTU1rWDd5QkhZbHhUSDJxNXg5eC00S1pkTEFFZFFtbjQ3bGpIRXpjUFpwdmFyVzVtQ2JYd2xseEVrTw?oc=5",
    "source": "Yahoo Finance",
-   "date": "2026-11-10T21:15:33+00:00"
-  },
-  {
-   "title": "Prediction: Nov. 18 Will Be a Huge Day for the Stock Market",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOEZfbnNycklaWHVRanhMUTBFN1UzbnJjYmhNbS10eFY0M2xDM3YwS051b3JEbWQzX3ZqUGRJd0o1eG1STmVObl9zajlWRUQ2NjY5VWNCY3U3Qzlpb3c2YVNHaVVCOFUzazVkS0pPMFd3YUxJaDMzQUU0ZC1xSnk2dktqbFUyVU9nU0VNaFRnQWoxWGR3SGk2dmdyb2xfbGZDR0E?oc=5",
-   "source": "The Motley Fool",
-   "date": "2026-11-10T20:00:00+00:00"
+   "date": "2026-11-10T21:22:28+00:00"
   },
   {
    "title": "KBRA Releases Research \u2013 2027 U.S. RMBS Sector Outlook: Record Issuance and Resilient Credit",
