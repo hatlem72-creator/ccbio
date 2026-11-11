@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-11T02:47:44.985580+00:00",
- "usdnok": 9.499799728393555,
+ "updated": "2026-11-11T03:50:44.575266+00:00",
+ "usdnok": 9.502599716186523,
  "btc": {
-  "price": 73658.21875,
+  "price": 73657.8203125,
   "prev": 75223.1484375,
-  "chg": -2.080383126744878,
+  "chg": -2.0809128007990396,
   "currency": "USD",
   "asof": "2026-11-11T00:00:00+00:00"
  },
@@ -190,6 +190,12 @@
        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWDhQalFndWVXTThtbXNMc2Ryb29OdndLV2hnczhtVWxLN3U0U0N3di1DdTVIak54c2JGaGVuMkxoaUNvWEZneDgyTXJuS1dkTDZ6WVpwWlowTHRHdzhlRWFzMEdPTWN4UTZDV0VrYUxSdmVWVlF0cDVtUk1zLTR1RXduN1B2RmFUSDBVRlRVcV96TnJ0YzIzWg?oc=5",
        "source": "TradingView",
        "date": "2026-11-06T09:10:00+00:00"
+      },
+      {
+       "title": "AuAg Funds launches in Germany",
+       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQODlSOUtkREQyUndIOGRLdUFVNTJsNXVjX3JRcUs3SkcyV0Uza0dCY3lCc1N2SVZfRm9KWTRsbUlQZWlYLTdER05NTk1XQjZHX0R6LXZKdVVfaVFEMU54NWxpdHpXR1BDUE1RaWlfWTBubEZZMlhPaElLNG9obzlNdWpWZzVWRHN0cEkxRlVyQzNMVUJrYkZJaUdZQTY?oc=5",
+       "source": "TradingView",
+       "date": "2026-10-28T07:00:00+00:00"
       }
      ]
     }
@@ -411,10 +417,10 @@
      },
      "news": [
       {
-       "title": "GR Silver Mining Ltd. (GRSLF) Seasonal returns chart - Yahoo Finance",
-       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5zRDNlNFZudE5wcDlkTVZCbXBCQlJ6YzNISWFLMGRkdjZyVGtHSFFnajhYVzNlU2Vlc0ZqLXZCRVR3X3F2YTBzTU1vUUVnejFtSVZDN2xoNXpQY1BYSVdSaERXSQ?oc=5",
-       "source": "Yahoo Finance Singapore",
-       "date": "2026-11-06T21:48:55+00:00"
+       "title": "Silverco Mining Ltd. (SICO.V) Seasonal returns chart",
+       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE56amJ0Z0xnaVdHM0RZYjhqNThYenBHZnhkZkJaVlcwdERHaE9KYzE1Tkx4b0xiVTRITVgwd2FkcmdzcnM3eE1NZzF1XzBUUzdnTmwzVHd4eUJwMFNCSzdkWFQwRGo?oc=5",
+       "source": "Yahoo Finance UK",
+       "date": "2026-11-04T05:09:34+00:00"
       },
       {
        "title": "Silver X Files NI 43-101 Technical Report for the Updated Nueva Recuperada Mineral Resource: 10.4 Mt Measured and Indicated at 202 g/t AgEq (67.3 Moz AgEq) and 21.6 Mt Inferred at 260 g/t AgEq (184.3 Moz AgEq)",
@@ -506,9 +512,9 @@
      "symbol": "GC=F",
      "name": "Gold (USD/oz)",
      "quote": {
-      "price": 4053.0,
+      "price": 4054.800048828125,
       "prev": 4114.5,
-      "chg": -1.494713816988702,
+      "chg": -1.450964908782959,
       "currency": "USD",
       "asof": "2026-11-10T00:00:00-05:00"
      },
@@ -530,9 +536,9 @@
      "symbol": "USDNOK=X",
      "name": "USD/NOK",
      "quote": {
-      "price": 9.499799728393555,
+      "price": 9.501330375671387,
       "prev": 9.400989532470703,
-      "chg": 1.0510616524097127,
+      "chg": 1.0673434201166732,
       "currency": "NOK",
       "asof": "2026-11-11T00:00:00+00:00"
      },
@@ -755,10 +761,10 @@
    "date": "2026-11-10T15:45:47+00:00"
   },
   {
-   "title": "What FedEx Stock's Higher Earnings Outlook Means For Shareholders",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbkxyN1lHU1liQzFaRnRLRDM1WE9mMmRCRzZCZ3hDc2xWZXBOWC1SQkpSdEhyRlY1X3NXdzhnMmdTX0wyLWh4N1RSSUtOZ0ppX0Z4a3pkc2NRUllSeFBoYUZhM0Fidjh5a01WY1hjN0ZMN0RKX0pzTWpGa3JNNnpwU2V1cVBWckdBS09Ga3pWSm9ZekpIeXhIYnd5aERVbTFEZnFr?oc=5",
+   "title": "Nvidia stock drops 3%, extending decline on report alleged Chinese spy linked to Nvidia CEO aided $7.5 billion in China chip shipments",
+   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQaTMzXy1sdW5VeFphNTFTbjYzWUZmdHJLNmhXMTE3cVBybWQ1NFhBUU5lUEZqcWUzNnBMN0J2RmdoYWtidXBQc1pPbFNhZV8zcGVJX2VxX3pzU01JZTV1cFpKanZVWHhSVE5IbWUyaVo5bXoxaUdkQ2Jwd0poWXNrX1VrOGI4SlBNOVExdUMyT0NDeS15dHY3N3FRZ1YyMHpZWmRtOC1MTXFhVEFvMm1xREZmb0xBSWpJTUt1aHdMVTl4NHY5TFY3QjZPSWFqNDNCM2xfeFJDM1FLN18zbmZfMG5OeS1lQ25jWUs1R3hIVkc5amVmMHBIS3kyQl8wS3B3T0d5bjFqM2lYQkt1UDk5Rm9kdlMtZw?oc=5",
    "source": "Yahoo Finance",
-   "date": "2026-11-10T14:09:12+00:00"
+   "date": "2026-11-10T15:26:54+00:00"
   },
   {
    "title": "France to dodge threat of year-end recession, central bank says",
