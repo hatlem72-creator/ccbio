@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-11T21:29:36.058762+00:00",
- "usdnok": 9.55620002746582,
+ "updated": "2026-11-11T22:34:42.426369+00:00",
+ "usdnok": 9.55823040008545,
  "btc": {
-  "price": 74638.25,
+  "price": 74132.5,
   "prev": 73720.1171875,
-  "chg": 1.245430484279919,
+  "chg": 0.5593897951235549,
   "currency": "USD",
   "asof": "2026-11-11T00:00:00+00:00"
  },
  "silver": {
-  "price": 51.724998474121094,
+  "price": 51.68000030517578,
   "prev": 51.10100173950195,
-  "chg": 1.2211047012348208,
+  "chg": 1.1330473884355374,
   "currency": "USD",
   "asof": "2026-11-11T00:00:00-05:00"
  },
@@ -178,11 +178,11 @@
      "symbol": "0P0001IMY8.F",
      "name": "AuAg Silver Bullet B",
      "quote": {
-      "price": 39.349998474121094,
-      "prev": 37.619998931884766,
-      "chg": 4.598616670268085,
+      "price": 37.18000030517578,
+      "prev": 39.349998474121094,
+      "chg": -5.514608012939148,
       "currency": "EUR",
-      "asof": "2026-11-09T00:00:00+01:00"
+      "asof": "2026-11-10T00:00:00+01:00"
      },
      "news": [
       {
@@ -426,7 +426,7 @@
        "title": "Silver X Files NI 43-101 Technical Report for the Updated Nueva Recuperada Mineral Resource: 10.4 Mt Measured and Indicated at 202 g/t AgEq (67.3 Moz AgEq) and 21.6 Mt Inferred at 260 g/t AgEq (184.3 Moz AgEq)",
        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWlhwU0dacGtfSWlCNy04WTFQYXk3Z2Y4Sl83ZVFNUTRqRjkxNGt2NXQ2T1dUbnI5MXN1OGh5UG5OMmNqVlV2a0s5WV9zcW92akcwb2dmQU5LSkh6NmN5V2k2d0RDZVZ6Z1VsRUpaSC1yZElOanppazE0V01KSjB6c0c5anloVC1xSElRbWNBTzRCcXdL?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-10-30T07:00:00+00:00"
+       "date": "2026-10-30T12:20:00+00:00"
       }
      ]
     }
@@ -500,9 +500,9 @@
      "symbol": "^VIX",
      "name": "VIX volatility",
      "quote": {
-      "price": 17.479999542236328,
+      "price": 17.489999771118164,
       "prev": 19.459999084472656,
-      "chg": -10.1747154953167,
+      "chg": -10.123326855273984,
       "currency": "USD",
       "asof": "2026-11-11T00:00:00-06:00"
      },
@@ -512,9 +512,9 @@
      "symbol": "GC=F",
      "name": "Gold (USD/oz)",
      "quote": {
-      "price": 3991.0,
+      "price": 3994.300048828125,
       "prev": 4030.199951171875,
-      "chg": -0.9726552440773251,
+      "chg": -0.8907722390625095,
       "currency": "USD",
       "asof": "2026-11-11T00:00:00-05:00"
      },
@@ -536,9 +536,9 @@
      "symbol": "USDNOK=X",
      "name": "USD/NOK",
      "quote": {
-      "price": 9.55620002746582,
+      "price": 9.551119804382324,
       "prev": 9.400989532470703,
-      "chg": 1.6510016786958959,
+      "chg": 1.596962440954508,
       "currency": "NOK",
       "asof": "2026-11-11T00:00:00+00:00"
      },
@@ -587,16 +587,16 @@
      },
      "news": [
       {
+       "title": "Evercore Plays Down Microsoft 365 Disruption Fears After Anthropic\u2019s Claude Sheets Launch \u2013 \u2018Not Yet A Substitute For Excel\u2019",
+       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZXBUdnhrRGh1bmFtajNWcGo1YmZva2otVEYtTWx6S0NHdTduNV9FLUotUDVROXk4TklJOW1xbGpnYkxSRHhfbjRYem5lY0w0VHZ5R2F2Z01EMmtlRkFFS3M2a1F3T2NRM3JPcmZPQWVndFREUGZ6T1phMUtYczJ0RVpxdWV6ZVNObUNsaHFaYTFMZUNadVdTcDM1UlhfTlk?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-11-11T17:33:48+00:00"
+      },
+      {
        "title": "Microsoft Stocks Decline 2.5% as $1 Billion Anthropic Stake Tests Partner-Rival Balance",
        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd2NEVEtyeThmMlBlejQ5YS0xdkVsTnhiczZRSkY2VUlWSFc1ZmhNek0tTVU5THZvZjdGbW5JWF9rSWFkanM3WkxyTlp6NDhWTHJwcGlzWFdGLXlIcXBOcndpVDlOQTZCanZOZ2VsNFdkMUdKOXZhUDlrS1lNUE9OakVMRVZnQVozTkdtYkFEM3Z3SnBQcjlFSw?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-11-11T16:54:50+00:00"
-      },
-      {
-       "title": "Anthropic's new Claude product drop just sent a message to these 3 tech stocks",
-       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUE5Ob1FzdzhnbGItQXF6SVJTZExXZWpFYmsyaDFmU3hOYW1qYU9VS2hmaDhaNXN4VEtJb3oxbWltT2doZjl3SHBQa2hmX3Fxblp3a0dOeXJBVUxmSjZUNTl2bUlVdkRkc3VFV0VmQ3VfNWhDeHRCeEEyV25udVNIY2RHRUZNSHBZcDBWUHZ0QmdmeEUxY09zZjlEVUJST0hybll4TXhfTjdfdXhNcGFWemFXYWpaMHMxYWtmcWQyTlh2dkRyWjdZTmhKNUxBWi0xdDVV?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-11-11T13:34:21+00:00"
       }
      ]
     },
@@ -721,7 +721,7 @@
        "title": "Tesla Stock Thrives on Key-Man Drama. Nvidia Might Not Be So Lucky.",
        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pT2tuZE1GekpnV012aXltMkVZVVE5Y0kxamZ4Ukd1Nzk1NXFHTjBDTG1rNmpCSHg5dzUzUXA2TWk3d1FBMVluWUVadDdCeTUzVU5zTDdFMXBqQWhHQzZxWHEyQ1dfenl1clB2OV85SVFEMHF1WnJqWUtjb2tZRWM?oc=5",
        "source": "Barron's",
-       "date": "2026-11-11T11:49:12+00:00"
+       "date": "2026-11-11T11:47:00+00:00"
       }
      ]
     }
@@ -737,18 +737,6 @@
    "date": "2026-11-11T20:05:41+00:00"
   },
   {
-   "title": "Nvidia, chip stocks rebound premarket after CoreWeave lifts revenue outlook",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTnJTWFBvenp1QnlwZXZfU1FlYmV1cThsc0VzMWp2cEtDeDNNNWVSb2NTRDR6NkcwWl9PNnZvSzRXRVkwZnhJQ2RBZ3cxbTFVLUpDQ1J1ZzdGQnZ3YWZhVUc4SzgxLXJyN3JpdXMwV2RsUkg0LWNNUFBldkNNb1NEU1dqOEF1V01TYlpqV1RBdXZiY2tCV3VTSHBjVi1VV0Y2S1dQVXVKUF9vM2gwdGo2SG1pdVpWRkpDa21UbG96WVEwOFEyeUVrTVRURQ?oc=5",
-   "source": "Investing.com",
-   "date": "2026-11-11T17:59:42+00:00"
-  },
-  {
-   "title": "Canadian Stock Market Outlook: Rising Job Losses, Inflation and Economic Pressures- 3 Stocks Positioned to Outperform",
-   "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOTkt1aFZ1QTh0ZVotX29KaWJURG4xTWF3STdjeVZQbHZHTEV5eUNYajNZTzFXbzhISWxHQlNLUEZ3SXhvVi1fYWY3dGVWUGNtN3MzU1lUeXBuY2lwZk1xa3FxUEduckZQRWdoYUlMSzJIMHNoLVo3SjI4NERVbmIzRmpLSHlvcjlhWi00ZjFTWnByejZKVUEzV2pObDY4T3h1bU40RUpMNGh0WXliaEVtSTR2ZDVCRXRfRTZibXEzWm51TnRwQUlJeGtJeVVSYnNObzA2eE42a1ZxQ0tmUUg0djZDTGtTVS1lSnF4Q0xqb29mSnVBTEtZaWt6Qjd6dHlvcXk5WERab0xtZWQxWTA3UENmeUhFQmxDbllJOXVVS0tpWWxMZ2V3?oc=5",
-   "source": "The Globe and Mail",
-   "date": "2026-11-11T17:22:25+00:00"
-  },
-  {
    "title": "ALC's Q3 Earnings Beat, Revenues Miss, '26 Outlook Narrows, Stock Down",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYkt5OThHOUd1cE1NN3dQT0hneUV5bnl0cUhRenQtREtoT0RIclJrOFAxd2NGdGc0MUdzQmNPVHBDVFY5M1RaV1NocVktSXpSSXI1enVOTmN3Y0luaFd4V1o0d1U4VzJndklxZi1hSV9PSXB4djVGSXFYMnZPZDU1WllKSW9GLS1xdENVcVgtRXF3aFFpR0E?oc=5",
    "source": "Yahoo Finance",
@@ -759,6 +747,12 @@
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUjlNMk9FRHU1cFdTV3Ewa3BUTVFILTNQbW96VUlwaUY2bXpIMWR0QndPUU43cWdKXzVpVU9OcXVjQ29meDZhcjZyOEZyWDluaTg3RFNhQjdLOEk1NnpHSFVYUGplS2JWV2o1c2tSNkdjUlNGUkU2Sloxakw2ZG44RVdjTFlVZUFuSEhHdHdMWUZuNVFSOFJ5QUV6cDZfSWtPZXc?oc=5",
    "source": "Yahoo Finance",
    "date": "2026-11-11T16:26:00+00:00"
+  },
+  {
+   "title": "Lumentum Slips on Deal Reaction; Fossil Group Rallies on Outlook | Stock Movers",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOWJLMURtclNYWVRzaG1aMTlEVUNSX18wTWEwUjFNR2N4d29ONlNvS2tpM0pPSkREbzJrZTRQVEIxenJnbEgtemNSQXBFSUVmT2Z4dGRpZFlUemdrOFhsdkJmY0pJckppRmV1eFk4LTA5dExRZWNlY1RXb042U0p0blc0b1BFUmdCWnc?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-11T16:16:03+00:00"
   },
   {
    "title": "Help build the legal support Nammo needs for what comes next",
@@ -783,6 +777,12 @@
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZlRndE5BblFlbTZLeTNIQi1OeDB0M0FYQ3pvMGtwcXEzVFo2ejdQMGllOHZGRjJUUUZnZ3VqX3hxZHV0LTN5YzBoc1VkLUJWdFc2VGFua0dPbXFjVGZ1SzF4UTdrQ2puVFpacFZiWEFyemw3MkZvMU01dmtmUHMzU0VNejUydTZidzFYU1BSMFlkNjlZNmMxcFRnMzZNOVM1Mi0wRVM3T0RLMFhDaWZrV0dOeUtFc1Z2aFR0ZEo3TEZKejdTTVBvcnJILUxNcktQUEJF?oc=5",
    "source": "Yahoo Finance",
    "date": "2026-11-10T16:34:59+00:00"
+  },
+  {
+   "title": "If a Recession Is Coming in 2027, I'm Making This 1 Investing Move Without Any Hesitation",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeE54aERhMmZsWVBkOTZNS090NlBHNWZDd0IxTzU2cHdRSGxyY3hYYldBSl9TMGJReElUWDZFczB1aTcyRjVacV9ZbEcyaU05S3VlRXBCRmZsNEJZdkZvdV9BSlpGOXlxN2ZpOXdVM29ZUTdZRXFUNUZaN1hCUy1haUlXSU9NaGdiSG1uSVJvWVdpRkFnZEJkQUhLMk8?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-09T21:35:00+00:00"
   },
   {
    "title": "France to dodge threat of year-end recession, central bank says",
