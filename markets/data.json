@@ -1,19 +1,19 @@
 {
- "updated": "2026-11-12T04:55:17.653401+00:00",
- "usdnok": 9.563549995422363,
+ "updated": "2026-11-12T05:57:05.853366+00:00",
+ "usdnok": 9.567150115966797,
  "btc": {
-  "price": 73694.6328125,
+  "price": 73536.859375,
   "prev": 73720.1171875,
-  "chg": -0.034569091819514064,
+  "chg": -0.24858589417852128,
   "currency": "USD",
   "asof": "2026-11-12T00:00:00+00:00"
  },
  "silver": {
-  "price": 51.41999816894531,
-  "prev": 51.10100173950195,
-  "chg": 0.6242469199909451,
+  "price": 51.349998474121094,
+  "prev": 51.88100051879883,
+  "chg": -1.0235000084189316,
   "currency": "USD",
-  "asof": "2026-11-11T00:00:00-05:00"
+  "asof": "2026-11-12T00:00:00-05:00"
  },
  "sections": [
   {
@@ -334,9 +334,9 @@
      "symbol": "DEF.V",
      "name": "Defiance Silver",
      "quote": {
-      "price": 0.11749999970197678,
+      "price": 0.11999999731779099,
       "prev": 0.11999999731779099,
-      "chg": -2.083331393077925,
+      "chg": 0.0,
       "currency": "CAD",
       "asof": "2026-11-11T00:00:00-05:00"
      },
@@ -359,9 +359,9 @@
      "symbol": "GRSL.V",
      "name": "GR Silver Mining",
      "quote": {
-      "price": 0.23499999940395355,
+      "price": 0.235,
       "prev": 0.25,
-      "chg": -6.000000238418579,
+      "chg": -6.000000000000005,
       "currency": "CAD",
       "asof": "2026-11-11T00:00:00-05:00"
      },
@@ -384,9 +384,9 @@
      "symbol": "GSVR.V",
      "name": "Guanajuato Silver",
      "quote": {
-      "price": 0.3050000071525574,
+      "price": 0.3100000023841858,
       "prev": 0.3199999928474426,
-      "chg": -4.687495634425332,
+      "chg": -3.1249970896168877,
       "currency": "CAD",
       "asof": "2026-11-11T00:00:00-05:00"
      },
@@ -464,9 +464,9 @@
      "symbol": "^DJI",
      "name": "Dow Jones",
      "quote": {
-      "price": 52486.5,
+      "price": 52486.48828125,
       "prev": 52231.890625,
-      "chg": 0.4874596189289315,
+      "chg": 0.487437182923145,
       "currency": "USD",
       "asof": "2026-11-11T00:00:00-05:00"
      },
@@ -512,11 +512,11 @@
      "symbol": "GC=F",
      "name": "Gold (USD/oz)",
      "quote": {
-      "price": 3980.39990234375,
-      "prev": 4030.199951171875,
-      "chg": -1.2356719128450266,
+      "price": 3982.10009765625,
+      "prev": 4000.5,
+      "chg": -0.45994006608548466,
       "currency": "USD",
-      "asof": "2026-11-11T00:00:00-05:00"
+      "asof": "2026-11-12T00:00:00-05:00"
      },
      "news": null
     },
@@ -536,9 +536,9 @@
      "symbol": "USDNOK=X",
      "name": "USD/NOK",
      "quote": {
-      "price": 9.563549995422363,
+      "price": 9.567150115966797,
       "prev": 9.50432014465332,
-      "chg": 0.6231887170000672,
+      "chg": 0.6610674972772346,
       "currency": "NOK",
       "asof": "2026-11-12T00:00:00+00:00"
      },
@@ -643,10 +643,10 @@
        "date": "2026-11-11T13:43:49+00:00"
       },
       {
-       "title": "Nvidia, Alphabet, and Micron Just Agreed to Buy $26 Billion of Stock in One of Their Biggest Customers",
-       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMjFLeTI3UDd6aTRDcTNHcGpvenN2VXMyd1FVempYWGZpV3hkcDFtR1N0UnVZWXdmMjhMdlVjN1h6TV9kMHlhZjgxdm14OXFvQkFxM2VDYndEM0pmVVJJX3JtVnlrRnVpd3JPM2UyQjZOSl9xdTVtSzN2YUVoSElzUlFGbDJWa3RwY1BDdURTUnJ2Q3dveUdQTGUxdU05bDVlSUdiUTNLc1JOeC1RdE9zZklFVi1vWWVxeWx4T3V6MTNMbDJUdWVfczB0Ti1FRjBidzBrVnB2OTN4QQ?oc=5",
+       "title": "Alphabet Is Set to Become an Even Bigger Anthropic Shareholder After the IPO",
+       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaml4a3p2MWZjX1daa1RLLU0yV0JnMkJJdlZ1WTRmdGdMSW1NNWF6bl83RmMxd3pYMUJaQnpaUDU0ZzJYS3NEdWVSZjUyRnlvcGxhZHFHdGZNVG5RWkRFdVl3RWk2QkFnQ0xXRl9NSFJRamtLX05hZ0NfdVdncW1yb2FsaEQ0NjlGWXRCR0JCMm9ESmhUeVNzeQ?oc=5",
        "source": "The Motley Fool",
-       "date": "2026-11-10T15:03:00+00:00"
+       "date": "2026-11-10T20:37:00+00:00"
       }
      ]
     },
