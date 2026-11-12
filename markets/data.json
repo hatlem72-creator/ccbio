@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-12T00:31:45.317221+00:00",
- "usdnok": 9.558250427246094,
+ "updated": "2026-11-12T01:56:22.959300+00:00",
+ "usdnok": 9.553250312805176,
  "btc": {
-  "price": 74041.09375,
+  "price": 73567.21875,
   "prev": 73720.1171875,
-  "chg": 0.43539887719334924,
+  "chg": -0.20740395340272944,
   "currency": "USD",
   "asof": "2026-11-12T00:00:00+00:00"
  },
  "silver": {
-  "price": 51.4900016784668,
+  "price": 51.65999984741211,
   "prev": 51.10100173950195,
-  "chg": 0.7612374038142189,
+  "chg": 1.093908316630987,
   "currency": "USD",
   "asof": "2026-11-11T00:00:00-05:00"
  },
@@ -50,10 +50,10 @@
        "date": "2026-11-05T01:38:43+00:00"
       },
       {
-       "title": "Kongsberg Gruppen (OB:KOG) Stock Forecast & Analyst Predictions",
-       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPczBYT2c3eDhYYUZhdlFkZUR1VUpZeEs4U2lGZTIzaWFLdFYtb29YRHgzVlQyT3lYQ3Itd1gxdzFsaVUtMHFwYWtZRXRISVZaeWdoc0VsT05lVG9FNjEtNkp4djR2cGdTbEJsSjNrclJfUXJQeld1enBQY3RUaFA1bU5ndmpUMlNCaUR4RA?oc=5",
-       "source": "Simply Wall St",
-       "date": "2026-11-02T08:00:00+00:00"
+       "title": "Kongsberg Gruppen ASA 2026 Q3 - Results - Earnings Call Presentation (OTCMKTS:KBGGY) 2026-11-01",
+       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWWM5aV9PbGNsUFJoT3hqNTduOFhNbUpZcUtOVC1EWm8zVHNlSjlHSGZ2cExNTkNIejVXSTVRUFh0eWdPYlcyUFpxUTZmMjJSaXh2QlZ2dFI2OEQtR2djVUdxdElqTGQzTTJNTDBueEJQbDkwTDNYaVc4aXZnUHZmZUhjVDlncjRTY2Z2cnlfQXZjWk15ZlRwZDhuOUxsYVg5STdkZk1HMTQ?oc=5",
+       "source": "Seeking Alpha",
+       "date": "2026-11-01T07:00:00+00:00"
       }
      ]
     },
@@ -209,9 +209,9 @@
      "symbol": "HL",
      "name": "Hecla Mining",
      "quote": {
-      "price": 14.119999885559082,
-      "prev": 14.289999961853027,
-      "chg": -1.1896436441410696,
+      "price": 14.12,
+      "prev": 14.35,
+      "chg": -1.6027874564459976,
       "currency": "USD",
       "asof": "2026-11-11T00:00:00-05:00"
      },
@@ -234,24 +234,24 @@
      "symbol": "HYMC",
      "name": "Hycroft Mining",
      "quote": {
-      "price": 18.700000762939453,
-      "prev": 18.8700008392334,
-      "chg": -0.9009012651472248,
+      "price": 18.7,
+      "prev": 18.95,
+      "chg": -1.319261213720313,
       "currency": "USD",
       "asof": "2026-11-11T00:00:00-05:00"
      },
      "news": [
       {
-       "title": "Hycroft Mining Holding Corp (R5A.HA) interactive stock chart",
-       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1aRE9vRkpKQW8yQlJFczhUUVRPSUg1RHV1UDRpTnlHQmZRNG9uOWg1RE03aV8xM3hZYkZNdDcyZExtYlBnUEtlRjI4Y1gxNk9COEFfM0JJbFk2REJa?oc=5",
-       "source": "Yahoo Finance Australia",
-       "date": "2026-11-07T15:18:36+00:00"
-      },
-      {
        "title": "Hycroft Mining Holding Corp (R5A.HM) stock price, news, quote and history",
        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhR295RGg5Q3BIQ2xfcWNXX0FyS0l6NUtSTnltQXFCYjJqeHBEX1dzX1RYMjY0QUpDZGdYaTAxQ29YLW1IbVpHeFhFNlJIQjczYjhsdA?oc=5",
        "source": "Yahoo Finance Singapore",
        "date": "2026-11-07T14:54:08+00:00"
+      },
+      {
+       "title": "Hycroft Stock In Focus After Wider Loss And Executive Changes",
+       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWmpKdUpDcGx1Q20wbXYxeXl0aWJSdkpBTGRNcVlBc0hJVnJSS04xbk9mQkVuZ1g1OTZ3djJkVXl1UGl1N0VFWUxoRTRiTkFxVmdTOWFORlZzQWhBcnFfU0lOanNhd05lNE9GTWdDaVljQVNMUFZnWmdUN29ZMThJRl9pVkFpNTBtNEdoazVRc1VVbmpaV1hJcS1UUQ?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-11-07T07:11:51+00:00"
       }
      ]
     },
@@ -259,24 +259,24 @@
      "symbol": "ASM",
      "name": "Avino Silver & Gold",
      "quote": {
-      "price": 4.590000152587891,
-      "prev": 4.639999866485596,
-      "chg": -1.0775800719058148,
+      "price": 4.59,
+      "prev": 4.8,
+      "chg": -4.374999999999996,
       "currency": "USD",
       "asof": "2026-11-11T00:00:00-05:00"
      },
      "news": [
       {
+       "title": "Avino Silver & Gold Mines Ltd. (ASM) stock price, news, quote and history",
+       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB2VXNGcE9Zdm9oeHBaYjZ0Q1NRd0ZzOHF2VzF2cTE1UGtNQWpxc0hFanRNVlg1MV9aY3dwUEduSnJyeU9VR29UUU1fcXU1U24w?oc=5",
+       "source": "Yahoo Finance Singapore",
+       "date": "2026-11-10T12:22:52+00:00"
+      },
+      {
        "title": "Avino Silver & Gold Mines Ltd. (ASM) Seasonal returns chart",
        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43LXFyWUhTdFdBNWhYbWx4QTh5ZGtpYkZCYzFDazg1bzJFWUgzVElRU2MyXzNjZ3hscDNHQ0ZKaS1IWG5nU0NKcnRvaGlOMXk2WnlBamZZMjBoWHR4R1VNMg?oc=5",
        "source": "Yahoo Finance Australia",
        "date": "2026-11-08T22:11:27+00:00"
-      },
-      {
-       "title": "Avino Silver & Gold Mines Ltd (ASM) Q3 2026 Earnings Call Highlights: Strong Cash Flow and ...",
-       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbDc2TnVwRTdZTm1fbEg0UGpONUdmR3VTOFFUN0VCX1dWZzQ0UTM2MnViU2dkLURtam93SVlyWDVnd21wV3RHNi1lbDhVT2pnVkd5aENNNFFxOXE5cTBnSTJGeEZjVkxQV2xKMkVicmpVVEdDVkRJN3pWSW5NYU1yTzR5dTdZMG00YnE2ZHZOTUUydTVGS2lIdVhxdl9fZw?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-11-05T23:11:32+00:00"
       }
      ]
     },
@@ -284,9 +284,9 @@
      "symbol": "CDE",
      "name": "Coeur Mining",
      "quote": {
-      "price": 15.029999732971191,
-      "prev": 15.289999961853027,
-      "chg": -1.7004593167463056,
+      "price": 15.03,
+      "prev": 15.42,
+      "chg": -2.529182879377434,
       "currency": "USD",
       "asof": "2026-11-11T00:00:00-05:00"
      },
@@ -512,9 +512,9 @@
      "symbol": "GC=F",
      "name": "Gold (USD/oz)",
      "quote": {
-      "price": 3987.39990234375,
+      "price": 3990.5,
       "prev": 4030.199951171875,
-      "chg": -1.0619832600533896,
+      "chg": -0.985061576419588,
       "currency": "USD",
       "asof": "2026-11-11T00:00:00-05:00"
      },
@@ -536,9 +536,9 @@
      "symbol": "USDNOK=X",
      "name": "USD/NOK",
      "quote": {
-      "price": 9.558250427246094,
+      "price": 9.553250312805176,
       "prev": 9.50432014465332,
-      "chg": 0.5674291456092329,
+      "chg": 0.5148202860083773,
       "currency": "NOK",
       "asof": "2026-11-12T00:00:00+00:00"
      },
@@ -554,24 +554,24 @@
      "symbol": "AAPL",
      "name": "Apple",
      "quote": {
-      "price": 355.6300048828125,
-      "prev": 348.510009765625,
-      "chg": 2.042981526406007,
+      "price": 355.63,
+      "prev": 348.81,
+      "chg": 1.9552191737622238,
       "currency": "USD",
       "asof": "2026-11-11T00:00:00-05:00"
      },
      "news": [
       {
-       "title": "Apple Shares (AAPL) Look Expensive Heading into 2027",
-       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM2lsenhVYnFXTUNRUHVQUkVxVEVMUDNwSzdFcDNnNWNRU3F2dDVGTHh2Zkh1N2laS1FtZHdzb2hQN3B6bHhrcUUxa2VFOWxzY1NlZTVwRFB5YkE4MGxjUHBueG1WQjRjUExnanJaZGZFSTQzX1Y0YTU3bmJ6UGNZYjNyaVdPenFDZHVhU0JlMUZySFBONHVDU2wxNnNIUQ?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-11-11T21:15:00+00:00"
-      },
-      {
        "title": "Why the iPhone Duo Could Kick Off a \u2018New Decade\u2019 for Apple",
        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQkQ2TVl3Xy1kcWpJNktuVlhYcVVfalRMZ0R4MjhxdEEtU0sxMEdRbkYtREJFcGdVWEFrMFRUdks5TVk5VmtQaHBMZDdDMWVDeE9YUlNtdW1zbUttb3YwTV95T2hNaV85bzhzeUVEXzl2Z2xuNUdjQzl2M3lkY09CVk9wSQ?oc=5",
        "source": "Barron's",
        "date": "2026-11-11T15:27:00+00:00"
+      },
+      {
+       "title": "How Much Capital Gains Tax Does a 61-Year-Old Owe on $750,000 of Inherited Apple Stock?",
+       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOT2FycXlWaUJvRWg0TWozaGhXaU9aYXhuOGVSejJ6N3hhM2VPZl9qRndKX2g3MmlSS2prbUxESVJTTm5JME93b2diOWVnQnZNcHpRSXJndlpUSmdHYmtaSWcybDBwRGpRcVM5dmtyLWstQ3dSZVJPcUlnaUZRdV9pdTN1YUNLaTUyTHFrQlJ2bDRpdlo0alQw?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-11-11T13:03:52+00:00"
       }
      ]
     },
@@ -580,8 +580,8 @@
      "name": "Microsoft",
      "quote": {
       "price": 521.125,
-      "prev": 533.1599731445312,
-      "chg": -2.257291197902578,
+      "prev": 535.0,
+      "chg": -2.593457943925237,
       "currency": "USD",
       "asof": "2026-11-11T00:00:00-05:00"
      },
@@ -604,24 +604,24 @@
      "symbol": "NVDA",
      "name": "Nvidia",
      "quote": {
-      "price": 173.72999572753906,
-      "prev": 168.88999938964844,
-      "chg": 2.8657684619467716,
+      "price": 173.73,
+      "prev": 170.08,
+      "chg": 2.1460489181561515,
       "currency": "USD",
       "asof": "2026-11-11T00:00:00-05:00"
      },
      "news": [
       {
-       "title": "Nvidia\u2019s stock drops as the board reportedly prepares to remove CEO Jensen Huang",
-       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYmdkdUluVHVQWUhGdnVOemo1NFU2N3RwV3dYY1Qta0RNckhBeVZXejVkb1RsdzdUeDlzUEV1XzQ3N0dPcFhPNVRRTTN5TTJXRktBYWdvcVBmWm9veUNoR2U2VHJJN0FzbC04TzBiTW5raWdOWk5CZ2djQTJjMlJ6bGRPR3lJbG1BOEhJbWh5X2xLMzMxazlxZzNBT0ZuUmJtZG80akFMUkFVSHV5LUdUaEplOGtvYU1RdDY4TFEzOA?oc=5",
-       "source": "MarketWatch",
-       "date": "2026-11-12T00:06:00+00:00"
+       "title": "Nvidia Stock Tumbles. Jensen Huang Could Be Out Soon.",
+       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTmY5c05oNmptS3d1Z1B6aUtOaEkwMGxxbjBkendjRzNqU2lrclhPNlkxWEdlU2c5NnhUVVQ4a09vSVFOX3ZhNnNpUy1VeHo3aFlHdlAzZVdSLXQyWml3VE0xMnNNUnU5T2NCM2pHNjE2end6NjlRNVBYbkxKOGZOSTR3MU1aYk9IaWtMLQ?oc=5",
+       "source": "Barron's",
+       "date": "2026-11-12T01:06:00+00:00"
       },
       {
-       "title": "Nvidia Stock Tumbles. Jensen Huang Could Be Out Soon.",
-       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOFdBZ3c4MHN6VndFa1FXODBzUlYtaVM3cmJKMmxEWERoU1A3SlJzMUxyZ1A3OEJrR3lQY1dXSHNmN2c5Q3JhVXlQaU5KcDhoZllMN2poWlp6SlRfMkJ0R2x3X1dnR1BRc0lTWnVLWHduOUw1Y01xNTV4ek5qYVAycnlB?oc=5",
-       "source": "Barron's",
-       "date": "2026-11-11T23:28:00+00:00"
+       "title": "Cramer's stance on Nvidia's stock amid reports that CEO Jensen Huang may be ousted",
+       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaW1tUGR6WFlEVmNGLXlEaVd2UnBSdkRKRlRxYUtieXVsbHh5WWRpNWUtMnp3WTRNUHhaYllYdG5MZEN4czNyUXJ6TVpyc2F6U0NBN3ZvM1pxWkJWSDREa0dJSlctQXQ1eGl4R3BHUTU3WEVIdTZWeGdOT0hVcHNzcVp5NklibXIwalRQWTkxcHBOdjNlXy1nSDVR?oc=5",
+       "source": "CNBC",
+       "date": "2026-11-12T00:54:00+00:00"
       }
      ]
     },
@@ -629,9 +629,9 @@
      "symbol": "GOOGL",
      "name": "Alphabet",
      "quote": {
-      "price": 293.45001220703125,
-      "prev": 287.3800048828125,
-      "chg": 2.112188468607612,
+      "price": 293.45,
+      "prev": 288.8799,
+      "chg": 1.5820069170613626,
       "currency": "USD",
       "asof": "2026-11-11T00:00:00-05:00"
      },
@@ -644,9 +644,9 @@
       },
       {
        "title": "Nvidia and Broadcom Are Scaling AI Data Centers With This Growth Stock. Here's Why It Could Soar.",
-       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSlZ1SkVZUXRrakxHSE5MUWpVbHNrTkdUWHk4bnBIbjNiOEdTZEFIRmRNZ0xoQW1aYVcydENKUklBUWgxeXlxSkpJQzR3SGQ0NFpuZUVoZVJ4dU5fdnBPTzZFLVVJS2lhLXpqWVlsTV9GaXcxREdVSEE0Nkx6YWtFWThiRnN0WEFIOWlqLXFNbXJtQThpVHhJREtlNA?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-11-10T14:35:00+00:00"
+       "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOSnN6dGg1VFBGTG8tOERNcGV1MHlNM3MwOEE3UUt5dUtfX2tEcHpWZElqeEFTQkFFM3RJSmdYQmpKTWJWV1FXcmF4cm1sTFI4ZDJMLTgwbHNMdFhCQm95a1Z3aHUzWGlWWXBPTW9oOGl0QzQweGtlTmFNdUNyQ0hVWkFPVjlha0VkWHk2VC1icVE4NlJwcGcxVFlvVXZMSFdDRlV4bWk5WW1UTC1JZU5zSkE5SzdEelZuWkpvamp3U0xvZmM1LVRSdzFiOXMyOWkzcnBjX2ZBU0lNYkZWVnBTc1UyelhmTmE2Y1RPc1RpWG9qRHN5eF84ZDZVQXdBbnJ4U3dERFN5YkdSWDQ?oc=5",
+       "source": "The Globe and Mail",
+       "date": "2026-11-10T14:56:22+00:00"
       }
      ]
     },
@@ -654,9 +654,9 @@
      "symbol": "AMZN",
      "name": "Amazon",
      "quote": {
-      "price": 266.1700134277344,
-      "prev": 270.8699951171875,
-      "chg": -1.7351429741857327,
+      "price": 266.17,
+      "prev": 271.3015,
+      "chg": -1.8914381232687516,
       "currency": "USD",
       "asof": "2026-11-11T00:00:00-05:00"
      },
@@ -679,9 +679,9 @@
      "symbol": "META",
      "name": "Meta Platforms",
      "quote": {
-      "price": 628.77001953125,
-      "prev": 641.3900146484375,
-      "chg": -1.9676008090186548,
+      "price": 628.77,
+      "prev": 645.03,
+      "chg": -2.520812985442533,
       "currency": "USD",
       "asof": "2026-11-11T00:00:00-05:00"
      },
@@ -704,9 +704,9 @@
      "symbol": "TSLA",
      "name": "Tesla",
      "quote": {
-      "price": 390.8399963378906,
-      "prev": 379.7799987792969,
-      "chg": 2.912211699969247,
+      "price": 390.84,
+      "prev": 381.1,
+      "chg": 2.555759643138278,
       "currency": "USD",
       "asof": "2026-11-11T00:00:00-05:00"
      },
@@ -730,12 +730,6 @@
  ],
  "failed": [],
  "general_news": [
-  {
-   "title": "Tech Gains Boost Stocks as Bonds Slide on Fed Bets: Markets Wrap",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNFpBLVFiSmhuZGxNdjZ4WUE1eEZZVzlpcElqQ3FpX2hfRVVkaVdncm5Ic3J4TFdMVTVPODFqV1dYWTJORmx5c3lTMHg1ZUtiZml2ZUVOZm1WQnlCa2lKcUt3M0tjQUsyVVNxQlVySk5TbHRqZHczYVFDTnU0OGZjMjBBWUFqZ2JpNFNhb05nX01EU3dX?oc=5",
-   "source": "Bloomberg",
-   "date": "2026-11-11T21:19:31+00:00"
-  },
   {
    "title": "Market Outlook: Three Canadian stocks positioned for major projects",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZldpRXpiOWhKc3VlSUxoUHgyZXhRUzc0UGRtSHhGWGswRkRybTVjbW1HUFZpYjVyaTJDWllfN0kwT2hmV2ozUDZhaVl4MV8tUnZuOHBzWTBmWGdSOHJ2enFtRC1INUJtd1Z0azZIVHVDaDl1amFjM1p0ZG04Y1VqVE5JQURNZ0dhbUUwWVE4QzIxaWxDLWRPeEZXWEdvWWNYUGhiYzlkSkJWQmZoTzR4eW1nRENiYVRwYVpOaGdDOXNrRVU?oc=5",
@@ -765,6 +759,12 @@
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YeDdZV0pSc2Z3OUJrNkVhTjJDM1dCXzFjNWpBNFFQcHQxZlNHcE5GRnNlRkpodTR0ei1ja0p1NFdyTmJMUkFPRHNzMWwzSGJaT3c2dzJ1SXVPQQ?oc=5",
    "source": "E24",
    "date": "2026-11-11T15:26:09+00:00"
+  },
+  {
+   "title": "Is the Stock Market Going to Crash? Warren Buffett's Warning Is Hard to Ignore.",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNeFhKTURUejlwRW5kU3cwVmJ2NFdielFxaHhyZWowLXZqSkFzY2sxdmtGR25oZno4LW45a0JnNGFZYkZtSkNzSUxlWXdoOFBqd08wZlE0SlZ0U0pqTVRoUVlBYkpZS2VkNGNxb3h1S1ZfRlEtLUFyR1UzZzhhSjZBTGJFaDFDcUNjQ2VBdl9UM1Q4WkZyekQ4OEFuZnJyQWtYRFZfU0syX3JIdmlNNnRnTkNVV3hKVzdfQ3Atd1dMM0xmbjNmX1BDb3JlOTlIRFhHYW4tR3VlRldFUTdCM2IySzNlRE43MXlUWHU2cmk4N0VLLUJHSEZfdg?oc=5",
+   "source": "The Globe and Mail",
+   "date": "2026-11-11T10:56:22+00:00"
   },
   {
    "title": "Will the housing market crash due to the affordability crisis?",
