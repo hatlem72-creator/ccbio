@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-12T02:48:29.523306+00:00",
- "usdnok": 9.565549850463867,
+ "updated": "2026-11-12T03:50:48.143757+00:00",
+ "usdnok": 9.56624984741211,
  "btc": {
-  "price": 73772.28125,
+  "price": 73691.7734375,
   "prev": 73720.1171875,
-  "chg": 0.0707596033350466,
+  "chg": -0.03844778207271471,
   "currency": "USD",
   "asof": "2026-11-12T00:00:00+00:00"
  },
  "silver": {
-  "price": 51.44499969482422,
+  "price": 51.45000076293945,
   "prev": 51.10100173950195,
-  "chg": 0.6731726260003068,
+  "chg": 0.682959260205096,
   "currency": "USD",
   "asof": "2026-11-11T00:00:00-05:00"
  },
@@ -217,10 +217,10 @@
      },
      "news": [
       {
-       "title": "Form 8K Hecla Mining Comp For: 10 November By Investing.com",
-       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTmp6V2Voek5iTGptWjNaR0JSY09xenRaSERCd0ZadTZ2Nm9PMlJQUkx2TmN3ZUgyaUJuYTlHc2pSV29NMThta3pQTTgxNWR5WkpNeU5xTFF0RGJXVmJpRGpyRWRsNjIzcG1IVWYybV9VWjZRSjVtczVYZFBCbDVkUmNXdEdZLUlsTVY4N0FFNWxhVmdldFpWajY0ODU3RkltZGwzWg?oc=5",
-       "source": "Investing.com Canada",
-       "date": "2026-11-10T22:10:11+00:00"
+       "title": "Hecla Mining Company (HL) stock price, news, quote and history",
+       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5DVlpfQXUxNmJlRFFHLUdYdEo0cHVXeXQ3YzZjOTVmY3kyR0ctUXN4Smt2Ql83QS1sTFQyNUs4TlVLQVpEeVpJV3JvR2FOdUE?oc=5",
+       "source": "Yahoo Finance Singapore",
+       "date": "2026-11-11T02:19:20+00:00"
       },
       {
        "title": "Does Record Cash Flow Change The Bull Case For Hecla Mining Stock (HL)?",
@@ -242,16 +242,16 @@
      },
      "news": [
       {
-       "title": "Hycroft Mining Holding Corp (R5A.HM) stock price, news, quote and history",
-       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhR295RGg5Q3BIQ2xfcWNXX0FyS0l6NUtSTnltQXFCYjJqeHBEX1dzX1RYMjY0QUpDZGdYaTAxQ29YLW1IbVpHeFhFNlJIQjczYjhsdA?oc=5",
-       "source": "Yahoo Finance Singapore",
-       "date": "2026-11-07T14:54:08+00:00"
-      },
-      {
        "title": "Hycroft Stock In Focus After Wider Loss And Executive Changes",
        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWmpKdUpDcGx1Q20wbXYxeXl0aWJSdkpBTGRNcVlBc0hJVnJSS04xbk9mQkVuZ1g1OTZ3djJkVXl1UGl1N0VFWUxoRTRiTkFxVmdTOWFORlZzQWhBcnFfU0lOanNhd05lNE9GTWdDaVljQVNMUFZnWmdUN29ZMThJRl9pVkFpNTBtNEdoazVRc1VVbmpaV1hJcS1UUQ?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-11-07T07:11:51+00:00"
+      },
+      {
+       "title": "Hycroft Mining Holding Corp (R5A.HA) interactive stock chart",
+       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDel9nelpWM2FrcGljdXZhRDFnWVhXM3NPNi1NdWNpaFBHdE1LcXJ6RklkaHBvLVQzUExvd1lHajh5QVgwNkhaRTVHNG54Vmx5SkpMSjFZcnhlcTk5?oc=5",
+       "source": "Yahoo Finance UK",
+       "date": "2026-11-06T08:51:15+00:00"
       }
      ]
     },
@@ -342,16 +342,16 @@
      },
      "news": [
       {
+       "title": "Defiance Silver Corp. (DEF): Understanding Its High-Beta Profile and Exposure to Market Volatility",
+       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTE9WaUxXMWtiZ1QwM0ZBUEJnT0tURGlrV1ItSjR1eUp5VDNnd0EwdlJDZnY5ZUR6U3plY2htX1BMMC1UQTRpVnoxeVlQUklHU1JJSGN2andMMFJLV1U3QmlLQzVGcXNINWV5cUNpVnZDQTJXTkhQUjRFMzV5LWtaUnc3SEF3X2NNSE9ZRWhfbkw1aFM5OWpSeVBVQ1NfZ1djdzN3VkdvaGRMODRMM1RMd2h0UkRPTEZPcW5HSlptSVBIbEk?oc=5",
+       "source": "kalkine.ca",
+       "date": "2026-11-10T07:53:00+00:00"
+      },
+      {
        "title": "Why Is Defiance Silver (TSXV:DEF) Down 2.33% at CAD 0.105 With an RSI of 25.51?",
        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcFgxX19XRGItYk9RSGlJWHNlaFk1NFdHd1dFUjF5Yk9BUmprYS1ORmVpUjJNd1NySmdQRUwydHZoR3RKOHQzak0zdVBXSng4NmROa2ZnRWVYRmR0TUxucmFGNjM0ZDdCcVBFVF92WjlWQ0RFbjhmQWpEbHBWWklQWWdxRU9GTHZwTEZOVURiNWdqZ2VlZ3l0LWVPcmxVX202R1hOSA?oc=5",
        "source": "kalkine.ca",
        "date": "2026-11-04T12:59:00+00:00"
-      },
-      {
-       "title": "Defiance Silver Corp.: Defiance Silver San Acacio Drilling Returns High Grade Silver; Additional Holes Pending from Lucita Drilling",
-       "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPelpFQ3ZQTkVBaWdVc0UyZ3g3MGNkUWRPVDM3ekV0VUh6TjdmZV9IODRvdkhORENZSFhGUzM2ZWpQa0szLXBfSEt5UUc4TnRGcUFYekZQOTI3V3JDUlBscXVQd1BPRkNzdk1nZU5tQTZTaDFmNUJXSDUwN2dfVFdmM2dLaWwzaGctTzRNNEFPbEx6cFJ1SmQ4UFZibkQ1UWdjRm9CdWNxSl91WUViNEwzTV95cEtMS0hQbHNnRTg4ZWVCU0NCZTFNUFBIODc0VkxIZWVVd2s3UDE1bEt3QlYtUVZVb2RjLUpaNjN0VjlQaVljUkFCQlQxaUFXRHAtTkFjYTBmV0Q3Z1d1bjF4cXM4Sm9PSXJkZk5PTjJmZDVKNlFocFlQ?oc=5",
-       "source": "FinanzNachrichten.de",
-       "date": "2026-09-09T07:00:00+00:00"
       }
      ]
     },
@@ -512,9 +512,9 @@
      "symbol": "GC=F",
      "name": "Gold (USD/oz)",
      "quote": {
-      "price": 3985.0,
+      "price": 3983.39990234375,
       "prev": 4030.199951171875,
-      "chg": -1.1215312321844473,
+      "chg": -1.161233918791471,
       "currency": "USD",
       "asof": "2026-11-11T00:00:00-05:00"
      },
@@ -536,9 +536,9 @@
      "symbol": "USDNOK=X",
      "name": "USD/NOK",
      "quote": {
-      "price": 9.565549850463867,
+      "price": 9.56624984741211,
       "prev": 9.50432014465332,
-      "chg": 0.6442302540176081,
+      "chg": 0.6515952936794411,
       "currency": "NOK",
       "asof": "2026-11-12T00:00:00+00:00"
      },
@@ -587,16 +587,16 @@
      },
      "news": [
       {
+       "title": "Anthropic Now Makes Its Own Spreadsheet Software. Here's What I'd Do With Microsoft Stock.",
+       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPS3lsbk5PNHd3d2swVERWUUJGX3liTWpvdDhRVFJ1amdzZFhLZC1yUGJ6SHUzdWFMTnF1YlNjQ1NyRElJYlpvcmVXeFJ6TjgxTmxtOHBWMUJiYUVtZmJoRV9fbU5qaEYxU2FFQlRXX3Rnb2xwWm00Vm00aFNoYk41U21WXzgxRmg5ODNrWjQ3SXFySHJ4cE5BUGNZQ3NHMlN2?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-11-12T03:27:00+00:00"
+      },
+      {
        "title": "Evercore Plays Down Microsoft 365 Disruption Fears After Anthropic\u2019s Claude Sheets Launch \u2013 \u2018Not Yet A Substitute For Excel\u2019",
        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZXBUdnhrRGh1bmFtajNWcGo1YmZva2otVEYtTWx6S0NHdTduNV9FLUotUDVROXk4TklJOW1xbGpnYkxSRHhfbjRYem5lY0w0VHZ5R2F2Z01EMmtlRkFFS3M2a1F3T2NRM3JPcmZPQWVndFREUGZ6T1phMUtYczJ0RVpxdWV6ZVNObUNsaHFaYTFMZUNadVdTcDM1UlhfTlk?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-11-11T17:33:48+00:00"
-      },
-      {
-       "title": "Microsoft Stocks Decline 2.5% as $1 Billion Anthropic Stake Tests Partner-Rival Balance",
-       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd2NEVEtyeThmMlBlejQ5YS0xdkVsTnhiczZRSkY2VUlWSFc1ZmhNek0tTVU5THZvZjdGbW5JWF9rSWFkanM3WkxyTlp6NDhWTHJwcGlzWFdGLXlIcXBOcndpVDlOQTZCanZOZ2VsNFdkMUdKOXZhUDlrS1lNUE9OakVMRVZnQVozTkdtYkFEM3Z3SnBQcjlFSw?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-11-11T16:54:50+00:00"
       }
      ]
     },
@@ -643,10 +643,10 @@
        "date": "2026-11-11T13:43:49+00:00"
       },
       {
-       "title": "Nvidia and Broadcom Are Scaling AI Data Centers With This Growth Stock. Here's Why It Could Soar.",
-       "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOSnN6dGg1VFBGTG8tOERNcGV1MHlNM3MwOEE3UUt5dUtfX2tEcHpWZElqeEFTQkFFM3RJSmdYQmpKTWJWV1FXcmF4cm1sTFI4ZDJMLTgwbHNMdFhCQm95a1Z3aHUzWGlWWXBPTW9oOGl0QzQweGtlTmFNdUNyQ0hVWkFPVjlha0VkWHk2VC1icVE4NlJwcGcxVFlvVXZMSFdDRlV4bWk5WW1UTC1JZU5zSkE5SzdEelZuWkpvamp3U0xvZmM1LVRSdzFiOXMyOWkzcnBjX2ZBU0lNYkZWVnBTc1UyelhmTmE2Y1RPc1RpWG9qRHN5eF84ZDZVQXdBbnJ4U3dERFN5YkdSWDQ?oc=5",
-       "source": "The Globe and Mail",
-       "date": "2026-11-10T14:56:22+00:00"
+       "title": "Nvidia, Alphabet, and Micron Just Agreed to Buy $26 Billion of Stock in One of Their Biggest Customers",
+       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMjFLeTI3UDd6aTRDcTNHcGpvenN2VXMyd1FVempYWGZpV3hkcDFtR1N0UnVZWXdmMjhMdlVjN1h6TV9kMHlhZjgxdm14OXFvQkFxM2VDYndEM0pmVVJJX3JtVnlrRnVpd3JPM2UyQjZOSl9xdTVtSzN2YUVoSElzUlFGbDJWa3RwY1BDdURTUnJ2Q3dveUdQTGUxdU05bDVlSUdiUTNLc1JOeC1RdE9zZklFVi1vWWVxeWx4T3V6MTNMbDJUdWVfczB0Ti1FRjBidzBrVnB2OTN4QQ?oc=5",
+       "source": "The Motley Fool",
+       "date": "2026-11-10T15:03:00+00:00"
       }
      ]
     },
@@ -743,16 +743,16 @@
    "date": "2026-11-11T19:33:38+00:00"
   },
   {
+   "title": "Canadian Stock Market Outlook: Rising Job Losses, Inflation and Economic Pressures- 3 Stocks Positioned to Outperform",
+   "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOTkt1aFZ1QTh0ZVotX29KaWJURG4xTWF3STdjeVZQbHZHTEV5eUNYajNZTzFXbzhISWxHQlNLUEZ3SXhvVi1fYWY3dGVWUGNtN3MzU1lUeXBuY2lwZk1xa3FxUEduckZQRWdoYUlMSzJIMHNoLVo3SjI4NERVbmIzRmpLSHlvcjlhWi00ZjFTWnByejZKVUEzV2pObDY4T3h1bU40RUpMNGh0WXliaEVtSTR2ZDVCRXRfRTZibXEzWm51TnRwQUlJeGtJeVVSYnNObzA2eE42a1ZxQ0tmUUg0djZDTGtTVS1lSnF4Q0xqb29mSnVBTEtZaWt6Qjd6dHlvcXk5WERab0xtZWQxWTA3UENmeUhFQmxDbllJOXVVS0tpWWxMZ2V3?oc=5",
+   "source": "The Globe and Mail",
+   "date": "2026-11-11T17:22:25+00:00"
+  },
+  {
    "title": "ALC's Q3 Earnings Beat, Revenues Miss, '26 Outlook Narrows, Stock Down",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYkt5OThHOUd1cE1NN3dQT0hneUV5bnl0cUhRenQtREtoT0RIclJrOFAxd2NGdGc0MUdzQmNPVHBDVFY5M1RaV1NocVktSXpSSXI1enVOTmN3Y0luaFd4V1o0d1U4VzJndklxZi1hSV9PSXB4djVGSXFYMnZPZDU1WllKSW9GLS1xdENVcVgtRXF3aFFpR0E?oc=5",
    "source": "Yahoo Finance",
    "date": "2026-11-11T16:37:00+00:00"
-  },
-  {
-   "title": "Fortinet Raises 2026 Outlook After Strong Q3: Time to Hold the Stock?",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUjlNMk9FRHU1cFdTV3Ewa3BUTVFILTNQbW96VUlwaUY2bXpIMWR0QndPUU43cWdKXzVpVU9OcXVjQ29meDZhcjZyOEZyWDluaTg3RFNhQjdLOEk1NnpHSFVYUGplS2JWV2o1c2tSNkdjUlNGUkU2Sloxakw2ZG44RVdjTFlVZUFuSEhHdHdMWUZuNVFSOFJ5QUV6cDZfSWtPZXc?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-11T16:26:00+00:00"
   },
   {
    "title": "Help build the legal support Nammo needs for what comes next",
