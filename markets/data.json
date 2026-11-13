@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-13T21:43:54.977586+00:00",
- "usdnok": 9.56624984741211,
+ "updated": "2026-11-13T22:40:44.837384+00:00",
+ "usdnok": 9.55972957611084,
  "btc": {
-  "price": 68044.1484375,
+  "price": 68275.640625,
   "prev": 71342.96875,
-  "chg": -4.623889880528697,
+  "chg": -4.299411951510635,
   "currency": "USD",
   "asof": "2026-11-13T00:00:00+00:00"
  },
  "silver": {
-  "price": 48.459999084472656,
+  "price": 48.650001525878906,
   "prev": 49.97200012207031,
-  "chg": -3.0256964578247447,
+  "chg": -2.6454786539703457,
   "currency": "USD",
   "asof": "2026-11-13T00:00:00-05:00"
  },
@@ -32,12 +32,6 @@
      },
      "news": [
       {
-       "title": "Kongsberg Maritime ASA (KMAR.OL) stock price, news, quote and history",
-       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tMm5HeU1KcjJpSWl2MEpzWU1LVWRIS3EzbjI5ZGpXek94X2N2a3VuZW0tck5FS2JSVHB0eUpMWFNVa1ZMZDNfOXdub1Z1bFcwWXgxZlhn?oc=5",
-       "source": "Yahoo Finance UK",
-       "date": "2026-11-12T18:57:40+00:00"
-      },
-      {
        "title": "Kongsberg Gruppen ASA (0F08.L) Seasonal returns chart",
        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE44R3gyWXJkdzg2aVAtYlBjcU9XVWpEOXJSTjRVVXFHNmhQU0swQjdDdHlhM3hyTXUzWUFqMUppaVc3YVdBdlV4NFpkUnFpcnVUSDFYSDdLaXZoNHAwMEZQSkxDRlc?oc=5",
        "source": "Yahoo Finance Australia",
@@ -54,6 +48,12 @@
        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQR3FOZmVUVEhhTWUzcksxaUw5alB2Z1J0bUFLSElVYzBueXdUX2lQNVhZUEFGU3RBUWtXUlF3NENTTjRGeEJlSXRYX2hfRFhueEhsM19tV0hhWWxORldxV1NER3oxUkRwaUU2WW1EVEI0VTFXN0kxcVNmQ3ZMal9mRDZVWTVvWDR0Vnh1eHVpbzdmaHpPV1BoUmo3X0lKSFN3SGc0cEJjV01LNkdxMjlQZXhycXpfNkl0cGViUkRRU3NzVjV3aGVGY1FjamN1Qno3a3IyZ040dw?oc=5",
        "source": "www.marketscreener.com",
        "date": "2026-10-30T07:55:20+00:00"
+      },
+      {
+       "title": "KONGSBERG secures US government contract for underwater capabilities",
+       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa0J0WVlGSWkwZ3VHR2t3cWNqN1Q0M2ZmX0tqdmJhUzZrQkxwNVljUWFvMG1xcF8zUVpFa1EyTWNNVFhhMmRfNFdTVVp6R2JpaDQtdXg2UDMxMzRRV1JUSEQwNDlFZVFQTW80SGVjZ2hQdGtwWVd6bVpfOXJoSFhGdzEwOU5YWVhxTDU3d1hUU2RSWl9PUlF0QkF1RERRa3otTWNGVzN3RW5RYW5kclVnMWpLVC0?oc=5",
+       "source": "Naval News",
+       "date": "2026-10-30T07:00:00+00:00"
       }
      ]
     },
@@ -69,28 +69,28 @@
      },
      "news": [
       {
+       "title": "Kongsberg Maritime ASA (Z4Q.DU) stock price, news, quote and history",
+       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE03MjZjRUpqdVg1SXUzNUxfZkw5Tl9yT0JuRW56bEtOcDY0VC1qSG5iZFg3eDYyWVZQLXEzcmZPcUsyRS1YREJERlRJMWsxLThObHdFazRHZXBhZG5NU2pySndkQzA?oc=5",
+       "source": "Yahoo Finance UK",
+       "date": "2026-11-12T07:45:29+00:00"
+      },
+      {
        "title": "Kongsberg Maritime ASA (Z4Q.DU) latest press releases and corporate news",
        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPWHE5SHZxNDEyTnNXV3V2U3p4dmZYSTJQTGtjd29yN0w5QTlDb0RHUUtVSUxLcEQ3aUZFbnM3VndxLUE3cDRiZXJIOUlYOVBSeTFTOHpjQko5VnVzR21nN0FXczhGWHBi?oc=5",
        "source": "Yahoo Finance UK",
        "date": "2026-11-12T06:39:52+00:00"
       },
       {
-       "title": "Balaena And Kongsberg Maritime Sign MoU To Advance Arctic Hunter USV Program",
-       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUng5b0R3bnZ6Uy1zdVlRRkk0SUl3LTZDbUpNRUVqR2dXMS1IeVRubUdMZ21tOFVnZ2lGS1RfVWxxZ2t0cXRaQ01FOHhRbWp3cWp5OHpZTlg4VXJkSXhQVF9vTFBTOTZiTzBaMHVoeEFyQkxYVlVObEtDR1BaejRIR2l1LXR3ZDJ0QkVuYWhkQzVYUzdPR3BFVGx0STIzQWd1WTVSOFFHUVNwTmlKQ0lFNE5n?oc=5",
-       "source": "Ocean News & Technology",
-       "date": "2026-11-11T16:29:53+00:00"
-      },
-      {
-       "title": "Balaena, Kongsberg Team Up to Bring Arctic Hunter USV to Royal Navy",
-       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53c0xRbnQ5dEI5SGZMZW55X1FzaV90eEUyN2x6YWxNa0JxNEFHQ0xkajl6WklfekJhczd2TGJJRE4zV0o1LWtXZ1ZRYjRfVzFnalBVeVJFek0yQXFHWVRkWDBMczN0cFR2a0lNWjA0WHlHUURPSWROTEp0VG1sVlE?oc=5",
-       "source": "MarineLink",
-       "date": "2026-11-11T12:54:59+00:00"
-      },
-      {
        "title": "Thales and Kongsberg join forces on Royal Navy\u2019s Type 92 USV",
        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ21HWktNRnAzdl9Qa2U0OWFVZzd6a0xoS3U3ZlBxc2tkNVI2T29EMDFRZE5WNGFfeTB6TGQweTFvekQ3S2lTN29vaWNKTXozUDZ3RXpYY05kMFE3c2hvbWw2OXNEdGxDaGpzSG9lT2xpRG1TTWFzeXgxbzAtR1hnV2otT21qRm1tRGRRR0twZXc5aGxTN0l5U1pHLVBBdw?oc=5",
        "source": "NavalToday",
        "date": "2026-11-11T10:39:30+00:00"
+      },
+      {
+       "title": "Equinor stock advances as Kongsberg wins Wisting systems contract",
+       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObVVjaEJKcGhsMUU3U1hnMlU3VzUyLVN2eUtqVlZwS2NzSG9TbkFRNTZUVUF4WmxMQ2s5d1RIYVhCSVdyODNzQjF0WFowNjhiM1o1X0xKYWUyeTFDdHRJVWpLSFNzREdZSk9ROEtHYnd2Qnp5ck1OMWxRaWxwaV9Pb1diU04zdnZaaExTMl9QNlhuOEdUNUU2SnJCRzFuTE9ONTUtX2RDQWRITUtxT3BaeUFwb1c1YjhxZk1kNWZCcFZEQVMzZGI4?oc=5",
+       "source": "ad-hoc-news.de",
+       "date": "2026-11-11T09:17:13+00:00"
       }
      ]
     }
@@ -304,10 +304,10 @@
        "date": "2026-11-13T11:04:36+00:00"
       },
       {
-       "title": "Coeur Mining, Inc. (CDM1.DE) Stock Price, News, Quote & History",
-       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0OEUxMTE1a015Znk4VnZNWE15Q1ZaUzVHd1NJT3lBcFpHM3BKdnpGNXBPUVNSSzhsWEs1TlpmbW5hMjJVNk5kMzQxVzllS1pEd09neklR?oc=5",
-       "source": "Yahoo! Finance Canada",
-       "date": "2026-11-10T08:07:25+00:00"
+       "title": "How Did the New Gold Deal Drive a Revenue Surge at Coeur Mining in Q3?",
+       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVFQtSFBmOUdybmllV1NiOVNkeWl5TWhFdUFfMTQ3WFVwa3drTExiT0VrSGpJQ3A5ZzlZYXpFRDRMVEFCSlJaYXJVVWhIZ1pQUWpjWnZkamtTM0tUemZMQ0RfQ244SEZ1NUN2aFlmeWF2MVRJUkZMdUw5ZnMwZ1VSMmJBMzhJd2NOb0ZhanJEZ1lzQXVtZzdyM1lISkpXUVFlQVhFMlpTcVl2cFdyTkZTc1dWV3g5ZXY5NTlfeW9R?oc=5",
+       "source": "Kalkine Media",
+       "date": "2026-11-10T08:59:00+00:00"
       }
      ]
     },
@@ -518,9 +518,9 @@
      "symbol": "GC=F",
      "name": "Gold (USD/oz)",
      "quote": {
-      "price": 3876.39990234375,
+      "price": 3887.60009765625,
       "prev": 3885.300048828125,
-      "chg": -0.22907230773745457,
+      "chg": 0.05919874396365099,
       "currency": "USD",
       "asof": "2026-11-13T00:00:00-05:00"
      },
@@ -542,9 +542,9 @@
      "symbol": "USDNOK=X",
      "name": "USD/NOK",
      "quote": {
-      "price": 9.56624984741211,
+      "price": 9.55972957611084,
       "prev": 9.552909851074219,
-      "chg": 0.13964327671731613,
+      "chg": 0.07138898139873451,
       "currency": "NOK",
       "asof": "2026-11-13T00:00:00+00:00"
      },
@@ -699,10 +699,10 @@
        "date": "2026-11-13T08:32:33+00:00"
       },
       {
-       "title": "Meta Platforms (META) COO sells shares at $631.03 under a preset trading plan.",
-       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLWxqRVA2ZWNtQjhmS1J0NTNtYVRTTHM0M2xxOEFrVjc1cnJwUHEycGRJdk1KaEw4bThWMVBYU2VkaUpLd0o1bko4eENEVnZTYV9vdnFJS3ZSaU1yZ0FMbTlSb2d5TDN1NGV0MDV3Ui1PRUF6Qm9Cci1SemRKNHZ3bURtM2U3MG5Jb1JmVkV3c1g2N0FBNkpQUms2cWtpeHRqSkhqdlhzMTQ5b3dGVDgzQVdR?oc=5",
-       "source": "Stock Titan",
-       "date": "2026-11-12T23:40:31+00:00"
+       "title": "Meta Platforms, Inc. $META Stock: Carnegie Lake Advisors LLC Grows Stake",
+       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVlFCM0tlT2w2SEpjazMzOVRsM0oxVFNHYzgwelNuZUVvdTJCNmNLZkt4QzExVDRFTlNaWlZRTUtCRFgyY3VZOWZHTW8tYk1jODF0b01yRDdjaFByVms3Z1UyUnBkZ3lqalJvQjhTcmpVNHBiUkx6NFVVMW9KUHRXUFBLWmxRM1hOcmVmWmlmeFFCMTNtQXFUUllJbE9kdEQ1V2JYSU5oSTZsLTcwbVJOZFJqMnVPTDd3MVlmTG93MWFKdXNheUJaNQ?oc=5",
+       "source": "MarketBeat",
+       "date": "2026-11-13T08:32:33+00:00"
       }
      ]
     },
@@ -718,16 +718,16 @@
      },
      "news": [
       {
+       "title": "Here\u2019s What Needs to Happen for Tesla\u2019s Bull Case to Materialize and Push Past $500 Next Year",
+       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT0tMQWRQUmUzN0dkV3BZZjNpOUlnVWNSWkZiM0RHMXFiVVppZjE2QVAtVElKc3dZajR1Q0daaG1XQUNvVGRqcGZjaGdSRG52Z2Vfdmo3MlBmaExUSXp3ZlZ1VEQ1VjR0ZnFmTjl4eG1JVU1aYTlZWkdsOUs1c014N21ENzFPLUhtUWZxYWcyRmxLSWpmQWE5SA?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-11-13T15:45:56+00:00"
+      },
+      {
        "title": "1 Million Reasons to Buy the Dip in Tesla Stock (You Can Thank Terafab)",
        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONF9kdGhSZFRmQ1pLX29uVmZmTFA3VWEwWE9tYmNjRVhOcWRjUVM3dWt5X0ZYSFpEem5sbHBvekstekxObXRvWGpMMWhhTGNndUhnMGZONFF6dUVjVTVJdTdHT3E3QllFSk12OUh1NkRkTG1NMVZMekxXaGJvZ0NxcWE3MDQ3aDI3RGdpbmtSZnc1MkdN?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-11-13T14:30:04+00:00"
-      },
-      {
-       "title": "Why Tesla Stock Is Behaving Like a Safe Haven",
-       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE85WGY1dzc4WExfaThoS2I3eVlCTVRaVk5vcmpUbVdmOGVBX3RDUzB2V2Y2TDRUcG5IdnpsTzJUYnhHWkJ2Zm9mSUxnUEtMMEhKTTU1OFlxdTdjZ2NJRTdzNVlNMGdxYVVNZ3hDZWNMVFJRclFCaTF5clhB?oc=5",
-       "source": "Barron's",
-       "date": "2026-11-13T12:40:00+00:00"
       }
      ]
     }
@@ -779,22 +779,16 @@
    "date": "2026-11-13T12:41:58+00:00"
   },
   {
-   "title": "Why is AF Gruppen stock climbing today?",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORV9BazY3ZW9wN1RhcDRtdGJCMERBb2NTNHFBanh0M2U4N1FFajJIT0cxcnF5anYyMTFGbFpwSlVLWGoxWWdvaC1zSm9tTk5BRmF2cmN0Q1JFZERHNHdTZVFhVk44ZnNpNzYwd3g0R2p0d3FlaEVqVDVDTncwM2R4YnFyZU5SWGFGRUhyRkJlRkM2Qm8tRk8tTU1BVGFJbDdic3c?oc=5",
-   "source": "Investing.com",
-   "date": "2026-11-13T08:33:59+00:00"
+   "title": "Why is AF Gruppen stock climbing today? By Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUkxQZFVaU0pKTUV0YXBWUVlTbUh5bERVUU9nUENMNFgzWnRRYUUtb0RpZDhrNGxfdkRETmVkdWFsLUE1SV9xRHE2Xy1ER0lHUklLOVBZNWNTMG1zUXFYMzBnYWI0eTFlbW9iUTBaQTV1b21YcjR1TE9tYjZISVpxMlNVWHp1ZF9QQXFsbWJ5VkZQTTB6SDZERHZRc2dMYnMt?oc=5",
+   "source": "Investing.com India",
+   "date": "2026-11-13T08:38:40+00:00"
   },
   {
    "title": "If an AI Bubble Triggers a Bear Market, History Says This Is the Best Move Investors Can Make",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSXlkOGl4VnhReTlKeXBDeEVPX1FpS29ucllfbHVncTByYnYwWkZINko5SC1yaVE5NWtyQVltdDhBcDF4YUNkMjJMcDJlUnZWQmJmam5wYlEzZDFMZGVNdEZ3X2h6QjdxcENHZ1N5Wm1EdXloalNIekx0OWZ5OWk4MzB4R1UwSTdhNzhFUldWYmEyTTd0dUxFU21PSQ?oc=5",
    "source": "Yahoo Finance",
    "date": "2026-11-13T04:20:00+00:00"
-  },
-  {
-   "title": "The Stock Market Is At A Record Valuation, But That Isn't A Recession Signal (SPY)",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVHpNQzVoa0NfbGRmQ29PakExUnVQTGdmNzItNE5DdlVoeFA4NmQ4TFRKcGw0c2x5ZWM5M0FwRWR3YXZKSGlMUWw3NEUwQ3dUcEJuY0RfdlRDUlRiVkx4WTRWZXJybm1JcnFocW1yWmhwWnYtWFU2MHdiLWZGcDV3TTR1OGFHM1JOdnJ0UndCUWstaXJZdlQzNWwtdzAwX0VkaWwwSUItWnYwTjA?oc=5",
-   "source": "Seeking Alpha",
-   "date": "2026-11-12T13:25:00+00:00"
   },
   {
    "title": "Is the Stock Market Going to Crash? Warren Buffett's Warning Is Hard to Ignore.",
@@ -807,6 +801,12 @@
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVFI4Mm5VdmFiUDVSem1lNndiRzJqNlExbm9GWU1NUkRxSmlJUHQyM1FsM3doQml2bFJRblh1RmhMaF9yZ1RfYjMzMkFXZGVaeTFLcF9sZHloR0tVUVNXOGxlQmZSNWV6VUlEeUthaTQxNmMyMGs3dUVvZVU1LVJIM08zbnIyaFBhckZlN3dB?oc=5",
    "source": "Yahoo Finance",
    "date": "2026-11-11T09:46:00+00:00"
+  },
+  {
+   "title": "Will the housing market crash due to the affordability crisis?",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZlRndE5BblFlbTZLeTNIQi1OeDB0M0FYQ3pvMGtwcXEzVFo2ejdQMGllOHZGRjJUUUZnZ3VqX3hxZHV0LTN5YzBoc1VkLUJWdFc2VGFua0dPbXFjVGZ1SzF4UTdrQ2puVFpacFZiWEFyemw3MkZvMU01dmtmUHMzU0VNejUydTZidzFYU1BSMFlkNjlZNmMxcFRnMzZNOVM1Mi0wRVM3T0RLMFhDaWZrV0dOeUtFc1Z2aFR0ZEo3TEZKejdTTVBvcnJILUxNcktQUEJF?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-10T16:34:59+00:00"
   }
  ]
 }
