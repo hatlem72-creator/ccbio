@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-13T02:43:28.438531+00:00",
- "usdnok": 9.558449745178223,
+ "updated": "2026-11-13T03:49:27.007635+00:00",
+ "usdnok": 9.556750297546387,
  "btc": {
-  "price": 70247.90625,
+  "price": 68984.9375,
   "prev": 73964.46875,
-  "chg": -5.024794421983869,
+  "chg": -6.732328825115774,
   "currency": "USD",
   "asof": "2026-11-13T00:00:00+00:00"
  },
  "silver": {
-  "price": 50.540000915527344,
+  "price": 50.494998931884766,
   "prev": 51.88100051879883,
-  "chg": -2.5847604900865018,
+  "chg": -2.671501268391796,
   "currency": "USD",
   "asof": "2026-11-12T00:00:00-05:00"
  },
@@ -38,22 +38,22 @@
        "date": "2026-11-12T13:45:36+00:00"
       },
       {
-       "title": "Kongsberg Gruppen ASA (0F08.L) Seasonal returns chart",
-       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE44R3gyWXJkdzg2aVAtYlBjcU9XVWpEOXJSTjRVVXFHNmhQU0swQjdDdHlhM3hyTXUzWUFqMUppaVc3YVdBdlV4NFpkUnFpcnVUSDFYSDdLaXZoNHAwMEZQSkxDRlc?oc=5",
-       "source": "Yahoo Finance Australia",
-       "date": "2026-11-06T00:02:54+00:00"
+       "title": "Kongsberg Gruppen ASA (KOGO.OL) cash flow",
+       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9IZm1mM0poU0QwZTFEMi0yWWR0U25HMDctXzhGWUpEM1daYk03SWdBMXE4N19ISXNabWcyUEtwV1lsaU5QZVFRVlhTRkI4MmVjRUdsQ2RPRlUyOGNwNklONmlUMA?oc=5",
+       "source": "Yahoo Finance UK",
+       "date": "2026-11-06T21:12:13+00:00"
+      },
+      {
+       "title": "Kongsberg Gruppen ASA (0F08.IL) Seasonal returns chart",
+       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDMGxVTkpsT0N0T3NteFdzbm1mUnFad2ZJNE5lak9ma2tnY0l2UDBnNTZuTzFRQ2s3X255bXBKUnNMbkZJcjlYMlFqX25xRmNpYUdCa2dheUVoWU5jWEVWc3VqOXh0UQ?oc=5",
+       "source": "Yahoo Finance Singapore",
+       "date": "2026-11-05T01:38:43+00:00"
       },
       {
        "title": "Kongsberg Gruppen ASA 2026 Q3 - Results - Earnings Call Presentation (OTCMKTS:KBGGY) 2026-11-01",
        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWWM5aV9PbGNsUFJoT3hqNTduOFhNbUpZcUtOVC1EWm8zVHNlSjlHSGZ2cExNTkNIejVXSTVRUFh0eWdPYlcyUFpxUTZmMjJSaXh2QlZ2dFI2OEQtR2djVUdxdElqTGQzTTJNTDBueEJQbDkwTDNYaVc4aXZnUHZmZUhjVDlncjRTY2Z2cnlfQXZjWk15ZlRwZDhuOUxsYVg5STdkZk1HMTQ?oc=5",
        "source": "Seeking Alpha",
        "date": "2026-11-01T07:00:00+00:00"
-      },
-      {
-       "title": "SB1 Markets raises its price target for Kongsberg Gruppen to NOK 425 (400), reiterates Buy",
-       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQR3FOZmVUVEhhTWUzcksxaUw5alB2Z1J0bUFLSElVYzBueXdUX2lQNVhZUEFGU3RBUWtXUlF3NENTTjRGeEJlSXRYX2hfRFhueEhsM19tV0hhWWxORldxV1NER3oxUkRwaUU2WW1EVEI0VTFXN0kxcVNmQ3ZMal9mRDZVWTVvWDR0Vnh1eHVpbzdmaHpPV1BoUmo3X0lKSFN3SGc0cEJjV01LNkdxMjlQZXhycXpfNkl0cGViUkRRU3NzVjV3aGVGY1FjamN1Qno3a3IyZ040dw?oc=5",
-       "source": "www.marketscreener.com",
-       "date": "2026-10-30T07:55:20+00:00"
       }
      ]
     },
@@ -68,12 +68,6 @@
       "asof": "2026-11-12T00:00:00+01:00"
      },
      "news": [
-      {
-       "title": "Thales and Kongsberg join forces on Royal Navy\u2019s Type 92 USV",
-       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ21HWktNRnAzdl9Qa2U0OWFVZzd6a0xoS3U3ZlBxc2tkNVI2T29EMDFRZE5WNGFfeTB6TGQweTFvekQ3S2lTN29vaWNKTXozUDZ3RXpYY05kMFE3c2hvbWw2OXNEdGxDaGpzSG9lT2xpRG1TTWFzeXgxbzAtR1hnV2otT21qRm1tRGRRR0twZXc5aGxTN0l5U1pHLVBBdw?oc=5",
-       "source": "NavalToday",
-       "date": "2026-11-11T10:39:30+00:00"
-      },
       {
        "title": "Equinor stock advances as Kongsberg wins Wisting systems contract",
        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObVVjaEJKcGhsMUU3U1hnMlU3VzUyLVN2eUtqVlZwS2NzSG9TbkFRNTZUVUF4WmxMQ2s5d1RIYVhCSVdyODNzQjF0WFowNjhiM1o1X0xKYWUyeTFDdHRJVWpLSFNzREdZSk9ROEtHYnd2Qnp5ck1OMWxRaWxwaV9Pb1diU04zdnZaaExTMl9QNlhuOEdUNUU2SnJCRzFuTE9ONTUtX2RDQWRITUtxT3BaeUFwb1c1YjhxZk1kNWZCcFZEQVMzZGI4?oc=5",
@@ -91,6 +85,12 @@
        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcmVEbXRPbzNKX0trOUlvOFJVVFFBcU9pYmFwY29IR09Sb2ZfNTBnU0hVNUZEdkt6TDhYbkVVRVlJYXd1TFdlRXpBUkpvZDM4RWVDUDZMem5mVm9fdGRTeGh6VmtnNnZ0NGxHcE4tTjlhQXQ2czBodnJRYUoybWg5QTlBWUF3UVlQVDBvN2dHTVpFVExpRmlJM3kwTmcyOUFXNDV5X0hxb0NvX1ZrNDV0aTN6UTNkLXBDRmZaWFZn?oc=5",
        "source": "Shephard Media",
        "date": "2026-11-11T08:00:00+00:00"
+      },
+      {
+       "title": "Thales, Kongsberg Partner on Anti-Submarine Warfare Solution for Royal Navy\u2019s Type 92 Drone",
+       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMHB5bGp2THd2UXVvb2VzZUFpM3hONVpQQk9NbG9hYkxGY3VNdFJEMkNhMVJuMVNsY2psbTBfbmlWRW4wamxHbndWNENEanppMS1CRjlhaGluM3JLdVR5SVRtRFZqQUh0d1JKU1RURTNYRHRkc3VHcEJaeVBLQ3RCUmQ4MHU0TktWTDhMNzBid2ZjM05nNFl1SHR2VzR3VHFfc1d2TWR4NkhNUnF6X0pST2JleDJfUGh2bk00Wi14VklEQUFwZUgyRHZn?oc=5",
+       "source": "Defense Mirror",
+       "date": "2026-11-11T07:04:57+00:00"
       }
      ]
     }
@@ -512,9 +512,9 @@
      "symbol": "GC=F",
      "name": "Gold (USD/oz)",
      "quote": {
-      "price": 3914.199951171875,
+      "price": 3926.39990234375,
       "prev": 4000.5,
-      "chg": -2.1572315667572783,
+      "chg": -1.8522709075428079,
       "currency": "USD",
       "asof": "2026-11-12T00:00:00-05:00"
      },
@@ -536,9 +536,9 @@
      "symbol": "USDNOK=X",
      "name": "USD/NOK",
      "quote": {
-      "price": 9.558549880981445,
+      "price": 9.556750297546387,
       "prev": 9.552909851074219,
-      "chg": 0.05903991553517507,
+      "chg": 0.040201849824184066,
       "currency": "NOK",
       "asof": "2026-11-13T00:00:00+00:00"
      },
@@ -568,10 +568,10 @@
        "date": "2026-11-12T21:11:22+00:00"
       },
       {
-       "title": "Apple Inc. (AAPL) stock price, news, quote and history",
-       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RekFrNTdjZWx5T0FxTHdGWE9RWlJEakdYdWtNRkJNOGdka3FSdkdwWEgzYUgtanJUb0llSVdZdW5QTE9Mb3pPUGI0LV9jcXpvRVE?oc=5",
-       "source": "Yahoo Finance UK",
-       "date": "2026-11-12T20:40:20+00:00"
+       "title": "KeyBanc reiterates Apple stock underweight on weak spending data By Investing.com",
+       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPb1NkVzdDbTVoNFpCcEdkYkVtMExYaEUwamw2bWtORHFCblkzYkdnanFJVHRuWTRsTmlDdWVWSTh3S0NuVWNqV0xlY3I2X1BTR25jRXhubkM4alVXdUNFSEM5ck9QZnhvaGJja2Z1b2tsVU5wSmlnZ1FEWjAtb0VheHRMTVR0RG82N3ZuMVVtYm5OLVpVay1wSFRXUmcyanp2d3BmZ3VkZ29wM0tYYjd2ZGxkdlhVTWIzdzllandmMFg1a0U?oc=5",
+       "source": "Investing.com UK",
+       "date": "2026-11-12T14:06:00+00:00"
       }
      ]
     },
@@ -587,16 +587,16 @@
      },
      "news": [
       {
+       "title": "Microsoft (MSFT): New Buy Recommendation for This Technology Giant",
+       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSnhCVDVMd2JMcE5RS2hScVp3VWtHN05pN2doWVBCemJLSjhzUUhabk5HeW1IbERzYUxBbm5sb280ZlAwaWotRnJVS2RYeGVzLU05LTE5bWpaZDdUdDFtLVVsWmQycUVXQ3Axa0hiNXUzX0ZpRW5DRTlrSGowUlA4eXl6UmlHZjFHeGwzdFQxYXhST1k1UzdZMjd2N1c5LXAwNDBZNi1aWUVua3lUbWhvM05oWXRLMGFQN21RVVA1VklZdl9fazRLRmF5b1VSRG9CRTJRbC1acHEzRnEwTF9jYUZn?oc=5",
+       "source": "The Globe and Mail",
+       "date": "2026-11-12T15:30:16+00:00"
+      },
+      {
        "title": "New Buy Rating for Microsoft (MSFT), the Technology Giant",
        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVi1naEVRRms0UzVDNjUtblhGc0o0ZzRhRExaazBjV1kxQ2lHTVYyTWRoZlRsdFZMbTlKdFAwWHl3T0hHdDJ4bVNDNzlraVZKSU8yUGNFWDBjMVI2S3ZhTm5WTVBqS2t4Y2dMdk00UjV3aEpsU3pVVExsZm9iRDBiQlJIa05pb3R1Z09nUjNQVzNPZ3E4d0prWm02TDJ6RGZvb1owWlY2dllWUTQ4UjI3MEhISzVPa3kzT3AxTmgtRTREdVdSeXBXNXNRMHJENTRWbUMtekVR?oc=5",
        "source": "The Globe and Mail",
        "date": "2026-11-12T15:30:03+00:00"
-      },
-      {
-       "title": "Microsoft Is Off Its Record High. Next Week Could See the Stock Reignited.",
-       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE83cmJyRlBjMDBWU21ycUZoMzJTZXRiYml1RVpnRHZ6emprSmNFNUVIYk5oYm45VUJXdkJHSm5DVm5lamdUQjZ3QVl2UTcyRzZvc0lsWE9sWGFFeE52VUE2TlBJUExqandxbktlcjNiU01XNGRCbHc?oc=5",
-       "source": "Barron's",
-       "date": "2026-11-12T15:20:00+00:00"
       }
      ]
     },
@@ -731,6 +731,12 @@
  "failed": [],
  "general_news": [
   {
+   "title": "Microsoft outage disrupts Outlook, Teams, and Copilot for users 'in any region'",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSXRGTzRHWGVubjllRE1ILWQ2R0NMNU1fcFNQTlZhU0U3eHYxZ21DN0JPZElYSWxXb1ZTRnBlMHItR3o4Q2w0ZE5MN0c5SlZtUXhxYkt3ekVRdkdVTFBwLW5vakJHbHM2QUxMVVdqV29UMW1aN1NUa0VCR2I1aUZ2TWNrQWdsbmhSY0QwMkRaX3Q4dEtEOXRScmJSUEgybUxsWm9MbFdSeXhRaXM5RWdLVVdLV3Y5aG1ZUC0wRTJ6djVTbGI0OExFRXFSMkc?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-13T02:59:00+00:00"
+  },
+  {
    "title": "Elevance Health (ELV) Stock Looks Reasonable After Raised Earnings Outlook",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPd2dPZVVwbWg3TnVPWTcwV3BwR05pdkdZSm5pZFlKWGZ5SkRDaE4zSU4xMV9iQWRXOXYxQkx3MUJsZWZsZGFmZGwtUVp5ZW4wTE5UaEJsVFhkZXBLUjhwQWpMMzNUa2paaF9IY09tUkZMVWdTREZSZVJPTU5xWkg0cG95Y1YtQU5vSHY1SW55YlJKU3VjbHJHbzlwdnc?oc=5",
    "source": "Yahoo Finance",
@@ -753,12 +759,6 @@
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPR24xVXdIX1BsTUE0UGtwdkJwZS1WcmE0VUxyVWR3MXBDblFxcTk0TzRqcEFSVTRJbl9WVEh2bGRDN1NiT0dVc3otWUdNSWFKRXl0Mkg1dDZfVHZnMmctZ1ppM1h0VG1rQkJLVEs2WGVVdjF2Q3F2QlBtckxQNUUxV0wtemFnNWdUZ2dEZVExLUg2d0lobEE?oc=5",
    "source": "Barron's",
    "date": "2026-11-12T22:53:00+00:00"
-  },
-  {
-   "title": "Microsoft outage disrupts Outlook, Teams, and Copilot for users 'in any region'",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSXRGTzRHWGVubjllRE1ILWQ2R0NMNU1fcFNQTlZhU0U3eHYxZ21DN0JPZElYSWxXb1ZTRnBlMHItR3o4Q2w0ZE5MN0c5SlZtUXhxYkt3ekVRdkdVTFBwLW5vakJHbHM2QUxMVVdqV29UMW1aN1NUa0VCR2I1aUZ2TWNrQWdsbmhSY0QwMkRaX3Q4dEtEOXRScmJSUEgybUxsWm9MbFdSeXhRaXM5RWdLVVdLV3Y5aG1ZUC0wRTJ6djVTbGI0OExFRXFSMkc?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-12T21:23:33+00:00"
   },
   {
    "title": "Cisco shares climb 4% on strong earnings beat and raised outlook",
