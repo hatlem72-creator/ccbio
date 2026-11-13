@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-13T03:49:27.007635+00:00",
- "usdnok": 9.556750297546387,
+ "updated": "2026-11-13T04:54:53.041801+00:00",
+ "usdnok": 9.563179969787598,
  "btc": {
-  "price": 68984.9375,
+  "price": 68628.109375,
   "prev": 73964.46875,
-  "chg": -6.732328825115774,
+  "chg": -7.214760634645945,
   "currency": "USD",
   "asof": "2026-11-13T00:00:00+00:00"
  },
  "silver": {
-  "price": 50.494998931884766,
+  "price": 50.185001373291016,
   "prev": 51.88100051879883,
-  "chg": -2.671501268391796,
+  "chg": -3.269017807189889,
   "currency": "USD",
   "asof": "2026-11-12T00:00:00-05:00"
  },
@@ -69,10 +69,10 @@
      },
      "news": [
       {
-       "title": "Equinor stock advances as Kongsberg wins Wisting systems contract",
-       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObVVjaEJKcGhsMUU3U1hnMlU3VzUyLVN2eUtqVlZwS2NzSG9TbkFRNTZUVUF4WmxMQ2s5d1RIYVhCSVdyODNzQjF0WFowNjhiM1o1X0xKYWUyeTFDdHRJVWpLSFNzREdZSk9ROEtHYnd2Qnp5ck1OMWxRaWxwaV9Pb1diU04zdnZaaExTMl9QNlhuOEdUNUU2SnJCRzFuTE9ONTUtX2RDQWRITUtxT3BaeUFwb1c1YjhxZk1kNWZCcFZEQVMzZGI4?oc=5",
-       "source": "ad-hoc-news.de",
-       "date": "2026-11-11T09:17:13+00:00"
+       "title": "Kongsberg Maritime ASA (Z4Q.DU) latest press releases and corporate news",
+       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPWHE5SHZxNDEyTnNXV3V2U3p4dmZYSTJQTGtjd29yN0w5QTlDb0RHUUtVSUxLcEQ3aUZFbnM3VndxLUE3cDRiZXJIOUlYOVBSeTFTOHpjQko5VnVzR21nN0FXczhGWHBi?oc=5",
+       "source": "Yahoo Finance UK",
+       "date": "2026-11-12T06:39:52+00:00"
       },
       {
        "title": "Thales partners with Kongsberg Maritime on Royal Navy\u2019s anti-submarine warfare capabilities",
@@ -242,10 +242,10 @@
      },
      "news": [
       {
-       "title": "Hycroft Mining Holding Corp (R5A.HM) stock price, news, quote and history",
-       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhR295RGg5Q3BIQ2xfcWNXX0FyS0l6NUtSTnltQXFCYjJqeHBEX1dzX1RYMjY0QUpDZGdYaTAxQ29YLW1IbVpHeFhFNlJIQjczYjhsdA?oc=5",
+       "title": "Hycroft Mining Holding Corp (R5A.HM) cash flow \u2013 Yahoo Finance",
+       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1WMXlMeU16OUtPMm1mekN2R0JDbzA2YndnOEZtUnJKTk1QMGRqQzBZVUw3V2Eyd2ZEQllsaldKbThYVnhwSTJRcDBGV2hBVXJGNXlrS1pGTHBpclFGZkxsWmFn?oc=5",
        "source": "Yahoo Finance Singapore",
-       "date": "2026-11-07T14:54:08+00:00"
+       "date": "2026-11-06T08:51:18+00:00"
       },
       {
        "title": "Hycroft Mining Holding Corp (R5A.HA) interactive stock chart",
@@ -317,16 +317,16 @@
      },
      "news": [
       {
+       "title": "Metso to Deliver Metso Loesche VRM Dry Grinding Technology for First Majestic\u2019s Jerritt Canyon Gold Mine Restart... - Mining / Metal / Mineral - Metso Corporation",
+       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNakEzYUN1ZjNXWl9ZYVJ4dVhUeVRjRTRaamt4MkpuQ3RHZFZIWHFHMmJrZFFVUXpJSWhOZnJUc2R2czExc05kM2pLdHAxOWF2M1FZYjF1UkdJSGZ2VzdUOW5vNVhpdzB1WWkwX29hcE1CcnhoWGU5TnZ1enJLZ3pQNUF6MkxlRkxPZEx2ai1GOVNkQnZpV2tKOU9Hakx5UFhaYVpqdlM4SGhRaW5kVlVWMFQ3R3FOcFJkNk9PYzRsSjJnY0FYMlJDb3ViYUhSak13V3ZmaDZoMF94SENodXl0MmwzZmdJTDU0VTV1MXNWOFhhU05r?oc=5",
+       "source": "NewswireToday",
+       "date": "2026-11-09T19:10:36+00:00"
+      },
+      {
        "title": "First Majestic Silver Corp (FMV.HA) Seasonal returns chart",
        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBxTjc1WHc4VUljYWtnYlc4dmhDZFJVVG90THB5Rm8tdEE1NVJJSzhxVDctNWNZSi1FUG0wRUhGem5qM0FtdUtScjhVRlE5QS1PQUd2c216UE13QjEzSFdPa0V0cEo?oc=5",
        "source": "Yahoo Finance UK",
        "date": "2026-11-09T17:05:27+00:00"
-      },
-      {
-       "title": "First Majestic picks Metso Loesche's vertical rolling mill",
-       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNajQ1amRRQ1g0bTN2cjZjOTAxZHZRbmVhSkk4TUx3dlZLTUpUb0ZHRWRaRWZ1aThVTlpKTEVSVXRNYXduZmxVaGVzNG1xTXFjR0RXaFBPUWxPczA3T1dzQXVGNnMzV1FkRkM1dVh2VzQzc0paaXlFaHVBeWc4V2kzc0I2RnBLTmJKTUMzZGpNSUxQV1hjODBQQTlucklqc0JZYk9JU0Yxc0Z6elVNcnc?oc=5",
-       "source": "Mining Magazine",
-       "date": "2026-11-09T14:02:14+00:00"
       }
      ]
     },
@@ -367,16 +367,16 @@
      },
      "news": [
       {
+       "title": "Gr Silver Mining Ltd (GPE.HA) balance sheet \u2013 Yahoo Finance",
+       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVWkp0bmhSREVZLTFwNm4wNnFlaTQ0cUpmN205T3hUSzc2cmI4M1p1TEhxcWhCVE5jVG1tTGlMSjBQVDhWQ291TnhHbjdtdUZkZHJfOXljOERBaFM5bWw5WGNCaVVGQ1k?oc=5",
+       "source": "Yahoo Finance Singapore",
+       "date": "2026-11-06T08:51:03+00:00"
+      },
+      {
        "title": "GR Silver Mining Welcomes Shareholder Support at AGM",
        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSWJPMTlBNjZOb2wzMXVDSklIRUpPX29nY3g4emh3cm1zX0ZwRkp0QUNXcmFDOE1taUpiTjhkb2JJM095bEtiUU9wMHdEcFRIZThUbDVrQ2kzcVZFMG1wNy1taVVrd0dPQWNxMFFIam50UTFXZ2FleVVnYkdXV2pSTHFJVE10LWxIckREc0pURFhOcTl1NkpLZGhmOC0xbG5SUzB3Zw?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-10-26T07:00:00+00:00"
-      },
-      {
-       "title": "With Funding & Permits in Place, GR Silver's Drilling Shapes 2027 Resource Update",
-       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMVR6OFZSYnZWbVVsLTdpMDhueUxmeVFfNEc0ZndjcDBCOWFtbWtoQU9pcHdtUlhsSXJHTHRaTWhVdkdaRTNYcHpabEsyNXFHb0liZmFIdzNkbkdFS2puTFA4WHp5eGsxcXVlUjJxeTFSSVUtMG9ZYjBzR052Vm9ycXR0eTRXcjJPSzdKUEZwNjh0YzNKZV8wbnlTU1FQcllYSUtBdG1YTUNGb1BzV3lJTFpR?oc=5",
-       "source": "Crux Investor",
-       "date": "2026-10-25T07:00:00+00:00"
       }
      ]
     },
@@ -464,9 +464,9 @@
      "symbol": "^DJI",
      "name": "Dow Jones",
      "quote": {
-      "price": 52297.08984375,
+      "price": 52297.1015625,
       "prev": 52486.48828125,
-      "chg": -0.36085179958145197,
+      "chg": -0.3608294724066208,
       "currency": "USD",
       "asof": "2026-11-12T00:00:00-05:00"
      },
@@ -512,9 +512,9 @@
      "symbol": "GC=F",
      "name": "Gold (USD/oz)",
      "quote": {
-      "price": 3926.39990234375,
+      "price": 3914.800048828125,
       "prev": 4000.5,
-      "chg": -1.8522709075428079,
+      "chg": -2.1422310004218237,
       "currency": "USD",
       "asof": "2026-11-12T00:00:00-05:00"
      },
@@ -536,9 +536,9 @@
      "symbol": "USDNOK=X",
      "name": "USD/NOK",
      "quote": {
-      "price": 9.556750297546387,
+      "price": 9.563179969787598,
       "prev": 9.552909851074219,
-      "chg": 0.040201849824184066,
+      "chg": 0.10750775285734981,
       "currency": "NOK",
       "asof": "2026-11-13T00:00:00+00:00"
      },
@@ -587,16 +587,16 @@
      },
      "news": [
       {
+       "title": "Bill Ackman says Microsoft's position is 'really, really strong' as Anthropic pushes into enterprise software",
+       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNNGxyVmFIZ0htSkxiTFBTemhQZEkyYmsxck9NZTIza0J6WEF6ZWVvSVFKQ2I3SktOc3VqNi01NVRUZ3FONU5LSWhkeUNjcFI5bFJXRTJLZkdheHdUUjllWHk3Qm9YZlNmVVU0dzZYN3JTY2NrSW9ld29HV3UwTWVEa003bDhLdEtFMkFZVHl1a3ktbm1CVGphb3F4UVViRWFwWjlIR3VlMjE3MTZkQnFZOGtHLWFNNzVoVDNuczNTM1JTY0RNTXhERHhGejZKa3FXbWt0QXUtYklzMGhPMzFLWDI1bHJhN1A3dlJFcnNQazlPZXpib0E3S2JyRDVNZw?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-11-12T22:38:17+00:00"
+      },
+      {
        "title": "Microsoft (MSFT): New Buy Recommendation for This Technology Giant",
        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSnhCVDVMd2JMcE5RS2hScVp3VWtHN05pN2doWVBCemJLSjhzUUhabk5HeW1IbERzYUxBbm5sb280ZlAwaWotRnJVS2RYeGVzLU05LTE5bWpaZDdUdDFtLVVsWmQycUVXQ3Axa0hiNXUzX0ZpRW5DRTlrSGowUlA4eXl6UmlHZjFHeGwzdFQxYXhST1k1UzdZMjd2N1c5LXAwNDBZNi1aWUVua3lUbWhvM05oWXRLMGFQN21RVVA1VklZdl9fazRLRmF5b1VSRG9CRTJRbC1acHEzRnEwTF9jYUZn?oc=5",
        "source": "The Globe and Mail",
        "date": "2026-11-12T15:30:16+00:00"
-      },
-      {
-       "title": "New Buy Rating for Microsoft (MSFT), the Technology Giant",
-       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVi1naEVRRms0UzVDNjUtblhGc0o0ZzRhRExaazBjV1kxQ2lHTVYyTWRoZlRsdFZMbTlKdFAwWHl3T0hHdDJ4bVNDNzlraVZKSU8yUGNFWDBjMVI2S3ZhTm5WTVBqS2t4Y2dMdk00UjV3aEpsU3pVVExsZm9iRDBiQlJIa05pb3R1Z09nUjNQVzNPZ3E4d0prWm02TDJ6RGZvb1owWlY2dllWUTQ4UjI3MEhISzVPa3kzT3AxTmgtRTREdVdSeXBXNXNRMHJENTRWbUMtekVR?oc=5",
-       "source": "The Globe and Mail",
-       "date": "2026-11-12T15:30:03+00:00"
       }
      ]
     },
