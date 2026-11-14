@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-13T23:37:07.233003+00:00",
- "usdnok": 9.55972957611084,
+ "updated": "2026-11-14T00:17:50.071180+00:00",
+ "usdnok": 9.563750267028809,
  "btc": {
-  "price": 68094.9375,
+  "price": 68266.5234375,
   "prev": 71342.96875,
-  "chg": -4.5526998762579485,
+  "chg": -4.3121913292961995,
   "currency": "USD",
-  "asof": "2026-11-13T00:00:00+00:00"
+  "asof": "2026-11-14T00:00:00+00:00"
  },
  "silver": {
   "price": 48.650001525878906,
@@ -44,16 +44,16 @@
        "date": "2026-11-01T07:00:00+00:00"
       },
       {
-       "title": "SB1 Markets raises its price target for Kongsberg Gruppen to NOK 425 (400), reiterates Buy",
-       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQR3FOZmVUVEhhTWUzcksxaUw5alB2Z1J0bUFLSElVYzBueXdUX2lQNVhZUEFGU3RBUWtXUlF3NENTTjRGeEJlSXRYX2hfRFhueEhsM19tV0hhWWxORldxV1NER3oxUkRwaUU2WW1EVEI0VTFXN0kxcVNmQ3ZMal9mRDZVWTVvWDR0Vnh1eHVpbzdmaHpPV1BoUmo3X0lKSFN3SGc0cEJjV01LNkdxMjlQZXhycXpfNkl0cGViUkRRU3NzVjV3aGVGY1FjamN1Qno3a3IyZ040dw?oc=5",
-       "source": "www.marketscreener.com",
-       "date": "2026-10-30T07:55:20+00:00"
-      },
-      {
        "title": "KONGSBERG secures US government contract for underwater capabilities",
        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa0J0WVlGSWkwZ3VHR2t3cWNqN1Q0M2ZmX0tqdmJhUzZrQkxwNVljUWFvMG1xcF8zUVpFa1EyTWNNVFhhMmRfNFdTVVp6R2JpaDQtdXg2UDMxMzRRV1JUSEQwNDlFZVFQTW80SGVjZ2hQdGtwWVd6bVpfOXJoSFhGdzEwOU5YWVhxTDU3d1hUU2RSWl9PUlF0QkF1RERRa3otTWNGVzN3RW5RYW5kclVnMWpLVC0?oc=5",
        "source": "Naval News",
        "date": "2026-10-30T07:00:00+00:00"
+      },
+      {
+       "title": "Kongsberg Gruppen Q3 revenue beats estimates on defence demand",
+       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNd21WOVN4LTVjZjZYX2lTRVIyTmN0QWdvRVdJamY1S3lqRVlHNTNRRlh5SGtZeE14YlFleXVFbE5SYmtEXzdWNjdYNndia1hhWXQxUUhVT2NEQ0E0YktxME5iTjdQLUhRc2hGY2VNWjJ3eEFLQ1Vud1RfZE9QdVhvQnc2VVFQUXRwaHkwUzRoNGhvUVZZM0liQWJyNnZGaTBCQlo0NXlMdENxdkY4SjRKVlNFSmxiMTcyRjhucnNMUXBEWExXaFdkLUlub28?oc=5",
+       "source": "TradingView",
+       "date": "2026-10-29T07:00:00+00:00"
       }
      ]
     },
@@ -81,16 +81,16 @@
        "date": "2026-11-12T06:39:52+00:00"
       },
       {
-       "title": "Balaena, Kongsberg Team Up to Bring Arctic Hunter USV to Royal Navy",
-       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53c0xRbnQ5dEI5SGZMZW55X1FzaV90eEUyN2x6YWxNa0JxNEFHQ0xkajl6WklfekJhczd2TGJJRE4zV0o1LWtXZ1ZRYjRfVzFnalBVeVJFek0yQXFHWVRkWDBMczN0cFR2a0lNWjA0WHlHUURPSWROTEp0VG1sVlE?oc=5",
-       "source": "MarineLink",
-       "date": "2026-11-11T12:54:59+00:00"
-      },
-      {
        "title": "Thales and Kongsberg join forces on Royal Navy\u2019s Type 92 USV",
        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ21HWktNRnAzdl9Qa2U0OWFVZzd6a0xoS3U3ZlBxc2tkNVI2T29EMDFRZE5WNGFfeTB6TGQweTFvekQ3S2lTN29vaWNKTXozUDZ3RXpYY05kMFE3c2hvbWw2OXNEdGxDaGpzSG9lT2xpRG1TTWFzeXgxbzAtR1hnV2otT21qRm1tRGRRR0twZXc5aGxTN0l5U1pHLVBBdw?oc=5",
        "source": "NavalToday",
        "date": "2026-11-11T10:39:30+00:00"
+      },
+      {
+       "title": "Equinor stock advances as Kongsberg wins Wisting systems contract",
+       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObVVjaEJKcGhsMUU3U1hnMlU3VzUyLVN2eUtqVlZwS2NzSG9TbkFRNTZUVUF4WmxMQ2s5d1RIYVhCSVdyODNzQjF0WFowNjhiM1o1X0xKYWUyeTFDdHRJVWpLSFNzREdZSk9ROEtHYnd2Qnp5ck1OMWxRaWxwaV9Pb1diU04zdnZaaExTMl9QNlhuOEdUNUU2SnJCRzFuTE9ONTUtX2RDQWRITUtxT3BaeUFwb1c1YjhxZk1kNWZCcFZEQVMzZGI4?oc=5",
+       "source": "ad-hoc-news.de",
+       "date": "2026-11-11T09:17:13+00:00"
       }
      ]
     }
@@ -112,10 +112,10 @@
      },
      "news": [
       {
-       "title": "VanEck Gold Miners ETF rated cautious Buy amid gold's mixed signals and economic risks.",
-       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY1BBT1FlS2tEaFA1ajFtcG1ka1lNbFRrRzkzcGJtNGEzdzdWdlpXR0JobzFaX1FHSzhYT2YxbTNFOUc4ZEZweTdfS0dmUTBHRHp4RU9lc0R6UkZWcDBIRnJHS3I3Z253emg2akJwb3BrTDJ6dFV1eVB6Njh1R19ubUk0YklOekNxSUxN?oc=5",
-       "source": "Pluang",
-       "date": "2026-11-13T21:19:55+00:00"
+       "title": "New 2026 Lows In Gold, And The GDX ETF Is A Cautious Buy (NYSEARCA:GDX)",
+       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUnhQQjcwRTFTMGRNd1V6NUVUYm1FV2tmaWkxUjZRNWZHSk9jRlR5a1NHXzJWNHlxQkVyTjRzWUNmc0VmaG9QZHdFM01MNGN1X1dfQ19ubkJzdG8zZnVLd3hYT0JIV2ZnOUpkUG1CbTJQZ0F3LWVrMVhCVmxfYjdJcDZNU091U1d1cW9CdnBtUndGcDhIZTEyc3hkeC0?oc=5",
+       "source": "Seeking Alpha",
+       "date": "2026-11-13T20:10:28+00:00"
       },
       {
        "title": "Gold Miners: The Opportunity Behind The Volatility",
@@ -304,10 +304,10 @@
        "date": "2026-11-13T11:04:36+00:00"
       },
       {
-       "title": "How Did the New Gold Deal Drive a Revenue Surge at Coeur Mining in Q3?",
-       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVFQtSFBmOUdybmllV1NiOVNkeWl5TWhFdUFfMTQ3WFVwa3drTExiT0VrSGpJQ3A5ZzlZYXpFRDRMVEFCSlJaYXJVVWhIZ1pQUWpjWnZkamtTM0tUemZMQ0RfQ244SEZ1NUN2aFlmeWF2MVRJUkZMdUw5ZnMwZ1VSMmJBMzhJd2NOb0ZhanJEZ1lzQXVtZzdyM1lISkpXUVFlQVhFMlpTcVl2cFdyTkZTc1dWV3g5ZXY5NTlfeW9R?oc=5",
-       "source": "Kalkine Media",
-       "date": "2026-11-10T08:59:00+00:00"
+       "title": "Coeur Mining, Inc. (CDE) Stock Forecasts",
+       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPem9CeEZNazdKZWZlOWxjMzNWTmxoUHFCRUJTQ09GQWhNQlRNSkQzTkJkY05tdnloNVJfZW9IaHlPTTctdFdiMm04UzJ3SHM5N3cxaGp3Y1FjVWJkX3dmOG15VzdLVWp0U0NYT2I3NWNEUlJlSVc5dlpTQjJuYzlQY29VamVtWUNhMWxOVlFqSQ?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-11-11T19:34:29+00:00"
       }
      ]
     },
@@ -398,10 +398,10 @@
      },
      "news": [
       {
-       "title": "Guanajuato Silver Company Ltd. (GSVRF) Seasonal returns chart - Yahoo Finance",
-       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE80eGgtRXgzbmNRVWJueW9tVzhTcVJuOGtwUzdVWmJJVUtBc1p1Nnd4cjV3eVhjT19UckNiRHZwM0JVOURON0xlMmpaQkVndHBuVHpFUEFPdG5hZmdSa1lHUzFESQ?oc=5",
-       "source": "Yahoo Finance Singapore",
-       "date": "2026-11-06T21:00:00+00:00"
+       "title": "Guanajuato Silver Company Ltd.: Guanajuato Silver Provides Q3 2026 Production Results",
+       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQY3hwX3F3YzRRR0hWc1FRbEdZMTU3ZEt3bzFDT2Z4ekZqZTJ0VGF5YXVPYXBKSnVXbm9EaFNaUmZtTXNJOVZDT0xqM2FldjFUV3BNNUNYa3BWU0MtTWpnTDhOaWE5MnE4ZzJHSGxkR19GVVk2eHM0ZF90eUFic3hRNXJtcWR3RHdQMEJHRDN1aFFtUnRBSVVLOUg4QmtMcnkzOTZMSm9jOE5LR3ExRm9jdnZJSVljYmxNMkJvczd0dTItQWhjN3ZzSGg2dC1kLWZtLWxNX2NVM2dfRVlPSEhxZUlDY0Fwa2th?oc=5",
+       "source": "FinanzNachrichten.de",
+       "date": "2026-10-16T07:00:00+00:00"
       },
       {
        "title": "Mexico\u2019s Mining Industry Adapts to Global ILO 176 Safety Rules",
@@ -542,9 +542,9 @@
      "symbol": "USDNOK=X",
      "name": "USD/NOK",
      "quote": {
-      "price": 9.55972957611084,
+      "price": 9.563750267028809,
       "prev": 9.552909851074219,
-      "chg": 0.07138898139873451,
+      "chg": 0.11347763271700728,
       "currency": "NOK",
       "asof": "2026-11-13T00:00:00+00:00"
      },
@@ -643,10 +643,10 @@
      },
      "news": [
       {
-       "title": "If You Invest $1,000 in Alphabet Today, Here\u2019s What It Could Be Worth by 2030",
-       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdTl3bFhRMjlzclN3WUFoTTVhUUhkNERhU1dZVGw1TXhxWnJQd0tvUlJmV0I2b3pnNWI4ZXlzQlVuNzVrQjI0REMwbjBOcW5kQlpkUkhlZGsxRjRRaDkzejlTUUF3dUQxOFM1VjNCcGdEbVVHZUpKNE5VUTFrVlpPblBNRlBzdXBwODY0N2M3QUZfRDZPaWd3?oc=5",
+       "title": "Not Apple. Not Microsoft. This \"Magnificent Seven\" Stock Is My Top Tech Buy for 2027.",
+       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVTZTekVacmdSdm5PbTZfaFFSU3ktMXlSb3ljQXMtN0s2TUVOTEFTS1gxcW95WmRNakVoRTJldDd3MU83SkxxWXZuN1FjZjB4cHVSWDRYNk1CdmstRF9UT1ZJQjNJUkpCVV93QWFBVTVVTVlnT0dnVzdLTEVMMjRVb0h2LW9tMEphYkxSaGRrU29CUjlYY2puSzZRTVBTUFk2?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-11-13T14:33:40+00:00"
+       "date": "2026-11-13T14:25:00+00:00"
       },
       {
        "title": "Alphabet Draws $5 Billion in Orders as AI Frenzy Builds",
@@ -699,10 +699,10 @@
        "date": "2026-11-13T16:05:52+00:00"
       },
       {
-       "title": "Meta Platforms, Inc. $META Stock Sold by Balentine LLC",
-       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ0Q1Smd1TTl5WWlITDQ5dW13OFB6REFDekpoSXNDSGZHNElRY3E2Zk1ESGkxS2ZhaU42cTRicUJpQUJZd1hxYm9UcXVXU2JDM0IyZ0VZVkFBb2duZk94YmNObGsxbUhlNzJPdFF0b2xYem5IZzQwTERuV3YyeVJPNVBmb3lRa1FuY2QwZERZME4yY3hfdElYYzQzNl9qLXh6MFliZDJxVmlmeVJTbzFkZGpR?oc=5",
-       "source": "MarketBeat",
-       "date": "2026-11-13T08:32:33+00:00"
+       "title": "55 ETFs Add to Meta Platforms (META) on Nov. 11",
+       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZkc4MEpkMmtxWldrMnI5ZUdHVjMyb1ZBU3duZklHdnBQekw0VnYzR0hoZWRMV3EtOUdScmpzd2E1ZEYxcjNfR3NKNWR6R3JzZWJtWE5SbG4ydTcxSzZRN3lXMmFHV01JaU1SSDNXVF8yRnM3U1VJS2RQYllEd0p3cGNTWV9jc3JTcjRpQkVla0ZLMUd3V1E?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-11-13T11:01:47+00:00"
       }
      ]
     },
@@ -756,9 +756,9 @@
   },
   {
    "title": "Canada and U.S. Stock Market Outlook: Inflation, Rising Rates and Nvidia\u2019s Crisis Threaten the Year-End Recovery",
-   "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPVjQ3eDVNTXZQdE9DVVVKSkpwa2NpYng0VTZUQmNXZVJ1ekpKTDkyOFpORkVSWDBwSnRMck9LaUdBS2g2dGhRMWFrTXB3N25tNll5eHZHdWc1Ul94bHZGRWM0WW9OWG9OMFViYWlaNXAzT0RDRXdOVWxMWFhiekpEWElRT3lTWjBzaE13YTBqSEJoXzU3OWEzeDRpUHhkUDhDTEZLcE9EY3pfRUx0NUliVU11RUd5ZGM2OHlPMXpHTzRJRzlzTkRVOVY4NnBkVzhpTHllSzRDN3FNUFpRUS11SHdVTW1OOGREOVU3d1BSaVQwMGpUd0dEeVJab2dkVGdkeXFmUU9EMnpmaEZUWXJ6Q2t4OFRJS2xYU0ZoN2dwWQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPeWFQNWNHZm9LT2pBMDZuU3lwWHlNaGZqQ2ZzbVBEbFF5d1JVZG1rOVA3MVd0SzFQbVpXaS1OTUNqMlhvcVZUcmVQbXFPYVdTa3dEMHAzYUFQQ1FUV05Fa09tX3dleVdFQWxLTGR4bm5ZcXBwWF8xYllieTRFS2dGWWRqN0tlRjZZQ2lWUkxraTlBSHhLY1RSaFZQZWhSUmppdjlGR2dJNVNGdFFuZFJGcmRDbHd3cTlTNV9kR0RUMnR1NUxEdDhZVktUZjNoTVhSZzg5TUo3cVk4WWI3TGljd0UyM1lnbi16WlVVWEtqWTJYdjVqa0ZkcHlHVERWYTNFOG9DUVZ3STZmcWtZUWdvTk4xVlpIMzN1eDdSeg?oc=5",
    "source": "The Globe and Mail",
-   "date": "2026-11-13T18:31:18+00:00"
+   "date": "2026-11-13T16:34:51+00:00"
   },
   {
    "title": "Domino\u2019s Pizza shares rise after Baird upgrades stock on improving sales outlook",
