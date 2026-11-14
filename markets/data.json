@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-14T09:41:33.672109+00:00",
+ "updated": "2026-11-14T10:37:48.543317+00:00",
  "usdnok": 9.574799537658691,
  "btc": {
-  "price": 67153.1875,
+  "price": 67168.9375,
   "prev": 68249.2734375,
-  "chg": -1.6060038184930292,
+  "chg": -1.5829266497456973,
   "currency": "USD",
   "asof": "2026-11-14T00:00:00+00:00"
  },
@@ -44,10 +44,10 @@
        "date": "2026-11-01T07:00:00+00:00"
       },
       {
-       "title": "Nordea raises its price target for Kongsberg Gruppen to 425 Norwegian kroner (400), reiterates buy",
-       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSGk3TzhCaEdQSmpfMUxTNGQ1X2dFckpNeXZTRjNvd1k0SEY5UjlCSUZxNG9zSTB5dGpTcGlOcDFndTM5UHFpTk1HMVhCWUpFemFIOEt5NjhxNXhVZm9IblJJS09aVjVOOU13NVAwVWViejZaaVI5X2RfQl8wN1JBZWJnTS11ZXhMbDdrenRiYTk0RDZReTQ5UUlaZkpaQ0hOYVZlZjZURC1OX2N4cUpXWWFjY1RnVDJGVHhkLVVFbHBrM1RwajJ3QUo1d0U5MFJ5X3o1U0EzQ01KcnR0RHJETV9R?oc=5",
-       "source": "marketscreener.com",
-       "date": "2026-10-30T07:27:46+00:00"
+       "title": "SB1 Markets raises its price target for Kongsberg Gruppen to NOK 425 (400), reiterates Buy",
+       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQR3FOZmVUVEhhTWUzcksxaUw5alB2Z1J0bUFLSElVYzBueXdUX2lQNVhZUEFGU3RBUWtXUlF3NENTTjRGeEJlSXRYX2hfRFhueEhsM19tV0hhWWxORldxV1NER3oxUkRwaUU2WW1EVEI0VTFXN0kxcVNmQ3ZMal9mRDZVWTVvWDR0Vnh1eHVpbzdmaHpPV1BoUmo3X0lKSFN3SGc0cEJjV01LNkdxMjlQZXhycXpfNkl0cGViUkRRU3NzVjV3aGVGY1FjamN1Qno3a3IyZ040dw?oc=5",
+       "source": "www.marketscreener.com",
+       "date": "2026-10-30T07:55:20+00:00"
       },
       {
        "title": "KONGSBERG secures US government contract for underwater capabilities",
@@ -104,9 +104,9 @@
      "symbol": "G2X.DE",
      "name": "VanEck Gold Miners UCITS ETF",
      "quote": {
-      "price": 84.3,
-      "prev": 85.18000030517578,
-      "chg": -1.0331067175663233,
+      "price": 84.30000305175781,
+      "prev": 84.94000244140625,
+      "chg": -0.7534722995680698,
       "currency": "EUR",
       "asof": "2026-11-13T00:00:00+01:00"
      },
@@ -141,9 +141,9 @@
      "symbol": "2B76.DE",
      "name": "iShares Automation & Robotics UCITS ETF",
      "quote": {
-      "price": 17.83,
-      "prev": 18.229999542236328,
-      "chg": -2.19418295271806,
+      "price": 17.829999923706055,
+      "prev": 18.176000595092773,
+      "chg": -1.903612786413167,
       "currency": "EUR",
       "asof": "2026-11-13T00:00:00+01:00"
      },
@@ -323,16 +323,16 @@
      },
      "news": [
       {
-       "title": "How Investors Are Reacting To First Majestic Silver Stock Strong Earnings Report",
-       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSVlmb1AxWEh4alFjOUllaW82VnpEZzVqVWJxem5EdnQwS3l4Q29JZEFMaGN0YUVCTkt4ZmZabDE2NTB2YXVtYnViUmtEUm9BRWpPOFFaUV9iMTRubVNGaTdXV3kzSnZISDBtQnI2ZnBjc3Biczg4YVlmY0hSTWp0MGxFYzRZSEcyc1A1WHFaQmoxdVlnMHpndlJVQTI5cy1rWkpjSldIYURZR2F0VXoyMU9JUGl6a0JJamZ3OFVFX09NZm9mNnYwNzlBMVBFTUFRY2hXcXdZTVNUYzDSAeABQVVfeXFMUGc1N2JtR0dFNTNHSXdkdnQ2VkNKTzNrX0dDTmZ5bU5oMVJfZFI4bThHazFJVkRwdlhMX1IxbWRWNm5jNlp2ckY5TjE0akhCTi1IYS1lZFBzQWVTTFBSVlI5YTdtSlVybG04V1lWOTl1dU5xSEJQWVhqVTdHVHQ1aGVqWk9qMGNOUkU2cF9jNkYxUEc1VUdfaGQwZWZqRVk4VmxEbEN0TW1xaFZyOHBtSlpBa2Z4RTFIdUNESU80VmxpZjNlZTg1MUx2bzdSaXdJLUtUdVY1LVFJNFZIMWJBWE4?oc=5",
-       "source": "Simply Wall St",
-       "date": "2026-11-10T00:43:16+00:00"
+       "title": "First Majestic Reports Positive Exploration Results at Jerritt Canyon and Provides Restart Progress Update",
+       "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOUmI5VExKRHJrWWF4djRiMTFTamh6WFRtOTJUUGI1dlAzSEN5d2VoQzFsTVoyaUUtUzBkaFJEel8yVWk4ZGl4TEZrUFYtZWFraDIzaFlzbVAyNEVQLWp4eTN6Zk5SSDRGSzlQWnhMUHVJUDhibi03SUt2REM1T09RMDVMblhfT051MUVCbzFOUXpOX2UwMzFfMXBWMXNsLWkwWTNBa0l6TmgwajA0ZWhoSkkyaTZjZElqVHNTOUgta3BncDNzd2hDTkRpWlAyUFQ2TVVvdTZVcVF3Z3NXdXVOLW9fdGlDZXdRQTlWa0EyVlZnRFNsZ0hMUlI3NExFWEJTSkNud29jeHYtZUN2dzdna1ZEOUZGUlpnbGQwUTFYWGIzZi1UOGc?oc=5",
+       "source": "Junior Mining Network",
+       "date": "2026-11-12T12:05:11+00:00"
       },
       {
-       "title": "First Majestic Silver Corp (FMV.HA) Seasonal returns chart",
-       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBxTjc1WHc4VUljYWtnYlc4dmhDZFJVVG90THB5Rm8tdEE1NVJJSzhxVDctNWNZSi1FUG0wRUhGem5qM0FtdUtScjhVRlE5QS1PQUd2c216UE13QjEzSFdPa0V0cEo?oc=5",
-       "source": "Yahoo Finance UK",
-       "date": "2026-11-09T17:05:27+00:00"
+       "title": "S&P/TSX Composite Index Watch: First Majestic Silver Corp. Faces Production, Project Delivery and the Next Growth Test (TSX:AG)",
+       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQzhZNExWNUUzS1NweEZhaVFMN1hFWlkyN1Y3b0JiUHhxTG9IT2JUYzdxcUJSVWZLQlNZVUQ4MlNJSVpaZHJhTk5iTEE2akJaY2stemdZSU9ySWFydzRFTVg3NXJRSVFwU00yRG95akxCZDN3b0VQS0ZjbG1UTzgyc25LaEhQcDdfamZCRG94dWZXYkZLZ1FYN203ZE9vbl9GZUI4cG54NFBFQXVFd2xvVFd2ZXRoRFpydTJFUnU2ZWY4dHFlbDFkQmdZd093Ni04M1ZobHpQdTBqRm11QjdDSjZBTFk?oc=5",
+       "source": "kalkine.ca",
+       "date": "2026-11-11T10:03:00+00:00"
       }
      ]
     },
@@ -348,10 +348,10 @@
      },
      "news": [
       {
-       "title": "Defiance Silver Corp. (DEF): Understanding Its High-Beta Profile and Exposure to Market Volatility",
-       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTE9WaUxXMWtiZ1QwM0ZBUEJnT0tURGlrV1ItSjR1eUp5VDNnd0EwdlJDZnY5ZUR6U3plY2htX1BMMC1UQTRpVnoxeVlQUklHU1JJSGN2andMMFJLV1U3QmlLQzVGcXNINWV5cUNpVnZDQTJXTkhQUjRFMzV5LWtaUnc3SEF3X2NNSE9ZRWhfbkw1aFM5OWpSeVBVQ1NfZ1djdzN3VkdvaGRMODRMM1RMd2h0UkRPTEZPcW5HSlptSVBIbEk?oc=5",
+       "title": "Why Is Defiance Silver (TSXV:DEF) Down 2.33% at CAD 0.105 With an RSI of 25.51?",
+       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcFgxX19XRGItYk9RSGlJWHNlaFk1NFdHd1dFUjF5Yk9BUmprYS1ORmVpUjJNd1NySmdQRUwydHZoR3RKOHQzak0zdVBXSng4NmROa2ZnRWVYRmR0TUxucmFGNjM0ZDdCcVBFVF92WjlWQ0RFbjhmQWpEbHBWWklQWWdxRU9GTHZwTEZOVURiNWdqZ2VlZ3l0LWVPcmxVX202R1hOSA?oc=5",
        "source": "kalkine.ca",
-       "date": "2026-11-10T07:53:00+00:00"
+       "date": "2026-11-04T12:59:00+00:00"
       },
       {
        "title": "Defiance Silver Corp.: Defiance Silver San Acacio Drilling Returns High Grade Silver; Additional Holes Pending from Lucita Drilling",
@@ -643,16 +643,16 @@
      },
      "news": [
       {
+       "title": "If You Invest $1,000 in Alphabet Today, Here\u2019s What It Could Be Worth by 2030",
+       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdTl3bFhRMjlzclN3WUFoTTVhUUhkNERhU1dZVGw1TXhxWnJQd0tvUlJmV0I2b3pnNWI4ZXlzQlVuNzVrQjI0REMwbjBOcW5kQlpkUkhlZGsxRjRRaDkzejlTUUF3dUQxOFM1VjNCcGdEbVVHZUpKNE5VUTFrVlpPblBNRlBzdXBwODY0N2M3QUZfRDZPaWd3?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-11-13T14:33:40+00:00"
+      },
+      {
        "title": "Not Apple. Not Microsoft. This \"Magnificent Seven\" Stock Is My Top Tech Buy for 2027.",
        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVTZTekVacmdSdm5PbTZfaFFSU3ktMXlSb3ljQXMtN0s2TUVOTEFTS1gxcW95WmRNakVoRTJldDd3MU83SkxxWXZuN1FjZjB4cHVSWDRYNk1CdmstRF9UT1ZJQjNJUkpCVV93QWFBVTVVTVlnT0dnVzdLTEVMMjRVb0h2LW9tMEphYkxSaGRrU29CUjlYY2puSzZRTVBTUFk2?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-11-13T14:25:00+00:00"
-      },
-      {
-       "title": "Alphabet Draws $5 Billion in Orders as AI Frenzy Builds",
-       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaFJOMTVYNnlES1ZxSXJxcVg1SzFycEdEaDN5OGlKOFFGTHpCTjU3ZVp6NDZPY25yNmRncjlYc01fNWNucGNhU1Ezd0JOMDNrZ3lRdVZzT3BGUm5hMHJDWDdLYzM0THRCUWNYWUFyMFVCYWR0MkpEOGRkbVRBdVhpQWh5d0RfMXhoVHRoQ3NTSWxULV9nVWZtSFRtUQ?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-11-12T23:05:59+00:00"
       }
      ]
     },
@@ -718,16 +718,16 @@
      },
      "news": [
       {
+       "title": "Tesla Pulls $42K Model Y AWD From US Website Amid Musk\u2019s Pivot Toward Robotaxis",
+       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPejZiMDJaS290STFhamxPMDFHTVF6ellZajgtTW1zQ0ZwLWFQdFpZcWFjN0NiTnFGVHQteUFSR1ZmSmN1SjItU3dWS2JITnFwcm0yRUdzUU10ak1McDFSVW11T2lXYUlsRWpDX1lWVDlYUmV5T0FJMmVkZk5vMkE0QzkyemhqVzF6Y2IzSWdQUld5dw?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-11-13T17:51:08+00:00"
+      },
+      {
        "title": "Here\u2019s What Needs to Happen for Tesla\u2019s Bull Case to Materialize and Push Past $500 Next Year",
        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT0tMQWRQUmUzN0dkV3BZZjNpOUlnVWNSWkZiM0RHMXFiVVppZjE2QVAtVElKc3dZajR1Q0daaG1XQUNvVGRqcGZjaGdSRG52Z2Vfdmo3MlBmaExUSXp3ZlZ1VEQ1VjR0ZnFmTjl4eG1JVU1aYTlZWkdsOUs1c014N21ENzFPLUhtUWZxYWcyRmxLSWpmQWE5SA?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-11-13T15:45:56+00:00"
-      },
-      {
-       "title": "1 Million Reasons to Buy the Dip in Tesla Stock (You Can Thank Terafab)",
-       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONF9kdGhSZFRmQ1pLX29uVmZmTFA3VWEwWE9tYmNjRVhOcWRjUVM3dWt5X0ZYSFpEem5sbHBvekstekxObXRvWGpMMWhhTGNndUhnMGZONFF6dUVjVTVJdTdHT3E3QllFSk12OUh1NkRkTG1NMVZMekxXaGJvZ0NxcWE3MDQ3aDI3RGdpbmtSZnc1MkdN?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-11-13T14:30:04+00:00"
       }
      ]
     }
@@ -736,6 +736,12 @@
  ],
  "failed": [],
  "general_news": [
+  {
+   "title": "Air Products (APD) Stock May Be 13% Undervalued Despite Raised 2027 Outlook",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWFhsWmZQNmZoNmNWdDdQY2FEYnpnX2tFOTk2WUdCcXQ4aHRGU1RiRXE0MmxNN0NSUUtxMG14dUxxSUxYb0VBUmdSWkNkaWNQQ09KZlBaY056OVZFRnVNRk52TGltb2dGYW91T28yNnVSN0lrN0Q2c2pyNnFmdWhkdEI2WGJaZW12cndTaHcxTFREWDQ5c2c?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-14T08:10:13+00:00"
+  },
   {
    "title": "The AI trade faces big tests next week, starting with Nvidia earnings and capped by Anthropic IPO",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOM2JQaHVQaXhNWWk5c3h1V1NLVGliTkJyTTlGYWQ1YzZoWkhjU21HYXM3LVNYRFowamVkc1FKdmJPbDRWeW15cnJ5dlBCM09raGdpUFpzWkU3RUpOOW81SzlHalNUQVRoSkdsdG10cC1INjNfdmZaX2szUmpEQXR4UVRIaHFXaWtJWnFNMWhqOA?oc=5",
@@ -801,12 +807,6 @@
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSnA3SnU1YzkyNk5CbEZfSm9iMmtHbjJGNlFpUG5OVkljUm9uSXhxYkNJN0ZLUFB2YzBDb1pfUmJtR0RWQlN6a1o0bVFwbklxQndXUW05SVFWcXh4clkyMnBZZW1ZeFdRT3B0OVR3YjRIOXV3YlROemRKa0RPMzJfakRMYUVTRXM3ZVVPN1p4TTZtUUVBVHc0cGotcks?oc=5",
    "source": "Yahoo Finance",
    "date": "2026-11-11T10:45:02+00:00"
-  },
-  {
-   "title": "The Stock Market Is Repeating a Pattern Not Seen in Decades, but History Says Investors Who Make This 1 Move Will Win Out",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNWFI2NG5sSnI2ZFE0eXRXcjBoSmJsai1XaDYxWlNpQlNBWmdzdnNzM1EwdjA4eTFyT3NVdTJPeXBDdHZVYi1PVGI3Si1jU2o4bGJfNTllbkhsNTBnLTIyRUFHTjFobnFWQmY2c25aZnd5V1hHSW1YYngtRzBpQktHYnJCLWNsV3RtdFo2R1U2RVlDbEk5eEtqYmFqc2lTUTFZZVZVMVNEVS1VTVBtZWFQM0Z6NmIwZ2ZsTWV6ZThaN3RMbU1qMVI5c0hibDRwU0FUTkJyRGkzRmpKSks2V3pnUThKX1RCcHlaYlYtYm0yRGpuZjJRMFE?oc=5",
-   "source": "The Motley Fool",
-   "date": "2026-11-11T10:30:00+00:00"
   }
  ]
 }
