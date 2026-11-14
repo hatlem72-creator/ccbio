@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-14T11:58:34.001304+00:00",
+ "updated": "2026-11-14T12:47:56.876181+00:00",
  "usdnok": 9.574799537658691,
  "btc": {
-  "price": 67190.0,
+  "price": 67108.5703125,
   "prev": 68249.2734375,
-  "chg": -1.5520655153494656,
+  "chg": -1.6713776829354932,
   "currency": "USD",
   "asof": "2026-11-14T00:00:00+00:00"
  },
@@ -44,10 +44,10 @@
        "date": "2026-11-01T07:00:00+00:00"
       },
       {
-       "title": "Contract Wins And Strong Earnings Might Change The Case For Investing In Kongsberg Gruppen (OB:KOG)",
-       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWDJ1WUNjYWJNbm1yeDladzk4MW5nV3pqbGJPSTlpNXBoZjdyeWtzU0dRQzQwbDZfcUFDWHUtaXR1MV9uc0YydmJqdVJrTTNNZ0pDeUl5Q1ZGV3BMYWI3WTAtQXRKY19fS2ltUEVRSUo0RFd3V0dBMTVEOGNwRHVJVFR4S3RjQ2E1Zm51clNadVQyaG9DUHVxV3RRdktua2lralBEejJfZVB0bzd0TDZBeThuS0dRSkFUWklHSC1mbXlSYWduNkpTNGdNNEt2MmtEOXpSODR4VzJMUdIB3wFBVV95cUxQLUZ3X1FJaWEtU3VVUmp5TWNJbVJqZmZfRmZTT1VJNTdmeVhNNWJuc3VHWWN1Ymd5aURMOGV4ZFFHb1pnWEY2UzBvV0EwRnEzWUlmMFVXd2RYV0JxV2U3dTdnYURkanoyZmkwanc1VkpzaHhfNkJfdUpzcXJrWVB3M2JZTGR5NE0xZnNQd2pmd1pQTVV0b1p4UDVhSklWVWtDUm01a3IyWHp0WGxrTnEtSVN5d3JpZ3RKT3dTMEk3TXMtcVFnQ3hKYURDeEcydDNMZUd2VnpGNDFYYjRSaGhZ?oc=5",
-       "source": "Simply Wall St",
-       "date": "2026-10-31T07:00:00+00:00"
+       "title": "SB1 Markets raises its price target for Kongsberg Gruppen to NOK 425 (400), reiterates Buy",
+       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQR3FOZmVUVEhhTWUzcksxaUw5alB2Z1J0bUFLSElVYzBueXdUX2lQNVhZUEFGU3RBUWtXUlF3NENTTjRGeEJlSXRYX2hfRFhueEhsM19tV0hhWWxORldxV1NER3oxUkRwaUU2WW1EVEI0VTFXN0kxcVNmQ3ZMal9mRDZVWTVvWDR0Vnh1eHVpbzdmaHpPV1BoUmo3X0lKSFN3SGc0cEJjV01LNkdxMjlQZXhycXpfNkl0cGViUkRRU3NzVjV3aGVGY1FjamN1Qno3a3IyZ040dw?oc=5",
+       "source": "www.marketscreener.com",
+       "date": "2026-10-30T07:55:20+00:00"
       },
       {
        "title": "KONGSBERG secures US government contract for underwater capabilities",
@@ -112,6 +112,12 @@
      },
      "news": [
       {
+       "title": "VanEck Gold Miners ETF rated cautious Buy amid gold's mixed signals and economic risks.",
+       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY1BBT1FlS2tEaFA1ajFtcG1ka1lNbFRrRzkzcGJtNGEzdzdWdlpXR0JobzFaX1FHSzhYT2YxbTNFOUc4ZEZweTdfS0dmUTBHRHp4RU9lc0R6UkZWcDBIRnJHS3I3Z253emg2akJwb3BrTDJ6dFV1eVB6Njh1R19ubUk0YklOekNxSUxN?oc=5",
+       "source": "Pluang",
+       "date": "2026-11-13T21:19:55+00:00"
+      },
+      {
        "title": "Gold Miners: The Opportunity Behind The Volatility",
        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNclNHWmVUUGxrcU5jT09RcEd5WVZrSVV3YTJxYjZNQ3lWaS05bjZFS0laRFVqU2ZtNlBSVllwV0xNa2JaTWpkaGJuTTNPUDFybld2NlA4bzhFN3BXdjIzeW1uaGF5WXpVT0p5M0ZPX1FPWlBMMTFVcmNPd3J6b0c4RHQ2aldmQlprcFE?oc=5",
        "source": "Seeking Alpha",
@@ -128,12 +134,6 @@
        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1ieGEwQ2t6MVpzMGxHanZndFVTbDdJcmVxa1RNTUVTcDVvYzUzWjVwNGNuZVo2dWNyenZyY2NIbHU5TE1fTHl0VlNBUE8?oc=5",
        "source": "24/7 Wall St.",
        "date": "2026-10-25T07:00:00+00:00"
-      },
-      {
-       "title": "VANECK UCITS ETFS PLC (GDGB) ETP Price and Quote",
-       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZWZqXy01cW1lVTFBU0ZDbXRCZkczR3ZTVzl3Zzk2NnZ1NURScmJRU21vMElucmtIWDU0dlUwOExncXdVY1JhX2FkdXpDSUtJSjU5Q24yZXJpekhYWXEzLWVteVJ2RzBRRUd6MnpEdm93Y0xxNTZDQWtBeGJXS2NkUS1R?oc=5",
-       "source": "London Stock Exchange",
-       "date": "2026-10-23T08:22:41+00:00"
       }
      ]
     },
@@ -323,16 +323,16 @@
      },
      "news": [
       {
-       "title": "Metso to Deliver Metso Loesche VRM Dry Grinding Technology for First Majestic\u2019s Jerritt Canyon Gold Mine Restart... - Mining / Metal / Mineral - Metso Corporation",
-       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNakEzYUN1ZjNXWl9ZYVJ4dVhUeVRjRTRaamt4MkpuQ3RHZFZIWHFHMmJrZFFVUXpJSWhOZnJUc2R2czExc05kM2pLdHAxOWF2M1FZYjF1UkdJSGZ2VzdUOW5vNVhpdzB1WWkwX29hcE1CcnhoWGU5TnZ1enJLZ3pQNUF6MkxlRkxPZEx2ai1GOVNkQnZpV2tKOU9Hakx5UFhaYVpqdlM4SGhRaW5kVlVWMFQ3R3FOcFJkNk9PYzRsSjJnY0FYMlJDb3ViYUhSak13V3ZmaDZoMF94SENodXl0MmwzZmdJTDU0VTV1MXNWOFhhU05r?oc=5",
-       "source": "NewswireToday",
-       "date": "2026-11-09T19:10:36+00:00"
-      },
-      {
        "title": "First Majestic Silver Corp (FMV.HA) Seasonal returns chart",
        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBxTjc1WHc4VUljYWtnYlc4dmhDZFJVVG90THB5Rm8tdEE1NVJJSzhxVDctNWNZSi1FUG0wRUhGem5qM0FtdUtScjhVRlE5QS1PQUd2c216UE13QjEzSFdPa0V0cEo?oc=5",
        "source": "Yahoo Finance UK",
        "date": "2026-11-09T17:05:27+00:00"
+      },
+      {
+       "title": "First Majestic picks Metso Loesche's vertical rolling mill",
+       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNajQ1amRRQ1g0bTN2cjZjOTAxZHZRbmVhSkk4TUx3dlZLTUpUb0ZHRWRaRWZ1aThVTlpKTEVSVXRNYXduZmxVaGVzNG1xTXFjR0RXaFBPUWxPczA3T1dzQXVGNnMzV1FkRkM1dVh2VzQzc0paaXlFaHVBeWc4V2kzc0I2RnBLTmJKTUMzZGpNSUxQV1hjODBQQTlucklqc0JZYk9JU0Yxc0Z6elVNcnc?oc=5",
+       "source": "Mining Magazine",
+       "date": "2026-11-09T14:02:14+00:00"
       }
      ]
     },
@@ -398,10 +398,10 @@
      },
      "news": [
       {
-       "title": "Bunker Hill Mining Corp. (BHLL) stock price, news, quote and history",
-       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oUUlkSEJXT2l1T1JVbUJUZk5rNnE2UDF6Y1hISWJ2OXFmMXlsQ0RJeDRKd3hVaXJuMW5mWjVFV1EzXzFxZ2xXSUVsak9IdkFGNmc?oc=5",
-       "source": "Yahoo Finance UK",
-       "date": "2026-11-12T04:45:45+00:00"
+       "title": "Guanajuato Silver notches 13.7% AgEq production increase in Q3",
+       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOW11RzVDYi1MUE95ZlR1NHdTOFNoa0VZaFNvY3pUT3lZbGRTRTN5RUhXcmQ5NTZKNWVvX2ZjekoyRHFlV05SVC1YUU5ya1RtcXVVR2swMUMzcnl0aXdsaUpYcWZHUGJybEtneWxiMUh1aXpKNHVMNGZ6VXZSOXRub240RkppNVVRaVpUaGk0VF91UQ?oc=5",
+       "source": "Resource World Magazine",
+       "date": "2026-10-16T14:39:44+00:00"
       },
       {
        "title": "Guanajuato Silver Company Ltd.: Guanajuato Silver Provides Q3 2026 Production Results",
@@ -618,16 +618,16 @@
      },
      "news": [
       {
-       "title": "The uncertainty around Nvidia stock provides an opportunity for options traders",
-       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYnIzVk81MHVsVzFVbG9OWGxGRTMzb2lLOUhsY2JLZzRucTZPTWN5eFBwc3hKQ1daUkNMM1didXpKbndmUUgyQ09FM0tkWkJ1aVkyUmdHRWpETjk2dkdHYldpSEFMMXpCNHp0VmdNc0t3SHFyZHVJUUhObzhhcVVGY2VpekYtZGpVR19Tdm9XczBMWmRVX0ZHT2N4MENMbzAzcXJUMHl0VTQxZ0cteVBzZXRPZG5nbFgzTGhRRUFadw?oc=5",
-       "source": "CNBC",
-       "date": "2026-11-13T19:01:12+00:00"
+       "title": "'Nothing has changed': Why some Nvidia stock bulls aren't wavering after Jensen Huang ouster",
+       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNElWbE1lOVJadXoxSXhxYy04M3B4ZG9PeWhIaW1lZE9maF91M3N1OXd6eFhSSDJZcVlkMm5oZFdoeDJiaVRqYnJBRVkzczJ0TG1kSjFVT0Y1dG5iV1JMS0NPTW9oeVNlYXZZS0haUThFQVNlcnhJbTlMTjAtZ1pQaFc5WDNhd1VDTFVqY1dDOF9NYlRhTE9xamFUdkpBVVo2MlIyOXJsYVdRYVNDV0RCTDRBS2dKRFc1YkR1Tnczc0VSbGNUX21pRTFsWUpDR0dNMmpLT2V4UmtheUs0WWs2YXRB?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-11-13T20:45:22+00:00"
       },
       {
-       "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker",
-       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMS14RTRiS3dmNkJYanF4ay0yMkFYWmlEdHBDTjZlUjBDWWlHMTYxa3VkbDRFTld6eHJBdF9UczMwQVVkN1JqVW8xdXRpNTZ5X2VYZEdObFBBVlFLdXIwdjdHcFYzZTNOelNFVi14RnNyTXp0ck9OQzJfQldSSTRFTVBVNDVJWUJjemVxUFZGeFlPcC1ha3A5YjV6d9IBoAFBVV95cUxQM3VxeV9ud0xRcW1EWkJnVEFWanVOc1FuNE5EcXdKMzNVWmM3akJoM01XejdvbTRJWmtIbHF3VEtaUzlzdFZDT0dFUzhvZlVEUTRWVEpWay15b1F6ZE8wc1VwemNHUENlNmZ2VUl4cTRxTjJzbWt1V0ljUTdXR1hnT083UnhjZWdNcUozVzduRWRsNWlNcm5pcm5CaURNNFpm?oc=5",
+       "title": "Deepwater\u2019s Gene Munster: Nvidia stock will likely outperform rest of AI trade in the next year",
+       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPckFLWEYxVFZZUzlKb1dERkNzZHVVblpRUW5kN29DZXRnT21VUWZUYmE0WDI0LXZNYVJUMmZJYzZMeV9PbDk2bXp3XzkxdWczSU5zRjE1Z3RleWhpQktUdXplWnNVd3BvUHZsN0UtbGdxMlI4YjN1alBIa3BXelF2Nk45X0lyZlJQQk41Wk5aVHVtSG0xaEZwZlAzcE5CN2hDTUlQOTJUVGpFcVhyWTBMbVpHYXdaNk1DVXpxZm1wRkFhOEhuVEJBMVNXMzA1VnVHeC0w?oc=5",
        "source": "CNBC",
-       "date": "2026-11-13T18:32:47+00:00"
+       "date": "2026-11-13T19:45:43+00:00"
       }
      ]
     },
@@ -803,10 +803,10 @@
    "date": "2026-11-11T10:45:02+00:00"
   },
   {
-   "title": "The Stock Market Is Repeating a Pattern Not Seen in Decades, but History Says Investors Who Make This 1 Move Will Win Out",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNWFI2NG5sSnI2ZFE0eXRXcjBoSmJsai1XaDYxWlNpQlNBWmdzdnNzM1EwdjA4eTFyT3NVdTJPeXBDdHZVYi1PVGI3Si1jU2o4bGJfNTllbkhsNTBnLTIyRUFHTjFobnFWQmY2c25aZnd5V1hHSW1YYngtRzBpQktHYnJCLWNsV3RtdFo2R1U2RVlDbEk5eEtqYmFqc2lTUTFZZVZVMVNEVS1VTVBtZWFQM0Z6NmIwZ2ZsTWV6ZThaN3RMbU1qMVI5c0hibDRwU0FUTkJyRGkzRmpKSks2V3pnUThKX1RCcHlaYlYtYm0yRGpuZjJRMFE?oc=5",
-   "source": "The Motley Fool",
-   "date": "2026-11-11T10:30:00+00:00"
+   "title": "Will the housing market crash due to the affordability crisis?",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZlRndE5BblFlbTZLeTNIQi1OeDB0M0FYQ3pvMGtwcXEzVFo2ejdQMGllOHZGRjJUUUZnZ3VqX3hxZHV0LTN5YzBoc1VkLUJWdFc2VGFua0dPbXFjVGZ1SzF4UTdrQ2puVFpacFZiWEFyemw3MkZvMU01dmtmUHMzU0VNejUydTZidzFYU1BSMFlkNjlZNmMxcFRnMzZNOVM1Mi0wRVM3T0RLMFhDaWZrV0dOeUtFc1Z2aFR0ZEo3TEZKejdTTVBvcnJILUxNcktQUEJF?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-10T16:34:59+00:00"
   }
  ]
 }
