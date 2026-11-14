@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-14T01:29:32.615952+00:00",
+ "updated": "2026-11-14T02:27:39.121234+00:00",
  "usdnok": 9.563750267028809,
  "btc": {
-  "price": 68295.25,
+  "price": 67661.296875,
   "prev": 71342.96875,
-  "chg": -4.2719258861792175,
+  "chg": -5.160525191909682,
   "currency": "USD",
   "asof": "2026-11-14T00:00:00+00:00"
  },
@@ -32,6 +32,12 @@
      },
      "news": [
       {
+       "title": "Kongsberg Maritime ASA (KMAR.OL) stock price, news, quote and history",
+       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tMm5HeU1KcjJpSWl2MEpzWU1LVWRIS3EzbjI5ZGpXek94X2N2a3VuZW0tck5FS2JSVHB0eUpMWFNVa1ZMZDNfOXdub1Z1bFcwWXgxZlhn?oc=5",
+       "source": "Yahoo Finance UK",
+       "date": "2026-11-12T18:57:40+00:00"
+      },
+      {
        "title": "Kongsberg Gruppen ASA (0F08.L) Seasonal returns chart",
        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE44R3gyWXJkdzg2aVAtYlBjcU9XVWpEOXJSTjRVVXFHNmhQU0swQjdDdHlhM3hyTXUzWUFqMUppaVc3YVdBdlV4NFpkUnFpcnVUSDFYSDdLaXZoNHAwMEZQSkxDRlc?oc=5",
        "source": "Yahoo Finance Australia",
@@ -44,16 +50,10 @@
        "date": "2026-11-01T07:00:00+00:00"
       },
       {
-       "title": "KONGSBERG secures US government contract for underwater capabilities",
-       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa0J0WVlGSWkwZ3VHR2t3cWNqN1Q0M2ZmX0tqdmJhUzZrQkxwNVljUWFvMG1xcF8zUVpFa1EyTWNNVFhhMmRfNFdTVVp6R2JpaDQtdXg2UDMxMzRRV1JUSEQwNDlFZVFQTW80SGVjZ2hQdGtwWVd6bVpfOXJoSFhGdzEwOU5YWVhxTDU3d1hUU2RSWl9PUlF0QkF1RERRa3otTWNGVzN3RW5RYW5kclVnMWpLVC0?oc=5",
-       "source": "Naval News",
-       "date": "2026-10-30T07:00:00+00:00"
-      },
-      {
-       "title": "Kongsberg Gruppen Q3 revenue beats estimates on defence demand",
-       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNd21WOVN4LTVjZjZYX2lTRVIyTmN0QWdvRVdJamY1S3lqRVlHNTNRRlh5SGtZeE14YlFleXVFbE5SYmtEXzdWNjdYNndia1hhWXQxUUhVT2NEQ0E0YktxME5iTjdQLUhRc2hGY2VNWjJ3eEFLQ1Vud1RfZE9QdVhvQnc2VVFQUXRwaHkwUzRoNGhvUVZZM0liQWJyNnZGaTBCQlo0NXlMdENxdkY4SjRKVlNFSmxiMTcyRjhucnNMUXBEWExXaFdkLUlub28?oc=5",
-       "source": "TradingView",
-       "date": "2026-10-29T07:00:00+00:00"
+       "title": "SB1 Markets raises its price target for Kongsberg Gruppen to NOK 425 (400), reiterates Buy",
+       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQR3FOZmVUVEhhTWUzcksxaUw5alB2Z1J0bUFLSElVYzBueXdUX2lQNVhZUEFGU3RBUWtXUlF3NENTTjRGeEJlSXRYX2hfRFhueEhsM19tV0hhWWxORldxV1NER3oxUkRwaUU2WW1EVEI0VTFXN0kxcVNmQ3ZMal9mRDZVWTVvWDR0Vnh1eHVpbzdmaHpPV1BoUmo3X0lKSFN3SGc0cEJjV01LNkdxMjlQZXhycXpfNkl0cGViUkRRU3NzVjV3aGVGY1FjamN1Qno3a3IyZ040dw?oc=5",
+       "source": "www.marketscreener.com",
+       "date": "2026-10-30T07:55:20+00:00"
       }
      ]
     },
@@ -69,16 +69,16 @@
      },
      "news": [
       {
-       "title": "Kongsberg Maritime ASA (Z4Q.DU) stock price, news, quote and history",
-       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE03MjZjRUpqdVg1SXUzNUxfZkw5Tl9yT0JuRW56bEtOcDY0VC1qSG5iZFg3eDYyWVZQLXEzcmZPcUsyRS1YREJERlRJMWsxLThObHdFazRHZXBhZG5NU2pySndkQzA?oc=5",
-       "source": "Yahoo Finance UK",
-       "date": "2026-11-12T07:45:29+00:00"
-      },
-      {
        "title": "Kongsberg Maritime ASA (Z4Q.DU) latest press releases and corporate news",
        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPWHE5SHZxNDEyTnNXV3V2U3p4dmZYSTJQTGtjd29yN0w5QTlDb0RHUUtVSUxLcEQ3aUZFbnM3VndxLUE3cDRiZXJIOUlYOVBSeTFTOHpjQko5VnVzR21nN0FXczhGWHBi?oc=5",
        "source": "Yahoo Finance UK",
        "date": "2026-11-12T06:39:52+00:00"
+      },
+      {
+       "title": "Balaena And Kongsberg Maritime Sign MoU To Advance Arctic Hunter USV Program",
+       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUng5b0R3bnZ6Uy1zdVlRRkk0SUl3LTZDbUpNRUVqR2dXMS1IeVRubUdMZ21tOFVnZ2lGS1RfVWxxZ2t0cXRaQ01FOHhRbWp3cWp5OHpZTlg4VXJkSXhQVF9vTFBTOTZiTzBaMHVoeEFyQkxYVlVObEtDR1BaejRIR2l1LXR3ZDJ0QkVuYWhkQzVYUzdPR3BFVGx0STIzQWd1WTVSOFFHUVNwTmlKQ0lFNE5n?oc=5",
+       "source": "Ocean News & Technology",
+       "date": "2026-11-11T16:29:53+00:00"
       },
       {
        "title": "Balaena, Kongsberg Team Up to Bring Arctic Hunter USV to Royal Navy",
@@ -215,9 +215,9 @@
      "symbol": "HL",
      "name": "Hecla Mining",
      "quote": {
-      "price": 13.1,
-      "prev": 13.4695,
-      "chg": -2.743234715468279,
+      "price": 13.100000381469727,
+      "prev": 13.350000381469727,
+      "chg": -1.8726591225196487,
       "currency": "USD",
       "asof": "2026-11-13T00:00:00-05:00"
      },
@@ -265,9 +265,9 @@
      "symbol": "ASM",
      "name": "Avino Silver & Gold",
      "quote": {
-      "price": 4.29,
-      "prev": 4.4479,
-      "chg": -3.549989882866067,
+      "price": 4.289999961853027,
+      "prev": 4.400000095367432,
+      "chg": -2.5000029802321744,
       "currency": "USD",
       "asof": "2026-11-13T00:00:00-05:00"
      },
@@ -290,9 +290,9 @@
      "symbol": "CDE",
      "name": "Coeur Mining",
      "quote": {
-      "price": 13.98,
-      "prev": 14.44,
-      "chg": -3.185595567867028,
+      "price": 13.979999542236328,
+      "prev": 14.300000190734863,
+      "chg": -2.2377667428694625,
       "currency": "USD",
       "asof": "2026-11-13T00:00:00-05:00"
      },
@@ -398,10 +398,10 @@
      },
      "news": [
       {
-       "title": "Guanajuato Silver Company Ltd.: Guanajuato Silver Provides Q3 2026 Production Results",
-       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQY3hwX3F3YzRRR0hWc1FRbEdZMTU3ZEt3bzFDT2Z4ekZqZTJ0VGF5YXVPYXBKSnVXbm9EaFNaUmZtTXNJOVZDT0xqM2FldjFUV3BNNUNYa3BWU0MtTWpnTDhOaWE5MnE4ZzJHSGxkR19GVVk2eHM0ZF90eUFic3hRNXJtcWR3RHdQMEJHRDN1aFFtUnRBSVVLOUg4QmtMcnkzOTZMSm9jOE5LR3ExRm9jdnZJSVljYmxNMkJvczd0dTItQWhjN3ZzSGg2dC1kLWZtLWxNX2NVM2dfRVlPSEhxZUlDY0Fwa2th?oc=5",
-       "source": "FinanzNachrichten.de",
-       "date": "2026-10-16T07:00:00+00:00"
+       "title": "Guanajuato Silver Company Ltd. (GSVRF) Seasonal returns chart - Yahoo Finance",
+       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE80eGgtRXgzbmNRVWJueW9tVzhTcVJuOGtwUzdVWmJJVUtBc1p1Nnd4cjV3eVhjT19UckNiRHZwM0JVOURON0xlMmpaQkVndHBuVHpFUEFPdG5hZmdSa1lHUzFESQ?oc=5",
+       "source": "Yahoo Finance Singapore",
+       "date": "2026-11-06T21:00:00+00:00"
       },
       {
        "title": "Mexico\u2019s Mining Industry Adapts to Global ILO 176 Safety Rules",
@@ -494,11 +494,11 @@
      "symbol": "^GDAXI",
      "name": "DAX",
      "quote": {
-      "price": 26771.880859375,
-      "prev": 26662.76953125,
-      "chg": 0.40922728599936953,
+      "price": 26749.94921875,
+      "prev": 26771.880859375,
+      "chg": -0.08192043263677284,
       "currency": "EUR",
-      "asof": "2026-11-12T00:00:00+01:00"
+      "asof": "2026-11-13T00:00:00+01:00"
      },
      "news": null
     },
@@ -560,9 +560,9 @@
      "symbol": "AAPL",
      "name": "Apple",
      "quote": {
-      "price": 356.27,
-      "prev": 355.35,
-      "chg": 0.25889967637540146,
+      "price": 356.2699890136719,
+      "prev": 354.8800048828125,
+      "chg": 0.3916772181397965,
       "currency": "USD",
       "asof": "2026-11-13T00:00:00-05:00"
      },
@@ -585,9 +585,9 @@
      "symbol": "MSFT",
      "name": "Microsoft",
      "quote": {
-      "price": 523.88,
-      "prev": 521.99,
-      "chg": 0.36207590183718885,
+      "price": 523.8800048828125,
+      "prev": 523.0,
+      "chg": 0.16826097185707045,
       "currency": "USD",
       "asof": "2026-11-13T00:00:00-05:00"
      },
@@ -610,18 +610,18 @@
      "symbol": "NVDA",
      "name": "Nvidia",
      "quote": {
-      "price": 162.85,
-      "prev": 168.03,
-      "chg": -3.082782836398268,
+      "price": 162.85000610351562,
+      "prev": 166.19000244140625,
+      "chg": -2.009745645841854,
       "currency": "USD",
       "asof": "2026-11-13T00:00:00-05:00"
      },
      "news": [
       {
-       "title": "Deepwater\u2019s Gene Munster: Nvidia stock will likely outperform rest of AI trade in the next year",
-       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPckFLWEYxVFZZUzlKb1dERkNzZHVVblpRUW5kN29DZXRnT21VUWZUYmE0WDI0LXZNYVJUMmZJYzZMeV9PbDk2bXp3XzkxdWczSU5zRjE1Z3RleWhpQktUdXplWnNVd3BvUHZsN0UtbGdxMlI4YjN1alBIa3BXelF2Nk45X0lyZlJQQk41Wk5aVHVtSG0xaEZwZlAzcE5CN2hDTUlQOTJUVGpFcVhyWTBMbVpHYXdaNk1DVXpxZm1wRkFhOEhuVEJBMVNXMzA1VnVHeC0w?oc=5",
+       "title": "The uncertainty around Nvidia stock provides an opportunity for options traders",
+       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYnIzVk81MHVsVzFVbG9OWGxGRTMzb2lLOUhsY2JLZzRucTZPTWN5eFBwc3hKQ1daUkNMM1didXpKbndmUUgyQ09FM0tkWkJ1aVkyUmdHRWpETjk2dkdHYldpSEFMMXpCNHp0VmdNc0t3SHFyZHVJUUhObzhhcVVGY2VpekYtZGpVR19Tdm9XczBMWmRVX0ZHT2N4MENMbzAzcXJUMHl0VTQxZ0cteVBzZXRPZG5nbFgzTGhRRUFadw?oc=5",
        "source": "CNBC",
-       "date": "2026-11-13T19:45:43+00:00"
+       "date": "2026-11-13T19:01:12+00:00"
       },
       {
        "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker",
@@ -635,9 +635,9 @@
      "symbol": "GOOGL",
      "name": "Alphabet",
      "quote": {
-      "price": 295.77,
-      "prev": 300.9579,
-      "chg": -1.7237959196286345,
+      "price": 295.7699890136719,
+      "prev": 298.70001220703125,
+      "chg": -0.9809250330155894,
       "currency": "USD",
       "asof": "2026-11-13T00:00:00-05:00"
      },
@@ -660,9 +660,9 @@
      "symbol": "AMZN",
      "name": "Amazon",
      "quote": {
-      "price": 266.66,
-      "prev": 268.3293,
-      "chg": -0.6221087298330708,
+      "price": 266.6600036621094,
+      "prev": 267.44000244140625,
+      "chg": -0.2916537437093969,
       "currency": "USD",
       "asof": "2026-11-13T00:00:00-05:00"
      },
@@ -710,9 +710,9 @@
      "symbol": "TSLA",
      "name": "Tesla",
      "quote": {
-      "price": 390.22,
-      "prev": 399.7366,
-      "chg": -2.38071770260716,
+      "price": 390.2200012207031,
+      "prev": 397.45001220703125,
+      "chg": -1.8190994500616675,
       "currency": "USD",
       "asof": "2026-11-13T00:00:00-05:00"
      },
