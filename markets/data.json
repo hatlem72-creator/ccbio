@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-14T06:30:08.282073+00:00",
+ "updated": "2026-11-14T07:43:27.208672+00:00",
  "usdnok": 9.574799537658691,
  "btc": {
-  "price": 67289.8828125,
-  "prev": 71342.96875,
-  "chg": -5.681128790284607,
+  "price": 66965.5703125,
+  "prev": 68249.2734375,
+  "chg": -1.8809037229906456,
   "currency": "USD",
   "asof": "2026-11-14T00:00:00+00:00"
  },
@@ -32,12 +32,6 @@
      },
      "news": [
       {
-       "title": "Kongsberg Maritime ASA (KMAR.OL) stock price, news, quote and history",
-       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tMm5HeU1KcjJpSWl2MEpzWU1LVWRIS3EzbjI5ZGpXek94X2N2a3VuZW0tck5FS2JSVHB0eUpMWFNVa1ZMZDNfOXdub1Z1bFcwWXgxZlhn?oc=5",
-       "source": "Yahoo Finance UK",
-       "date": "2026-11-12T18:57:40+00:00"
-      },
-      {
        "title": "Kongsberg Gruppen ASA (0F08.L) Seasonal returns chart",
        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE44R3gyWXJkdzg2aVAtYlBjcU9XVWpEOXJSTjRVVXFHNmhQU0swQjdDdHlhM3hyTXUzWUFqMUppaVc3YVdBdlV4NFpkUnFpcnVUSDFYSDdLaXZoNHAwMEZQSkxDRlc?oc=5",
        "source": "Yahoo Finance Australia",
@@ -48,6 +42,12 @@
        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWWM5aV9PbGNsUFJoT3hqNTduOFhNbUpZcUtOVC1EWm8zVHNlSjlHSGZ2cExNTkNIejVXSTVRUFh0eWdPYlcyUFpxUTZmMjJSaXh2QlZ2dFI2OEQtR2djVUdxdElqTGQzTTJNTDBueEJQbDkwTDNYaVc4aXZnUHZmZUhjVDlncjRTY2Z2cnlfQXZjWk15ZlRwZDhuOUxsYVg5STdkZk1HMTQ?oc=5",
        "source": "Seeking Alpha",
        "date": "2026-11-01T07:00:00+00:00"
+      },
+      {
+       "title": "Nordea raises its price target for Kongsberg Gruppen to 425 Norwegian kroner (400), reiterates buy",
+       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSGk3TzhCaEdQSmpfMUxTNGQ1X2dFckpNeXZTRjNvd1k0SEY5UjlCSUZxNG9zSTB5dGpTcGlOcDFndTM5UHFpTk1HMVhCWUpFemFIOEt5NjhxNXhVZm9IblJJS09aVjVOOU13NVAwVWViejZaaVI5X2RfQl8wN1JBZWJnTS11ZXhMbDdrenRiYTk0RDZReTQ5UUlaZkpaQ0hOYVZlZjZURC1OX2N4cUpXWWFjY1RnVDJGVHhkLVVFbHBrM1RwajJ3QUo1d0U5MFJ5X3o1U0EzQ01KcnR0RHJETV9R?oc=5",
+       "source": "marketscreener.com",
+       "date": "2026-10-30T07:27:46+00:00"
       },
       {
        "title": "KONGSBERG secures US government contract for underwater capabilities",
@@ -69,16 +69,16 @@
      },
      "news": [
       {
+       "title": "Kongsberg Maritime ASA (Z4Q.DU) stock price, news, quote and history",
+       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE03MjZjRUpqdVg1SXUzNUxfZkw5Tl9yT0JuRW56bEtOcDY0VC1qSG5iZFg3eDYyWVZQLXEzcmZPcUsyRS1YREJERlRJMWsxLThObHdFazRHZXBhZG5NU2pySndkQzA?oc=5",
+       "source": "Yahoo Finance UK",
+       "date": "2026-11-12T07:45:29+00:00"
+      },
+      {
        "title": "Kongsberg Maritime ASA (Z4Q.DU) latest press releases and corporate news",
        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPWHE5SHZxNDEyTnNXV3V2U3p4dmZYSTJQTGtjd29yN0w5QTlDb0RHUUtVSUxLcEQ3aUZFbnM3VndxLUE3cDRiZXJIOUlYOVBSeTFTOHpjQko5VnVzR21nN0FXczhGWHBi?oc=5",
        "source": "Yahoo Finance UK",
        "date": "2026-11-12T06:39:52+00:00"
-      },
-      {
-       "title": "Thales partners with Kongsberg Maritime on Royal Navy\u2019s anti-submarine warfare capabilities",
-       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNd0pKMDNtcVJxakFQc2F5dzBPQWxmREp6UHVpTUhvYk92ekEwNE91YzdiR1diQ25ocEcxbTB2b3JYZXozeFdUQUkwM2stTjFsdkp5WHk3SVBZMVVyQnpueE1ZQkQ5SF9jTHRvY3hteG40V1FDYlBnVDVjdC1WUExqTVBRZWNXTjZpU0t1TFpjM0wxaUJJVUVHSFV3ZzFDNTRzekpwNjRmV1N4MGtxYkxscGFqQ2FNZ1IzSmtOMUF0eE94NkhVek1oNlVBdw?oc=5",
-       "source": "Media India Group",
-       "date": "2026-11-11T08:47:16+00:00"
       },
       {
        "title": "Kongsberg Maritime and Thales UK team on Arctic Hunter Type 92 proposal",
@@ -112,10 +112,10 @@
      },
      "news": [
       {
-       "title": "New 2026 Lows In Gold, And The GDX ETF Is A Cautious Buy (NYSEARCA:GDX)",
-       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUnhQQjcwRTFTMGRNd1V6NUVUYm1FV2tmaWkxUjZRNWZHSk9jRlR5a1NHXzJWNHlxQkVyTjRzWUNmc0VmaG9QZHdFM01MNGN1X1dfQ19ubkJzdG8zZnVLd3hYT0JIV2ZnOUpkUG1CbTJQZ0F3LWVrMVhCVmxfYjdJcDZNU091U1d1cW9CdnBtUndGcDhIZTEyc3hkeC0?oc=5",
-       "source": "Seeking Alpha",
-       "date": "2026-11-13T20:10:28+00:00"
+       "title": "VanEck Gold Miners ETF rated cautious Buy amid gold's mixed signals and economic risks.",
+       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY1BBT1FlS2tEaFA1ajFtcG1ka1lNbFRrRzkzcGJtNGEzdzdWdlpXR0JobzFaX1FHSzhYT2YxbTNFOUc4ZEZweTdfS0dmUTBHRHp4RU9lc0R6UkZWcDBIRnJHS3I3Z253emg2akJwb3BrTDJ6dFV1eVB6Njh1R19ubUk0YklOekNxSUxN?oc=5",
+       "source": "Pluang",
+       "date": "2026-11-13T21:19:55+00:00"
       },
       {
        "title": "Gold Miners: The Opportunity Behind The Volatility",
@@ -248,16 +248,16 @@
      },
      "news": [
       {
-       "title": "Hycroft Mining Holding Corp (R5A.HA) interactive stock chart",
-       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDel9nelpWM2FrcGljdXZhRDFnWVhXM3NPNi1NdWNpaFBHdE1LcXJ6RklkaHBvLVQzUExvd1lHajh5QVgwNkhaRTVHNG54Vmx5SkpMSjFZcnhlcTk5?oc=5",
-       "source": "Yahoo Finance UK",
-       "date": "2026-11-06T08:51:15+00:00"
-      },
-      {
        "title": "Hycroft Mining Holding Corporation (HYMC) Seasonal returns chart - Yahoo Finance",
        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1UNWp3R0hXbkFMOTFwR2tFQ244WnVLQ2dQQXItRXN3OW9ySTRWb0ZVeDhPbmFaUDBhSkh5Yk1memFUU0JOdW1jWXVsOU9ybTItQ0xFenpKMTZoUldUci1IUktR?oc=5",
        "source": "Yahoo Finance Singapore",
        "date": "2026-10-29T22:16:09+00:00"
+      },
+      {
+       "title": "Hycroft Mining Holding (HYMC) Looks Pricey Following Wider Losses And Leadership Changes",
+       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYTl5WVByNjJUN3hRVi02U2VYb3RSTWNEZUlzT1I4TUZPTWxMd1h3RHFCUUU1ZklQRF9PR2FYZldmdk1pcHJ4ZVJ4c1RVUThwWXhFS1FaVFlVcEppbWhDVmJpZnVnYzFORkhiOFJRbS1BZUF1cE10dnhiVFJGdVhyTHp3Z3JmRWtKWkdMb2R6a0puYTBFVE4xc25hek9vMjA?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-10-29T07:00:00+00:00"
       }
      ]
     },
@@ -279,10 +279,10 @@
        "date": "2026-11-11T22:43:48+00:00"
       },
       {
-       "title": "Avino Silver & Gold Mines Ltd (ASM) Q3 2026 Earnings Call Highlights: Strong Cash Flow and ...",
-       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbDc2TnVwRTdZTm1fbEg0UGpONUdmR3VTOFFUN0VCX1dWZzQ0UTM2MnViU2dkLURtam93SVlyWDVnd21wV3RHNi1lbDhVT2pnVkd5aENNNFFxOXE5cTBnSTJGeEZjVkxQV2xKMkVicmpVVEdDVkRJN3pWSW5NYU1yTzR5dTdZMG00YnE2ZHZOTUUydTVGS2lIdVhxdl9fZw?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-11-05T23:11:32+00:00"
+       "title": "Avino Silver & Gold Mines Ltd. 2026 Q3 - Results - Earnings Call Presentation (TSX:ASM:CA) 2026-11-07",
+       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRmlYRFVIZGhNcl93bjE1bXN1R1U3VGpaZUtFeEZleFNNaThYV2lLbVZNUmJ5UndCSFFEbXlNTXp1U3dGc1JuMG43eV9CMWhlU3FKbEJMMFludjBCUThmWEZ4REk4QTNYdHYtYnZLTDZiT0Myd0xFRXpQN2FRaFFsMjdUV2xKdktCSlo2S3g3dFQtQVZGU0tkb1dHYnhEemM3enVrNHdnZ3BTaGk0bFN4LTMwbTVJZw?oc=5",
+       "source": "Seeking Alpha",
+       "date": "2026-11-07T20:45:34+00:00"
       }
      ]
     },
@@ -298,16 +298,16 @@
      },
      "news": [
       {
-       "title": "U.S. Targeted Value Portfolio (DFAT) Buys $3.7 Million More Coeur Mining on Wednesday",
-       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMDJCM2hyeHhKTVRWN0JlSmhZYld2ZHNlbGRYSDUwMUNkR1RvbnlJeFhKMDBhdDhobUxhbHFnamVYcFhhVXgwMmROVk1xY2IxNDlmTlp3S3NqV0VZSkZSaTdQVGZIeW0zMG41LU00UmNOQlFLaDdydkRuVmZfVXRhT1dWajU5VmM?oc=5",
-       "source": "Yahoo Finance UK",
-       "date": "2026-11-13T11:04:36+00:00"
-      },
-      {
        "title": "Coeur Mining, Inc. (CDE) Stock Forecasts",
        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPem9CeEZNazdKZWZlOWxjMzNWTmxoUHFCRUJTQ09GQWhNQlRNSkQzTkJkY05tdnloNVJfZW9IaHlPTTctdFdiMm04UzJ3SHM5N3cxaGp3Y1FjVWJkX3dmOG15VzdLVWp0U0NYT2I3NWNEUlJlSVc5dlpTQjJuYzlQY29VamVtWUNhMWxOVlFqSQ?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-11-11T19:34:29+00:00"
+      },
+      {
+       "title": "How Did the New Gold Deal Drive a Revenue Surge at Coeur Mining in Q3?",
+       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVFQtSFBmOUdybmllV1NiOVNkeWl5TWhFdUFfMTQ3WFVwa3drTExiT0VrSGpJQ3A5ZzlZYXpFRDRMVEFCSlJaYXJVVWhIZ1pQUWpjWnZkamtTM0tUemZMQ0RfQ244SEZ1NUN2aFlmeWF2MVRJUkZMdUw5ZnMwZ1VSMmJBMzhJd2NOb0ZhanJEZ1lzQXVtZzdyM1lISkpXUVFlQVhFMlpTcVl2cFdyTkZTc1dWV3g5ZXY5NTlfeW9R?oc=5",
+       "source": "Kalkine Media",
+       "date": "2026-11-10T08:59:00+00:00"
       }
      ]
     },
@@ -329,10 +329,10 @@
        "date": "2026-11-09T17:05:27+00:00"
       },
       {
-       "title": "Metso makes milestone Metso Loesche VRM dry grinding tech sale to First Majestic Silver",
-       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQ2g2NUVLRUpsMHJsZXZrZHNJM0o1VjhwckQwUERfSEM5em9uY0F3WGhJXzVMTFo5RjhiaHhET0I4cHJBbUxBQVEyS1c1RGFENml5V3dzNEJhN2xSZHNiWTJSMkxPQ01PQ0lDdTBnWThhN3lxWnZ4dFMwOUFkbmJmMjBQT3RIOHNmeTM0V1RpaTN5NlEzVlFqcDBGSHVqcXV3b0ZKbGNKMW9YZlplaDJNRFpfWThyZ0dhb2Rza0pB?oc=5",
-       "source": "International Mining",
-       "date": "2026-11-09T10:38:09+00:00"
+       "title": "Weekly Recap: Q3 revenue rises 38% and Buy rating retained, target cut",
+       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWkNyM0cwa3F1QmFnNkwzYm85RGh0eTRCX1NNNTBDR1ZINm9BaDVBdnF1X0JZbGNRTFBWUHlJX1VOOWVyaGVmbzdTcUF1dFR3Q29qaklNc1Nfdl9COGVDUDYxSm1FTkhTTVAycmtaaFE1Nmp2MmhKUFplbnd1czlDQm5CQzJGVFRPM0k0NWM1REtzbnNxbDd0SnJVUDVpUXV6SWdaTHZjbFdNdm5UWVZqbWIyNWFpRndHekhGb2owZ2F5SlZWM3dYRw?oc=5",
+       "source": "TradingView",
+       "date": "2026-11-09T11:00:00+00:00"
       }
      ]
     },
@@ -348,10 +348,10 @@
      },
      "news": [
       {
-       "title": "Why Is Defiance Silver (TSXV:DEF) Down 2.33% at CAD 0.105 With an RSI of 25.51?",
-       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcFgxX19XRGItYk9RSGlJWHNlaFk1NFdHd1dFUjF5Yk9BUmprYS1ORmVpUjJNd1NySmdQRUwydHZoR3RKOHQzak0zdVBXSng4NmROa2ZnRWVYRmR0TUxucmFGNjM0ZDdCcVBFVF92WjlWQ0RFbjhmQWpEbHBWWklQWWdxRU9GTHZwTEZOVURiNWdqZ2VlZ3l0LWVPcmxVX202R1hOSA?oc=5",
+       "title": "Defiance Silver Corp. (DEF): Understanding Its High-Beta Profile and Exposure to Market Volatility",
+       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTE9WaUxXMWtiZ1QwM0ZBUEJnT0tURGlrV1ItSjR1eUp5VDNnd0EwdlJDZnY5ZUR6U3plY2htX1BMMC1UQTRpVnoxeVlQUklHU1JJSGN2andMMFJLV1U3QmlLQzVGcXNINWV5cUNpVnZDQTJXTkhQUjRFMzV5LWtaUnc3SEF3X2NNSE9ZRWhfbkw1aFM5OWpSeVBVQ1NfZ1djdzN3VkdvaGRMODRMM1RMd2h0UkRPTEZPcW5HSlptSVBIbEk?oc=5",
        "source": "kalkine.ca",
-       "date": "2026-11-04T12:59:00+00:00"
+       "date": "2026-11-10T07:53:00+00:00"
       },
       {
        "title": "Defiance Silver Corp.: Defiance Silver San Acacio Drilling Returns High Grade Silver; Additional Holes Pending from Lucita Drilling",
@@ -593,16 +593,16 @@
      },
      "news": [
       {
+       "title": "Why Microsoft Outage Is the Worst Possible Timing for the Stock",
+       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRUtKYTY3Q0wwdDR0WDQ0NlBVV0xsZVEzM0J5aDVUd1hrX2VBOXFTbks4Z2JFZFF6RG9TNjVIb3ZNRl9KRUJvNGxnYlgzQzBKbWVYWDFuU3F2X2VBdU5UWVo1OWVFOHpUX0E3RHNmNXBJQTE0dVU2R0dUS3pvVWhGNQ?oc=5",
+       "source": "Barron's",
+       "date": "2026-11-13T19:40:47+00:00"
+      },
+      {
        "title": "Microsoft points to \u2018broad recovery and stability\u2019 after widespread Outlook outage",
        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQN3JfTWdHazZ1d0hZM2RZaktTendJdWFRVDNEVEs1a3VqY19GUF9oZW1zUTN4aUlPV0wzZUhsRDBST250bHl3VHMxTzRqb2QzSG1FWDBlNk1Yc0lmNmJvTTJEMmhRZmQ3RFNLUDQ2U3U3bTZHNC1ZTExHLUlGcjN3ak15OTZkTDV0aEVOTEp0Skw5dGtRbGZUcjhHOUowWjlMVUpPbnB2R2FkOFdvVEp3TnEzMHlPSEVERTZHRkkwMFVSMWlDUmVTRHdfRkZZM253OVE?oc=5",
        "source": "MarketWatch",
        "date": "2026-11-13T18:38:00+00:00"
-      },
-      {
-       "title": "Why Microsoft Outage Is the Worst Possible Timing for the Stock",
-       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRUtKYTY3Q0wwdDR0WDQ0NlBVV0xsZVEzM0J5aDVUd1hrX2VBOXFTbks4Z2JFZFF6RG9TNjVIb3ZNRl9KRUJvNGxnYlgzQzBKbWVYWDFuU3F2X2VBdU5UWVo1OWVFOHpUX0E3RHNmNXBJQTE0dVU2R0dUS3pvVWhGNQ?oc=5",
-       "source": "Barron's",
-       "date": "2026-11-13T18:13:00+00:00"
       }
      ]
     },
@@ -643,16 +643,16 @@
      },
      "news": [
       {
+       "title": "If You Invest $1,000 in Alphabet Today, Here\u2019s What It Could Be Worth by 2030",
+       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdTl3bFhRMjlzclN3WUFoTTVhUUhkNERhU1dZVGw1TXhxWnJQd0tvUlJmV0I2b3pnNWI4ZXlzQlVuNzVrQjI0REMwbjBOcW5kQlpkUkhlZGsxRjRRaDkzejlTUUF3dUQxOFM1VjNCcGdEbVVHZUpKNE5VUTFrVlpPblBNRlBzdXBwODY0N2M3QUZfRDZPaWd3?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-11-13T14:33:40+00:00"
+      },
+      {
        "title": "Not Apple. Not Microsoft. This \"Magnificent Seven\" Stock Is My Top Tech Buy for 2027.",
        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVTZTekVacmdSdm5PbTZfaFFSU3ktMXlSb3ljQXMtN0s2TUVOTEFTS1gxcW95WmRNakVoRTJldDd3MU83SkxxWXZuN1FjZjB4cHVSWDRYNk1CdmstRF9UT1ZJQjNJUkpCVV93QWFBVTVVTVlnT0dnVzdLTEVMMjRVb0h2LW9tMEphYkxSaGRrU29CUjlYY2puSzZRTVBTUFk2?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-11-13T14:25:00+00:00"
-      },
-      {
-       "title": "Alphabet Draws $5 Billion in Orders as AI Frenzy Builds",
-       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaFJOMTVYNnlES1ZxSXJxcVg1SzFycEdEaDN5OGlKOFFGTHpCTjU3ZVp6NDZPY25yNmRncjlYc01fNWNucGNhU1Ezd0JOMDNrZ3lRdVZzT3BGUm5hMHJDWDdLYzM0THRCUWNYWUFyMFVCYWR0MkpEOGRkbVRBdVhpQWh5d0RfMXhoVHRoQ3NTSWxULV9nVWZtSFRtUQ?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-11-12T23:05:59+00:00"
       }
      ]
     },
