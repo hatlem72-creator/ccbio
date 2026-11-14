@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-14T03:28:35.892403+00:00",
+ "updated": "2026-11-14T04:31:39.617026+00:00",
  "usdnok": 9.563750267028809,
  "btc": {
-  "price": 67335.71875,
+  "price": 66799.1875,
   "prev": 71342.96875,
-  "chg": -5.616881481400371,
+  "chg": -6.368926510364769,
   "currency": "USD",
   "asof": "2026-11-14T00:00:00+00:00"
  },
@@ -44,16 +44,16 @@
        "date": "2026-11-01T07:00:00+00:00"
       },
       {
-       "title": "Nordea raises its price target for Kongsberg Gruppen to 425 Norwegian kroner (400), reiterates buy",
-       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSGk3TzhCaEdQSmpfMUxTNGQ1X2dFckpNeXZTRjNvd1k0SEY5UjlCSUZxNG9zSTB5dGpTcGlOcDFndTM5UHFpTk1HMVhCWUpFemFIOEt5NjhxNXhVZm9IblJJS09aVjVOOU13NVAwVWViejZaaVI5X2RfQl8wN1JBZWJnTS11ZXhMbDdrenRiYTk0RDZReTQ5UUlaZkpaQ0hOYVZlZjZURC1OX2N4cUpXWWFjY1RnVDJGVHhkLVVFbHBrM1RwajJ3QUo1d0U5MFJ5X3o1U0EzQ01KcnR0RHJETV9R?oc=5",
-       "source": "marketscreener.com",
-       "date": "2026-10-30T07:27:46+00:00"
-      },
-      {
        "title": "KONGSBERG secures US government contract for underwater capabilities",
        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa0J0WVlGSWkwZ3VHR2t3cWNqN1Q0M2ZmX0tqdmJhUzZrQkxwNVljUWFvMG1xcF8zUVpFa1EyTWNNVFhhMmRfNFdTVVp6R2JpaDQtdXg2UDMxMzRRV1JUSEQwNDlFZVFQTW80SGVjZ2hQdGtwWVd6bVpfOXJoSFhGdzEwOU5YWVhxTDU3d1hUU2RSWl9PUlF0QkF1RERRa3otTWNGVzN3RW5RYW5kclVnMWpLVC0?oc=5",
        "source": "Naval News",
        "date": "2026-10-30T07:00:00+00:00"
+      },
+      {
+       "title": "Kongsberg Gruppen Q3 revenue beats estimates on defence demand",
+       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNd21WOVN4LTVjZjZYX2lTRVIyTmN0QWdvRVdJamY1S3lqRVlHNTNRRlh5SGtZeE14YlFleXVFbE5SYmtEXzdWNjdYNndia1hhWXQxUUhVT2NEQ0E0YktxME5iTjdQLUhRc2hGY2VNWjJ3eEFLQ1Vud1RfZE9QdVhvQnc2VVFQUXRwaHkwUzRoNGhvUVZZM0liQWJyNnZGaTBCQlo0NXlMdENxdkY4SjRKVlNFSmxiMTcyRjhucnNMUXBEWExXaFdkLUlub28?oc=5",
+       "source": "TradingView",
+       "date": "2026-10-29T07:00:00+00:00"
       }
      ]
     },
@@ -81,16 +81,16 @@
        "date": "2026-11-12T06:39:52+00:00"
       },
       {
-       "title": "Balaena, Kongsberg Team Up to Bring Arctic Hunter USV to Royal Navy",
-       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53c0xRbnQ5dEI5SGZMZW55X1FzaV90eEUyN2x6YWxNa0JxNEFHQ0xkajl6WklfekJhczd2TGJJRE4zV0o1LWtXZ1ZRYjRfVzFnalBVeVJFek0yQXFHWVRkWDBMczN0cFR2a0lNWjA0WHlHUURPSWROTEp0VG1sVlE?oc=5",
-       "source": "MarineLink",
-       "date": "2026-11-11T12:54:59+00:00"
-      },
-      {
        "title": "Thales and Kongsberg join forces on Royal Navy\u2019s Type 92 USV",
        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ21HWktNRnAzdl9Qa2U0OWFVZzd6a0xoS3U3ZlBxc2tkNVI2T29EMDFRZE5WNGFfeTB6TGQweTFvekQ3S2lTN29vaWNKTXozUDZ3RXpYY05kMFE3c2hvbWw2OXNEdGxDaGpzSG9lT2xpRG1TTWFzeXgxbzAtR1hnV2otT21qRm1tRGRRR0twZXc5aGxTN0l5U1pHLVBBdw?oc=5",
        "source": "NavalToday",
        "date": "2026-11-11T10:39:30+00:00"
+      },
+      {
+       "title": "Equinor stock advances as Kongsberg wins Wisting systems contract",
+       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObVVjaEJKcGhsMUU3U1hnMlU3VzUyLVN2eUtqVlZwS2NzSG9TbkFRNTZUVUF4WmxMQ2s5d1RIYVhCSVdyODNzQjF0WFowNjhiM1o1X0xKYWUyeTFDdHRJVWpLSFNzREdZSk9ROEtHYnd2Qnp5ck1OMWxRaWxwaV9Pb1diU04zdnZaaExTMl9QNlhuOEdUNUU2SnJCRzFuTE9ONTUtX2RDQWRITUtxT3BaeUFwb1c1YjhxZk1kNWZCcFZEQVMzZGI4?oc=5",
+       "source": "ad-hoc-news.de",
+       "date": "2026-11-11T09:17:13+00:00"
       }
      ]
     }
@@ -112,10 +112,10 @@
      },
      "news": [
       {
-       "title": "New 2026 Lows In Gold, And The GDX ETF Is A Cautious Buy (NYSEARCA:GDX)",
-       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUnhQQjcwRTFTMGRNd1V6NUVUYm1FV2tmaWkxUjZRNWZHSk9jRlR5a1NHXzJWNHlxQkVyTjRzWUNmc0VmaG9QZHdFM01MNGN1X1dfQ19ubkJzdG8zZnVLd3hYT0JIV2ZnOUpkUG1CbTJQZ0F3LWVrMVhCVmxfYjdJcDZNU091U1d1cW9CdnBtUndGcDhIZTEyc3hkeC0?oc=5",
-       "source": "Seeking Alpha",
-       "date": "2026-11-13T20:10:28+00:00"
+       "title": "VanEck Gold Miners ETF rated cautious Buy amid gold's mixed signals and economic risks.",
+       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY1BBT1FlS2tEaFA1ajFtcG1ka1lNbFRrRzkzcGJtNGEzdzdWdlpXR0JobzFaX1FHSzhYT2YxbTNFOUc4ZEZweTdfS0dmUTBHRHp4RU9lc0R6UkZWcDBIRnJHS3I3Z253emg2akJwb3BrTDJ6dFV1eVB6Njh1R19ubUk0YklOekNxSUxN?oc=5",
+       "source": "Pluang",
+       "date": "2026-11-13T21:19:55+00:00"
       },
       {
        "title": "Gold Miners: The Opportunity Behind The Volatility",
@@ -470,9 +470,9 @@
      "symbol": "^DJI",
      "name": "Dow Jones",
      "quote": {
-      "price": 52347.55078125,
+      "price": 52347.6015625,
       "prev": 52297.08984375,
-      "chg": 0.0964889970948013,
+      "chg": 0.09658609857816636,
       "currency": "USD",
       "asof": "2026-11-13T00:00:00-05:00"
      },
@@ -803,10 +803,10 @@
    "date": "2026-11-11T10:45:02+00:00"
   },
   {
-   "title": "2 Safe AI Stocks to Buy in the Next Market Crash. And No, It's Not Palantir.",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVFI4Mm5VdmFiUDVSem1lNndiRzJqNlExbm9GWU1NUkRxSmlJUHQyM1FsM3doQml2bFJRblh1RmhMaF9yZ1RfYjMzMkFXZGVaeTFLcF9sZHloR0tVUVNXOGxlQmZSNWV6VUlEeUthaTQxNmMyMGs3dUVvZVU1LVJIM08zbnIyaFBhckZlN3dB?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-11T09:46:00+00:00"
+   "title": "The Stock Market Is Repeating a Pattern Not Seen in Decades, but History Says Investors Who Make This 1 Move Will Win Out",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNWFI2NG5sSnI2ZFE0eXRXcjBoSmJsai1XaDYxWlNpQlNBWmdzdnNzM1EwdjA4eTFyT3NVdTJPeXBDdHZVYi1PVGI3Si1jU2o4bGJfNTllbkhsNTBnLTIyRUFHTjFobnFWQmY2c25aZnd5V1hHSW1YYngtRzBpQktHYnJCLWNsV3RtdFo2R1U2RVlDbEk5eEtqYmFqc2lTUTFZZVZVMVNEVS1VTVBtZWFQM0Z6NmIwZ2ZsTWV6ZThaN3RMbU1qMVI5c0hibDRwU0FUTkJyRGkzRmpKSks2V3pnUThKX1RCcHlaYlYtYm0yRGpuZjJRMFE?oc=5",
+   "source": "The Motley Fool",
+   "date": "2026-11-11T10:30:00+00:00"
   }
  ]
 }
