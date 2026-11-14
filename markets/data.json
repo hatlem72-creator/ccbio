@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-14T02:27:39.121234+00:00",
+ "updated": "2026-11-14T03:28:35.892403+00:00",
  "usdnok": 9.563750267028809,
  "btc": {
-  "price": 67661.296875,
+  "price": 67335.71875,
   "prev": 71342.96875,
-  "chg": -5.160525191909682,
+  "chg": -5.616881481400371,
   "currency": "USD",
   "asof": "2026-11-14T00:00:00+00:00"
  },
@@ -32,12 +32,6 @@
      },
      "news": [
       {
-       "title": "Kongsberg Maritime ASA (KMAR.OL) stock price, news, quote and history",
-       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tMm5HeU1KcjJpSWl2MEpzWU1LVWRIS3EzbjI5ZGpXek94X2N2a3VuZW0tck5FS2JSVHB0eUpMWFNVa1ZMZDNfOXdub1Z1bFcwWXgxZlhn?oc=5",
-       "source": "Yahoo Finance UK",
-       "date": "2026-11-12T18:57:40+00:00"
-      },
-      {
        "title": "Kongsberg Gruppen ASA (0F08.L) Seasonal returns chart",
        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE44R3gyWXJkdzg2aVAtYlBjcU9XVWpEOXJSTjRVVXFHNmhQU0swQjdDdHlhM3hyTXUzWUFqMUppaVc3YVdBdlV4NFpkUnFpcnVUSDFYSDdLaXZoNHAwMEZQSkxDRlc?oc=5",
        "source": "Yahoo Finance Australia",
@@ -50,10 +44,16 @@
        "date": "2026-11-01T07:00:00+00:00"
       },
       {
-       "title": "SB1 Markets raises its price target for Kongsberg Gruppen to NOK 425 (400), reiterates Buy",
-       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQR3FOZmVUVEhhTWUzcksxaUw5alB2Z1J0bUFLSElVYzBueXdUX2lQNVhZUEFGU3RBUWtXUlF3NENTTjRGeEJlSXRYX2hfRFhueEhsM19tV0hhWWxORldxV1NER3oxUkRwaUU2WW1EVEI0VTFXN0kxcVNmQ3ZMal9mRDZVWTVvWDR0Vnh1eHVpbzdmaHpPV1BoUmo3X0lKSFN3SGc0cEJjV01LNkdxMjlQZXhycXpfNkl0cGViUkRRU3NzVjV3aGVGY1FjamN1Qno3a3IyZ040dw?oc=5",
-       "source": "www.marketscreener.com",
-       "date": "2026-10-30T07:55:20+00:00"
+       "title": "Nordea raises its price target for Kongsberg Gruppen to 425 Norwegian kroner (400), reiterates buy",
+       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSGk3TzhCaEdQSmpfMUxTNGQ1X2dFckpNeXZTRjNvd1k0SEY5UjlCSUZxNG9zSTB5dGpTcGlOcDFndTM5UHFpTk1HMVhCWUpFemFIOEt5NjhxNXhVZm9IblJJS09aVjVOOU13NVAwVWViejZaaVI5X2RfQl8wN1JBZWJnTS11ZXhMbDdrenRiYTk0RDZReTQ5UUlaZkpaQ0hOYVZlZjZURC1OX2N4cUpXWWFjY1RnVDJGVHhkLVVFbHBrM1RwajJ3QUo1d0U5MFJ5X3o1U0EzQ01KcnR0RHJETV9R?oc=5",
+       "source": "marketscreener.com",
+       "date": "2026-10-30T07:27:46+00:00"
+      },
+      {
+       "title": "KONGSBERG secures US government contract for underwater capabilities",
+       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa0J0WVlGSWkwZ3VHR2t3cWNqN1Q0M2ZmX0tqdmJhUzZrQkxwNVljUWFvMG1xcF8zUVpFa1EyTWNNVFhhMmRfNFdTVVp6R2JpaDQtdXg2UDMxMzRRV1JUSEQwNDlFZVFQTW80SGVjZ2hQdGtwWVd6bVpfOXJoSFhGdzEwOU5YWVhxTDU3d1hUU2RSWl9PUlF0QkF1RERRa3otTWNGVzN3RW5RYW5kclVnMWpLVC0?oc=5",
+       "source": "Naval News",
+       "date": "2026-10-30T07:00:00+00:00"
       }
      ]
     },
@@ -69,16 +69,16 @@
      },
      "news": [
       {
+       "title": "Kongsberg Maritime ASA (Z4Q.DU) stock price, news, quote and history",
+       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE03MjZjRUpqdVg1SXUzNUxfZkw5Tl9yT0JuRW56bEtOcDY0VC1qSG5iZFg3eDYyWVZQLXEzcmZPcUsyRS1YREJERlRJMWsxLThObHdFazRHZXBhZG5NU2pySndkQzA?oc=5",
+       "source": "Yahoo Finance UK",
+       "date": "2026-11-12T07:45:29+00:00"
+      },
+      {
        "title": "Kongsberg Maritime ASA (Z4Q.DU) latest press releases and corporate news",
        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPWHE5SHZxNDEyTnNXV3V2U3p4dmZYSTJQTGtjd29yN0w5QTlDb0RHUUtVSUxLcEQ3aUZFbnM3VndxLUE3cDRiZXJIOUlYOVBSeTFTOHpjQko5VnVzR21nN0FXczhGWHBi?oc=5",
        "source": "Yahoo Finance UK",
        "date": "2026-11-12T06:39:52+00:00"
-      },
-      {
-       "title": "Balaena And Kongsberg Maritime Sign MoU To Advance Arctic Hunter USV Program",
-       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUng5b0R3bnZ6Uy1zdVlRRkk0SUl3LTZDbUpNRUVqR2dXMS1IeVRubUdMZ21tOFVnZ2lGS1RfVWxxZ2t0cXRaQ01FOHhRbWp3cWp5OHpZTlg4VXJkSXhQVF9vTFBTOTZiTzBaMHVoeEFyQkxYVlVObEtDR1BaejRIR2l1LXR3ZDJ0QkVuYWhkQzVYUzdPR3BFVGx0STIzQWd1WTVSOFFHUVNwTmlKQ0lFNE5n?oc=5",
-       "source": "Ocean News & Technology",
-       "date": "2026-11-11T16:29:53+00:00"
       },
       {
        "title": "Balaena, Kongsberg Team Up to Bring Arctic Hunter USV to Royal Navy",
@@ -229,10 +229,10 @@
        "date": "2026-11-11T23:34:25+00:00"
       },
       {
-       "title": "Hecla Mining Company Announces Redemption of All Outstanding Shares of Its Series B Cumulative Convertible Preferred Stock",
-       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdjNnR1kwLWFKVFZ3dlI1OXhZMDVqUURyel9FVVo2cFVya2lJcU5CUy1rNTFhZW1yWWFrRnZqam8talZCckxYSXZOV3UtTzNnZDlzcHdxaGNURGF1UlZvbW1EOGZiTXNxNVFjWjJaQ2JqaG9ZUHd5c2RxNGlZMEtUZ0IxUDZxcEttVmc0eXAyUDQzMVpOeDJfMGx1Z2tDY3RsclBxNllNWUt5dw?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-11-10T11:45:00+00:00"
+       "title": "Form 8K Hecla Mining Comp For: 10 November By Investing.com",
+       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTmp6V2Voek5iTGptWjNaR0JSY09xenRaSERCd0ZadTZ2Nm9PMlJQUkx2TmN3ZUgyaUJuYTlHc2pSV29NMThta3pQTTgxNWR5WkpNeU5xTFF0RGJXVmJpRGpyRWRsNjIzcG1IVWYybV9VWjZRSjVtczVYZFBCbDVkUmNXdEdZLUlsTVY4N0FFNWxhVmdldFpWajY0ODU3RkltZGwzWg?oc=5",
+       "source": "Investing.com Canada",
+       "date": "2026-11-10T22:10:11+00:00"
       }
      ]
     },
@@ -240,9 +240,9 @@
      "symbol": "HYMC",
      "name": "Hycroft Mining",
      "quote": {
-      "price": 15.9,
-      "prev": 17.39,
-      "chg": -8.568142610695805,
+      "price": 15.899999618530273,
+      "prev": 17.0,
+      "chg": -6.470590479233684,
       "currency": "USD",
       "asof": "2026-11-13T00:00:00-05:00"
      },
@@ -323,16 +323,16 @@
      },
      "news": [
       {
-       "title": "How Investors Are Reacting To First Majestic Silver Stock Strong Earnings Report",
-       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSVlmb1AxWEh4alFjOUllaW82VnpEZzVqVWJxem5EdnQwS3l4Q29JZEFMaGN0YUVCTkt4ZmZabDE2NTB2YXVtYnViUmtEUm9BRWpPOFFaUV9iMTRubVNGaTdXV3kzSnZISDBtQnI2ZnBjc3Biczg4YVlmY0hSTWp0MGxFYzRZSEcyc1A1WHFaQmoxdVlnMHpndlJVQTI5cy1rWkpjSldIYURZR2F0VXoyMU9JUGl6a0JJamZ3OFVFX09NZm9mNnYwNzlBMVBFTUFRY2hXcXdZTVNUYzDSAeABQVVfeXFMUGc1N2JtR0dFNTNHSXdkdnQ2VkNKTzNrX0dDTmZ5bU5oMVJfZFI4bThHazFJVkRwdlhMX1IxbWRWNm5jNlp2ckY5TjE0akhCTi1IYS1lZFBzQWVTTFBSVlI5YTdtSlVybG04V1lWOTl1dU5xSEJQWVhqVTdHVHQ1aGVqWk9qMGNOUkU2cF9jNkYxUEc1VUdfaGQwZWZqRVk4VmxEbEN0TW1xaFZyOHBtSlpBa2Z4RTFIdUNESU80VmxpZjNlZTg1MUx2bzdSaXdJLUtUdVY1LVFJNFZIMWJBWE4?oc=5",
-       "source": "Simply Wall St",
-       "date": "2026-11-10T00:43:16+00:00"
-      },
-      {
        "title": "First Majestic Silver Corp (FMV.HA) Seasonal returns chart",
        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBxTjc1WHc4VUljYWtnYlc4dmhDZFJVVG90THB5Rm8tdEE1NVJJSzhxVDctNWNZSi1FUG0wRUhGem5qM0FtdUtScjhVRlE5QS1PQUd2c216UE13QjEzSFdPa0V0cEo?oc=5",
        "source": "Yahoo Finance UK",
        "date": "2026-11-09T17:05:27+00:00"
+      },
+      {
+       "title": "Metso makes milestone Metso Loesche VRM dry grinding tech sale to First Majestic Silver",
+       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQ2g2NUVLRUpsMHJsZXZrZHNJM0o1VjhwckQwUERfSEM5em9uY0F3WGhJXzVMTFo5RjhiaHhET0I4cHJBbUxBQVEyS1c1RGFENml5V3dzNEJhN2xSZHNiWTJSMkxPQ01PQ0lDdTBnWThhN3lxWnZ4dFMwOUFkbmJmMjBQT3RIOHNmeTM0V1RpaTN5NlEzVlFqcDBGSHVqcXV3b0ZKbGNKMW9YZlplaDJNRFpfWThyZ0dhb2Rza0pB?oc=5",
+       "source": "International Mining",
+       "date": "2026-11-09T10:38:09+00:00"
       }
      ]
     },
@@ -398,10 +398,10 @@
      },
      "news": [
       {
-       "title": "Guanajuato Silver Company Ltd. (GSVRF) Seasonal returns chart - Yahoo Finance",
-       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE80eGgtRXgzbmNRVWJueW9tVzhTcVJuOGtwUzdVWmJJVUtBc1p1Nnd4cjV3eVhjT19UckNiRHZwM0JVOURON0xlMmpaQkVndHBuVHpFUEFPdG5hZmdSa1lHUzFESQ?oc=5",
-       "source": "Yahoo Finance Singapore",
-       "date": "2026-11-06T21:00:00+00:00"
+       "title": "Guanajuato Silver Company Ltd.: Guanajuato Silver Provides Q3 2026 Production Results",
+       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQY3hwX3F3YzRRR0hWc1FRbEdZMTU3ZEt3bzFDT2Z4ekZqZTJ0VGF5YXVPYXBKSnVXbm9EaFNaUmZtTXNJOVZDT0xqM2FldjFUV3BNNUNYa3BWU0MtTWpnTDhOaWE5MnE4ZzJHSGxkR19GVVk2eHM0ZF90eUFic3hRNXJtcWR3RHdQMEJHRDN1aFFtUnRBSVVLOUg4QmtMcnkzOTZMSm9jOE5LR3ExRm9jdnZJSVljYmxNMkJvczd0dTItQWhjN3ZzSGg2dC1kLWZtLWxNX2NVM2dfRVlPSEhxZUlDY0Fwa2th?oc=5",
+       "source": "FinanzNachrichten.de",
+       "date": "2026-10-16T07:00:00+00:00"
       },
       {
        "title": "Mexico\u2019s Mining Industry Adapts to Global ILO 176 Safety Rules",
@@ -482,9 +482,9 @@
      "symbol": "OSEBX.OL",
      "name": "Oslo B\u00f8rs (OSEBX)",
      "quote": {
-      "price": 2111.77,
-      "prev": 2106.06005859375,
-      "chg": 0.2711195904860686,
+      "price": 2111.77001953125,
+      "prev": 2106.5400390625,
+      "chg": 0.2482734897874428,
       "currency": "NOK",
       "asof": "2026-11-13T00:00:00+01:00"
      },
@@ -510,7 +510,7 @@
       "prev": 18.700000762939453,
       "chg": 3.2085478590471395,
       "currency": "USD",
-      "asof": "2026-11-13T00:00:00-06:00"
+      "asof": "2026-11-13T00:00:00-05:00"
      },
      "news": null
     },
@@ -685,9 +685,9 @@
      "symbol": "META",
      "name": "Meta Platforms",
      "quote": {
-      "price": 641.69,
-      "prev": 626.22,
-      "chg": 2.4703778224905104,
+      "price": 641.6900024414062,
+      "prev": 623.6099853515625,
+      "chg": 2.899250735962977,
       "currency": "USD",
       "asof": "2026-11-13T00:00:00-05:00"
      },
@@ -773,6 +773,12 @@
    "date": "2026-11-13T15:03:07+00:00"
   },
   {
+   "title": "Why is AF Gruppen stock climbing today?",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORV9BazY3ZW9wN1RhcDRtdGJCMERBb2NTNHFBanh0M2U4N1FFajJIT0cxcnF5anYyMTFGbFpwSlVLWGoxWWdvaC1zSm9tTk5BRmF2cmN0Q1JFZERHNHdTZVFhVk44ZnNpNzYwd3g0R2p0d3FlaEVqVDVDTncwM2R4YnFyZU5SWGFGRUhyRkJlRkM2Qm8tRk8tTU1BVGFJbDdic3c?oc=5",
+   "source": "Investing.com",
+   "date": "2026-11-13T08:33:59+00:00"
+  },
+  {
    "title": "If an AI Bubble Triggers a Bear Market, History Says This Is the Best Move Investors Can Make",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSXlkOGl4VnhReTlKeXBDeEVPX1FpS29ucllfbHVncTByYnYwWkZINko5SC1yaVE5NWtyQVltdDhBcDF4YUNkMjJMcDJlUnZWQmJmam5wYlEzZDFMZGVNdEZ3X2h6QjdxcENHZ1N5Wm1EdXloalNIekx0OWZ5OWk4MzB4R1UwSTdhNzhFUldWYmEyTTd0dUxFU21PSQ?oc=5",
    "source": "Yahoo Finance",
@@ -795,12 +801,6 @@
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSnA3SnU1YzkyNk5CbEZfSm9iMmtHbjJGNlFpUG5OVkljUm9uSXhxYkNJN0ZLUFB2YzBDb1pfUmJtR0RWQlN6a1o0bVFwbklxQndXUW05SVFWcXh4clkyMnBZZW1ZeFdRT3B0OVR3YjRIOXV3YlROemRKa0RPMzJfakRMYUVTRXM3ZVVPN1p4TTZtUUVBVHc0cGotcks?oc=5",
    "source": "Yahoo Finance",
    "date": "2026-11-11T10:45:02+00:00"
-  },
-  {
-   "title": "The Stock Market Is Repeating a Pattern Not Seen in Decades, but History Says Investors Who Make This 1 Move Will Win Out",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNWFI2NG5sSnI2ZFE0eXRXcjBoSmJsai1XaDYxWlNpQlNBWmdzdnNzM1EwdjA4eTFyT3NVdTJPeXBDdHZVYi1PVGI3Si1jU2o4bGJfNTllbkhsNTBnLTIyRUFHTjFobnFWQmY2c25aZnd5V1hHSW1YYngtRzBpQktHYnJCLWNsV3RtdFo2R1U2RVlDbEk5eEtqYmFqc2lTUTFZZVZVMVNEVS1VTVBtZWFQM0Z6NmIwZ2ZsTWV6ZThaN3RMbU1qMVI5c0hibDRwU0FUTkJyRGkzRmpKSks2V3pnUThKX1RCcHlaYlYtYm0yRGpuZjJRMFE?oc=5",
-   "source": "The Motley Fool",
-   "date": "2026-11-11T10:30:00+00:00"
   },
   {
    "title": "2 Safe AI Stocks to Buy in the Next Market Crash. And No, It's Not Palantir.",
