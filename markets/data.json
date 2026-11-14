@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-14T07:43:27.208672+00:00",
+ "updated": "2026-11-14T08:45:43.160528+00:00",
  "usdnok": 9.574799537658691,
  "btc": {
-  "price": 66965.5703125,
+  "price": 67058.109375,
   "prev": 68249.2734375,
-  "chg": -1.8809037229906456,
+  "chg": -1.7453139095917614,
   "currency": "USD",
   "asof": "2026-11-14T00:00:00+00:00"
  },
@@ -24,9 +24,9 @@
      "symbol": "KOG.OL",
      "name": "Kongsberg Gruppen",
      "quote": {
-      "price": 339.6,
-      "prev": 343.6000061035156,
-      "chg": -1.1641461095639571,
+      "price": 339.6000061035156,
+      "prev": 344.8999938964844,
+      "chg": -1.5366737856653767,
       "currency": "NOK",
       "asof": "2026-11-13T00:00:00+01:00"
      },
@@ -62,8 +62,8 @@
      "name": "Kongsberg Maritime",
      "quote": {
       "price": 58.5,
-      "prev": 58.86000061035156,
-      "chg": -0.6116218257195327,
+      "prev": 58.7400016784668,
+      "chg": -0.4085830296371551,
       "currency": "NOK",
       "asof": "2026-11-13T00:00:00+01:00"
      },
@@ -81,16 +81,16 @@
        "date": "2026-11-12T06:39:52+00:00"
       },
       {
+       "title": "Thales partners with Kongsberg Maritime on Royal Navy\u2019s anti-submarine warfare capabilities",
+       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNd0pKMDNtcVJxakFQc2F5dzBPQWxmREp6UHVpTUhvYk92ekEwNE91YzdiR1diQ25ocEcxbTB2b3JYZXozeFdUQUkwM2stTjFsdkp5WHk3SVBZMVVyQnpueE1ZQkQ5SF9jTHRvY3hteG40V1FDYlBnVDVjdC1WUExqTVBRZWNXTjZpU0t1TFpjM0wxaUJJVUVHSFV3ZzFDNTRzekpwNjRmV1N4MGtxYkxscGFqQ2FNZ1IzSmtOMUF0eE94NkhVek1oNlVBdw?oc=5",
+       "source": "Media India Group",
+       "date": "2026-11-11T08:47:16+00:00"
+      },
+      {
        "title": "Kongsberg Maritime and Thales UK team on Arctic Hunter Type 92 proposal",
        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcmVEbXRPbzNKX0trOUlvOFJVVFFBcU9pYmFwY29IR09Sb2ZfNTBnU0hVNUZEdkt6TDhYbkVVRVlJYXd1TFdlRXpBUkpvZDM4RWVDUDZMem5mVm9fdGRTeGh6VmtnNnZ0NGxHcE4tTjlhQXQ2czBodnJRYUoybWg5QTlBWUF3UVlQVDBvN2dHTVpFVExpRmlJM3kwTmcyOUFXNDV5X0hxb0NvX1ZrNDV0aTN6UTNkLXBDRmZaWFZn?oc=5",
        "source": "Shephard Media",
        "date": "2026-11-11T08:00:00+00:00"
-      },
-      {
-       "title": "Thales, Kongsberg Partner on Anti-Submarine Warfare Solution for Royal Navy\u2019s Type 92 Drone",
-       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMHB5bGp2THd2UXVvb2VzZUFpM3hONVpQQk9NbG9hYkxGY3VNdFJEMkNhMVJuMVNsY2psbTBfbmlWRW4wamxHbndWNENEanppMS1CRjlhaGluM3JLdVR5SVRtRFZqQUh0d1JKU1RURTNYRHRkc3VHcEJaeVBLQ3RCUmQ4MHU0TktWTDhMNzBid2ZjM05nNFl1SHR2VzR3VHFfc1d2TWR4NkhNUnF6X0pST2JleDJfUGh2bk00Wi14VklEQUFwZUgyRHZn?oc=5",
-       "source": "Defense Mirror",
-       "date": "2026-11-11T07:04:57+00:00"
       }
      ]
     }
@@ -248,16 +248,16 @@
      },
      "news": [
       {
+       "title": "Hycroft Mining Holding Corp (R5A.HA) interactive stock chart",
+       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDel9nelpWM2FrcGljdXZhRDFnWVhXM3NPNi1NdWNpaFBHdE1LcXJ6RklkaHBvLVQzUExvd1lHajh5QVgwNkhaRTVHNG54Vmx5SkpMSjFZcnhlcTk5?oc=5",
+       "source": "Yahoo Finance UK",
+       "date": "2026-11-06T08:51:15+00:00"
+      },
+      {
        "title": "Hycroft Mining Holding Corporation (HYMC) Seasonal returns chart - Yahoo Finance",
        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1UNWp3R0hXbkFMOTFwR2tFQ244WnVLQ2dQQXItRXN3OW9ySTRWb0ZVeDhPbmFaUDBhSkh5Yk1memFUU0JOdW1jWXVsOU9ybTItQ0xFenpKMTZoUldUci1IUktR?oc=5",
        "source": "Yahoo Finance Singapore",
        "date": "2026-10-29T22:16:09+00:00"
-      },
-      {
-       "title": "Hycroft Mining Holding (HYMC) Looks Pricey Following Wider Losses And Leadership Changes",
-       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYTl5WVByNjJUN3hRVi02U2VYb3RSTWNEZUlzT1I4TUZPTWxMd1h3RHFCUUU1ZklQRF9PR2FYZldmdk1pcHJ4ZVJ4c1RVUThwWXhFS1FaVFlVcEppbWhDVmJpZnVnYzFORkhiOFJRbS1BZUF1cE10dnhiVFJGdVhyTHp3Z3JmRWtKWkdMb2R6a0puYTBFVE4xc25hek9vMjA?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-29T07:00:00+00:00"
       }
      ]
     },
@@ -348,10 +348,10 @@
      },
      "news": [
       {
-       "title": "Defiance Silver Corp. (DEF): Understanding Its High-Beta Profile and Exposure to Market Volatility",
-       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTE9WaUxXMWtiZ1QwM0ZBUEJnT0tURGlrV1ItSjR1eUp5VDNnd0EwdlJDZnY5ZUR6U3plY2htX1BMMC1UQTRpVnoxeVlQUklHU1JJSGN2andMMFJLV1U3QmlLQzVGcXNINWV5cUNpVnZDQTJXTkhQUjRFMzV5LWtaUnc3SEF3X2NNSE9ZRWhfbkw1aFM5OWpSeVBVQ1NfZ1djdzN3VkdvaGRMODRMM1RMd2h0UkRPTEZPcW5HSlptSVBIbEk?oc=5",
+       "title": "Why Is Defiance Silver (TSXV:DEF) Down 2.33% at CAD 0.105 With an RSI of 25.51?",
+       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcFgxX19XRGItYk9RSGlJWHNlaFk1NFdHd1dFUjF5Yk9BUmprYS1ORmVpUjJNd1NySmdQRUwydHZoR3RKOHQzak0zdVBXSng4NmROa2ZnRWVYRmR0TUxucmFGNjM0ZDdCcVBFVF92WjlWQ0RFbjhmQWpEbHBWWklQWWdxRU9GTHZwTEZOVURiNWdqZ2VlZ3l0LWVPcmxVX202R1hOSA?oc=5",
        "source": "kalkine.ca",
-       "date": "2026-11-10T07:53:00+00:00"
+       "date": "2026-11-04T12:59:00+00:00"
       },
       {
        "title": "Defiance Silver Corp.: Defiance Silver San Acacio Drilling Returns High Grade Silver; Additional Holes Pending from Lucita Drilling",
@@ -365,9 +365,9 @@
      "symbol": "GRSL.V",
      "name": "GR Silver Mining",
      "quote": {
-      "price": 0.235,
+      "price": 0.23499999940395355,
       "prev": 0.24500000476837158,
-      "chg": -4.08163451989555,
+      "chg": -4.081634763179798,
       "currency": "CAD",
       "asof": "2026-11-13T00:00:00-05:00"
      },
@@ -398,16 +398,16 @@
      },
      "news": [
       {
+       "title": "Guanajuato Silver notches 13.7% AgEq production increase in Q3",
+       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOW11RzVDYi1MUE95ZlR1NHdTOFNoa0VZaFNvY3pUT3lZbGRTRTN5RUhXcmQ5NTZKNWVvX2ZjekoyRHFlV05SVC1YUU5ya1RtcXVVR2swMUMzcnl0aXdsaUpYcWZHUGJybEtneWxiMUh1aXpKNHVMNGZ6VXZSOXRub240RkppNVVRaVpUaGk0VF91UQ?oc=5",
+       "source": "Resource World Magazine",
+       "date": "2026-10-16T14:39:44+00:00"
+      },
+      {
        "title": "Guanajuato Silver Company Ltd.: Guanajuato Silver Provides Q3 2026 Production Results",
        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQY3hwX3F3YzRRR0hWc1FRbEdZMTU3ZEt3bzFDT2Z4ekZqZTJ0VGF5YXVPYXBKSnVXbm9EaFNaUmZtTXNJOVZDT0xqM2FldjFUV3BNNUNYa3BWU0MtTWpnTDhOaWE5MnE4ZzJHSGxkR19GVVk2eHM0ZF90eUFic3hRNXJtcWR3RHdQMEJHRDN1aFFtUnRBSVVLOUg4QmtMcnkzOTZMSm9jOE5LR3ExRm9jdnZJSVljYmxNMkJvczd0dTItQWhjN3ZzSGg2dC1kLWZtLWxNX2NVM2dfRVlPSEhxZUlDY0Fwa2th?oc=5",
        "source": "FinanzNachrichten.de",
        "date": "2026-10-16T07:00:00+00:00"
-      },
-      {
-       "title": "Mexico\u2019s Mining Industry Adapts to Global ILO 176 Safety Rules",
-       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTm84M0hnZzAzZzg1eEtIa1hSai01UWRIbTR2Y3poLWVuRVViNFdIU1ROOElZb1NoOWZzSWZMN2h3UXpoWWVLS1VHdUZibVgyc211UVV1RWdPN0VRZ2lsV2NRNUtQVXpKWmt6bVpwWF8zMDhrTU5LSUZwNXltc1o2ellkS19rdnI1c2gtdEVwMUpPZlhFaW1XYzBnUTZkM3M?oc=5",
-       "source": "Mexico Business News",
-       "date": "2026-10-15T07:00:00+00:00"
       }
      ]
     },
@@ -568,16 +568,16 @@
      },
      "news": [
       {
-       "title": "What Could Still Send Apple Stock Higher?",
-       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaTREa2hFVXpJMHk2UWNaLUR1RHh3RTBrRGxZUDlIZFpaYjBFakRYUU1rcFBZaHczbzJaQlk3aFh1T3NSZklWSlBha1pzYmI4VGdrZXBGcllDbndVMXl3elVjcnh6N2RwNVAwRFp3WS1TbFBGX2luQkJpb1c0V2xpTHVjdlNxeXhRTWJlb3VZeDlMa3pKUVV5Tw?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-11-13T16:25:48+00:00"
-      },
-      {
        "title": "Up 32% YTD - Apple Stock is Outperforming Mag7 Peers",
        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYVZFX0xpa1VNLVNJQmh2S2ZjcWRBQzhBV3o2UzBaLU5nTFhYdWRKSWZDOFZBSlQyUnJuOERKWFAtMGdweHFXQWRjMXg1VnFHbWVRS0llRi0yWGgySTBGaUdyU2xhQS1HUjFtSnN3LUhLaGd6UmU3ZDJFSlN3UG5nb1dRWjRKUzFZeVFYY2NfeEMzcnZxcWNCMXFJTWNPdDAzUXpmdw?oc=5",
        "source": "Barron's",
        "date": "2026-11-13T16:07:43+00:00"
+      },
+      {
+       "title": "What Does Apple\u2019s Run Mean for a 72-Year-Old Widow With $600,000 of a $1.6 Million IRA in the Stock?",
+       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOEZmSkViR3M0SWk4blFnT01qMjVkVy1uVVRMSUxpdnphNkM0ejE3S0s0TFVqdndFRHZqZkhxZmFtcld4bkt1aHFMT3lxR01ZWmViMEJ1Uld2TEwyWmpJbnVVLVVhcnJKQzc4WHdTRGdhQkdlNjBwZlFTNi0yeVBQYUtPWGNNLUd6Z0VIdkI0SGo?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-11-13T12:17:02+00:00"
       }
      ]
     },
@@ -593,16 +593,16 @@
      },
      "news": [
       {
-       "title": "Why Microsoft Outage Is the Worst Possible Timing for the Stock",
-       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRUtKYTY3Q0wwdDR0WDQ0NlBVV0xsZVEzM0J5aDVUd1hrX2VBOXFTbks4Z2JFZFF6RG9TNjVIb3ZNRl9KRUJvNGxnYlgzQzBKbWVYWDFuU3F2X2VBdU5UWVo1OWVFOHpUX0E3RHNmNXBJQTE0dVU2R0dUS3pvVWhGNQ?oc=5",
-       "source": "Barron's",
-       "date": "2026-11-13T19:40:47+00:00"
-      },
-      {
        "title": "Microsoft points to \u2018broad recovery and stability\u2019 after widespread Outlook outage",
        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQN3JfTWdHazZ1d0hZM2RZaktTendJdWFRVDNEVEs1a3VqY19GUF9oZW1zUTN4aUlPV0wzZUhsRDBST250bHl3VHMxTzRqb2QzSG1FWDBlNk1Yc0lmNmJvTTJEMmhRZmQ3RFNLUDQ2U3U3bTZHNC1ZTExHLUlGcjN3ak15OTZkTDV0aEVOTEp0Skw5dGtRbGZUcjhHOUowWjlMVUpPbnB2R2FkOFdvVEp3TnEzMHlPSEVERTZHRkkwMFVSMWlDUmVTRHdfRkZZM253OVE?oc=5",
        "source": "MarketWatch",
        "date": "2026-11-13T18:38:00+00:00"
+      },
+      {
+       "title": "Why Microsoft Outage Is the Worst Possible Timing for the Stock",
+       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRUtKYTY3Q0wwdDR0WDQ0NlBVV0xsZVEzM0J5aDVUd1hrX2VBOXFTbks4Z2JFZFF6RG9TNjVIb3ZNRl9KRUJvNGxnYlgzQzBKbWVYWDFuU3F2X2VBdU5UWVo1OWVFOHpUX0E3RHNmNXBJQTE0dVU2R0dUS3pvVWhGNQ?oc=5",
+       "source": "Barron's",
+       "date": "2026-11-13T18:13:00+00:00"
       }
      ]
     },
@@ -718,16 +718,16 @@
      },
      "news": [
       {
+       "title": "Here\u2019s What Needs to Happen for Tesla\u2019s Bull Case to Materialize and Push Past $500 Next Year",
+       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT0tMQWRQUmUzN0dkV3BZZjNpOUlnVWNSWkZiM0RHMXFiVVppZjE2QVAtVElKc3dZajR1Q0daaG1XQUNvVGRqcGZjaGdSRG52Z2Vfdmo3MlBmaExUSXp3ZlZ1VEQ1VjR0ZnFmTjl4eG1JVU1aYTlZWkdsOUs1c014N21ENzFPLUhtUWZxYWcyRmxLSWpmQWE5SA?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-11-13T15:45:56+00:00"
+      },
+      {
        "title": "1 Million Reasons to Buy the Dip in Tesla Stock (You Can Thank Terafab)",
        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONF9kdGhSZFRmQ1pLX29uVmZmTFA3VWEwWE9tYmNjRVhOcWRjUVM3dWt5X0ZYSFpEem5sbHBvekstekxObXRvWGpMMWhhTGNndUhnMGZONFF6dUVjVTVJdTdHT3E3QllFSk12OUh1NkRkTG1NMVZMekxXaGJvZ0NxcWE3MDQ3aDI3RGdpbmtSZnc1MkdN?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-11-13T14:30:04+00:00"
-      },
-      {
-       "title": "Why Tesla Stock Is Behaving Like a Safe Haven",
-       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE85WGY1dzc4WExfaThoS2I3eVlCTVRaVk5vcmpUbVdmOGVBX3RDUzB2V2Y2TDRUcG5IdnpsTzJUYnhHWkJ2Zm9mSUxnUEtMMEhKTTU1OFlxdTdjZ2NJRTdzNVlNMGdxYVVNZ3hDZWNMVFJRclFCaTF5clhB?oc=5",
-       "source": "Barron's",
-       "date": "2026-11-13T12:40:00+00:00"
       }
      ]
     }
