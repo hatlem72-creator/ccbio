@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-14T05:30:02.867897+00:00",
+ "updated": "2026-11-14T06:30:08.282073+00:00",
  "usdnok": 9.574799537658691,
  "btc": {
-  "price": 67052.3984375,
+  "price": 67289.8828125,
   "prev": 71342.96875,
-  "chg": -6.014005847633019,
+  "chg": -5.681128790284607,
   "currency": "USD",
   "asof": "2026-11-14T00:00:00+00:00"
  },
@@ -32,6 +32,12 @@
      },
      "news": [
       {
+       "title": "Kongsberg Maritime ASA (KMAR.OL) stock price, news, quote and history",
+       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tMm5HeU1KcjJpSWl2MEpzWU1LVWRIS3EzbjI5ZGpXek94X2N2a3VuZW0tck5FS2JSVHB0eUpMWFNVa1ZMZDNfOXdub1Z1bFcwWXgxZlhn?oc=5",
+       "source": "Yahoo Finance UK",
+       "date": "2026-11-12T18:57:40+00:00"
+      },
+      {
        "title": "Kongsberg Gruppen ASA (0F08.L) Seasonal returns chart",
        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE44R3gyWXJkdzg2aVAtYlBjcU9XVWpEOXJSTjRVVXFHNmhQU0swQjdDdHlhM3hyTXUzWUFqMUppaVc3YVdBdlV4NFpkUnFpcnVUSDFYSDdLaXZoNHAwMEZQSkxDRlc?oc=5",
        "source": "Yahoo Finance Australia",
@@ -42,12 +48,6 @@
        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWWM5aV9PbGNsUFJoT3hqNTduOFhNbUpZcUtOVC1EWm8zVHNlSjlHSGZ2cExNTkNIejVXSTVRUFh0eWdPYlcyUFpxUTZmMjJSaXh2QlZ2dFI2OEQtR2djVUdxdElqTGQzTTJNTDBueEJQbDkwTDNYaVc4aXZnUHZmZUhjVDlncjRTY2Z2cnlfQXZjWk15ZlRwZDhuOUxsYVg5STdkZk1HMTQ?oc=5",
        "source": "Seeking Alpha",
        "date": "2026-11-01T07:00:00+00:00"
-      },
-      {
-       "title": "Nordea raises its price target for Kongsberg Gruppen to 425 Norwegian kroner (400), reiterates buy",
-       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSGk3TzhCaEdQSmpfMUxTNGQ1X2dFckpNeXZTRjNvd1k0SEY5UjlCSUZxNG9zSTB5dGpTcGlOcDFndTM5UHFpTk1HMVhCWUpFemFIOEt5NjhxNXhVZm9IblJJS09aVjVOOU13NVAwVWViejZaaVI5X2RfQl8wN1JBZWJnTS11ZXhMbDdrenRiYTk0RDZReTQ5UUlaZkpaQ0hOYVZlZjZURC1OX2N4cUpXWWFjY1RnVDJGVHhkLVVFbHBrM1RwajJ3QUo1d0U5MFJ5X3o1U0EzQ01KcnR0RHJETV9R?oc=5",
-       "source": "marketscreener.com",
-       "date": "2026-10-30T07:27:46+00:00"
       },
       {
        "title": "KONGSBERG secures US government contract for underwater capabilities",
@@ -69,16 +69,16 @@
      },
      "news": [
       {
-       "title": "Kongsberg Maritime ASA (Z4Q.DU) stock price, news, quote and history",
-       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE03MjZjRUpqdVg1SXUzNUxfZkw5Tl9yT0JuRW56bEtOcDY0VC1qSG5iZFg3eDYyWVZQLXEzcmZPcUsyRS1YREJERlRJMWsxLThObHdFazRHZXBhZG5NU2pySndkQzA?oc=5",
-       "source": "Yahoo Finance UK",
-       "date": "2026-11-12T07:45:29+00:00"
-      },
-      {
        "title": "Kongsberg Maritime ASA (Z4Q.DU) latest press releases and corporate news",
        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPWHE5SHZxNDEyTnNXV3V2U3p4dmZYSTJQTGtjd29yN0w5QTlDb0RHUUtVSUxLcEQ3aUZFbnM3VndxLUE3cDRiZXJIOUlYOVBSeTFTOHpjQko5VnVzR21nN0FXczhGWHBi?oc=5",
        "source": "Yahoo Finance UK",
        "date": "2026-11-12T06:39:52+00:00"
+      },
+      {
+       "title": "Thales partners with Kongsberg Maritime on Royal Navy\u2019s anti-submarine warfare capabilities",
+       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNd0pKMDNtcVJxakFQc2F5dzBPQWxmREp6UHVpTUhvYk92ekEwNE91YzdiR1diQ25ocEcxbTB2b3JYZXozeFdUQUkwM2stTjFsdkp5WHk3SVBZMVVyQnpueE1ZQkQ5SF9jTHRvY3hteG40V1FDYlBnVDVjdC1WUExqTVBRZWNXTjZpU0t1TFpjM0wxaUJJVUVHSFV3ZzFDNTRzekpwNjRmV1N4MGtxYkxscGFqQ2FNZ1IzSmtOMUF0eE94NkhVek1oNlVBdw?oc=5",
+       "source": "Media India Group",
+       "date": "2026-11-11T08:47:16+00:00"
       },
       {
        "title": "Kongsberg Maritime and Thales UK team on Arctic Hunter Type 92 proposal",
@@ -112,10 +112,10 @@
      },
      "news": [
       {
-       "title": "VanEck Gold Miners ETF rated cautious Buy amid gold's mixed signals and economic risks.",
-       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY1BBT1FlS2tEaFA1ajFtcG1ka1lNbFRrRzkzcGJtNGEzdzdWdlpXR0JobzFaX1FHSzhYT2YxbTNFOUc4ZEZweTdfS0dmUTBHRHp4RU9lc0R6UkZWcDBIRnJHS3I3Z253emg2akJwb3BrTDJ6dFV1eVB6Njh1R19ubUk0YklOekNxSUxN?oc=5",
-       "source": "Pluang",
-       "date": "2026-11-13T21:19:55+00:00"
+       "title": "New 2026 Lows In Gold, And The GDX ETF Is A Cautious Buy (NYSEARCA:GDX)",
+       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUnhQQjcwRTFTMGRNd1V6NUVUYm1FV2tmaWkxUjZRNWZHSk9jRlR5a1NHXzJWNHlxQkVyTjRzWUNmc0VmaG9QZHdFM01MNGN1X1dfQ19ubkJzdG8zZnVLd3hYT0JIV2ZnOUpkUG1CbTJQZ0F3LWVrMVhCVmxfYjdJcDZNU091U1d1cW9CdnBtUndGcDhIZTEyc3hkeC0?oc=5",
+       "source": "Seeking Alpha",
+       "date": "2026-11-13T20:10:28+00:00"
       },
       {
        "title": "Gold Miners: The Opportunity Behind The Volatility",
@@ -279,10 +279,10 @@
        "date": "2026-11-11T22:43:48+00:00"
       },
       {
-       "title": "Avino Silver & Gold Mines Ltd. 2026 Q3 - Results - Earnings Call Presentation (TSX:ASM:CA) 2026-11-07",
-       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRmlYRFVIZGhNcl93bjE1bXN1R1U3VGpaZUtFeEZleFNNaThYV2lLbVZNUmJ5UndCSFFEbXlNTXp1U3dGc1JuMG43eV9CMWhlU3FKbEJMMFludjBCUThmWEZ4REk4QTNYdHYtYnZLTDZiT0Myd0xFRXpQN2FRaFFsMjdUV2xKdktCSlo2S3g3dFQtQVZGU0tkb1dHYnhEemM3enVrNHdnZ3BTaGk0bFN4LTMwbTVJZw?oc=5",
-       "source": "Seeking Alpha",
-       "date": "2026-11-07T20:45:34+00:00"
+       "title": "Avino Silver & Gold Mines Ltd (ASM) Q3 2026 Earnings Call Highlights: Strong Cash Flow and ...",
+       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbDc2TnVwRTdZTm1fbEg0UGpONUdmR3VTOFFUN0VCX1dWZzQ0UTM2MnViU2dkLURtam93SVlyWDVnd21wV3RHNi1lbDhVT2pnVkd5aENNNFFxOXE5cTBnSTJGeEZjVkxQV2xKMkVicmpVVEdDVkRJN3pWSW5NYU1yTzR5dTdZMG00YnE2ZHZOTUUydTVGS2lIdVhxdl9fZw?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-11-05T23:11:32+00:00"
       }
      ]
     },
@@ -530,9 +530,9 @@
      "symbol": "^TNX",
      "name": "US 10-year yield (%)",
      "quote": {
-      "price": 5.154000282287598,
+      "price": 5.1539998054504395,
       "prev": 5.103000164031982,
-      "chg": 0.9994143957722024,
+      "chg": 0.9994050515209407,
       "currency": "USD",
       "asof": "2026-11-13T00:00:00-06:00"
      },
