@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-14T23:59:04.796048+00:00",
+ "updated": "2026-11-15T06:14:11.795929+00:00",
  "usdnok": 9.574799537658691,
  "btc": {
-  "price": 64130.25,
+  "price": 64258.83984375,
   "prev": 68249.2734375,
-  "chg": -6.035263424851022,
+  "chg": -5.846851391618523,
   "currency": "USD",
-  "asof": "2026-11-14T00:00:00+00:00"
+  "asof": "2026-11-15T00:00:00+00:00"
  },
  "silver": {
-  "price": 49.03099822998047,
+  "price": 49.12099838256836,
   "prev": 49.97200012207031,
-  "chg": -1.8830582922260253,
+  "chg": -1.7029571308395663,
   "currency": "USD",
   "asof": "2026-11-13T00:00:00-05:00"
  },
@@ -38,6 +38,12 @@
        "date": "2026-11-06T00:02:54+00:00"
       },
       {
+       "title": "Kongsberg Gruppen (OB:KOG) Stock Forecast & Analyst Predictions",
+       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPczBYT2c3eDhYYUZhdlFkZUR1VUpZeEs4U2lGZTIzaWFLdFYtb29YRHgzVlQyT3lYQ3Itd1gxdzFsaVUtMHFwYWtZRXRISVZaeWdoc0VsT05lVG9FNjEtNkp4djR2cGdTbEJsSjNrclJfUXJQeld1enBQY3RUaFA1bU5ndmpUMlNCaUR4RA?oc=5",
+       "source": "Simply Wall St",
+       "date": "2026-11-01T07:00:00+00:00"
+      },
+      {
        "title": "Contract Wins And Strong Earnings Might Change The Case For Investing In Kongsberg Gruppen (OB:KOG)",
        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWDJ1WUNjYWJNbm1yeDladzk4MW5nV3pqbGJPSTlpNXBoZjdyeWtzU0dRQzQwbDZfcUFDWHUtaXR1MV9uc0YydmJqdVJrTTNNZ0pDeUl5Q1ZGV3BMYWI3WTAtQXRKY19fS2ltUEVRSUo0RFd3V0dBMTVEOGNwRHVJVFR4S3RjQ2E1Zm51clNadVQyaG9DUHVxV3RRdktua2lralBEejJfZVB0bzd0TDZBeThuS0dRSkFUWklHSC1mbXlSYWduNkpTNGdNNEt2MmtEOXpSODR4VzJMUdIB3wFBVV95cUxQLUZ3X1FJaWEtU3VVUmp5TWNJbVJqZmZfRmZTT1VJNTdmeVhNNWJuc3VHWWN1Ymd5aURMOGV4ZFFHb1pnWEY2UzBvV0EwRnEzWUlmMFVXd2RYV0JxV2U3dTdnYURkanoyZmkwanc1VkpzaHhfNkJfdUpzcXJrWVB3M2JZTGR5NE0xZnNQd2pmd1pQTVV0b1p4UDVhSklWVWtDUm01a3IyWHp0WGxrTnEtSVN5d3JpZ3RKT3dTMEk3TXMtcVFnQ3hKYURDeEcydDNMZUd2VnpGNDFYYjRSaGhZ?oc=5",
        "source": "Simply Wall St",
@@ -48,12 +54,6 @@
        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa0J0WVlGSWkwZ3VHR2t3cWNqN1Q0M2ZmX0tqdmJhUzZrQkxwNVljUWFvMG1xcF8zUVpFa1EyTWNNVFhhMmRfNFdTVVp6R2JpaDQtdXg2UDMxMzRRV1JUSEQwNDlFZVFQTW80SGVjZ2hQdGtwWVd6bVpfOXJoSFhGdzEwOU5YWVhxTDU3d1hUU2RSWl9PUlF0QkF1RERRa3otTWNGVzN3RW5RYW5kclVnMWpLVC0?oc=5",
        "source": "Naval News",
        "date": "2026-10-30T07:00:00+00:00"
-      },
-      {
-       "title": "Kongsberg Gruppen Q3 revenue beats estimates on defence demand",
-       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNd21WOVN4LTVjZjZYX2lTRVIyTmN0QWdvRVdJamY1S3lqRVlHNTNRRlh5SGtZeE14YlFleXVFbE5SYmtEXzdWNjdYNndia1hhWXQxUUhVT2NEQ0E0YktxME5iTjdQLUhRc2hGY2VNWjJ3eEFLQ1Vud1RfZE9QdVhvQnc2VVFQUXRwaHkwUzRoNGhvUVZZM0liQWJyNnZGaTBCQlo0NXlMdENxdkY4SjRKVlNFSmxiMTcyRjhucnNMUXBEWExXaFdkLUlub28?oc=5",
-       "source": "TradingView",
-       "date": "2026-10-29T07:00:00+00:00"
       }
      ]
     },
@@ -87,10 +87,10 @@
        "date": "2026-11-12T05:38:21+00:00"
       },
       {
-       "title": "Balaena And Kongsberg Maritime Sign MoU To Advance Arctic Hunter USV Program",
-       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUng5b0R3bnZ6Uy1zdVlRRkk0SUl3LTZDbUpNRUVqR2dXMS1IeVRubUdMZ21tOFVnZ2lGS1RfVWxxZ2t0cXRaQ01FOHhRbWp3cWp5OHpZTlg4VXJkSXhQVF9vTFBTOTZiTzBaMHVoeEFyQkxYVlVObEtDR1BaejRIR2l1LXR3ZDJ0QkVuYWhkQzVYUzdPR3BFVGx0STIzQWd1WTVSOFFHUVNwTmlKQ0lFNE5n?oc=5",
-       "source": "Ocean News & Technology",
-       "date": "2026-11-11T16:29:53+00:00"
+       "title": "Thales teams up with Kongsberg Maritime on Royal Navy's future anti-submarine drone",
+       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMjZUR1JWZjNCWC1NaDJZOFZlS241UnVpWW9oeVZCY01VTGlRTVpGSmtlMDZzTDItSzJoYXNoTV82R0xmcjl5T0RRS05wZlBuc0R1bmlRdXBuaGo5M09UMTktVG0yVEk2S003NzUzcEdQbWJuSkF5V1RrY09hTDQ1SElRX1c5WjdaWWFDbC1rTUJyb1cyLUk5VHRNZmhqTnpJaGtoUG8yajloZ1JDaHJMaFMtdnFEY2YySTRHY3BxUWNWWDVLU1ZzaUh0QlRQY0ZtVUE?oc=5",
+       "source": "www.marketscreener.com",
+       "date": "2026-11-10T15:51:19+00:00"
       }
      ]
     }
@@ -124,16 +124,16 @@
        "date": "2026-11-06T08:00:00+00:00"
       },
       {
+       "title": "VanEck Gold Miners ETF (ASX:GDX): Dividend Profile and Global Gold Mining Exposure",
+       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTG9zYlEtU0szRWM1Y3JvbDlaYXFzQTNSc2ZLZGJxV0hHbm5vUm5Nb1RPS2d4R2E2X21RM1NjX09qRmxNakxJUGdqQjRlVXlBczJBeFJlckUxd1I5dUFucHI3bGtlNWhycGlXNzI1MDZlT1F2ZWRJQUFENi16Y0RLMWpmbTIzM0ZuQVdMN0hKaW94NzhTZ0QyZVZpRjUzUHNEQXJhS3otd1h2SjlkX1ZibTdILTd3WVhNNks3MlV1TQ?oc=5",
+       "source": "Kalkine",
+       "date": "2026-10-26T04:01:00+00:00"
+      },
+      {
        "title": "VanEck Gold Miners ETF (GDX) Stock Price, News & Analysis",
        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1ieGEwQ2t6MVpzMGxHanZndFVTbDdJcmVxa1RNTUVTcDVvYzUzWjVwNGNuZVo2dWNyenZyY2NIbHU5TE1fTHl0VlNBUE8?oc=5",
        "source": "24/7 Wall St.",
        "date": "2026-10-25T07:00:00+00:00"
-      },
-      {
-       "title": "VANECK UCITS ETFS PLC (GDGB) ETP Price and Quote",
-       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZWZqXy01cW1lVTFBU0ZDbXRCZkczR3ZTVzl3Zzk2NnZ1NURScmJRU21vMElucmtIWDU0dlUwOExncXdVY1JhX2FkdXpDSUtJSjU5Q24yZXJpekhYWXEzLWVteVJ2RzBRRUd6MnpEdm93Y0xxNTZDQWtBeGJXS2NkUS1R?oc=5",
-       "source": "London Stock Exchange",
-       "date": "2026-10-23T08:22:41+00:00"
       }
      ]
     },
@@ -195,7 +195,7 @@
        "title": "Monthly letter October 2026",
        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWDhQalFndWVXTThtbXNMc2Ryb29OdndLV2hnczhtVWxLN3U0U0N3di1DdTVIak54c2JGaGVuMkxoaUNvWEZneDgyTXJuS1dkTDZ6WVpwWlowTHRHdzhlRWFzMEdPTWN4UTZDV0VrYUxSdmVWVlF0cDVtUk1zLTR1RXduN1B2RmFUSDBVRlRVcV96TnJ0YzIzWg?oc=5",
        "source": "TradingView",
-       "date": "2026-11-06T09:10:00+00:00"
+       "date": "2026-11-06T08:00:00+00:00"
       },
       {
        "title": "AuAg Funds launches in Germany",
@@ -229,10 +229,10 @@
        "date": "2026-11-11T23:34:25+00:00"
       },
       {
-       "title": "Form 8K Hecla Mining Comp For: 10 November By Investing.com",
-       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTmp6V2Voek5iTGptWjNaR0JSY09xenRaSERCd0ZadTZ2Nm9PMlJQUkx2TmN3ZUgyaUJuYTlHc2pSV29NMThta3pQTTgxNWR5WkpNeU5xTFF0RGJXVmJpRGpyRWRsNjIzcG1IVWYybV9VWjZRSjVtczVYZFBCbDVkUmNXdEdZLUlsTVY4N0FFNWxhVmdldFpWajY0ODU3RkltZGwzWg?oc=5",
-       "source": "Investing.com Canada",
-       "date": "2026-11-10T22:10:11+00:00"
+       "title": "Hecla Mining (HL) Short Interest & Short Float | Updated Nov 2026 $HL",
+       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5mSVJtaDlNdTNDZlp2NWphUEM0Nm9PQk1yS0dzVkR2c09VWVk4VnJNWnFsR01FTnVqVElQeUV5NGZuenJOckhIRUpJSU1YR2VJSl9JUHVYTU84UF9TM1A2cV9zbjdjc0Y4?oc=5",
+       "source": "MarketBeat",
+       "date": "2026-11-10T08:00:00+00:00"
       }
      ]
     },
@@ -298,16 +298,16 @@
      },
      "news": [
       {
-       "title": "Coeur Mining Stock Climbs 26% On A 6-Day Winning Streak",
-       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaHNqLVJjdV9TUW9pbXdYWWRubXBRYy05aGo3cjhLYUEySGJSYnhxOXUyWUFNend5dkRzY1VOZktvam9lS0cwdDVsRGlkekVzU25zSk5qS25zWmNEcW16UDRQUnFQdnNUWC1PQU9QRTMwbE90RUhKUTdLci14SlVNaDdoZDYwX0dIQmhxbW5yVFBJb2QwV2w3VW9vWWhYcUJIcEluckdoazJwYVdjSEEya2N6ZmY?oc=5",
-       "source": "Trefis",
-       "date": "2026-11-10T07:04:05+00:00"
-      },
-      {
        "title": "Coeur Mining, Inc. (CDE) Presents at RBC Capital Markets London Precious Metals Conference - Slideshow",
        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQT2VXSXdCUXlrOGV3blFzRklPQ2ZIY29NcHVuRlpreUU5TS1xS0djWVl2Z1U1RTE5bTFMbm1iS3BvczREcWNPNEdEOGVxaUx5ZHQyQ3F5VnlielVNaFhnZUZOZ0JhRW5tSTFvRHJ5b0x4ZjRxQkM3ZWJJUjN0V1RlWmt1bmwzWFdCUk1RRlZuUzNOVjhMbkVzX3VSdzJVQW4xcndzaWhHWXV6Rll6VEVoM2ZkM2NqbXZoVTRRUUVnbkxsbWpfZnc?oc=5",
        "source": "Seeking Alpha",
        "date": "2026-11-10T06:34:08+00:00"
+      },
+      {
+       "title": "Scotiabank cuts Coeur Mining stock price target on Q3 miss",
+       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUHVHTjFlN1RjcEFMaTBRWW1ZamZjQzUwS1RPSkUzRklGWV9nTWo0eWtqVlB2SEMzRlR6d1doOGFaQzZPaXpsOEJaMGJUUWVFZzBhWlBZQlRkRzdKTzczLS1pWFJjd1NtM0tLTUowaUZ4UENVNllGQm1wNkJmclYzOEd1d3FYNlI5dkJmNTJ2bTlaM3NuNUJycGhyM1R1ZUpYaWxYTEhrSWpGanpzUE50OS1LUUJSZnBqOGc?oc=5",
+       "source": "Investing.com",
+       "date": "2026-11-09T13:01:05+00:00"
       }
      ]
     },
@@ -323,16 +323,16 @@
      },
      "news": [
       {
-       "title": "FIRST MAJESTIC SILVER (AG-USD.SW) Options Chain - Yahoo Finance",
-       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1kUmJWVGc5SS0zZk1OemNQcFo2cTFHcGgyTUhPYjU5TzRWeVd1aUZjQVNQd2Z2RktiWTN0RS16STM1ODJ3RUdfQUFqLTFOUk9nUXJZZk1wUDRpTW9wVFJ5cjlvYw?oc=5",
+       "title": "FIRST MAJESTIC SILVER (AG-USD.SW) Latest Press Releases & Corporate News - Yahoo Finance",
+       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9GTEY1bnJzaDRqcTZiNnZQRmxsUVlNSko4dG9saUppQVMtcUZ3TlEzUzcyMXB0M2xaRms2a1VxaVlpaWZucWE5TTJZdWdtOGU1QVRRRFpMZG55VU1nNV9fSWR3d1FVQnVCOXpWcw?oc=5",
        "source": "Yahoo! Finance Canada",
-       "date": "2026-11-12T16:24:48+00:00"
+       "date": "2026-11-12T14:08:24+00:00"
       },
       {
-       "title": "Can Higher Metal Prices Offset Lower Output at First Majestic Silver (TSX:AG)?",
-       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOc1NOUmk4UWxZLUpqcm1oZzFpQlRGdWRoWHpSMjJxWFNZYXZNOEh2clE5V0s4RWhjcDdwLVh4ckljZWVFa3FSdFZZTU9rZkdIanVPX0VZZkV0MGhDNVRVVFcxSTlDOVJoam9keUx5elM2NzQ1QkZuMHVxQXlKQW5aUFFMaEtRTkJyck5mWVA4d1NwWk51Q3cxTEtOcXNCS1BZR184T0IxN0pVeU1YVUdhVUpOWjBsRHJtUUEyNVV2VnlTSjg5?oc=5",
-       "source": "Kalkine Media",
-       "date": "2026-11-12T15:43:00+00:00"
+       "title": "S&P/TSX Composite Index Watch: First Majestic Silver Corp. Faces Production, Project Delivery and the Next Growth Test (TSX:AG)",
+       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQzhZNExWNUUzS1NweEZhaVFMN1hFWlkyN1Y3b0JiUHhxTG9IT2JUYzdxcUJSVWZLQlNZVUQ4MlNJSVpaZHJhTk5iTEE2akJaY2stemdZSU9ySWFydzRFTVg3NXJRSVFwU00yRG95akxCZDN3b0VQS0ZjbG1UTzgyc25LaEhQcDdfamZCRG94dWZXYkZLZ1FYN203ZE9vbl9GZUI4cG54NFBFQXVFd2xvVFd2ZXRoRFpydTJFUnU2ZWY4dHFlbDFkQmdZd093Ni04M1ZobHpQdTBqRm11QjdDSjZBTFk?oc=5",
+       "source": "kalkine.ca",
+       "date": "2026-11-11T10:03:00+00:00"
       }
      ]
     },
@@ -348,10 +348,10 @@
      },
      "news": [
       {
-       "title": "Why Is Defiance Silver (TSXV:DEF) Down 2.33% at CAD 0.105 With an RSI of 25.51?",
-       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcFgxX19XRGItYk9RSGlJWHNlaFk1NFdHd1dFUjF5Yk9BUmprYS1ORmVpUjJNd1NySmdQRUwydHZoR3RKOHQzak0zdVBXSng4NmROa2ZnRWVYRmR0TUxucmFGNjM0ZDdCcVBFVF92WjlWQ0RFbjhmQWpEbHBWWklQWWdxRU9GTHZwTEZOVURiNWdqZ2VlZ3l0LWVPcmxVX202R1hOSA?oc=5",
+       "title": "Defiance Silver Corp. (DEF): Understanding Its High-Beta Profile and Exposure to Market Volatility",
+       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTE9WaUxXMWtiZ1QwM0ZBUEJnT0tURGlrV1ItSjR1eUp5VDNnd0EwdlJDZnY5ZUR6U3plY2htX1BMMC1UQTRpVnoxeVlQUklHU1JJSGN2andMMFJLV1U3QmlLQzVGcXNINWV5cUNpVnZDQTJXTkhQUjRFMzV5LWtaUnc3SEF3X2NNSE9ZRWhfbkw1aFM5OWpSeVBVQ1NfZ1djdzN3VkdvaGRMODRMM1RMd2h0UkRPTEZPcW5HSlptSVBIbEk?oc=5",
        "source": "kalkine.ca",
-       "date": "2026-11-04T12:59:00+00:00"
+       "date": "2026-11-10T07:53:00+00:00"
       },
       {
        "title": "Defiance Silver Corp.: Defiance Silver San Acacio Drilling Returns High Grade Silver; Additional Holes Pending from Lucita Drilling",
@@ -423,16 +423,16 @@
      },
      "news": [
       {
-       "title": "Santacruz Silver Mining Ltd. (SCZ.TO) stock price, news, quote and history",
-       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE55SEtXTDIyM1VsT2RLTTY1c1NiYWZkYndOTUxsd2dyTDc5Q0JvZVR5ZDVUdWtaZjItYXh4b1FFQ3k2TzZ2T0VuYlpWcC12LXZCTVpFdw?oc=5",
+       "title": "Silver47 Exploration Corp. (AGA.V) stock price, news, quote and history",
+       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwaGtidXpnelJ4S3hvamozMWR2LU5uNFNZdFB3S0ZqQVpHSjJuY3NxdVhSNEI4Y3IwT1ltdmQxR3phaXFKQWRUbW5xU2t1aDcwTmY4?oc=5",
        "source": "Yahoo Finance Australia",
-       "date": "2026-11-02T22:58:52+00:00"
+       "date": "2026-11-11T16:01:09+00:00"
       },
       {
-       "title": "Silver X Files NI 43-101 Technical Report for the Updated Nueva Recuperada Mineral Resource: 10.4 Mt Measured and Indicated at 202 g/t AgEq (67.3 Moz AgEq) and 21.6 Mt Inferred at 260 g/t AgEq (184.3 Moz AgEq)",
-       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWlhwU0dacGtfSWlCNy04WTFQYXk3Z2Y4Sl83ZVFNUTRqRjkxNGt2NXQ2T1dUbnI5MXN1OGh5UG5OMmNqVlV2a0s5WV9zcW92akcwb2dmQU5LSkh6NmN5V2k2d0RDZVZ6Z1VsRUpaSC1yZElOanppazE0V01KSjB6c0c5anloVC1xSElRbWNBTzRCcXdL?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-10-30T07:00:00+00:00"
+       "title": "Silver X Mining Corp (AGX.SG) Seasonal returns chart",
+       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE80NzFxY2F2VktQWGZ3ckNFRFc1cmFiUlNVUFlsdWRiT1dlZ3E4cDBEY2VsanByVlhybURaWDdhODJicHBadE40NFpTS29HWjgtNFVhRUdfMGNmZkY3bW8yQlM0SnA?oc=5",
+       "source": "Yahoo Finance UK",
+       "date": "2026-11-10T21:49:17+00:00"
       }
      ]
     }
@@ -624,10 +624,10 @@
        "date": "2026-11-14T17:35:51+00:00"
       },
       {
-       "title": "Elon Musk, Tom Lee, Shopify CEO Sign \u2018Stand With Jensen\u2019 Petition To Reinstate Him As Nvidia CEO",
-       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMEx0TURqbXpxMG5VRk1HZjNXMTNTV1F2cUNhWkVWOVVUaV9QU2hmX3UzcjRsVVkxbkxLY2pfS3hzZXpzdU1UY1ZOWll5Qnc1cDR3b1d2eVNLV1pJQl96Mktwek1wNlpNM2hCSHNubmVLN1F2QmtpdlREV2pySTBmSUNybHdqNjBRZVgtNm5Fend0d296?oc=5",
+       "title": "Should You Really Buy Nvidia Stock After CEO Jensen Huang's Exit? Wall Street Has a Clear Answer for Investors.",
+       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObWROd0ZyWG5BRTgyU2J1U09wOWpEaEJnWlh0c1pqLURHRWkyRmNfMXY0bVVSNWVXeGp1MmdidW9QYTBEUnZOelg2YU5SQlFFTUI0cmxDUkVzSm9GM2d2bVVsWnZodG9XemVaaUY3VzhGM1FQUWhfUjJ3Nlk3VTVwTVlZRmRHOEJ5NXZpQVp4Z1oxdVFUWjFr?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-11-14T04:24:00+00:00"
+       "date": "2026-11-14T09:41:02+00:00"
       }
      ]
     },
@@ -693,16 +693,16 @@
      },
      "news": [
       {
+       "title": "Will ETF Buying Change Meta Stock Narrative",
+       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUnhObF9vcWxydnRua1J4T2hsVjhTOExiYjFWYUJhTmxGazE1ZS1zTzVBN3JuUTkwaHVKM3h0bm95ZXU4NlBLQkFmbkk1cnlYVTBlc1F4Rk9VaVV4cnhtd1Y1QnVETzNjbkZvM3FObVc5Y182VjVjc1B4SXBIbjAwSUp3WUZlVXpqOHpFbkkxT2pqbGhKQWxEMw?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-11-14T00:20:00+00:00"
+      },
+      {
        "title": "United is the first airline to ban bookings from Meta\u2019s AI agent, Muse: 'I don't want to create another middleman'",
        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNXdteUxyTm1TSmF6NmVVYWF3WWhWUFVORVMwdDMwd1k3a29ucTh5T3VpYXdqWktDRDNNTXFLc3BtVXdGd3pRcnBDeEVYMHpPRl9RTk5wazBtRHdBUU54aGxjLWVjdDdyQ3duWXUzY0JrWXVvNFRFY0VRMVlqQWw4dWtFcjl0OUZMQXZfLWdMcFktSEVfSzM4MktUa2tiZw?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-11-13T16:55:00+00:00"
-      },
-      {
-       "title": "55 ETFs Add to Meta Platforms (META) on Nov. 11",
-       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZkc4MEpkMmtxWldrMnI5ZUdHVjMyb1ZBU3duZklHdnBQekw0VnYzR0hoZWRMV3EtOUdScmpzd2E1ZEYxcjNfR3NKNWR6R3JzZWJtWE5SbG4ydTcxSzZRN3lXMmFHV01JaU1SSDNXVF8yRnM3U1VJS2RQYllEd0p3cGNTWV9jc3JTcjRpQkVla0ZLMUd3V1E?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-11-13T11:01:47+00:00"
       }
      ]
     },
@@ -791,16 +791,16 @@
    "date": "2026-11-11T10:30:00+00:00"
   },
   {
-   "title": "Housing Market Predictions For 2026: When Will Home Prices Drop?",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSU9xYzQ3cnBpZ2NDSTBMeXJXUmoyWkNGX1NNLUpHQUhzdTVONG5CcGVxWW5KUDhBN1ZnME9XNDczZjZtZzc5aF9uQ0xDS3NfMUI3b2hPSDV5Sk5ZUWpyc2JGcjJDVnhqOE16cnppVlpmMHBQT21sXzdYMEU5TlhSOFRERGRydmc?oc=5",
-   "source": "Forbes",
-   "date": "2026-11-10T22:11:00+00:00"
-  },
-  {
    "title": "What\u2019s happening this week in economics?",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcV9VYnV0R0RPcWN0d2g1SHJIVlNmaVA1TV9nXzRKdVlFcWtSMjQ1T1B0djE4dDNRanZvSVFGX0ZBNUd6cnZkVnAtenFuMnFzdU9zYzg5cFdkTVRxU1F5YVVXVFhVWGdhd2RsTDBkNS1Xcm9ub1FnMFp5NnB3WVBYa3JJa1FVbG5IT0ZRRHphTUhtNThkenVJS1ZrdWNDdw?oc=5",
    "source": "Deloitte",
    "date": "2026-11-10T08:00:00+00:00"
+  },
+  {
+   "title": "What would tip the Australian economy into a recession we \u2018don\u2019t have to have\u2019? | Saul Eslake",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNckNDRVBZU3ZrRHdQV3gwTC02QVduWGwwMDkzbE81cTNWUUg1LTBKb3dqT2o2Uk4yVkVRZHdYT1NmVzRrbG9rSVRyLUJhNkhac2Yzalk4YkxFS3YxdFcxSy10dmFEdmR1SldkSzBQMVdGS2wzYUZhLXQxc0trM3FuUWV0OVVtaG9Pa2ZZR184WlJZVHZEYjBPampBQ2Z0Mll4WTVFdw?oc=5",
+   "source": "The Guardian",
+   "date": "2026-11-10T07:43:00+00:00"
   },
   {
    "title": "2020 Bulkers Ltd. (Euronext Oslo B\u00f8rs \u201c2020\u201d and Euronext NOTC \u201c2020T\u201d) \u2013 Execution of new USD 146 million senior facilities agreement",
