@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-21T08:08:39.172729+00:00",
+ "updated": "2026-11-21T16:14:02.133658+00:00",
  "usdnok": 9.74940013885498,
  "btc": {
-  "price": 57696.25,
+  "price": 59712.73046875,
   "prev": 58798.98046875,
-  "chg": -1.875424471579179,
+  "chg": 1.554023543802141,
   "currency": "USD",
   "asof": "2026-11-21T00:00:00+00:00"
  },
@@ -24,9 +24,9 @@
      "symbol": "KOG.OL",
      "name": "Kongsberg Gruppen",
      "quote": {
-      "price": 326.7,
-      "prev": 337.5,
-      "chg": -3.200000000000003,
+      "price": 326.70001220703125,
+      "prev": 337.8999938964844,
+      "chg": -3.3145847563655906,
       "currency": "NOK",
       "asof": "2026-11-20T00:00:00+01:00"
      },
@@ -61,9 +61,9 @@
      "symbol": "KMAR.OL",
      "name": "Kongsberg Maritime",
      "quote": {
-      "price": 55.44,
+      "price": 55.439998626708984,
       "prev": 58.0,
-      "chg": -4.413793103448283,
+      "chg": -4.413795471191406,
       "currency": "NOK",
       "asof": "2026-11-20T00:00:00+01:00"
      },
@@ -73,12 +73,6 @@
        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBMcDJ3OTYxempvWlJpT3ZJeGtKeWF4TU41a3BnVTFwQmluSk1TMVpaOVhsaGtnUnFvcnFiZ0MwLWVmTW5wZHpmS2R2dW5VcjMyanFKSQ?oc=5",
        "source": "Yahoo Finance Singapore",
        "date": "2026-11-20T06:24:31+00:00"
-      },
-      {
-       "title": "Kongsberg Maritime secures automation, safety systems scope for Wisting FPSO",
-       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbFpiV2pDbklZR3UwZlp6V2lQRk8wcy16eGVSRDRETlZFWGI2and1SWJ1ZExqM2R5Zk9yNk1xNkNTN2xvZDBRZlZoYVNuZU1fcU5wVHp3YVZMend6NEpWLU1tRVlEMWNuMi1FMTdsQUxZV2NXdWYtYzRqOG5VcFVwSkNHN3I4VDVocjFsTzBpUnF3Mi12bDY3NlNtTElVVWp5N0J3X3k0MDVJaVVhazBtQkRmeUp1XzVzcklJc0NmT000MXY2Q1JXSDliVmpCZm43OGc?oc=5",
-       "source": "Offshore Magazine",
-       "date": "2026-11-11T02:16:02+00:00"
       },
       {
        "title": "Thales teams up with Kongsberg Maritime on Royal Navy's future anti-submarine drone",
@@ -91,6 +85,12 @@
        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWXVCQkRFYXNXUTlsLWFUN3RtbVZBTGVjUURDUUpYMTdVNVl0U3V2R0lmRDVZTFJnY0VLVHZRRGJjUmJsT28xdkV0SXlBMTVfbEI4dUh2NzJ1bnVwYzl1dUplckVsY1I0aGdqXy1YcjV1Sm44U3NPYlh6VjluZEdCT0NGYzFONGlXQ29pRGw0NXJzTUN0Wk1tRlRxdFVWcjNGX0xna0JseGprOXNDM0ZZ?oc=5",
        "source": "Data Portuaria",
        "date": "2026-11-10T12:35:22+00:00"
+      },
+      {
+       "title": "Royal Navy Eyes Autonomous \u2018Arctic Hunter\u2019 to Track Russian Submarines",
+       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1UMkc0VXEwTlZUeEV6bm9zWm9nUy1Hd0l2cWtNVGdWRHR4NUZKRV93ZXJVd0FELWJDZUgyd1pwbFRGUEE4b1JTX2J3NA?oc=5",
+       "source": "Kyiv Post",
+       "date": "2026-11-10T08:00:00+00:00"
       }
      ]
     }
@@ -104,9 +104,9 @@
      "symbol": "G2X.DE",
      "name": "VanEck Gold Miners UCITS ETF",
      "quote": {
-      "price": 71.99,
-      "prev": 75.62999725341797,
-      "chg": -4.81290147508695,
+      "price": 71.98999786376953,
+      "prev": 75.66000366210938,
+      "chg": -4.850655063049891,
       "currency": "EUR",
       "asof": "2026-11-20T00:00:00+01:00"
      },
@@ -141,9 +141,9 @@
      "symbol": "2B76.DE",
      "name": "iShares Automation & Robotics UCITS ETF",
      "quote": {
-      "price": 15.842,
-      "prev": 16.959999084472656,
-      "chg": -6.591976089764151,
+      "price": 15.842000007629395,
+      "prev": 16.937999725341797,
+      "chg": -6.470656131093344,
       "currency": "EUR",
       "asof": "2026-11-20T00:00:00+01:00"
      },
@@ -248,10 +248,10 @@
        "date": "2026-11-20T08:19:31+00:00"
       },
       {
-       "title": "Hycroft Stock In Focus After Wider Loss And Executive Changes",
-       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWmpKdUpDcGx1Q20wbXYxeXl0aWJSdkpBTGRNcVlBc0hJVnJSS04xbk9mQkVuZ1g1OTZ3djJkVXl1UGl1N0VFWUxoRTRiTkFxVmdTOWFORlZzQWhBcnFfU0lOanNhd05lNE9GTWdDaVljQVNMUFZnWmdUN29ZMThJRl9pVkFpNTBtNEdoazVRc1VVbmpaV1hJcS1UUQ?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-11-06T08:00:00+00:00"
+       "title": "Form 144 HYCROFT MINING HOLDING CORP For: 10 November By Investing.com",
+       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORU01ZVYxcTZpMjdkQkFyWG8td0RGeVFUZUtqZUtxYWJtY3FVS3g4YzNuMzlhZ0dnQ1h0cmtWVzFDQjdKYUNoT3ZzdmRDa0hIVWEzS25GaDlyY0hFY1VfWHYyX0NSeGR0V0NNWTlZVlhIdUpuMVRPSENKdkpILXBobE5PWnY5eEVKTE9zSHl5NVE4LUpQV1J4RFdrTUpLWGJqRHBpc3dmWnJLS05vRmVfQURtOA?oc=5",
+       "source": "Investing.com Canada",
+       "date": "2026-11-10T14:49:23+00:00"
       }
      ]
     },
@@ -342,16 +342,16 @@
      },
      "news": [
       {
+       "title": "Defiance Silver Corp (D4E.HM) interactive stock chart",
+       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE96N1NVVnBidl9NNGFUX2w5TnBIUUc5LWpSaFdBZU1FR1hkS0RlbVQ3bzIxb2NhUHB1dzdJM1RWNlNMeEpvR0ZTR0N2VW5tSU5MN2E4V0M5a2k4aFh6?oc=5",
+       "source": "Yahoo Finance UK",
+       "date": "2026-11-21T12:04:56+00:00"
+      },
+      {
        "title": "Defiance Silver Corp (D4E.DU) Seasonal returns chart",
        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JNjR3eVVZd2ZleVE1dDU4MG9ULVBSMVpNQnZjdHFMYUhzVzd4LWhlTXBnOGRsUS00SEZvZHF1Qk56WEVQVGpFZGhXWUVXaDZlRG1Cd3V0RHBnM3I5OXpveHlicjc?oc=5",
        "source": "Yahoo Finance UK",
        "date": "2026-11-18T04:27:37+00:00"
-      },
-      {
-       "title": "Defiance Silver raises C$3.27M in private placement",
-       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVThvVEk3MTRTQUk4eW0xVlhJdEl3aGtpUnRraWhHb0pnNGRKXzlZS0FEZUYzbU9zWW11Ujg1a1FFaG9DU2dhcEJVZS1hV0xYUWFNNk5TMWpGckFzRFJuYVpiZmlVQ0F4Z2lBNkpINExnb2dqWW52ZGxQeFQ1bUVEdTk4WWRmRUhWYU9oUGJ3?oc=5",
-       "source": "Dealroom",
-       "date": "2026-08-19T05:04:28+00:00"
       }
      ]
     },
@@ -359,9 +359,9 @@
      "symbol": "GRSL.V",
      "name": "GR Silver Mining",
      "quote": {
-      "price": 0.183,
+      "price": 0.18250000476837158,
       "prev": 0.1899999976158142,
-      "chg": -3.684209317711895,
+      "chg": -3.9473647060816464,
       "currency": "CAD",
       "asof": "2026-11-20T00:00:00-05:00"
      },
@@ -562,16 +562,16 @@
      },
      "news": [
       {
-       "title": "AAPL Stock Alert: What to Know as Apple Develops AI Agent to Compete With Muse",
-       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQekFPM3ZncUc5OWU5R3NERDJHalhFbE9WNURJNUNmc3RnelpCTW9OcHNHcXZuTDMxVGtMbWkwUnM3WDBCSHVYalU4dnhzWFY4NW10dGJROGVEOE5KNXNIUjJUY1ltN1A3SHJTZE9XS0ZUQTNUT0c5S1BVUzJGRDlzVlVuZkV4YUNNTHFxZVhmai05QUcwdmc?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-11-20T20:32:49+00:00"
+       "title": "Apple Might Be About to Become an AI Stock\u2014but It\u2019s Still Dodging the Tech Selloff",
+       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Fa0pGYUFwN2J1dWUtVWxpeGo1ZjREeU9CXzhhRmZnQ0ZMS0QyQVV6dzBWekZTdEtpYlBaRE42cmRfSmxzU0tjRDd4NUlkUFUzeEIwX1NlZUh6YlozLTdaeEpZZ3E0QkktT3o2eEh4M2d3c0U?oc=5",
+       "source": "Barron's",
+       "date": "2026-11-20T12:44:00+00:00"
       },
       {
-       "title": "Apple Plans an AI Agent to Rival Meta's Muse",
-       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOY0F4blpOUFRhbFZHXzJJUDdoQVpLSXkxWXgyUllDVWVKU2g2LWdsZ0k1ZHA5a0gyaDExeXdPeFpPUzd0Mjh4SEpiZDEyYXllQ0EyYjEwa28xM2VvS1lYYWcxR1FVZ3p0Y3NhZS1pWjNQTjVnMTJEdFNUOGQtLVllN0JlMERBMEUyenhFUFVNVEk5REk0?oc=5",
+       "title": "Apple Is Working on AI Agent for Device Control, Apps, Browsing and Coding",
+       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYTVJRENrMk9TY2h4TWJhQ3dVS1hONE1TR196dVBoLTJ4ZXI3bVdvRUljd3BNT2RLSnVFRTJpUEFTWHRQNzdLMnNSSV9DUTR4NjV2d21Ub3hqNzFGSXpyUmJPVVF1MUNJSnIzU1Z4TGlhb09TcHN6bFN4b2EyZkhfZlpLdmVCNEpjaEFSNUFzVkUyb1dMdGxyYg?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-11-20T18:13:09+00:00"
+       "date": "2026-11-19T21:44:56+00:00"
       }
      ]
     },
@@ -593,10 +593,10 @@
        "date": "2026-11-20T18:02:13+00:00"
       },
       {
-       "title": "Satya Nadella Says Microsoft Is \u201cBuilding Tools, Not Gods\u201d as Copilot Undercuts Anthropic on Price",
-       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPY1J4ZHkxMDRCNVkwLXNGOTB1ZWRTMFpqdDB3ZFlrTEVtNTdWaW1aeUhTQkdJYjdobVIxc3hxVEQ5Z1plY2pjZkNFVjZOcXQ2VFl5MzVTblRKazNEMEI3NkV2aGZfYUREcUdiMlhDNjVIcjVvWllsZEUtcHR0cG51T2twakdmcHNtU1hSa1YzNnJIQXp3RXV4U1BVcmw4c29yalg0?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-11-20T12:24:07+00:00"
+       "title": "Warren Buffett Jumps To No. 7 Among World's Richest As Steve Ballmer And Microsoft Tumble",
+       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZUV4T3VfeFhFUng1bkFIdW9DVDJ4bi1VeW1EVUdKNDFXdkJQMHJ3MkxHa2ZGM1llYWFISWZGZnJCNnpDd3lJXzhfbUpaaDYzQUNRQUFNTXQ0YV9HUUVnQklNRGl4Mnc4TlZUNWdfYk1KTFE1R2FrZHJObUFTUVY3LVdwT2JjTGk3TW42bEFPOUZ4S1NOaUtTYUJSNzBZdl9Tb1JEQVo5a0wtY1kyeGlBVkpRWDhxZ1pVVk44RHBvZmhoTmRzeUVTLTR2WmFsTllXamhJZXdCdmVvaG1MUS1JSTU1cUE?oc=5",
+       "source": "Forbes Middle East",
+       "date": "2026-11-20T07:22:27+00:00"
       }
      ]
     },
@@ -612,16 +612,16 @@
      },
      "news": [
       {
-       "title": "EXCLUSIVE: Nvidia's accounting is a focus of US SEC investigation, sources say",
-       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMzlPdFVTT2cyVkhmMFVKNWZ1MnpNT0NLcURnblg4THMwUWNuYTRBLWUxU0ZSSUR5bk1zNnBmVlhIUjByNkN6TzVBNC1uaXQxM0dwY2FkMzZQdm00a0xyMXo3NFNpSUNPdERZWU82aGZLa0lNZHpMOXVnVDBVQW9lMmNrWEVRczVYS1Racm1NNlNERDBJeTFJRG1pZVRfTC1LTy1pNjhpVzRaeGRrY25kSzQ1aDNUUQ?oc=5",
-       "source": "Reuters",
-       "date": "2026-11-20T21:37:28+00:00"
+       "title": "Here's How Much Nvidia Stock Is Worth Without Jensen Huang, According to Dan Ives",
+       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc2EzQlkxdW1vRXFOOUVjNmIyNHRNdWViMEpRaWNJQ0N1M1NJOXBZOGw5NkgzbU1BSGhRcjZFQWwwNGQzMW96ZklZLUlCVk55SUs2eWdLQ1p2Q1ZzcWNXUmtyQUZxZ1V2am5hSlpfSkZFR2g1WkUxQ2k5ZU1pN2JJUGJUTklQZzdJZ3VRQy1RRFoyUE0yMkxnbFN3?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-11-21T00:30:00+00:00"
       },
       {
-       "title": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis",
-       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSXJZbEJSVExtUGxySHJ5eFBaLTRFV0dTRWFjY244NWdhVTZ5cENMNXBqcVhBS08xLS1oSG5jbVJTME9QdWZKcXlzOXpTN3ZmMFZrREtNVzhHUVFMZXBmTndDUklLWFFrOGlpNTc5Y3dQR25mMjhXdGlSbl9SNVBfbFVOVXhCZTg3a3gtVUwyN1FWOVZ6NWIwRXUxZTdReG56V1MxeGdIONIBrAFBVV95cUxNN3pqQmZoNHdVc1M2SHpMWERNaDNHOUVyRGNDM3dlVzdGR19IaVdyRG5mQ0p6SzBZYlpWemdoZDN1M3NzZVpVVWpNVkFGa2ZpT3g0YVR1aFBLb0RoWm5mM0EwMkRkdmEtNndicG9iTHNLTGU4VUg4XzdPNWpDd0tYMWItNFM1NDNuMTN5OHEwbWFBNUloZEh6ekdsYW5WY2FXSHZjcmgxS3M5Tmx0?oc=5",
-       "source": "CNBC",
-       "date": "2026-11-20T19:26:29+00:00"
+       "title": "Prediction: Nvidia Stock Will Do This in the 6 Months After a New CEO Takes Over, According to History",
+       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNLW9ZM3F2c2phdDRwLURNU0NzTHpXRjJTY28yTTdNT0xiVjZOczIxQXNYcTJmemMyN2Vod09MYUdnZUZaSl9saFhHdFBuWWlZRHFVOXFqSkVUSlNJSERBdEdETmxnNnZNeHktR1NpZldpRjVtWmtIQk16WHZLa3VrZUpmcUl6WnNzV3RfRmpobVpSbVBwMFQ5UUJkalFyQQ?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-11-21T00:02:00+00:00"
       }
      ]
     },
@@ -637,10 +637,10 @@
      },
      "news": [
       {
-       "title": "If the Nasdaq's Correction Turns Into a Bear Market, This Is the First Stock I'll Buy",
-       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUmt5TmlSaWk4ZmNHaDlnVFljeXoycjBMYkVLd1h6ejhtdWxCRzlGclFvN2tabVFkRzdrRm4td2Zabk5tZkdsT1EzMkZrcVo2Q0NNV2FyTGVWd3MxRnZpQW82RFduc3FDMzl1UTBfaTdicWdkNzJUTUd6RzNyRWFZVnlpY1NBNkc5VURJbGg4X3V5WlZnS0p4MlEwY3ZSbm1MTE1R?oc=5",
+       "title": "Jim Cramer\u2019s Favorite Chartist Sees 2 Signs of an Alphabet Stock Rally",
+       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNlc2RExIWExkdnlmaWFrNy14UUtaeFVwejBVQ0xYSlE0UUlRc0JkMXFlalFsV2loWkpuanpncGtCOE1WaWliMkpFcUNkSUpXUXVYRjZObzUtT2RqeTJMQnF6VnpWS1I1SzJLaUd4Z3duRVVKbGJ4dllLMHRDNG9JdVJEd2swYlVETGR4MkhNTVRyN0U3ak1yUjFYVzRZQ2M?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-11-21T04:17:00+00:00"
+       "date": "2026-11-20T13:37:52+00:00"
       },
       {
        "title": "Amazon vs. Alphabet: Which Cloud Computing Stock Is the Better Buy?",
@@ -669,9 +669,9 @@
       },
       {
        "title": "Zacks Investment Ideas feature highlights: Anthropic, SpaceX, Amazon, Vertiv and Bloom Energy",
-       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNQXcyZ0k5UEZFaVduVUJJdjJSNVlTT0lLeXlBMmVQS091aVdkSmdZUUU5RlR5V3k1OGEwTUlmVDdFQnRJd1ZITkM4ejFPa0NvV3hveG9URFl2TlBkY0YtaGQzdHhRcDJpVWtYQXdDa1dxaDUtNFZvNUlUbFJWNWF2eE05T2YzY0Q4NHR6S3RnUVQxdkRjT0dWRElZdkFrNEI3WmI4bEtEeUFqZkNHdkw0RC1KTnVWcndTclFVU1FtXy01U1htLWNESkR5X21fOF8wQmdhUWVNdUVaM0JicnRGY2RGSUtLZkRJcmxxQlpPQ1pfT09FcVFIa3JhWXUxTnR0SENJ?oc=5",
+       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPc1RfUFNzTGhkaGpJVDMxUUU4MlBnczF0NkJEd0ZPYWhFMnBKR3lpNS02OUxxTWdzSTF6RlVMTVEtdEcteTJkSnJ3Ti1pcE95UE5TaVhfLTQ1V0JQcXQtZVUtMFpQSE5NTWlEZ2RHVzduaHlnd0pLY3IwcHlzSC1lZVUxVlFqY1N5RWxTQ3NuMzVMRG5xOWlxazU5ZlZldENhdkVOaGZQejg5djM2bl9MLXlpYWEyRHVzMXduNjFlU2ZSNno4QUFXTzFJNHJsTnVtZll0RDVaa0VkS2xMMzZ2UVRRUFVlRVk1VTZ2NTJwYm5nSVJOTEtBZ3h3REh5bHdBYmFWVA?oc=5",
        "source": "The Globe and Mail",
-       "date": "2026-11-20T15:22:46+00:00"
+       "date": "2026-11-20T15:19:25+00:00"
       }
      ]
     },
@@ -687,16 +687,16 @@
      },
      "news": [
       {
-       "title": "Meta (META) Stock Looks Discounted As Its 76% Five Year Run Cools",
-       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZmIyaHFvQURwT2xLTk1SQ0IyZEtfZW1zUThxR2c3VXVTM3FFZE52YlBGX21fdElMTHpIcldJMGJHTS1LTDV1YkYxcFhQdVVKa1NCbGRXbHRDTWF1QXB5WkJOVGg1M2pINnpudGY5dXN1UHV4d1hGOTBlQmViaEd0Z1RZanV5WWlHYVZXdDNuTkRpRVpwcmpsRGZ5bThOQQ?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-11-20T18:10:51+00:00"
+       "title": "Insider trades: Apple, Meta, Coca-Cola among notable names (BA:NYSE)",
+       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQY0VqZ2pBckRPMThaQ2NLNDJiYUp5YnVoWXBjclZGZThfOHV2WjA4V18zczRPbFU2ajluWU5ob3RHSXhHdW5xLVliVlY1UXhQZWlmYUFidmhNcHhyN2Z2SFVLcGdYb190S3N3aHJaUjlsSzNpLUhpdWRyMjI5ZjRXRjdPZVBlaFR1NUlzR0RPUjgyQWVkNVpCUg?oc=5",
+       "source": "Seeking Alpha",
+       "date": "2026-11-21T16:03:59+00:00"
       },
       {
-       "title": "Meta\u2019s (META) AI Spending Spree Looks Risky, but There\u2019s More to the Story",
-       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQm1Od0F5OXJYZ0Q4OWI5d1Z0X1FrQU5KX2hPeFotZTZfUFN5cUY5X0dHQWZFamNtejIwSG40c20xdWJUcUd1ZGdWVWhqVGE1bGxkZVpCR3NZX1FaX2ZHdXd0MFNJV21pVS1xN2l6bC1HUl9ETWZZa1JNcFVkTzlPME4zQWNGRmRiaktpVDRKRWNDaGNMNlE?oc=5",
+       "title": "AAPL Stock Alert: What to Know as Apple Develops AI Agent to Compete With Muse",
+       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQekFPM3ZncUc5OWU5R3NERDJHalhFbE9WNURJNUNmc3RnelpCTW9OcHNHcXZuTDMxVGtMbWkwUnM3WDBCSHVYalU4dnhzWFY4NW10dGJROGVEOE5KNXNIUjJUY1ltN1A3SHJTZE9XS0ZUQTNUT0c5S1BVUzJGRDlzVlVuZkV4YUNNTHFxZVhmai05QUcwdmc?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-11-20T18:04:36+00:00"
+       "date": "2026-11-20T20:32:49+00:00"
       }
      ]
     },
@@ -712,16 +712,16 @@
      },
      "news": [
       {
-       "title": "Forget SpaceX: This Stock Could Be the Real Winner of the Space Race",
-       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUVVnUGJxc2l1ZkZTMC1aV0RpbmhteFh4bHNyZzlDTWNFLUlSaDZFOGc5aU15Y1FwZWZ6TjdfX0lEWXVILURGSDJCRzhfdld2YXN6bEN2M05JQ0NaTzJLS1dNdEJlMHhIWFNUcWp4MFpZcEM3MHRUeWhGQXQ3Tk1BSjVLWUEyUGZWcDBIWEdab2ZFTUE4TE1UZDNSQQ?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-11-20T18:50:02+00:00"
+       "title": "Don\u2019t Sell Tesla Stock. A Merger Is Coming.",
+       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tcWZUMmlkYmtfMXFMWVc5Q2FBYzlKUURFRzhBeGh1aHFhU09lZU1uVzktVUQwTks3N00xd3lIR3dVOHI1VXdyRU1lcE4wVEtHNmJ3MXJpQ3h5Mjhza1ZuZ0RULTZUNjJDeG1uT3VNTi00S04tbGc?oc=5",
+       "source": "Barron's",
+       "date": "2026-11-20T15:24:00+00:00"
       },
       {
-       "title": "Why SpaceX Stock Dropped After the Anthropic IPO",
-       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaTZpUkpTelNMdFNfbzdEWktUV2JEYjhmVUFKUmh0WU0tMksyZ1ZTOEktQS1FNDFwNGplOHBKZ1ByV3BQZHppVDJuZUV2NjctdnpaVUJoWDVMZXhleE1ydDR6b0MzNWI1UVpNYWRpRE13X3cweUlYNUc5VzY2bVY2WDdBUEVfOHhvNnJ4TG5DTWN0U0lBSmNPUGRrM09lLWxlYmJyQWt5Q0MzbG9UTXNpVUNzNzAtZ0xJNXdJVmlpb253OTdoRTlwN0V0N0Z3UQ?oc=5",
-       "source": "The Globe and Mail",
-       "date": "2026-11-20T16:23:12+00:00"
+       "title": "Could Tesla Become The Next Lumentum? Gary Black Warns A SpaceX Stock Deal Could Send TSLA Down 25%",
+       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUjdxZmgyRFR3LWVXYU9OUEdXdzBac3B4ZjNzNVg3SG1Qd3BsQXhWMmZOT3lFaTVIZDFUWFNNeDdKUE9sR3Y4aXlGbGJGSEpkZ0Q2VXdQTklmVHg5MFFBcy1zc0VHbzBrSnM0Z19KOUdKNXJjV0Q2VmJhUXJKdnBxYm5qZVdLZmtnY0J2RlloVjlwUHUyd182c0Z0aXR0QQ?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-11-20T06:15:00+00:00"
       }
      ]
     }
@@ -731,16 +731,22 @@
  "failed": [],
  "general_news": [
   {
+   "title": "Is the AI Bubble Finally Popping? Nvidia Crashes 48% as Wall Street Experts Sound the Alarm",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZ05sOXJ6MlFuUncyTjgxWG1zcXpCbDhzRUwzYVA4ZFo5bkZ4NEt0SGxLZnFobjBKODU3SzlWV0I5MElCSDd2ODEwaTcwNnFCM0lMRDhXQklvVTdLcFp0YlJzUXRKVGNsUHJiaVNiek5zREpSeUtZRkZsblZQclR3Ml9NNmR0d3V6VVZ4dWpnbk54MnJqRDkzV0x5aVI?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-21T14:01:06+00:00"
+  },
+  {
+   "title": "Prediction: Here\u2019s Where Alphabet Stock Will Be in 5 Years",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ2JFc1VLb2otYmtIc3Zmd2dDeEY5RTRoekVfdmxTcUN3YXB3dE1BRDh5Vlc0d0VxcXpWbXVWR1ZqSHpVUzhkR2hkWENmVUxYNGtDV3lRV0RrbkFCN2xOM25iaHU5cEZWVEZnbldhREFrN25zOTRSTUN4UnZpYzJVZ01sQlJQNmxFWmZ2ck5tbUVPR25ILXBvcEFjMTJWREM5?oc=5",
+   "source": "The Motley Fool",
+   "date": "2026-11-21T07:50:02+00:00"
+  },
+  {
    "title": "Celsius Holdings (CELH) Stock May Trade At A Premium Following Positive Outlook Shift",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNU1V1c2NFRU9hUE83TmpERWNGS1BTcF9oOUR4MWFJVDZyaXprb0h2OFdIMlhETUVSZlFNNXYyR1RxTldFQUZRN1hNRVZwVU4zQTFTRE9ObDFJT1BGeDlMYzdZcjZ5YkFjVndmMG1kR3FiMHpfMVh5Zy11Y3RGVVF1dFhqVE5yendyZjRxNlkwRHRmb1dNb3MyRnF6eDg?oc=5",
    "source": "Yahoo Finance",
    "date": "2026-11-21T02:13:00+00:00"
-  },
-  {
-   "title": "Prediction: Nvidia Stock Will Do This in the 6 Months After a New CEO Takes Over, According to History",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOR1JKcTVtenMydzVVcXg3WkRIVnc3dlJVWTNxNVNMYndoSlZ3cEJDWXVWeXl2aEk3ek5oV3ozTVNQZDNTOGVxSW5qTGFla0dDMUZYajRXWU10ZVg4M2JPZzVkeG5MeHd3QWRpNXdaWHlvMEFqc2FkTjVLUERBOWloVmRZanByT0o1WkpWQ01JNW1tRkxVSEhGLWtheTF1enVzR0d2RGtXR2s2c0dWQ2U3LWVtWHpYTTdtLUUzZU9qei11bGs0Z3RDamJreDBvUl9JRWxHZTJBX3hiNkE?oc=5",
-   "source": "The Motley Fool",
-   "date": "2026-11-20T23:42:51+00:00"
   },
   {
    "title": "Gold falls toward $3,500, silver slides as stock markets enter correction territory - Kitco PM Report",
@@ -773,28 +779,22 @@
    "date": "2026-11-20T19:43:00+00:00"
   },
   {
-   "title": "Prediction markets outlook for stocks in 2026 dims amid AI sell-off",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBCODBxU1BOWDlQazNIZ0E1Zy03ajAxMG53RVVWRC1HVUpGeVVMWWFRd2hyUGZPb1R6UGg2V0ZGRUZkTEdubmxsMU92bnR3VFpGSmlTU3VzS2hkdl96NVlyX3lSYWxUZ2ZhemJsdUpUM1dtMUZ3MjFnTFdtMNIBgAFBVV95cUxNTURqUmZMVXJpQXpJejVMY2N6NldfZjlwUFhVMWtPSDRhYkRoQTY3NXIwVkZZMmFLcllLc2ZKSVRvTFh2VERyd0J5N3pyRHMxQ0ZLMzFsUXB3U3Ftamo3UlQ0bkFSXzdSOUtGUl9XUmxya01hNDlwdlEwcnNSY1JMVQ?oc=5",
-   "source": "CNBC",
-   "date": "2026-11-20T18:05:29+00:00"
+   "title": "Markets are sending troubling signals about the state of the economy",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYXQ3dVZ6S2V3MHVsMjk5Z1QxNkQ2VEhyNUtUUDVaSkVETTZNTEhFUnhiRTN0blNqb0VaLUZHZngyOUJuMVktVG81TU1nZkptRVBZSzdPT3BuSWNjdXZTaThOXzZpNERUTGNXMlMzVjFrbzdhRkNoNl94dE9xUVZnTXdEbUJHS0RNemFsOFo0emt0MF9Qd1plcDFUU0F6bmlRNTY1a3ozTWJfbm8xcFhiLQ?oc=5",
+   "source": "MarketWatch",
+   "date": "2026-11-19T21:57:00+00:00"
   },
   {
-   "title": "Bitcoin sell-off: Crypto is failing the 'digital gold' test again as it sinks with stocks",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE02OVNPeVBBRWFNM0RxSndNZ2NPQnE3amxmMEpmenlKMm9COUdneHlXbUNTaXFwdjVsQnFQbGg1dTctVXZ0cDd4VTZTY1ZWYThiMFZrTGtuY0hSSWlNS1B2b1FlUFJENkZkQzkzTzZGdzFMUXlxTmhr0gF8QVVfeXFMTkVKRDJKTmVUSkU3SW1TejV5aUFtVzA1N0JKSkY0NWNDZmprbnBycGJJOXg0SzV1UjBoNWM4RWwxUDZ6OHV1X0tfY0VMbzlIMmZlVnZLcjdYeUNTWjg1UWxZOW0xTTNHZ25GejJ0SmRIQ1pGREtjbDVKUUJ3Ng?oc=5",
-   "source": "CNBC",
-   "date": "2026-11-20T15:03:25+00:00"
+   "title": "Shake-out in housing, retail risks tipping economy into recession",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ0hTZWtiODF2QUJjckFtQkw2WFM5bHgyZGxiazktNDRPMVRYZGN3MXdzNDVPaHBsZTdHRkJYbkowcU9xWTJpcEM2RHcza3ZQUTVVbGdBakI1RExjT2laWkppalFiSXJ6VEEwMkVVUWk1REVFWk03aW15elVnRENZVEREYkNjUWk3bmhzN2hVZ1lEVS00YTlqZjBPVkhJd2RHVjByTGFMYlV3b1hlb1poMGNn?oc=5",
+   "source": "AFR",
+   "date": "2026-11-19T09:00:00+00:00"
   },
   {
-   "title": "Capital Tankers Corp. Set to Debut on Euronext Oslo B\u00f8rs in 2027",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWkx3VmJpc0FST25oOHNNamxkemRBSEpQV2lGeTdDQUtKUGoyZmQ0aDBsbV93R0d6Q200SVdtdUJ3T2F4OXdNWGZwUm9HNWFxLVRFM2VMdzZIZnVJcFdiZEZLNHNQWkNwR2pqcXhNMDlydks1NkY0ZVlzcW1IZ1kyX2RVZE5ZekJURTRnUUpfbDVsbFBGSmtubDA1RVBienF4NTliNVBoRzBicE9scG9vVnZmc3NzSEE?oc=5",
-   "source": "www.marketscreener.com",
-   "date": "2026-11-19T11:19:36+00:00"
-  },
-  {
-   "title": "Euronext Oslo B\u00f8rs Admits Capital Tankers Corp. Shares To Trading",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObWlRS21zZV81bVNMQlR5Z1JyMER3cHZYeTBlVmE0eFJVMDNySE10Ri0zNGhUS3g3c2R0SUFEdjVCS0RSNVVpal9BRm9iWkhxVmVYRVhBN1FBQWdEMU9qa2g4WG16eElNYmk2WTZ3UWRMT1dUb3NodHl1cG9pRV9qNjFDaEZlMkx0RXB6ZTBNMUJaNlJhNzhpTm9ncVhlMllGOGFSXzYtZ1pmLThxYlNTYTRQYXpvbEpCQ05pT2dGMGlqN3lCbGNrZ1k0djNuTEE?oc=5",
-   "source": "TradingView",
-   "date": "2026-11-19T10:38:35+00:00"
+   "title": "US Leading Indicators",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LTF9nRUZOSWJ6Y2V3UW1Gd3BiQ0FnUWFmRWYzR25BdHVFbUNfMzVPQlpDbUFDZ29mQy0zTzdPUHBHdGdyQ3VGY0VxWmhCdGRHN1dwVWpQNVd4Zkw5OFZ1TmMwRzB3N09hTlI5WmZWVQ?oc=5",
+   "source": "The Conference Board",
+   "date": "2026-11-19T08:00:00+00:00"
   },
   {
    "title": "2020 Bulkers Ltd. (Euronext Oslo B\u00f8rs \u201c2020\u201d and Euronext NOTC \u201c2020T\u201d) \u2013 CFO Transition",
