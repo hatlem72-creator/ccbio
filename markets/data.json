@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-22T09:40:42.142685+00:00",
+ "updated": "2026-11-22T17:43:19.441660+00:00",
  "usdnok": 9.74940013885498,
  "btc": {
-  "price": 60080.48046875,
+  "price": 60859.109375,
   "prev": 60094.08984375,
-  "chg": -0.022646777803581042,
+  "chg": 1.2730362224290692,
   "currency": "USD",
   "asof": "2026-11-22T00:00:00+00:00"
  },
@@ -32,6 +32,12 @@
      },
      "news": [
       {
+       "title": "Kongsberg Gruppen ASA (KOZ1.HA) company profile and facts",
+       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fSXpGZk5ENnM3RUdoemtfeUxhbXlwb1RpVmNvcE4tVUpiSGh6di1IQlhEczN1bzJ1QmpUZDBPX0RReE5VUnVKbWxIdEwwYXlQMks1clFna0NES1Y1ZDd4NA?oc=5",
+       "source": "Yahoo Finance UK",
+       "date": "2026-11-21T14:30:09+00:00"
+      },
+      {
        "title": "Kongsberg Gruppen ASA (KOZ1.HA) stock major holders - Yahoo Finance",
        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41cnRvUkRnZ2d5amEyanlXcGtTRnJEY0U2emkycTA1bWNvcE4zTVFmZVYtRmM4Q2M5c2xRU0c0bXVWYXR0elVnc1VSOTNLcWdfSUhNWG41UnhHME9PdXZtdA?oc=5",
        "source": "Yahoo Finance Singapore",
@@ -48,12 +54,6 @@
        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbG5YbURaREdHRnJLUURuWHlUNXBLcURBSzgzMnM5cU52bzB2TTFlaFNfMWcwNk1fRzhsdVFkQVBTX0gzVEtoV21rTTNhSDFuSkNIaXNlcWh3WW5zZ1pJY09wRngxRHFyWWNvLVVTMDRTb1RTeFV2clR5LVJabFQ4X0x4RVpLejl6MEZHbWZ2R0F4RlBub25nRXNna2lDUXdoTGc?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-11-19T17:15:49+00:00"
-      },
-      {
-       "title": "Kongsberg Gruppen ASA (KOZ1.MU) Seasonal returns chart",
-       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8wOTJud2lidFFwaTBjemJ4RnV4NzZ2MjJpY1JNVmVDeFNHNGdXci1raXFGWDU5SjYxQVk5eF9xbUhaelZBQ0g1Ni11ek9VTmVFSEJTNXB1Zk5UQS1YR25nVHdCSlpRQQ?oc=5",
-       "source": "Yahoo Finance UK",
-       "date": "2026-11-17T09:16:13+00:00"
       }
      ]
     },
@@ -118,22 +118,22 @@
        "date": "2026-11-19T21:03:25+00:00"
       },
       {
-       "title": "GDX Top Holdings List & Exposure (VanEck Gold Miners ETF)",
-       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YMzVZNnpsdEZ6YlNHbkFFNmwzZFpLQlZuUEZtU0FiWmRlVE1lWXlsUVlaSHk1REVoSDVIYmJ4NUlXcHh0cGdtQkg4ekVMNzZ6NUJlWXdYZlRVWFJXNTlLZTNiQXVjbms?oc=5",
-       "source": "MarketBeat",
-       "date": "2026-11-11T08:00:00+00:00"
-      },
-      {
        "title": "7 Best Gold ETFs for 2026 and How to Invest",
        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOTgxMENUUWpxcm9UUmYtSW5HZDVla3NBTU1VZ0Zva3hXcVIzaWhSaE5OaGFITnJhdFIxTUxPWUhwTm9LMjRScFNOSExOTldPRE9tcmthdVhnRmQ5ZXN0OXktNGdNMzAzbkxwa00tOFgxY1U0RDM2UzI1QnRQaUlLd3pYa0stRGxpTW5vSXBNYkhkQ1ludVE?oc=5",
        "source": "The Motley Fool",
        "date": "2026-11-06T08:00:00+00:00"
       },
       {
-       "title": "VanEck Gold Miners ETF (ASX:GDX): How Portfolio Construction Defines GDX",
-       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU3JIVWc3MzBSUFl3WUN6b3FVVlpManZBYVRWQW1ZYzRhNl92WkJOb29MZHB5bGlwYVozUXFrVUR2T0hUazdnT0FWdUZjYTVyU1lpZmJ3UHE2LVVWZVNQbTFmWkduUXJtS1V2RW1uVkp6R05aOTZlTkdsa3E3eTRYZVhNZG5EV1ZpdHhGMVdmOFM2ZkJaLWJkbnMyMEFBMFU5cEZxLXh3?oc=5",
+       "title": "VanEck Gold Miners ETF (ASX:GDX): How Gold Mining Exposure Shapes Its Distribution Profile",
+       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZTlXODZHa2t5STY0R29VWTN3bkZYQXpxd20yZGNhQ1VBdkI2V1lRYWpSWmZQTWIwOUUwOGJERGVTV3JXYVBDWEZvUkNYdkhoQXpPalh3UTdBWlZzUGpJZzdWdk1ZbkdoQ2tRaWFaVTlQUTVkNXJnTW45VDFMUkUxTlIxcEJNMUpIYTFsUVhwbXJOclB0VkdsZmd2MjFRckpDaUgzemF5RVZZeUFkNGJzNk9HWjJoMy1PSWVLMDFveGozRVB0ODlqSS13?oc=5",
        "source": "Kalkine",
-       "date": "2026-11-02T08:00:00+00:00"
+       "date": "2026-10-30T07:00:00+00:00"
+      },
+      {
+       "title": "VanEck Gold Miners ETF (ASX:GDX): Dividend Profile and Global Gold Mining Exposure",
+       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTG9zYlEtU0szRWM1Y3JvbDlaYXFzQTNSc2ZLZGJxV0hHbm5vUm5Nb1RPS2d4R2E2X21RM1NjX09qRmxNakxJUGdqQjRlVXlBczJBeFJlckUxd1I5dUFucHI3bGtlNWhycGlXNzI1MDZlT1F2ZWRJQUFENi16Y0RLMWpmbTIzM0ZuQVdMN0hKaW94NzhTZ0QyZVZpRjUzUHNEQXJhS3otd1h2SjlkX1ZibTdILTd3WVhNNks3MlV1TQ?oc=5",
+       "source": "Kalkine",
+       "date": "2026-10-26T07:00:00+00:00"
       }
      ]
     },
@@ -148,6 +148,12 @@
       "asof": "2026-11-20T00:00:00+01:00"
      },
      "news": [
+      {
+       "title": "DSY Stock Price and Chart \u2014 EURONEXT:DSY",
+       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE80aG1CS1ROcjRpSEh1alBUMVRHSHJUeWU2cmxob3hleDdLYVZ5X3RTOF9jM2MxUXpISFNoLTcwaE93U0ZSVmxKZkdHNENWSmNTWUFnRlFpT09uQlBTUEE?oc=5",
+       "source": "TradingView",
+       "date": "2026-11-20T18:38:39+00:00"
+      },
       {
        "title": "iShares Automation & Robotics UCITS ETF USD (Acc): Buy by StackerofWheat (Nov 21, 2026)",
        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUHEzVDNSUnVJaXRYSXhWWnlVTW1TUTZDMlRyMlFwdFk2NzJyT2RZODZXZzRjd3NSQnRzSEpCaTlrTWRuM0dXaGJvREk1RUJzdTBHcERFOW0yQWdFUGNTRGQ0cDhLWnE4VHZzZU85VDRTcElyT3R5Y0d0bVJaOW5rNFZRbmJLOFgzMjYyVEw3M1FFY1BBdmhqYzdzWHNBbUg5dHBQRHZEbEhBYTAzVXFKejNQMA?oc=5",
@@ -199,16 +205,16 @@
      },
      "news": [
       {
-       "title": "Should You Buy Hecla Mining Stock For Its Cash?",
-       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPamhvR2xXTExjazZTMGRiMUIyYTdhMFJLVFhYMC1lYTNRTFBLTzFIQ2FZeHRsbUxTX09iNUc4dWI1NE9QaWtWNVp1eHlnRnFVbDhLM2toMjRkQlMzUU1nWDdZSVYzY3JyeUNaLWtGczNZTXd6MlFZLXB6VnBoYkg5SkVoVUd5dkhOY2pLVVhmeUJPYjRvMjZkYTZsaFhmdw?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-11-19T22:35:53+00:00"
+       "title": "Hecla Mining Company (HL) latest stock news and headlines \u2013 Yahoo Finance",
+       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVdHVDbmZWU0Q3Tm9XaDN3ZWhlZDRqakNPOTJjOVJEb0k1bU55dnM4cUxReTN4ZTIyXzI3aEpSeUpYVjVfNm8wbkZKN1hpcXhWZDEwNDZ3?oc=5",
+       "source": "Yahoo Finance Singapore",
+       "date": "2026-11-19T06:22:39+00:00"
       },
       {
-       "title": "Hecla Mining Company (HL) latest stock news and headlines",
-       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBERkRIMHVRVjNHaDRDbWlQM0Z2aTVaV1ltMklxcHBUVnYyVUFXYlA0ZFh0eThKNk40TFEzTmx3SWNrcWQ1MlJEQjhlNUszakd0Um1QdzJR?oc=5",
-       "source": "Yahoo Finance UK",
-       "date": "2026-11-19T04:40:17+00:00"
+       "title": "Is Hecla Mining (HL) Undervalued After Its Equity Offering And Preferred Stock Redemption?",
+       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMjV4YXJoTzU3cVRJYXlsdkxIYlBjWXZheGYxTzZHNktMZ3ZWcjd4U0ZkV0RCVEtteERqZFBzRTRGVHRVaTZnVXRxeUJNaUJDNTZrQTc0NzN4cEcwcWl2cVphYXB6SlpRd0JyMkNsRlk2UDJRZFJOeVp5VzZhOVUyWGZlOWlsbGJ6LTBkN0psYWpLMTkxWk0tVi12SFMzNWtw?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-11-18T02:15:00+00:00"
       }
      ]
     },
@@ -224,10 +230,10 @@
      },
      "news": [
       {
-       "title": "Sunshine Silver Mining & Refining Company, TMC, Hycroft Mining Holding, Freeport-McMoRan, and Newmont stocks trade down, what you need to know",
-       "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNTGljMVd4M3lZV2VRZGpzbFByOXJWQmJBOThUX3licWZncFdSWWp0WnAzMkstWWwtVzZkTXRPOUNKeTFJbVlHUUxvb1k4Y3g2WDdnTVl4bk9Vbk5qOUJhazZtQUxLZkZWY3hYTTViTjdRSlZnLTZtV0RXNzdKbDRhb3RyblRFajl4bThrNnhKMGh4RFN4ZjRnczVkY0VCVTJqZFZtaFJWNVpnd3U5NEY2TGpFSks3TUs2elZsSVVlVWVORkYxcTg4Vk1OeEFodW5sSVJJdHFuSW9iYllDUjg0am9Sc2VodVZnMWFMWTFoOUZQZ0RyeXQxbXFrQm44RGp1YTVpdXdod1JqNFhkM09iMWFFekpQa2ZGS2tMY2N4MkVpR3J6Q2lhdTUteGZfUXZQVmRhVUdQY0o4WWJKUGV3bUxDaw?oc=5",
-       "source": "The Globe and Mail",
-       "date": "2026-11-20T08:19:31+00:00"
+       "title": "Hycroft Mining (HYMC) Stock Looks Fully Priced On Current Assets",
+       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQlhidWh6cWRIdlpzYUp2clo5RVBhYlhyOHUzV3ZQV084Y0pyTE1TTm9YTUNxNFJ0aWNLSDNnUG5zVHVka1J3RWlCN041aThfbmFiQzZFa3ctczZSeno4cVUycnQycWJnTWF0RWQ4Qjh2QmtidFJtSnFvaDFqeWpoVmJwWHF0bnc?oc=5",
+       "source": "Yahoo Finance Singapore",
+       "date": "2026-11-18T00:23:00+00:00"
       },
       {
        "title": "Hycroft Stock In Focus After Wider Loss And Executive Changes",
@@ -255,10 +261,10 @@
        "date": "2026-11-20T21:43:19+00:00"
       },
       {
-       "title": "Avino Silver & Gold Mines: Major Organic Growth Pipeline Remains Underappreciated (ASM)",
-       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZmNWRkFyRkZLTjRabDQ0TU1tX2cxMFotbzBzUXJGY0pubV9lbktzNExvUkRRX3Vwc18tdWhkT1ZhdEdLRDFOOXJnRmNXNndqVmVlTFFRTjB1V3VwUU1kTjR5T2RNM0tONjdST2R0TU5tVUp1djdqdHBULUJpM2V4aXJjWFRBelczdlpIbmtNdDNxWldQOENCTzI2WlRkOVVVYWZ6NXNlU3paYUpLTld2SVJlY3YzUDlfOTdvRjBud1Q?oc=5",
-       "source": "Seeking Alpha",
-       "date": "2026-11-18T15:13:50+00:00"
+       "title": "Avino Announces Key Technical Appointment",
+       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOUh5Rlhlb3o0V2djel9RU2s4ZUF4aFJMZ1FtZ0E1cWJjSDlKWnlzTk1HUXk1cnhTVXF0NXVYYk5iN0ZQdjg3czdLdGtkWXc2RC1md1NLbExNRlZRUm5Ja2NiYWR0emM5a2FYTFRxNXFHSGJwZ0J4aGtOVk05VzIzVTVNbC1sbkFBektoX1ktakk1RmllR09YREpkNFh2YndCMkIwWUlHSEpfUQ?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-11-17T12:15:00+00:00"
       }
      ]
     },
@@ -305,10 +311,10 @@
        "date": "2026-11-20T20:43:19+00:00"
       },
       {
-       "title": "First Majestic Silver Corp. (AG) stock price, news, quote and history",
-       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjamlFNklZU1VfS1I1Mk81b1R3R2lpeXpNaWhYd013VnIxN1JhUlNUakFnVFRhZGpnWU5qVmt0M0NRODBrV3A1ajJDMmhmVnc?oc=5",
+       "title": "First Majestic Silver Corp. (AG.TO) stock price, news, quote and history",
+       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9jQWFDcGdCRVdRNnBWREh4Z2ZNcV9tTlhxRzYyalBHWjBQNGY5NEhNS2FwLW95dTNDcXBWbkFaM2JpOG5HQ0tQd29FOTVseHBFVjhF?oc=5",
        "source": "Yahoo Finance Singapore",
-       "date": "2026-11-18T06:05:44+00:00"
+       "date": "2026-11-18T23:08:59+00:00"
       }
      ]
     },
@@ -324,16 +330,16 @@
      },
      "news": [
       {
+       "title": "Defiance Silver Corp (D4E.HM) interactive stock chart",
+       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE96N1NVVnBidl9NNGFUX2w5TnBIUUc5LWpSaFdBZU1FR1hkS0RlbVQ3bzIxb2NhUHB1dzdJM1RWNlNMeEpvR0ZTR0N2VW5tSU5MN2E4V0M5a2k4aFh6?oc=5",
+       "source": "Yahoo Finance UK",
+       "date": "2026-11-21T12:04:56+00:00"
+      },
+      {
        "title": "Defiance Silver Corp (D4E.DU) Seasonal returns chart",
        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JNjR3eVVZd2ZleVE1dDU4MG9ULVBSMVpNQnZjdHFMYUhzVzd4LWhlTXBnOGRsUS00SEZvZHF1Qk56WEVQVGpFZGhXWUVXaDZlRG1Cd3V0RHBnM3I5OXpveHlicjc?oc=5",
        "source": "Yahoo Finance UK",
        "date": "2026-11-18T04:27:37+00:00"
-      },
-      {
-       "title": "Defiance Silver raises C$3.27M in private placement",
-       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVThvVEk3MTRTQUk4eW0xVlhJdEl3aGtpUnRraWhHb0pnNGRKXzlZS0FEZUYzbU9zWW11Ujg1a1FFaG9DU2dhcEJVZS1hV0xYUWFNNk5TMWpGckFzRFJuYVpiZmlVQ0F4Z2lBNkpINExnb2dqWW52ZGxQeFQ1bUVEdTk4WWRmRUhWYU9oUGJ3?oc=5",
-       "source": "Dealroom",
-       "date": "2026-08-19T05:04:28+00:00"
       }
      ]
     },
@@ -377,7 +383,7 @@
        "title": "Guanajuato Silver Reports Q3 Operating and Financial Results",
        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPU3J2a19sVFpKRHBJalpIdmNwV2pnalIxTm8xNmw4RWJjZmFIS0M2QTRHamFueGFSdXdfdUMyZWttM2hkR2hwZGxUQkVMb1RCMUd6bWstZm96Mkg4RWo1YUl0OWdEanM5b1VBcGhhNHJvdmhhRG9sWUpqUmdWeVRhbGQ1U3ByeWdaZHo1ZUs4UGZaaFhkeWY0THpNdXNwa2QyQmFjT1E1LXRpTU5VcWtUalpLYzRkajByZ3BILTZfelU1d3B4RUUxejk5d2xkbTNzcEJwSDZiS1JCcXVuZGVPTWVtdUc?oc=5",
        "source": "The Globe and Mail",
-       "date": "2026-11-19T12:15:18+00:00"
+       "date": "2026-11-19T12:32:13+00:00"
       },
       {
        "title": "Sinda Advances Caracol Project Amid Strong Financial Milestones",
@@ -544,16 +550,16 @@
      },
      "news": [
       {
-       "title": "AAPL Stock Alert: What to Know as Apple Develops AI Agent to Compete With Muse",
-       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQekFPM3ZncUc5OWU5R3NERDJHalhFbE9WNURJNUNmc3RnelpCTW9OcHNHcXZuTDMxVGtMbWkwUnM3WDBCSHVYalU4dnhzWFY4NW10dGJROGVEOE5KNXNIUjJUY1ltN1A3SHJTZE9XS0ZUQTNUT0c5S1BVUzJGRDlzVlVuZkV4YUNNTHFxZVhmai05QUcwdmc?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-11-20T20:32:49+00:00"
+       "title": "Apple Inc. $AAPL Stock: Motley Fool Asset Management LLC Reduces Stake",
+       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOT1ExLXlTY2NzdHVjSmRXRWkyMmNidk1ZQWMydEtneDJxUEhkZ3NQUFNsaVQ5UEJrclFBdlBQZlBBRHdwRWx1TkFma2xsTWNMVE9XbFhfVm9LOTlvQ2JEZEg1VUpnblJJbmZQZGJZMlRuM1kxUnFYUWZLLWFTQWhLQzVDcTRCR1hlM2EyYzhueVZfQk80QWllcFEwbUxBVDlVeWNKMGV0Qlh4cXFzM3pnVjk2bTViVnpjdVRYcmd4WmhvNTRkZ1c4?oc=5",
+       "source": "MarketBeat",
+       "date": "2026-11-21T11:11:26+00:00"
       },
       {
-       "title": "Apple Might Be About to Become an AI Stock\u2014but It\u2019s Still Dodging the Tech Selloff",
-       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Fa0pGYUFwN2J1dWUtVWxpeGo1ZjREeU9CXzhhRmZnQ0ZMS0QyQVV6dzBWekZTdEtpYlBaRE42cmRfSmxzU0tjRDd4NUlkUFUzeEIwX1NlZUh6YlozLTdaeEpZZ3E0QkktT3o2eEh4M2d3c0U?oc=5",
-       "source": "Barron's",
-       "date": "2026-11-20T12:44:00+00:00"
+       "title": "Apple Inc. $AAPL Stock: Childress Capital Advisors LLC Boosts Stake",
+       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVkF3aTZ2QWxGMTA5TVZBc3F1VThTSlBQaGJyT0NPV0V2ZzIwWXZpNVNBLVllc05xbVpsWHBwRjIwOWpEemhIS25jWDNQN1prdzRGaDZRSVNDQThLWGxxWlhmNU9PdV9rR2hWdFpkYmtCaGhXMHFvX3drdXZxWHVJcXhDNFdmY0ZZTjZKY0VUYll1bTMtUjFUNW8wSDNqa3BEVTI5TjNMXzk0UzZGRkEwRF9pTjR6UUZibmE5QW9kVkpPSU0?oc=5",
+       "source": "MarketBeat",
+       "date": "2026-11-21T09:14:05+00:00"
       }
      ]
     },
@@ -570,15 +576,15 @@
      "news": [
       {
        "title": "Microsoft Stock Gave Back 8% Within 2 Weeks of Its Record. Here's How Past Quick Pullbacks Like This Played Out.",
-       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdVJFYkZXSFNpSVBPaWpaZzNJYm44RWs2MjNrbjV6dlBmX2tzU0FFT3ZSX1NoOXZFRVFqcTgyeU5DSzVReU8yQmpWTVMydFdtVjJ2Z21tNXNkaEhrQlU5ai15M2xmTVRfc1VlY2RPZ0hrMlBLR0hweFNHQlc5aFBNRjhQU1lWTlM3amZCYTdyQ04zYlA3dmdkbkhKbnFXLXp3cUxtbHRfQlo5UmdDV2VGbC1KcVZ5cm45NURLR2V1MldKaU1yRDVyeEdHOXZEZVIzWU95ZXJKMEUwQm55RUQ2b1Z3aUI2dnM?oc=5",
-       "source": "The Motley Fool",
-       "date": "2026-11-22T08:41:02+00:00"
+       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOM3VqR1pMOUtlNkludENuOHF3dm5nUlRKT00ybHd5d1BGTlotVWNYdHpvSFZsemJod2ZMLWdld281Q0xFVzdzWVpvTjBkLThSZUlnazBSYkRiZXdxVnozRS1TZWotRzdKTEhDREtVd25yQllUajBUdTE3WWUteEs4VkhybVBNTnBNR2prY01rZG9sTkhpdkZR?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-11-22T09:01:02+00:00"
       },
       {
-       "title": "Microsoft stock outlook: Downward bias persists as weak momentum weighs on price",
-       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRi1QS250a3JubHdyMi1wVERYVWZseUhnQXdMM3VoLWpRUG1aM3d5MEJrN04xczhCajVTRFhOcDgwN1hFNk95MmFWRENabTJsWU1hQUJCdktKTzNhOXlJaFBoRDVJZmJlNUFTeGMzcUx0Vk05OXA1VVlLbHJ0VUx2cS0xV2xMQzNtaFdSQndkRGVUMTU5NHpoMy1n?oc=5",
-       "source": "Traders Union",
-       "date": "2026-11-20T14:13:26+00:00"
+       "title": "Microsoft Stock (NASDAQ:MSFT) Slips Despite New Team-Up Effort with Danaher",
+       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMHlvdmY3MUJzeWl1LVJ0ODdrQ1pLQ0t4Y2k2T0MwX3pyTzBfYXFra2RPOWIxT1FiQkUxdWpTMGg5UUx6aU9id3hrVldqS21qQUY1cDVGWWtzd19TTlhJX1Z0WEEwZERseUJZVUtlMC1UeG5uZHR6Wl9XUXRielFockQzVjdOM3MxbFlYYndCa3lwRV9TRm41N1FvNVhXOXUyWWotUg?oc=5",
+       "source": "TipRanks",
+       "date": "2026-11-20T18:03:12+00:00"
       }
      ]
     },
@@ -594,16 +600,16 @@
      },
      "news": [
       {
+       "title": "Prediction: This Will Be Nvidia\u2019s Stock Price in 2027 After Its Phenomenal Q3 Results",
+       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZjNERS1Vb09VQnBtSHVrNF8yamdKc1NGMW9wSVFMX1F0SVFBRGFCNnVEakZOcU42dU5UWkVYZUZaNGxlNEZtMS1DRFFRR1dSQ1pDNGY1MlBEejFlUnpCeWh6YWQxV2ZzY3E4UnF6a3pUQjBXN2VHc1Bfa19zVHlUVkt6ZGFmbUlFT0F3SXIzN1JGbVRDODcyM0lnSlNWYUFT?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-11-21T22:07:02+00:00"
+      },
+      {
        "title": "Prediction: Nvidia Stock Will Be Worth This Much in 1 Year",
        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYkhjSzJuXzFDY2J4MWprTnJYU0FQbTgxa3cxeWJ4X2JPTml0SDJEMlRrUVR2ZTYxVXppUzBZSnhrcFRCQ0hMcGxMOUkxQWhXWDNtNVZnTmNqSlg3UjVBb0xJWjhDcVo1cmpNVV9raGp1Y0hxRGw4eTNSaU9hQ1RMRUlPVW9XbmJteGVqNmg0QjRZMGVUWXBWOVJycldVMGpM?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-11-21T15:29:02+00:00"
-      },
-      {
-       "title": "Nvidia Stock Is Down 35% From Its High. History Suggests a $5,000 Investment Now Will Be Worth This Much by 2028.",
-       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN19tUHBlVnVTVVNpdl84VUpCWUxxVGxNVTk0ZzlZeURoandQMVVnbHRQLUJjTi0ybEJFZndIdnBnSnhYd0Z4dlppZFZUWFoxclpEbUI0Zmk4aklsV3FEQ3lzNXJ6SjlWRlU4dXYyazBwWGVhVlBxMVpJaXU5M1loZ25UZlVOR3NzcFdYTk9Fb0Rzdmk0?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-11-21T10:15:02+00:00"
       }
      ]
     },
@@ -619,16 +625,16 @@
      },
      "news": [
       {
-       "title": "Prediction: Here\u2019s Where Alphabet Stock Will Be in 5 Years",
-       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLVc4Rzl6Uk9IN2tIcUVvUVpOSGFZc2E1a21fZ3pMY1M4Um5JWGRzNlBCek1pczRVcmxEX25Kandxc2VsNlYta2NlTFROMmc3RUNFVVR0UENtNHlGeF9FZDdQaTRqVl9vanpmUWxfcWNjQ014MzczQ2p2NmFUTnBxX2JmaTVYNHFSSWllSGVxbmZaamxRWTBjaHk2dERjeXM?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-11-21T08:10:02+00:00"
+       "title": "Cramer: My favorite chartist sees two major signs of a rally brewing in Alphabet stock",
+       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNd1NpVlByZC1xZWxaeU1lbVc5T05GWGVqUDdkcXUxTmt5NXNyUHo5c3ZGaEM5NHExYVZ0UC0xX1RpbDU5WlBlUEY0RG5VdTNmZ0JWQkNlS04zNmJxcmtPb01FX1g2cTdPNHFJYmNSWnZRQ3dxTHFBd0E1a3N1RjlXMTFtdzFteE3SAYwBQVVfeXFMT3drcmRET3BhVThONnRna1oyWGQ0aHpabjM5cVRuUVJkM2JJSWJmcHUwWTRvWG50YlVtWXNDUFBYS3Y3VXhhR2swZ0dQdVBaeEY3TmhWaXNkUU53N2loaXdZMTFRQjlQQmFfMnRiVzlORVV5RUxCSFltajhXZnJKVnhnTW9oc25ueXB2OFo?oc=5",
+       "source": "CNBC",
+       "date": "2026-11-19T23:38:35+00:00"
       },
       {
-       "title": "Jim Cramer\u2019s Favorite Chartist Sees 2 Signs of an Alphabet Stock Rally",
-       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNlc2RExIWExkdnlmaWFrNy14UUtaeFVwejBVQ0xYSlE0UUlRc0JkMXFlalFsV2loWkpuanpncGtCOE1WaWliMkpFcUNkSUpXUXVYRjZObzUtT2RqeTJMQnF6VnpWS1I1SzJLaUd4Z3duRVVKbGJ4dllLMHRDNG9JdVJEd2swYlVETGR4MkhNTVRyN0U3ak1yUjFYVzRZQ2M?oc=5",
+       "title": "Why Alphabet Stock Popped Today",
+       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM3R1cDUtT05XY2ttV01jTDF1WFZlZy16UUt5aTVNdXVfdXJRMXJuU3c2SnlNckdqdHRTLWxfUkJCQzktT3hhRElBZHNWM2pQLWlRa081YThFRGcwTjVwdWdXb0ZCU3EybG9JUmhJbnJpVkVXSHFISnplRDZNUWZwUUZlOEQ1dzFOa0x4Z1FSSWtJVDFUeUN1SkphUHQ?oc=5",
        "source": "Yahoo Finance",
-       "date": "2026-11-20T13:37:52+00:00"
+       "date": "2026-11-19T18:18:02+00:00"
       }
      ]
     },
@@ -644,16 +650,16 @@
      },
      "news": [
       {
+       "title": "ULA Vulcan Launch Ends in Disaster for Amazon's Satellite Internet Ambitions",
+       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNclNVblNOcjZSekkwTUtTUTViSE5sWnVPVS1QYXVKSnNLSXdfbmJyVFVYckFtZlRJUEgyU2l0cklnOG82NklUdl9XdjlwZDgxeE9naWswWXRjVnByVllWajRQNHlxaXcxUzZfTEFGZ0FMNl9oUHVCWVlqWmc3UDNsMG13NlJSUjU5UktyVFEyYXNpU2QtaUJzckZmanBxdjBqdURaQUUxTlNYbjAyTFRkMU9heGl0VHlkUnJn?oc=5",
+       "source": "The Motley Fool",
+       "date": "2026-11-22T02:27:00+00:00"
+      },
+      {
        "title": "The Ultimate Growth Stock to Buy With $1,000 Before the End of November",
        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb3pSUDFVT1p0QldNLTlfcWQwdV8tTElsQzVqcEMydlVTRjhzeTA4a1lFdzNsXzNwb1lFeG5mblBBazh3cVBfWGl5OElwOUItS1oycE9hUmo5ckJaYkQ1NlNwdkhDZzJBeGxwUHRtaHotVHdNZUhhVk0tTXJRbDlKWWFtTUhEekFwQUYyN2tROW1lZ1FTLVdB?oc=5",
        "source": "Yahoo Finance",
        "date": "2026-11-22T00:20:00+00:00"
-      },
-      {
-       "title": "Amazon's re:Invent Conference Starts Nov. 30. Here's What the Stock Did in the Month After the Last 10.",
-       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONHVqUE5qbW9jNDcxNjBjN3NzMUpLOTFIeEhCQURsVU5EamN4WGhkYWV5MW5HMmN0aEo1VHg1YW9VZlNRRGVDZkNnREE0NTV2VEVnaFZ3Q1RNNldDd1BXaUpRRVR3U2g2dm1WN2pmZEpPaTMyeTROeWZ0RTZKSXk3cTRjbHVmTkM5bEgzdGZ1N0FTYmtvX2JRMHBGM1M5dGM3RTJMQkVxNk5OZWsxQm5MbVVjc2JZc3E5R0tvdjFrQS0wV0RQaGlPdUZsaGhrVkpMaDZWQmVQeHpCaUE?oc=5",
-       "source": "The Motley Fool",
-       "date": "2026-11-21T01:52:00+00:00"
       }
      ]
     },
@@ -694,16 +700,16 @@
      },
      "news": [
       {
-       "title": "Forget SpaceX: This Stock Could Be the Real Winner of the Space Race",
-       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUVVnUGJxc2l1ZkZTMC1aV0RpbmhteFh4bHNyZzlDTWNFLUlSaDZFOGc5aU15Y1FwZWZ6TjdfX0lEWXVILURGSDJCRzhfdld2YXN6bEN2M05JQ0NaTzJLS1dNdEJlMHhIWFNUcWp4MFpZcEM3MHRUeWhGQXQ3Tk1BSjVLWUEyUGZWcDBIWEdab2ZFTUE4TE1UZDNSQQ?oc=5",
-       "source": "Yahoo Finance",
-       "date": "2026-11-20T18:50:02+00:00"
+       "title": "Pony AI Results Show Just How Big Tesla\u2019s Robo-Taxi Fleet Needs to Get",
+       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBVNDVJQ3pDUW5OcnJTRmFTSllvQzQzaXpvai1aVi1OSlhBb0dnVmF6Qkl1SkxYaEJfOEMzbmh0WThxVG1qdnJnMHFLTW9VblkyalRnSnFMclJWeFRXbTI3NVFCOEdVLTE1MzR2cVFXcXZTSk5CM214UWI4MA?oc=5",
+       "source": "Barron's",
+       "date": "2026-11-22T14:30:35+00:00"
       },
       {
-       "title": "Don\u2019t Sell Tesla Stock. A Merger Is Coming.",
-       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tcWZUMmlkYmtfMXFMWVc5Q2FBYzlKUURFRzhBeGh1aHFhU09lZU1uVzktVUQwTks3N00xd3lIR3dVOHI1VXdyRU1lcE4wVEtHNmJ3MXJpQ3h5Mjhza1ZuZ0RULTZUNjJDeG1uT3VNTi00S04tbGc?oc=5",
-       "source": "Barron's",
-       "date": "2026-11-20T15:24:00+00:00"
+       "title": "Tesla Just Started Selling Cybercabs, Here's What It Means for a SpaceX and Tesla Merger .",
+       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUzZTZTZ3N1VzNkQ1cWozOUZrWm1ETGgyWURwcHNDMjlsNnZ4a1U1Vi1hQ3VMVEZ2SURkS1V1SldhdWJCZkZ3YnVXSm5pWnBmTEp0MFZiNVFZQXVZc3Uzcy1oaGVBajZ6endHdlM0b1g1U1VVR09GemxFOHprQktPaHRwRjUtQTBWcVBzdjVxemgxbm5BLWJvZFZ4UUZkQjlKYV9V?oc=5",
+       "source": "Yahoo Finance",
+       "date": "2026-11-22T07:25:00+00:00"
       }
      ]
     }
@@ -713,28 +719,34 @@
  "failed": [],
  "general_news": [
   {
+   "title": "Prediction: Dec. 9 Will Be a Huge Day for the Stock Market",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWjVYY0FqcVBwMC1fNG9lN2ZZYWE5b3ZsWG1zYTRiWUFDaE5OdVZOTjdmWm1STjFwWWFnMlhZbnFkYUNMOEZYbFVBRFdjcjVjai1SV1ZhTEdEcjVVaV9wMzVBYllUU0tmWTVLd0RMaUNCUFgtanFpMkFWT3I5UW5QZW04Um1xVVlZQUg2aEVlT0JWeTAw?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-22T16:53:02+00:00"
+  },
+  {
+   "title": "Prediction: These Will Be AMD\u2019s and Nvidia\u2019s Stock Prices by 2028",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOUZUTmFNWGdrZXVXZkhPTzJhR3g1YXFmN3ZIbGxsWTd6WVZlZTdvOUx1ZVB2OFJiTXRmdFpwN1NET29tMWhCOWxxY29WeGJoSlNXXzVUaXRPOFFiOFlUcnpHTUxPd2VwTGYwU1hQMGZ1YkZvbko2V0RFU1hEVHpDbnVIMmg3Y1FSX2U3enNUNlB6ZHM1bmJxUTg4X1RIeGZK?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-22T16:04:02+00:00"
+  },
+  {
+   "title": "Analysis-Correction or deeper reckoning? Investors seek signs US stock selling will abate By Reuters",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYlJnSFR3N1NtbklRWWxYbDBJaXBHZTIyWWhvek5OR05MODBQLV9DWHU5dXdRR1NuUnJYSmdoZlV3bnRleThJM0FNbzB5bm9WV3M1WEF6cHVIdUhaTi1tdzJNZlVWWVNyT2d2UHpRcUhZY1JQbTRhMlVNM2JNWmpJUGpqUzl4X1RYMEhJSGZGZDM0S1J1cERCMTdKNUhEWG5RaWJHell2QW1BN2lCYjlvUmt2aEk2VkF0S0ZqMVVQVXE4bjZJQnZEalkxOXlwU1h3QzQ4XzJ0d1BsZTNR?oc=5",
+   "source": "Investing.com",
+   "date": "2026-11-22T12:10:09+00:00"
+  },
+  {
    "title": "Is a Stock Market Crash Imminent for the AI-Driven Trump Bull Market? History Weighs In With an Unpleasant Answer.",
-   "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPbEhucTBaRlp1MFBOLURWNV9fNG52RGlxSjZNd0dyODJycUg3NUx1bmN4RmF1aHNLNnhrMU1MVk9pY3BYTUZNeW9pZndVdldZM3RCUzI0TmhZXzBaUEpYc2hXMF9xUkxHSHlkUzBvajJRZjh3U2VubFB3ejAzcWYweFBYWnBocm42enAzcWhXeDRSYjlWNWVKaE12c1o0ODdPdEU0Q05kTkF3aWM3VHpMQkNzSWNpR0p6clVXdU95N2h4VGM3Ui1XT0RzY3o1SUNiWGUweXZHRi1GdUNRVjdFQ3dnUGpNVHRpZWo2Um56RkNsU1l6V01yanBmeGw0YmFhbVQtTGEzb25VQ1hScl8wY0JtaXk1b3NnTEJJ?oc=5",
-   "source": "The Globe and Mail",
-   "date": "2026-11-22T09:33:57+00:00"
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQM2t0TmJCNjBTTEhIaUVlbDM5bXFvRWl5RWVydVFyNGZEdlRDa0pVRDQyRjUwMi1MdnJTRnYydFdVT2tDWTZvVk4tQTlINUZPdzI1NHZRMWR6VFlBUU9VZTZpSzhDYjFPM3NoUXQwVXhkOXNmSkRGRGQ3S1ZtZXhHbWR5YkI1ZFBUOXdaRjZFR2NidnZQd0RLY2FMQQ?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-22T09:26:02+00:00"
   },
   {
    "title": "If a Stock Market Crash Is Coming, Warren Buffett Says This Is the No. 1 Move All Investors Should Make",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcDZEcElOUEQwWnhDamh2ZWdRd0VqWUI3U0dROEtaUDNkM0c3dktBbkxhSXNvVVBSWnJtZEdEel9YRnd1RVVrN3BtRGsxOE50eHRKQWl5VmFJMmdvcEtSMm96MUlrQlpWSzJfMC1WeW1IZWhhS1NPVkRzS0VEczd0b3J4c1R4RUc3NW9MY0owT3dmQmZJYk5kcHhSM3Bldw?oc=5",
    "source": "Yahoo Finance",
    "date": "2026-11-22T00:50:00+00:00"
-  },
-  {
-   "title": "A 10% drop for the stock market is unnerving, but it's not that unusual",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdjlrM05sYl9FYWEteVplT3VlblBYTEdKLWw0UUY4Mk1uU1pwSklaV0xfblBIakI4STdWaHJUYVJYSGlaYmw4U3dmd2dRc3JxRVc0MmVGREtvS2FUSmVvWmdCSC1YeVhiMkZWbmtTZzJpSFJGVmdFd3c1TXVnQXFKN0x5clZDVk9XT3U1SlFlbzRqNVN1a3BNRXNCa3ZkOWpqTmNzNDcxUWxCYjdtX2EwcVNpTTRlU2c?oc=5",
-   "source": "BNN Bloomberg",
-   "date": "2026-11-21T23:09:35+00:00"
-  },
-  {
-   "title": "Prediction: This Will Be Nvidia\u2019s Stock Price in 2027 After Its Phenomenal Q3 Results",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcXQ3UWRwTmFFRnoycXJDUlc3eXUxdEpSNWxRbzBLeDVLV1Nac2ZSdFZpeVpVdVl0QkZPQVlWMm9tVWRadVdQbDB1VmNNVmJRNTVHOXBMUGxnR3Vjdkd4dEt3dlg2RU9odzlLQWZ4SW96U2FxWlNGbUVXTUVuVkg0ckJhT0poM1NKUzFGLTcwc1hvOTFuWE1jZWpfR0h4Q2hLN2c5cEVMRkpWRVhKeElWdHJGcy1ZR1VMYVRjOWRiSFpheVNBMGc?oc=5",
-   "source": "The Motley Fool",
-   "date": "2026-11-21T21:47:02+00:00"
   },
   {
    "title": "Is the AI Bubble Finally Popping? Nvidia Crashes 48% as Wall Street Experts Sound the Alarm",
@@ -759,12 +771,6 @@
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYXQ3dVZ6S2V3MHVsMjk5Z1QxNkQ2VEhyNUtUUDVaSkVETTZNTEhFUnhiRTN0blNqb0VaLUZHZngyOUJuMVktVG81TU1nZkptRVBZSzdPT3BuSWNjdXZTaThOXzZpNERUTGNXMlMzVjFrbzdhRkNoNl94dE9xUVZnTXdEbUJHS0RNemFsOFo0emt0MF9Qd1plcDFUU0F6bmlRNTY1a3ozTWJfbm8xcFhiLQ?oc=5",
    "source": "MarketWatch",
    "date": "2026-11-19T21:57:00+00:00"
-  },
-  {
-   "title": "Borr Drilling Limited - Q3 2026 Presentation",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMnZLQVhMZ1Q5aXgyTFhCWUtqOEVCelJnNXdqV1ctczZuRU54OXJ3V3VkemhMU2VqcGEyVUlPM205ZnlIdTkydHJQcGhDaTFFd25vaDdTSV93NUxreVBFYkM4Nkh5ZFNhTW1KUncxMWRlaDVsMVhneUVoYnVQOWViNWpIMm9UU0FYZGdJUUpJY3Y5V3VMUlU5aGpzc1d5MExFTlExR3VB?oc=5",
-   "source": "TradingView",
-   "date": "2026-11-19T13:55:00+00:00"
   },
   {
    "title": "Capital Tankers Corp. Set to Debut on Euronext Oslo B\u00f8rs in 2027",
